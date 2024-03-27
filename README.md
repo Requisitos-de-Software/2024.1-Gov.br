@@ -7,7 +7,7 @@ Esse repositório é dedicado a documentação de todos os artefatos produzidos 
 
 ## App escolhido
 
-## COntribuidores
+## Contribuidores
 
 <table>
   <tr>
