@@ -7,13 +7,13 @@
 ### Convocados
 | Nome                                  | Presente | Área/Empresa | E-mail                                |
 |---------------------------------------|----------|--------------|---------------------------------------|
-| Arthur Gabriel Lima Gomes                  | ❌       | Discente     | E-mail: arthurelgg@gmail.com |
+| Arthur Gabriel Lima Gomes                  | ✅        | Discente     | E-mail: arthurelgg@gmail.com |
 | Caio Berg Carlos Leite            | ✅       | Discente     | E-mail: 200015753@aluno.unb.br        |
 | Carlos Gabriel Cardoso Ramos                | ✅       | Discente     | E-mail: gabrielmod342@gmail.com    |
 | Ester Flores Lino da Silva                | ✅       | Discente     | E-mail: esteerlino@gmail.com   |
 | Henrique Azevedo Batalha             | ✅       | Discente     | E-mail:  henriqueabatalha@gmail.com     |
 | Isaque Santos | ✅        | Discente     | E-mail: isaquefrasciawerner@gmail.com        |
-| Thiago Ribeiro Freitas                   | ✅       | Discente     | E-mail: thiagoribeirofreitas2@gmail.com         |
+| Thiago Ribeiro Freitas                   | ❌      | Discente     | E-mail: thiagoribeirofreitas2@gmail.com         |
 
 ### Pauta
 | N°  | Descrição                                         |
