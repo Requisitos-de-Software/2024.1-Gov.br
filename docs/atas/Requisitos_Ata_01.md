@@ -53,6 +53,6 @@
 ### Histórico de Versão
 | Versão | Data       | Descrição                           | Responsáveis          | Revisor        |
 |--------|------------|-------------------------------------|------------------------|----------------|
-|1.0	|27/03/2024|	Versão inicial de documento de descrição do projeto	|Ester Lino	|Caio Berg |
+|1.0	|27/03/2024|	Versão inicial de documento de descrição do projeto	|Carlos	Gabriel |Ester Lino |
 
 
