@@ -1,4 +1,4 @@
-<h1 align="center"> Grupo 04  </h1>
+<h1 align="center"> Gov.br  </h1>
 <h3 align="center"> 2024.1 </h3>
 
 ## O projeto
@@ -6,6 +6,11 @@
 Esse repositório é dedicado a documentação de todos os artefatos produzidos pelo grupo 04 da disciplina de Requisitos de Software ofertada na Universidade de Brasília (UnB) - Campus Gama (FGA).
 
 ## App escolhido
+
+<p align="center" > <font>Figura 1: Logo do gov.br</font> <br><img style=" " src="docs/assets/Gov.br_logo.svg.png" width = 40%></p>
+<p align="center" > <font>Fonte: <a href="https://www.gov.br">gov.br</a></font> <br></p>
+O objetivo do projeto é realizar uma análise dos requisitos do aplicativo gov.br, que é uma plataforma que reúne diversos serviços do governo federal em um 
+único lugar.
 
 ## Contribuidores
 
@@ -21,8 +26,27 @@ Esse repositório é dedicado a documentação de todos os artefatos produzidos 
   </tr>
 </table>
 
+## Como executar localmente
+
+### 1. Instale o pacote que usamos para documentação ([docsify](https://docsify.js.org/))
+```
+npm i docsify-cli -g
+```
+
+### 2. Execute a documentação
+```
+docsify serve ./docs
+```
+
+### 3. Acesse a aplicação no seu navegador
+
+## Encerrando a Execução
+
+Para encerrar a execução da aplicação, você pode pressionar Ctrl + C no terminal onde está sendo executado.
+
 ## Histórico de Versões
 
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 27/03/2024 | Versão inicial de documento de descrição do projeto | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+|  1.1   | 31/03/2024 | Atualização sobre com executar o docsify localmente | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com) |

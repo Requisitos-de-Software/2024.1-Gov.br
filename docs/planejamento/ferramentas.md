@@ -1,11 +1,5 @@
 # Ferramentas
 
-## Histórico de Versões
-
-|    Data    | Data Prevista de Revisão | Versão |             Descrição             |                        Autor                        |                    Revisor                    |
-| :--------: | :----------------------: | :----: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------------------: |
-| 31/03/2024 |        01/04/2024        | `1.0`  | Criação da página de ferramentas. | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Caio Berg](https://github.com/Caio-bergbjj) |
-
 ## Introdução
 
 Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferramentas específicas com o propósito de facilitar diversas atividades e a produção de artefatos. Na Tabela abaixo, estão listadas as ferramentas selecionadas para condução deste projeto.
@@ -36,3 +30,10 @@ Fonte: [Arthur Gabriel](https://github.com/ArthurGabrieel).
 6. YouTube. Disponível em: [https://www.youtube.com](). Acesso em: 31 de mar. de 2024.
 7. VsCode. Disponível em: [https://code.visualstudio.com/](). Acesso em: 31 de mar. de 2024.
 8. Docsify. Disponível em: [https://docsify.js.org/#/](). Acesso em: 31 de mar. de 2024.
+
+
+## Histórico de Versão
+
+| Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
+| :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
+|  1.0   | 31/03/2024 | Criação da página de ferramentas | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Caio Berg](https://github.com/Caio-bergbjj) |

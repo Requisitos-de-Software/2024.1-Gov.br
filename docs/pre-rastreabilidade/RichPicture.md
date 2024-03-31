@@ -3,11 +3,11 @@ Rich Pictures são usadas para retratar situações complicadas. Elas são uma t
 
 
 ## Diagrama
-<p align="center"><font>Figura 1: Rich Picture</font> <br><img style="border: none; border-radius: 60%;" src="assets/RichPicture.png" width="100%"></p>
+<p align="center"><font>Figura 1: Rich Picture</font> <br><img style="" src="assets/RichPicture.png" width="100%"></p>
 <p align="center" > <font>Fonte: Henrique Batalha e Isaque Santos</font> <br></p>
 
 ## Legenda
-<p align="center"><font>Figura 2: Legenda do Rich Picture</font> <br><img style="border: none; border-radius: 80%;" src="assets/LegendaRichPicture.png" width="100%"></p>
+<p align="center"><font>Figura 2: Legenda do Rich Picture</font> <br><img style="" src="assets/LegendaRichPicture.png" width="100%"></p>
 <p align="center" > <font>Fonte: Henrique Batalha e Isaque Santos</font> <br></p>
 
 ## Bibliografia
