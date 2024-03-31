@@ -37,4 +37,4 @@ Fonte: [Arthur Gabriel](https://github.com/ArthurGabrieel).
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 31/03/2024 | Criação da página de ferramentas | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Caio Berg](https://github.com/Caio-bergbjj) |
-|  1.1   | 31/03/2024 | Alteração nas ferramentas | [Thiago Freitas](https://github.com/ArthurGabrieel) | [Ester Lino](https://github.com/esteerlino) |
+|  1.1   | 31/03/2024 | Alteração nas ferramentas | [Thiago Freitas](https://github.com/thiagorfreitas) | [Ester Lino](https://github.com/esteerlino) |

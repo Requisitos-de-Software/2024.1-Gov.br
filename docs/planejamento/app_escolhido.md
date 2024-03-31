@@ -3,7 +3,7 @@
 ## **gov.br**
 
 <div align="center">
-    <img src="../assets/Gov.br_logo.svg.png" style="width:20vw"/>
+    <img src="/assets/Gov.br_logo.svg.png" style="width:20vw"/>
     <p> Figura 1: Imagem gov.br. Fonte: <a href="https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US">gov.br</a></p> 
 </div>
 <p>
