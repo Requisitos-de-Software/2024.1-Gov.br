@@ -15,15 +15,15 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 **Tabela 1**
 
 |                                                                                    |   Ferramenta    |                                                               Finalidade                                                                |
-| :--------------------------------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------:                           |
-| ![Logo do GitHub](assets/github.png)     | GitHub          | Para organizar, versionar e documentar os artefatos produzidos para o projeto.                     |
-| ![Logo do Git](assets/git.png)           | Git             | Para controle de versão e colaboração eficiente.                                                   |
-| ![Logo do Whatsapp](assets/whatsapp.png) | WhatsApp        | Para estabelecer uma comunicação remota de maneira fácil e rápido entre os participantes do grupo. |
-| ![Logo do Teams](assets/teams.png)       | Microsoft Teams | Para realizar as gravações das entregas.                                                           |
-| ![Logo do Miro](assets/miro.png)         | Miro            | Para organizar tarefas feitas e fazer do grupo.                                                    |
-| ![Logo do Youtube](assets/youtube.png)   | YouTube         | Para upar vídeos das reuniões do grupo.                                                            |
-| ![Logo do VsCode](assets/vscode.png)     | VsCode          | Para edição eficiente e desenvolvimento de código.                                                 |
-| ![Logo do Docsify](assets/docsify.png)   | Docsify         | Para geração de documentação estática a partir de arquivos Markdown.                               |
+| :--------------------------------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="assets/github.png" alt="Logo do GitHub" width="200"/>                    | GitHub          | Para organizar, versionar e documentar os artefatos produzidos para o projeto.                                                          |
+| <img src="assets/git.png" alt="Logo do Git" width="200"/>                          | Git             | Para controle de versão e colaboração eficiente.                                                                                        |
+| <img src="assets/whatsapp.png" alt="Logo do Whatsapp" width="200"/>                | WhatsApp        | Para estabelecer uma comunicação remota de maneira fácil e rápido entre os participantes do grupo.                                      |
+| <img src="assets/teams.png" alt="Logo do Teams" width="200"/>                      | Microsoft Teams | Para realizar as gravações das entregas.                                                                                                |
+| <img src="assets/miro.png" alt="Logo do Miro" width="200"/>                        | Miro            | Para organizar tarefas feitas e a fazer do grupo.                                                                                       |
+| <img src="assets/youtube.png" alt="Logo do Youtube" width="200"/>                  | YouTube         | Para upar vídeos das reuniões do grupo.                                                                                                 |
+| <img src="assets/vscode.png" alt="Logo do VsCode" width="200"/>                    | VsCode          | Para edição eficiente e desenvolvimento de código.                                                                                      |
+| <img src="assets/docsify.png" alt="Logo do Docsify" width="200"/>                  | Docsify         | Para geração de documentação estática a partir de arquivos Markdown.                                                                    |
 
 Fonte: [Arthur Gabriel](https://github.com/ArthurGabrieel).
 
