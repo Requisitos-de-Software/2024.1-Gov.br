@@ -15,4 +15,5 @@
 **Planejamento**
 
 - [Aplicativo Escolhido]()
+- [Cronograma](planejamento/cronograma.md)
 - [Ferramentas](planejamento/ferramentas.md)
