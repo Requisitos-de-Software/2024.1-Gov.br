@@ -37,7 +37,7 @@
 | Ferramentas | [Arthur Gabriel](ArthurGabrieel)  | 27/03/2024 | 31/03/2024 | [Caio Berg](https://github.com/Caio-bergbjj) |  31/03/2024 | 31/03/2024 |  31/03/2024 |
 | Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | 30/03/2024 | 31/03/2024 | [Thiago Freitas](https://github.com/thiagorfreitas) | 31/03/2024 | 31/03/2024 | 31/03/2024 |
 
-<figcaption align="center">Autora: <a href="https://github.com/esteerlino">Ester Lino</a>
+<figcaption align="center">Autora: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
 
 ## Bibliografia
 
