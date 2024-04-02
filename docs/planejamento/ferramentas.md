@@ -6,20 +6,20 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 
 ## Ferramentas Utilizadas
 
-**Tabela 1**
+<figcaption align="center">Tabela 1 - Ferramentas usadas no projeto</figcaption>
 
 |                                                                                    |   Ferramenta    |                                                               Finalidade                                                                |
 | :--------------------------------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="../assets/github.png" alt="Logo do GitHub" width="200"/>                    | GitHub          | Para organizar, versionar e documentar os artefatos produzidos para o projeto.                                                          |
-| <img src="../assets/git.png" alt="Logo do Git" width="200"/>                          | Git             | Para controle de versão e colaboração eficiente.                                                                                        |
-| <img src="../assets/whatsapp.png" alt="Logo do Whatsapp" width="200"/>                | WhatsApp        | Para estabelecer uma comunicação remota de maneira fácil e rápido entre os participantes do grupo.                                      |
-| <img src="../assets/teams.png" alt="Logo do Teams" width="200"/>                      | Microsoft Teams | Para realizar as gravações das entregas.                                                                                                |
-| <img src="../assets/notion.png" alt="Logo do Notion" width="200"/>                    | Notion            | Para organizar tarefas feitas e a fazer do grupo.                                                                                     |
-| <img src="../assets/youtube.png" alt="Logo do Youtube" width="200"/>                  | YouTube         | Para upar vídeos das reuniões do grupo.                                                                                                 |
-| <img src="../assets/vscode.png" alt="Logo do VsCode" width="200"/>                    | VsCode          | Para edição eficiente e desenvolvimento de código.                                                                                      |
-| <img src="../assets/docsify.png" alt="Logo do Docsify" width="200"/>                  | Docsify         | Para geração de documentação estática a partir de arquivos Markdown.                                                                    |
+| <img src="assets/github.png" alt="Logo do GitHub" width="200"/>                    | GitHub          | Para organizar, versionar e documentar os artefatos produzidos para o projeto.                                                          |
+| <img src="assets/git.png" alt="Logo do Git" width="200"/>                          | Git             | Para controle de versão e colaboração eficiente.                                                                                        |
+| <img src="assets/whatsapp.png" alt="Logo do Whatsapp" width="200"/>                | WhatsApp        | Para estabelecer uma comunicação remota de maneira fácil e rápido entre os participantes do grupo.                                      |
+| <img src="assets/teams.png" alt="Logo do Teams" width="200"/>                      | Microsoft Teams | Para realizar as gravações das entregas.                                                                                                |
+| <img src="assets/notion.png" alt="Logo do Notion" width="200"/>                        | Notion            | Para organizar tarefas feitas e a fazer do grupo.                                                                                       |
+| <img src="assets/youtube.png" alt="Logo do Youtube" width="200"/>                  | YouTube         | Para upar vídeos das reuniões do grupo.                                                                                                 |
+| <img src="assets/vscode.png" alt="Logo do VsCode" width="200"/>                    | VsCode          | Para edição eficiente e desenvolvimento de código.                                                                                      |
+| <img src="assets/docsify.png" alt="Logo do Docsify" width="200"/>                  | Docsify         | Para geração de documentação estática a partir de arquivos Markdown.                                                                    |
 
-Fonte: [Arthur Gabriel](https://github.com/ArthurGabrieel).
+<figcaption align="center">Autora: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></figcaption>
 
 ## Referências Bibliograficas
 1. GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 31 de mar. de 2024.
