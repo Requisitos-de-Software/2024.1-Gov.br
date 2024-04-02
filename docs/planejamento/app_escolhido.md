@@ -25,6 +25,9 @@ A decisão de analisar o gov.br partiu de uma escolha unânime do grupo. Conside
 
 ### Termos de uso
 Por se tratar de uma plataforma do governo, não a restrições em relação ao uso de imagem e estudo do aplicativo para fins acadêmicos.
+Fonte
+> GOV.BR Disponível em: https://cadastro.acesso.gov.br/termo-de-uso, Acesso em 31/04/2024.
+
 
 ## Aplicativos Analisados para o projeto da disciplina
 
