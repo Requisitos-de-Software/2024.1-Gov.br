@@ -2,7 +2,7 @@
 
 **Apresentações**
 
-- [Apresentação 01](/concepcao/visao-geral-produto.md)
+- [Apresentação 01](apresentacoes/apresentacao_01.md)
 
 **Atas**
 
