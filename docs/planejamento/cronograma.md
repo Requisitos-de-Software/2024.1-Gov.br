@@ -23,7 +23,7 @@
 
 ## Cronograma Planejado da Etapa 1 - Planejamento
 
-A tabela 2 apresenta o cronograma planejado para a entrega da etapa 01.
+A tabela 2 apresenta o cronograma planejado para a entrega da etapa 1.
 
 <figcaption align="center">Tabela 2 - Cronograma planejado da etapa 1</figcaption>
 
@@ -43,7 +43,7 @@ A tabela 2 apresenta o cronograma planejado para a entrega da etapa 01.
 
 ## Cronograma Executado da Etapa 1 - Planejamento
 
-A tabela 3 apresenta o cronograma executado para a entrega da etapa 01.
+A tabela 3 apresenta o cronograma executado para a entrega da etapa 1.
 
 <figcaption align="center">Tabela 3 - Cronograma executado da etapa 1</figcaption>
 
@@ -63,21 +63,123 @@ A tabela 3 apresenta o cronograma executado para a entrega da etapa 01.
 
 ## Cronograma Planejado da Etapa 2- Elicitação de Requisitos
 
-A tabela 4 apresenta o cronograma planejado para a entrega da etapa 02.
+A tabela 4 apresenta o cronograma planejado para a entrega da etapa 2.
 
 <figcaption align="center">Tabela 4 - Cronograma planejado da etapa 2</figcaption>
 
 | Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
 |:------:|:------------:| :------------------------: | :-----: |:------------------:|
-| Ata da Reunião 02 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 02/04</br> Fim: 06/04 | [Ester Lino](https://github.com/esteerlino) | Início:06/04</br> Fim: 07/04 |
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 02/04</br> Fim: 06/04 | [Ester Lino](https://github.com/esteerlino) | Início:06/04</br> Fim: 07/04 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 02/04</br> Fim: 06/04 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:06/04</br> Fim: 07/04 |
 | Perfil de Usuário | [Arthur Gabriel](ArthurGabrieel), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 02/04</br> Fim: 06/04 | [Henrique Batalha](https://github.com/HeBatalha) | Início: 06/04</br> Fim: 07/04 |
-| Criação das Personas | [Caio Berg](https://github.com/Caio-bergbjj), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 27/03</br> Fim: 31/03 | [Arthur Gabriel](ArthurGabrieel) | Início: 31/03</br> Fim: 01/04 |
-| Cronograma da entrega 01 | [Ester Lino](https://github.com/esteerlino) | Início: 27/03</br> Fim: 31/03 | [Caio Berg](https://github.com/Caio-bergbjj) | Início: 31/03</br> Fim: 01/04 |
-| Lista de aplicativos avaliados e aplicativo escolhido | [Caio Berg](https://github.com/Caio-bergbjj) | Início: 27/03</br> Fim: 31/03 | [Isaque Santos](https://github.com/IsaqueSH) | Início: 31/03</br> Fim: 01/04 |
-| Rich Picture do aplicativo | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)  | Início: 27/03</br> Fim: 31/03 | [Carlos Gabriel](https://github.com/TheCarlosRamos) |  Início: 31/03</br> Fim: 01/04 |
-| Ferramentas | [Arthur Gabriel](ArthurGabrieel) | Início: 27/03</br> Fim: 31/03 | [Caio Berg](https://github.com/Caio-bergbjj) |  Início: 31/03</br> Fim: 01/04 |
-| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 30/03</br> Fim: 31/03 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 31/03</br> Fim: 01/04 |
-| Correção após feedbacks da entrega 01 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 02/04</br> Fim: 04/04 | [Ester Lino](https://github.com/esteerlino) | Início: 04/04</br> Fim: 05/04 |
+| Criação das Personas | [Henrique Batalha](https://github.com/HeBatalha) | Início: 02/04</br> Fim: 06/04 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 06/04</br> Fim: 07/04 |
+| Definição e aplicação das técnicas de elicitação | [Ester Lino](https://github.com/esteerlino), [Caio Berg](https://github.com/Caio-bergbjj) | Início: 02/04</br> Fim: 06/04 | [Isaque Santos](https://github.com/IsaqueSH) | Início: 06/04</br> Fim: 07/04 |
+| Definição e aplicação das técnicas de priorização | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | Início: 02/04</br> Fim: 06/04 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 06/04</br> Fim: 07/04 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 06/04</br> Fim: 07/04 | [Arthur Gabriel](ArthurGabrieel) | Início: 06/04</br> Fim: 07/04 |
+| Correção após feedbacks da entrega 02 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 19/04</br> Fim: 21/04 | [Ester Lino](https://github.com/esteerlino) | Início: 21/04</br> Fim: 22/04 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
+
+## Cronograma Planejado da Etapa 3 - Modelagem de Requisitos I
+
+A tabela 5 apresenta o cronograma planejado para a entrega da etapa 3.
+
+<figcaption align="center">Tabela 5 - Cronograma planejado da etapa 3</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 18/04</br> Fim: 23/04 | [Ester Lino](https://github.com/esteerlino) | Início:24/04</br> Fim: 25/04 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 18/04</br> Fim: 23/04 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:24/04</br> Fim: 25/04 |
+| Cenários | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Henrique Batalha](https://github.com/HeBatalha) | Início: 18/04</br> Fim: 23/04 | [Arthur Gabriel](ArthurGabrieel) | Início:24/04</br> Fim: 25/04 |
+| Use Cases | [Isaque Santos](https://github.com/IsaqueSH), [Arthur Gabriel](ArthurGabrieel) | Início: 18/04</br> Fim: 23/04 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:24/04</br> Fim: 25/04 |
+| Léxico | [Ester Lino](https://github.com/esteerlino), [Thiago Freitas](https://github.com/thiagorfreitas) |  Início: 18/04</br> Fim: 23/04  | [Isaque Santos](https://github.com/IsaqueSH) | Início:24/04</br> Fim: 25/04 |
+| Especificação Suplementar | [Caio Berg](https://github.com/Caio-bergbjj),[Henrique Batalha](https://github.com/HeBatalha) | Início: 02/04</br> Fim: 06/04 | [Thiago Freitas](https://github.com/thiagorfreitas) |  Início:24/04</br> Fim: 25/04 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 27/04</br> Fim: 28/04 | [Henrique Batalha](https://github.com/HeBatalha) | Início:28/04</br> Fim: 29/04 |
+| Correção após feedbacks da entrega 03 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 08/05</br> Fim: 10/05 | [Ester Lino](https://github.com/esteerlino) | Início: 10/05</br> Fim: 11/05 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
+
+## Cronograma Planejado da Etapa 4 - Modelagem de Requisitos II
+
+A tabela 6 apresenta o cronograma planejado para a entrega da etapa 4.
+
+<figcaption align="center">Tabela 6 - Cronograma planejado da etapa 4</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 29/04</br> Fim: 12/05 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:12/05</br> Fim: 13/05 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 29/04</br> Fim: 12/05 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:12/05</br> Fim: 13/05 |
+| Histórias de Usuário | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj) |  Início: 29/04</br> Fim: 12/05 | [Ester Lino](https://github.com/esteerlino) | Início:12/05</br> Fim: 13/05 |
+| Backlog do Produto| [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |Início: 29/04</br> Fim: 12/05 | [Henrique Batalha](https://github.com/HeBatalha) | Início:12/05</br> Fim: 13/05 |
+| NFR Framework | [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha) |  Início: 29/04</br> Fim: 12/05  | [Isaque Santos](https://github.com/IsaqueSH) | Início:12/05</br> Fim: 13/05 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 11/05</br> Fim: 12/05 | [Arthur Gabriel](ArthurGabrieel) | Início:12/05</br> Fim: 13/05 |
+| Correção após feedbacks da entrega 04 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 14/05</br> Fim: 16/05 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 17/05</br> Fim: 18/05 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
+
+## Cronograma Planejado da Etapa 5.1 - Análise de Requisitos I
+
+A tabela 7 apresenta o cronograma planejado para a entrega da etapa 5.1.
+
+<figcaption align="center">Tabela 7 - Cronograma planejado da etapa 5.1</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 14/05</br> Fim: 21/05 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:21/05</br> Fim: 22/05 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) |Início: 14/05</br> Fim: 21/05 | [Ester Lino](https://github.com/esteerlino) | Início:21/05</br> Fim: 22/05 |
+| Verificação dos artefatos do grupo 05 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Isaque Santos](https://github.com/IsaqueSH) |  Início: 14/05</br> Fim: 21/05 | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Henrique Batalha](https://github.com/HeBatalha) | Início:21/05</br> Fim: 22/05 |
+| Validação do grupo 05| [Carlos Gabriel](https://github.com/TheCarlosRamos), [Thiago Freitas](https://github.com/thiagorfreitas), [Henrique Batalha](https://github.com/HeBatalha) | Início: 14/05</br> Fim: 21/05 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:21/05</br> Fim: 22/05 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 21/05</br> Fim: 22/05 | [Arthur Gabriel](ArthurGabrieel) | Início:22/05</br> Fim: 23/05 |
+| Correção após feedbacks da entrega 05.1 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 23/05</br> Fim: 25/05 | [Isaque Santos](https://github.com/IsaqueSH) | Início: 25/05</br> Fim: 26/05 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
+
+## Cronograma Planejado da Etapa 6 - Pós-Rastreabilidade
+
+A tabela 8 apresenta o cronograma planejado para a entrega da etapa 6.
+
+<figcaption align="center">Tabela 8 - Cronograma planejado da etapa 6</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 23/05</br> Fim: 02/06 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:02/06</br> Fim: 03/06 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) |Início: 23/05</br> Fim: 02/06 | [Arthur Gabriel](ArthurGabrieel) |  Início:02/06</br> Fim: 03/06 |
+| Backward-form | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Caio Berg](https://github.com/Caio-bergbjj), [Thiago Freitas](https://github.com/thiagorfreitas) |   Início: 23/05</br> Fim: 02/06 | [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha)  | Início:02/06</br> Fim: 03/06 |
+| Forward-form | [Ester Lino](https://github.com/esteerlino), [Isaque Santos](https://github.com/IsaqueSH), [Henrique Batalha](https://github.com/HeBatalha), [Arthur Gabriel](ArthurGabrieel) | Início: 23/05</br> Fim: 02/06 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:02/06</br> Fim: 03/06 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 02/06</br> Fim: 03/06 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:03/06</br> Fim: 04/06 |
+| Correção após feedbacks da entrega 6 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 04/06</br> Fim: 06/06 | [Isaque Santos](https://github.com/IsaqueSH) | Início: 06/06</br> Fim: 07/06 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
+
+## Cronograma Planejado da Etapa 5.2 - Análise de Requisitos II
+
+A tabela 9 apresenta o cronograma planejado para a entrega da etapa 5.2.
+
+<figcaption align="center">Tabela 9 - Cronograma planejado da etapa 5.2</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 04/06</br> Fim: 16/06 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:16/06</br> Fim: 17/06 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 04/06</br> Fim: 16/06 | [Henrique Batalha](https://github.com/HeBatalha) | Início:16/06</br> Fim: 17/06 |
+| Verificação dos artefatos do grupo 04 | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Thiago Freitas](https://github.com/thiagorfreitas), [Henrique Batalha](https://github.com/HeBatalha) |  Início: 04/06</br> Fim: 16/06 | [Ester Lino](https://github.com/esteerlino), [Caio Berg](https://github.com/Caio-bergbjj) | Início:16/06</br> Fim: 17/06 |
+| Validação do grupo 04 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Isaque Santos](https://github.com/IsaqueSH) | Início: 04/06</br> Fim: 16/06 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:16/06</br> Fim: 17/06 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 16/06</br> Fim: 17/06 | [Arthur Gabriel](ArthurGabrieel) | Início:17/06</br> Fim: 18/06 |
+| Correção após feedbacks da entrega 05.2 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 18/06</br> Fim: 20/06 | [Isaque Santos](https://github.com/IsaqueSH) | Início: 21/06</br> Fim: 22/06 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
+
+## Cronograma Planejado da Etapa 7 - Entrega Final
+
+A tabela 10 apresenta o cronograma planejado para a entrega da etapa 7.
+
+<figcaption align="center">Tabela 10 - Cronograma planejado da etapa 7</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 18/06</br> Fim: 23/06 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:23/06</br> Fim: 24/06 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 18/06</br> Fim: 23/06  | [Henrique Batalha](https://github.com/HeBatalha) | Início:23/06</br> Fim: 24/06 |
+| Finalização do projeto | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |  Início: 18/06</br> Fim: 23/06 |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início:23/06</br> Fim: 24/06 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 23/06</br> Fim: 24/06 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:24/06</br> Fim: 25/06 |
 
 <figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
 
