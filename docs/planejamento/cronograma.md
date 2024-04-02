@@ -11,13 +11,13 @@
 | Etapa | Título | Descrição |  Entrega   | Apresentação |
 | :---: | :----: | :-------: | :--------: | :----------: |
 |   1   | Planejamento | Planejamento do Projeto; equipe; heatmap; lista de aplicativos avaliados; aplicativo escolhido; termo de uso do app; ferramentas do projeto; cronograma das atividades do projeto; Rich Picture | 01/04/2024 | 02/04/2024 |
-|   2   | Elicitação: Técnicas e Priorização | Perfil de usuário; técnicas de elecitação usadas e que serão usadas no projeto; técnicas de priorização usadas e que serão usadas no projeto | 17/04/2024 | 18/04/2024 |
-|   3   | Modelagem de Requisitos | Cenários; léxico; use case; especificação suplementar | 06/05/2024 | 07/05/2024 |
-|   4   | Modelagem de Requisitos - Ágil | Histórias de Usuário; backlogs; NFR Framework | 13/05/2024 | 14/05/2024 |
-|  5.1  | Análise de Requisitos | Verificação e Validação – Grupo + 1 | 22/05/2024 |  23/05/2024  |
+|   2   | Elicitação de Requisitos | Perfil de usuário; técnicas de elecitação usadas e que serão usadas no projeto; técnicas de priorização usadas e que serão usadas no projeto | 17/04/2024 | 18/04/2024 |
+|   3   | Modelagem de Requisitos I | Cenários; léxico; use case; especificação suplementar | 06/05/2024 | 07/05/2024 |
+|   4   | Modelagem de Requisitos II - Ágil | Histórias de Usuário; backlogs; NFR Framework | 13/05/2024 | 14/05/2024 |
+|  5.1  | Análise de Requisitos I | Verificação e Validação – Grupo + 1 | 22/05/2024 |  23/05/2024  |
 |   6   | Pós-Rastreabilidade | Gerência II | 03/06/2024 |  04/06/2024  |
-|  5.2  | Análise de Requisitos | Verificação e Validação | 17/06/2024 |  18/06/2024  |
-|   7   | Apresentação final | Apresentação dinal do projeto | 24/06/2024 |  25/06/2024  |
+|  5.2  | Análise de Requisitos II | Verificação e Validação | 17/06/2024 |  18/06/2024  |
+|   7   | Apresentação final | Apresentação final do projeto | 24/06/2024 |  25/06/2024  |
 
 <figcaption align="center">Autora: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
 
@@ -35,7 +35,8 @@
 | Lista de aplicativos avaliados e aplicativo escolhido | [Caio Berg](https://github.com/Caio-bergbjj) | 27/03/2024 | 31/03/2024 | [Isaque Santos](https://github.com/IsaqueSH) |  31/03/2024 | 31/03/2024 |  31/03/2024 |
 | Rich Picture do Aplicativo | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)  | 27/03/2024 | 31/03/2024 | [Carlos Gabriel](https://github.com/TheCarlosRamos) |  31/03/2024 | 30/03/2024 |  31/03/2024 |
 | Ferramentas | [Arthur Gabriel](ArthurGabrieel)  | 27/03/2024 | 31/03/2024 | [Caio Berg](https://github.com/Caio-bergbjj) |  31/03/2024 | 31/03/2024 |  31/03/2024 |
-| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | 30/03/2024 | 31/03/2024 | [Thiago Freitas](https://github.com/thiagorfreitas) | 31/03/2024 | 31/03/2024 | 31/03/2024 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | 30/03/2024 | 31/03/2024 | [Thiago Freitas](https://github.com/thiagorfreitas) | 01/04/2024 | 30/03/2024 | 01/04/2024 |
+| Correção após feedbacks da entrega 1 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | 02/04/2024 | 04/04/2024 | [Thiago Freitas](https://github.com/thiagorfreitas) | ------ | ------ | ------ |
 
 <figcaption align="center">Autora: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
 

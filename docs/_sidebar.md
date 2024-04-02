@@ -16,4 +16,5 @@
 
 - [Aplicativo Escolhido](planejamento/app_escolhido.md)
 - [Ferramentas](planejamento/ferramentas.md)
+- [Cronograma](planejamento/cronograma.md)
 - [Heatmap](planejamento/heatmap.md)

@@ -1,4 +1,4 @@
-# **Aplicativo Selecionado**
+# Aplicativo Selecionado
 
 ## **gov.br**
 
@@ -28,6 +28,8 @@ Por se tratar de uma plataforma do governo, não a restrições em relação ao 
 
 ## Aplicativos Analisados para o projeto da disciplina
 
+<figcaption>Tabela 1 - Tabela dos aplicativos analisados</figcaption>
+
 | Responsável pela avaliação             | Aplicativo                                         |
 | :-------------:   | :------------------------------------------------: |
 | Isaque Santos | [Caesb](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile&pli=1) |
@@ -37,13 +39,11 @@ Por se tratar de uma plataforma do governo, não a restrições em relação ao 
 | Henrique Batalha | [gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US) |
 | Thiago Freitas | [Serasa](https://play.google.com/store/apps/details?id=br.com.serasaexperian.consumidor&hl=pt_BR&gl=US) |
 
-<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: Caio Berg; Thiago Freitas. 2024).</p></div>
+<figcaption>Autores: <a href="https://github.com/Caio-bergbjj">Caio Berg</a>, <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></figcaption>
 
-<br/>
+## Histórico de versão
 
-## Histórico de Versão
-
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão inicial                  | [Caio Berg](https://github.com/Caio-bergbjj)  | 31/03/2024   | [Thiago Freitas](https://github.com/thiagorfreitas)  | 31/03/2024 |
+| Versão | Data | Descrição | Responsáveis | Revisor |
+| :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
+|  1.0   | 31/03/2024 | Versão inicial  | [Caio Berg](https://github.com/Caio-bergbjj) | [Thiago Freitas](https://github.com/thiagorfreitas) |
 

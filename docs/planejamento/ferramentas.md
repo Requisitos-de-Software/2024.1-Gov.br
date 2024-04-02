@@ -6,7 +6,7 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 
 ## Ferramentas Utilizadas
 
-**Tabela 1**
+<figcaption align="center">Tabela 1 - Ferramentas usadas no projeto</figcaption>
 
 |                                                                                    |   Ferramenta    |                                                               Finalidade                                                                |
 | :--------------------------------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
@@ -19,7 +19,7 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 | <img src="assets/vscode.png" alt="Logo do VsCode" width="200"/>                    | VsCode          | Para edição eficiente e desenvolvimento de código.                                                                                      |
 | <img src="assets/docsify.png" alt="Logo do Docsify" width="200"/>                  | Docsify         | Para geração de documentação estática a partir de arquivos Markdown.                                                                    |
 
-Fonte: [Arthur Gabriel](https://github.com/ArthurGabrieel).
+<figcaption align="center">Autora: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></figcaption>
 
 ## Referências Bibliograficas
 1. GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 31 de mar. de 2024.
