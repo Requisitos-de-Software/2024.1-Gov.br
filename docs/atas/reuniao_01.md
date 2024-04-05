@@ -40,7 +40,7 @@
 |-----|---------------------------------------|--------------------|------------|
 | 1   | Responsável pela ata                  | Carlos               | 29/03/2024 |
 | 2   | Gitpages                           | Ester             | 29/03/2024  |
-| 3   | Miro                         |   Thiago e Caio    | 29/03/2024  |
+| 3   | Notion                         |   Thiago e Caio    | 29/03/2024  |
 | 4   | Cronograma                         | Ester    | 29/03/2024 |
 | 5   | Rich picture                           | Isaque e Henrique           | 29/03/2024  |
 | 6   | Ferramentas                    | Arthur              | 29/03/2024 |
