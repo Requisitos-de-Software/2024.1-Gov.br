@@ -48,11 +48,13 @@
 | 8   | Página com informações sobre a equipe                    | Henrique e Isaque              | 29/03/2024  |
 
 ### Link da Gravação
-[Reunião 01](https://youtu.be/_kY4izuilSY)
+[![Reunião 01](https://img.youtube.com/vi/_kY4izuilSY/0.jpg)](https://www.youtube.com/watch?v=_kY4izuilSY)
+
 
 ### Histórico de Versão
 | Versão | Data       | Descrição                           | Responsáveis          | Revisor        |
 |--------|------------|-------------------------------------|------------------------|----------------|
 |1.0	|27/03/2024|	Versão inicial de documento de descrição do projeto	|Carlos	Gabriel |Ester Lino |
+|1.1	|27/03/2024|	Edição do link da gravação	|Carlos	Gabriel |Ester Lino |
 
 
