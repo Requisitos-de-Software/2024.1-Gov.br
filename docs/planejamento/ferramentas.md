@@ -14,9 +14,10 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 | <img src="assets/git.png" alt="Logo do Git" width="200"/>                          | Git             | Para controle de versão e colaboração eficiente.                                                                                        |
 | <img src="assets/whatsapp.png" alt="Logo do Whatsapp" width="200"/>                | WhatsApp        | Para estabelecer uma comunicação remota de maneira fácil e rápido entre os participantes do grupo.                                      |
 | <img src="assets/teams.png" alt="Logo do Teams" width="200"/>                      | Microsoft Teams | Para realizar as gravações das entregas.                                                                                                |
-| <img src="assets/notion.png" alt="Logo do Notion" width="200"/>                        | Notion            | Para organizar tarefas feitas e a fazer do grupo.                                                                                       |
+| <img src="assets/notion.png" alt="Logo do Notion" width="200"/>                    | Notion          | Para organizar tarefas feitas e a fazer do grupo.                                                                                       |
 | <img src="assets/youtube.png" alt="Logo do Youtube" width="200"/>                  | YouTube         | Para upar vídeos das reuniões do grupo.                                                                                                 |
 | <img src="assets/vscode.png" alt="Logo do VsCode" width="200"/>                    | VsCode          | Para edição eficiente e desenvolvimento de código.                                                                                      |
+| <img src="assets/canva.svg" alt="Logo do Canva" width="200"/>                      | Canva           | Para criação e edição de imagens personalizadas.                                                                                        |
 | <img src="assets/docsify.png" alt="Logo do Docsify" width="200"/>                  | Docsify         | Para geração de documentação estática a partir de arquivos Markdown.                                                                    |
 
 <figcaption align="center">Autora: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></figcaption>
@@ -29,12 +30,14 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 5. Notion. Disponível em: [https://www.notion.so](). Acesso em: 31 de mar. de 2024.
 6. YouTube. Disponível em: [https://www.youtube.com](). Acesso em: 31 de mar. de 2024.
 7. VsCode. Disponível em: [https://code.visualstudio.com/](). Acesso em: 31 de mar. de 2024.
-8. Docsify. Disponível em: [https://docsify.js.org/#/](). Acesso em: 31 de mar. de 2024.
+8. Canva. Disponível em: [https://www.canva.com/pt_br/](). Acesso em: 4 de abr. de 2024.
+9. Docsify. Disponível em: [https://docsify.js.org/#/](). Acesso em: 31 de mar. de 2024.
 
-
+s
 ## Histórico de Versão
 
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 31/03/2024 | Criação da página de ferramentas | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Caio Berg](https://github.com/Caio-bergbjj) |
-|  1.1   | 31/03/2024 | Alteração nas ferramentas | [Thiago Freitas](https://github.com/thiagorfreitas) | [Ester Lino](https://github.com/esteerlino) |
+|  1.1   | 31/03/2024 | Alteração nas ferramentas        | [Thiago Freitas](https://github.com/thiagorfreitas) | [Ester Lino](https://github.com/esteerlino)  |
+|  1.2   | 04/04/2024 | Adição da ferramenta Canva       | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Ester Lino](https://github.com/esteerlino)  |
