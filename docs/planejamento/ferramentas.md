@@ -33,7 +33,6 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 8. Canva. Disponível em: [https://www.canva.com/pt_br/](). Acesso em: 4 de abr. de 2024.
 9. Docsify. Disponível em: [https://docsify.js.org/#/](). Acesso em: 31 de mar. de 2024.
 
-s
 ## Histórico de Versão
 
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
