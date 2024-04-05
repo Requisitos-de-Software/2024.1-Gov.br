@@ -1,11 +1,12 @@
 
 ### Ata da reunião 2
-### Introdução
-A Ata de reunião é um registro formal de um encontro organizacional. Nela, ficam documentadas todas as ações que foram discutidas e decididas no momento [1].
 
 | Data       | Hora de Início | Hora de Término | Local           | Redator               | Projeto       |
 |------------|-----------------|------------------|-----------------|-----------------------|---------------|
 | 04-04-2024 | 22:00           | 20:37            | Microsoft Teams | Carlos Gabriel Cardoso Ramos | Projeto de Requisitos de Software|
+
+### Introdução
+A Ata de reunião é um registro formal de um encontro organizacional. Nela, ficam documentadas todas as ações que foram discutidas e decididas no momento [1].
 
 ### Convocados
 | Nome                                  | Presente | Área/Empresa | E-mail                                |
