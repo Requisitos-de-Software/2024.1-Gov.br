@@ -1,14 +1,15 @@
-
-### Ata da reunião 2
+# Ata da reunião 2
 
 | Data       | Hora de Início | Hora de Término | Local           | Redator               | Projeto       |
 |------------|-----------------|------------------|-----------------|-----------------------|---------------|
 | 04-04-2024 | 22:00           | 20:37            | Microsoft Teams | Carlos Gabriel Cardoso Ramos | Projeto de Requisitos de Software|
 
-### Introdução
+## Introdução
+
 A Ata de reunião é um registro formal de um encontro organizacional. Nela, ficam documentadas todas as ações que foram discutidas e decididas no momento [1].
 
 ### Convocados
+
 | Nome                                  | Presente | Área/Empresa | E-mail                                |
 |---------------------------------------|----------|--------------|---------------------------------------|
 | Arthur Gabriel Lima Gomes                  | ✅        | Discente     | E-mail: arthurelgg@gmail.com |
@@ -20,6 +21,7 @@ A Ata de reunião é um registro formal de um encontro organizacional. Nela, fic
 | Thiago Ribeiro Freitas                   | ✅      | Discente     | E-mail: thiagoribeirofreitas2@gmail.com         |
 
 ### Pauta
+
 | N°  | Descrição                                         |
 |-----|---------------------------------------------------|
 | 1   | Divisão das tarefas  para a próxima entrega   |
@@ -28,15 +30,14 @@ A Ata de reunião é um registro formal de um encontro organizacional. Nela, fic
 | 4   | Definição do uso de personas   |
 | 5   | Reunião e gravação   |
 
-
-
-
 ### Pendências Anteriores
+
 | N°  | Pendência                                          |
 |-----|----------------------------------------------------|
 | 1   | Não haviam pendências a serem tratadas            |
 
 ### Assuntos Tratados
+
 | N°  | Descrição                                           |
 |-----|-----------------------------------------------------|
 | 1   | Os detalhes estarão em Compromissos |
@@ -44,8 +45,6 @@ A Ata de reunião é um registro formal de um encontro organizacional. Nela, fic
 | 3   | Mudanças e ajustes detalhadas em compromisso    |
 | 4   | Será usado personas   |
 | 5   | Reunião fixa às quartas e gravações até um dia antes da data de cada entrega |
-
-
 
 ### Compromissos
 
@@ -65,16 +64,17 @@ A Ata de reunião é um registro formal de um encontro organizacional. Nela, fic
 | 12  | Trocar a imagem do heatmap e adicionar referência bibliográfica | Arthur | 04/04/2024 |
 | 13  | Colocar o “iframe” do vídeo no YouTube e adicionar introdução sobre o vídeo | Carlos | 04/04/2024 |
 
-
 ### Link da Gravação
-[![Reunião 01]()
 
-### Bibliografia
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yjM1M2NwJRQ?si=vVz0zUadTyIf7d8N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Referência Bibliográfica
+
 [1] ASANA. Dicas para criar um modelo de ata de reunião. Disponível em: https://asana.com/pt/templates/meeting-minutes. Acesso em 04 de abil de 2024.
 
+## Histórico de Versão
 
-### Histórico de Versão
 | Versão | Data       | Descrição                           | Responsáveis          | Revisor        |
 |--------|------------|-------------------------------------|------------------------|----------------|
-|1.0	|04/04/2024|	Versão inicial de documento de descrição do projeto	|Carlos	Gabriel |Ester Lino |
-
+|1.0	|04/04/2024|	Versão inicial de documento de descrição do projeto	|[Carlos Gabriel](https://github.com/TheCarlosRamos)|[Ester Lino](https://github.com/esteerlino) |
+|1.0	|04/04/2024|	Versão inicial de documento de descrição do projeto	|[Ester Lino](https://github.com/esteerlino)|[Carlos Gabriel](https://github.com/TheCarlosRamos) |
