@@ -47,5 +47,5 @@ Open University. Rich Picture. Disponível em: http://systems.open.ac.uk/materia
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 30/03/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com)| [Carlos Gabriel](https://github.com/TheCarlosRamos) |
-|  1.1   | 07/04/2024 | Atualização Rich Picture | [Isaque Santos](https://github.com)| [Henrique Batalha](https://github.com/HeBatalha) |
+|  1.1   | 07/04/2024 | Atualização Rich Picture | [Isaque Santos](https://github.com/IsaqueSH)| [Henrique Batalha](https://github.com/HeBatalha) |
 

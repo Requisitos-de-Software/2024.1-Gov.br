@@ -32,5 +32,5 @@ O objetivo do projeto é realizar uma análise dos requisitos do aplicativo gov.
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 27/03/2024 | Versão inicial de documento de descrição do projeto | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
-|  1.1   | 30/03/2024 | Adiciona informações sobre o App escolhido          | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com)| [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+|  1.1   | 30/03/2024 | Adiciona informações sobre o App escolhido          | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)| [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 |  2.0   | 31/03/2024 | Mudanças no design do gitpages  |[Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |
