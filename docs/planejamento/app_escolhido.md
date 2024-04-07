@@ -2,18 +2,22 @@
 
 ## **gov.br**
 
-<div align="center">
-    <img src="assets/Gov.br_logo.svg.png" style="width:20vw"/>
-    <p> Figura 1: Imagem gov.br. Fonte: <a href="https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US">gov.br</a></p> 
-</div>
-<p>
+<p align="center" > <font>Figura 1: Logo do gov.br</font> <br><img style=" " src="assets/Gov.br_logo.svg.png" width = 40%></p>
+<p align="center" > <font>Fonte: <a href="https://www.gov.br">gov.br</a></font> <br></p>
 
+### Introdução
 O [gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US) é um aplicativo desenvolvido pelo Governo Federal do Brasil com o objetivo de centralizar o acesso a serviços públicos, simplificando a vida dos cidadãos e empresas. Está disponível para as plataformas Android, iOS, e pode também ser acessado via web. Para utilizá-lo, é necessário fazer o download do app e realizar um cadastro simples.
 </p>
 
+### Critérios
+* Facilidade de contato com o público-alvo.
+* Complexidade do aplicativo.
+* Disponibilidade de informações.
+* Aplicativo não ter sido trabalhado na disciplina
+
 ### **Por que o gov.br?**
 
-Escolhemos o aplicativo [gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US) como base para o nosso projeto por diversas razões, destacando-se a sua relevância e aplicabilidade no cotidiano dos cidadãos brasileiros.
+Escolhemos o aplicativo [gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US) como base para o nosso projeto por diversas razões, tendo como norte os critérios elencados anteriormente, destacando-se a sua relevância e aplicabilidade no cotidiano dos cidadãos brasileiros.
 
 ### **Relevância para o Nosso Contexto**
 
@@ -44,9 +48,14 @@ Por se tratar de uma plataforma do governo, não a restrições em relação ao 
 
 <figcaption>Autores: <a href="https://github.com/Caio-bergbjj">Caio Berg</a>, <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></figcaption>
 
+## Bibliografia
+[1] gov.br . Disponível em: [gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Acesso em 31 de Março de 2024.
+
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 31/03/2024 | Versão inicial  | [Caio Berg](https://github.com/Caio-bergbjj) | [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 07/04/2024 | Cirtérios e referências  | [Caio Berg](https://github.com/Caio-bergbjj) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 
