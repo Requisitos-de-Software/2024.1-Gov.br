@@ -18,3 +18,8 @@
 - [Ferramentas](planejamento/ferramentas.md)
 - [Cronograma](planejamento/cronograma.md)
 - [Heatmap](planejamento/heatmap.md)
+
+**Elicitação**
+
+- [Personas](/Elicitação/Personas.md)
+- [teste](/Elicitação/teste.md)

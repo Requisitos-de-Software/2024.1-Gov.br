@@ -19,6 +19,7 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 | <img src="assets/vscode.png" alt="Logo do VsCode" width="200"/>                    | VsCode          | Para edição eficiente e desenvolvimento de código.                                                                                      |
 | <img src="assets/canva.svg" alt="Logo do Canva" width="200"/>                      | Canva           | Para criação e edição de imagens personalizadas.                                                                                        |
 | <img src="assets/docsify.png" alt="Logo do Docsify" width="200"/>                  | Docsify         | Para geração de documentação estática a partir de arquivos Markdown.                                                                    |
+| <img src="assets/ThisPersonDoesNotExist.png" alt="Logo do T.P.D.N.E" width="200"/>  | This Person Does Not Exist  | Para geração de imagens das Personas.                                                                             |
 
 <figcaption align="center">Autora: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></figcaption>
 
@@ -32,6 +33,7 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 7. VsCode. Disponível em: [https://code.visualstudio.com/](). Acesso em: 31 de mar. de 2024.
 8. Canva. Disponível em: [https://www.canva.com/pt_br/](). Acesso em: 4 de abr. de 2024.
 9. Docsify. Disponível em: [https://docsify.js.org/#/](). Acesso em: 31 de mar. de 2024.
+10. This Person Does Not Exist. Disponível em: [https://this-person-does-not-exist.com/en](). Acesso em: 6 de abr. de 2024
 
 ## Histórico de Versão
 
@@ -40,3 +42,4 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 |  1.0   | 31/03/2024 | Criação da página de ferramentas | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Caio Berg](https://github.com/Caio-bergbjj) |
 |  1.1   | 31/03/2024 | Alteração nas ferramentas        | [Thiago Freitas](https://github.com/thiagorfreitas) | [Ester Lino](https://github.com/esteerlino)  |
 |  1.2   | 04/04/2024 | Adição da ferramenta Canva       | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Ester Lino](https://github.com/esteerlino)  |
+|  1.3   | 07/04/2024 | Adição da ferramenta This Person Does Not Exist| [Henrique Batalha](https://github.com/HeBatalha) | [Isaque Santos](https://github.com/IsaqueSH)  |
