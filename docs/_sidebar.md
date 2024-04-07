@@ -24,4 +24,3 @@
 **Elicitação**
 
 - [Personas](/Elicitação/Personas.md)
-- [teste](/Elicitação/teste.md)

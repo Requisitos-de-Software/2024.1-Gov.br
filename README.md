@@ -49,4 +49,4 @@ Para encerrar a execução da aplicação, você pode pressionar Ctrl + C no ter
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 27/03/2024 | Versão inicial de documento de descrição do projeto | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
-|  1.1   | 31/03/2024 | Atualização sobre com executar o docsify localmente | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com) |
+|  1.1   | 31/03/2024 | Atualização sobre com executar o docsify localmente | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH) |
