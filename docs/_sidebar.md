@@ -18,7 +18,8 @@
 - [Aplicativo Escolhido](planejamento/app_escolhido.md)
 - [Termo de Uso](planejamento/termo_de_uso.md)
 - [Ferramentas](planejamento/ferramentas.md)
-- [Cronograma](planejamento/cronograma.md)
+- [Cronograma Planejado](planejamento/cronograma_planejado.md)
+- [Cronograma Executado](planejamento/cronograma_executado.md)
 - [Heatmap](planejamento/heatmap.md)
 
 **Elicitação**
