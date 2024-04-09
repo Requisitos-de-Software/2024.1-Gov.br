@@ -21,7 +21,8 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 
 | |
 | -- |
-| <figure markdown><p style="text-align: center">Figura 1 - Persona João Silva.<div style="display: flex; justify-content: center;"><img src="../assets/Persona1.jpeg" alt="Persona João Silva" style="height: 500px; width: 500px;"></div><figcaption><p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
+| <figure markdown><p style="text-align: center">Figura 1 - Persona João Silva.<div style="display: flex; justify-content: center;"><img src="assets/Persona1.jpeg" alt="Persona João Silva" style="height: 500px; width: 500px;"></div><figcaption>
+|<p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
 | **Nome:** João Silva |
 | **Status:** Persona Secundária |
 | **Gênero:** Masculino |
@@ -40,7 +41,8 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 
 | |
 | -- |
-| <figure markdown><p style="text-align: center">Figura 2 - Persona Maria Fernanda.<div style="display: flex; justify-content: center;"><img src="../assets/Persona2.jpeg" alt="Persona Maria Fernanda" style="height: 500px; width: 500px;"></div><figcaption><p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
+| <figure markdown><p style="text-align: center">Figura 2 - Persona Maria Fernanda.<div style="display: flex; justify-content: center;"><img src="assets/Persona2.jpeg" alt="Persona Maria Fernanda" style="height: 500px; width: 500px;"></div><figcaption>
+|<p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
 |**Nome:** Maria Fernanda Alves|
 |**Status:** Persona Primária|
 |**Gênero:** Feminino|
@@ -59,7 +61,8 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 
 | |
 | -- |
-| <figure markdown><p style="text-align: center">Figura 3 - Persona Rafael Pedrosa.<div style="display: flex; justify-content: center;"><img src="../assets/Persona3.jpeg" alt="Persona Rafael Pedrosa" style="height: 500px; width: 500px;"></div><figcaption><p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
+| <figure markdown><p style="text-align: center">Figura 3 - Persona Rafael Pedrosa.<div style="display: flex; justify-content: center;"><img src="assets/Persona3.jpeg" alt="Persona Rafael Pedrosa" style="height: 500px; width: 500px;"></div><figcaption>
+|<p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
 | **Nome**: Rafael Pedrosa|
 | **Status:** Persona Secundária|
 | **Gênero:** Masculino|
@@ -78,7 +81,8 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 
 | |
 | -- |
-| <figure markdown><p style="text-align: center">Figura 4 - Persona Lucas Oliveira.<div style="display: flex; justify-content: center;"><img src="../assets/Persona4.jpeg" alt="Persona Lucas Oliveira." style="height: 500px; width: 500px;"></div><figcaption><p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
+| <figure markdown><p style="text-align: center">Figura 4 - Persona Lucas Oliveira.<div style="display: flex; justify-content: center;"><img src="assets/Persona4.jpeg" alt="Persona Lucas Oliveira." style="height: 500px; width: 500px;"></div><figcaption>
+|<p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
 |**Nome**: Lucas Oliveira|
 |**Status:** Persona Primária|
 |**Gênero:** Masculino|
@@ -97,7 +101,8 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 
 | |
 | -- |
-| <figure markdown><p style="text-align: center">Figura 5 - Persona Olimar Gonçalves.<div style="display: flex; justify-content: center;"><img src="../assets/Persona5.jpeg" alt="Persona Olimar Gonçalves." style="height: 500px; width: 500px;"></div><figcaption><p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
+| <figure markdown><p style="text-align: center">Figura 5 - Persona Olimar Gonçalves.<div style="display: flex; justify-content: center;"><img src="assets/Persona5.jpeg" alt="Persona Olimar Gonçalves." style="height: 500px; width: 500px;"></div><figcaption>
+|<p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
 |**Nome:** Olimar Gonçalves|
 |**Status:** Persona Secundária|
 |**Gênero:** Masculino|
@@ -120,3 +125,4 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 07/04/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)| [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+|  1.1   | 09/04/2024 | Correção de imagens | [Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |
