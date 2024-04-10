@@ -28,57 +28,43 @@ A tabela 1 apresenta o cronograma executado para a entrega da etapa 1.
 
 A tabela 2 apresenta o cronograma executado para a entrega da etapa 2.
 
-```
 ***EM BREVE...***
-```
 
 ## Cronograma Executado da Etapa 3 - Modelagem de Requisitos I
 
 A tabela 3 apresenta o cronograma executado para a entrega da etapa 3.
 
-```
 ***EM BREVE...***
-```
 
 ## Cronograma Executado da Etapa 4 - Modelagem de Requisitos II
 
 A tabela 4 apresenta o cronograma planejado para a entrega da etapa 4.
 
-```
 ***EM BREVE...***
-```
 
 ## Cronograma Executado da Etapa 5.1 - Análise de Requisitos I
 
 A tabela 5 apresenta o cronograma planejado para a entrega da etapa 5.1.
 
-```
 ***EM BREVE...***
-```
 
 ## Cronograma Executado da Etapa 6 - Pós-Rastreabilidade
 
 A tabela 6 apresenta o cronograma planejado para a entrega da etapa 6.
 
-```
 ***EM BREVE...***
-```
 
 ## Cronograma Executado da Etapa 5.2 - Análise de Requisitos II
 
 A tabela 7 apresenta o cronograma planejado para a entrega da etapa 5.2.
 
-```
 ***EM BREVE...***
-```
 
 ## Cronograma Executado da Etapa 7 - Entrega Final
 
 A tabela 9 apresenta o cronograma planejado para a entrega da etapa 7.
 
-```
 ***EM BREVE...***
-```
 
 ## Bibliografia
 
