@@ -26,6 +26,7 @@
 
 - [Personas](/Elicitação/Personas.md)
 - [Técnicas](/Elicitação/analise_documentos.md)
-    - [Análise de Documentos](/Elicitação/analise_documentos.md) 
+    - [Análise de Documentos](/Elicitação/analise_documentos.md)
+    - [Storytelling](/Elicitação/storytelling.md) 
 - [Priorização](/Elicitação/Priorização/FirstThingsFirst.md)
     - [First Things First](/Elicitação/Priorização/FirstThingsFirst.md)
