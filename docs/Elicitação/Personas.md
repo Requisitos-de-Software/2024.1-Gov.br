@@ -115,6 +115,25 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 |**Expectativa:** Deseja utilizar a função prova de vida para continuar recebendo a sua aposentadoria.|
 |**Tarefas:** Passa a maior parte do tempo em seu escritório, trabalhando em equações e teorias complexas. Participa de conferências e workshops para compartilhar seus conhecimentos. Procura constantemente por novas oportunidades de pesquisa e financiamento.|
 
+<br>
+
+<p style="text-align: center"><b>Tabela 6</b> - Antipersona Sofia Silva.</p>
+
+| |
+| -- |
+| <figure markdown><p style="text-align: center">Figura 6 - Antipersona Sofia.<div style="display: flex; justify-content: center;"><img src="assets/Persona6.jpeg" alt="Persona Sofia." style="height: 500px; width: 500px;"></div><figcaption>
+|<p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
+|**Nome:** Sofia Oliveira|
+|**Status:** Antipersona|
+|**Gênero:** Feminino|
+|**Idade:** 10 anos|
+|**Escolaridade:** Estudante| 
+|**Habilidades e Experiências:** Sofia é uma criança de 10 anos que adora brincar ao ar livre e passar o tempo com seus amigos. Prefere atividades físicas, como andar de bicicleta, pular corda e brincar de esconde-esconde.|
+|**Relacionamentos:** Mora com os pais e possui vários amigos de classe em sua escola.|
+|**Objetivo:** Ela não está interessada em aplicativos para adultos, como aplicativos de compra ou serviços do governo, seu objetivo é apenas ir à escola e brincar.|
+|**Expectativa:** Ela está mais interessada em jogos de tabuleiro, desenhos animados e brincadeiras do que em tecnologia. Por isso não tem expectativas com relação ao aplicativo.|
+|**Tarefas:**  Durante a semana, Sofia vai para a escola e passa a maior parte do tempo brincando com seus colegas no parque. À noite, gosta de ler histórias antes de dormir, jogar com seus brinquedos e, às vezes, assistir a um filme infantil em família.|
+
 ## Bibliografia
 - This Person Does Not Exist. Disponível em: https://this-person-does-not-exist.com/en . Acesso em: 6 de abril de 2024
 - Personas. Disponível em: https://www.portalinsights.com.br/perguntas-frequentes/quais-os-beneficios-da-persona. Acesso em: 6 de Abril de 2024
@@ -126,3 +145,4 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 07/04/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)| [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 |  1.1   | 09/04/2024 | Correção de imagens | [Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |
+|  1.2   | 14/04/2024 | Adiciona Antipersona Sofia | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)| [Carlos Gabriel](https://github.com/TheCarlosRamos) |
