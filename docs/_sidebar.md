@@ -16,7 +16,7 @@
 **Planejamento**
 
 - [Aplicativo Escolhido](planejamento/app_escolhido.md)
-- [Termo de Uso](planejamento/termo_de_uso.md)
+    - [Termo de Uso](planejamento/termo_de_uso.md)
 - [Ferramentas](planejamento/ferramentas.md)
 - [Cronograma Planejado](planejamento/cronograma_planejado.md)
 - [Cronograma Executado](planejamento/cronograma_executado.md)
@@ -24,9 +24,15 @@
 
 **Elicitação**
 
-- [Personas](/Elicitação/Personas.md)
-- [Técnicas](/Elicitação/analise_documentos.md)
-    - [Análise de Documentos](/Elicitação/analise_documentos.md)
-    - [Storytelling](/Elicitação/storytelling.md) 
-- [Priorização](/Elicitação/Priorização/FirstThingsFirst.md)
-    - [First Things First](/Elicitação/Priorização/FirstThingsFirst.md)
+- [Personas](Personas/Personas.md)
+- [Perfil de Usuário](perfil_usuario/perfil_usuario.md)
+    - [Termo de Consentimento](perfil_usuario/TCLE_pesquisa.md)
+- [Técnicas](elicitacao/tecnicas.md)
+    - [Elicitação](elicitacao/elicitacao.md)
+        - [Análise de Documentos](elicitacao/analise_documentos.md)
+        - [Brainstorm](elicitacao/brainstorm.md)
+        - [Storytelling](elicitacao/storytelling.md)
+        - [Requisitos Elicitados](elicitacao/requisitos_elicitados.md)
+    - [Priorização](priorizacao/priorizacao.md)
+        - [First Things First](priorizacao/FirstThingsFirst.md)
+        - [Three Level Scale](priorizacao/ThreeLevelScale.md)
