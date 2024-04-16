@@ -26,6 +26,19 @@ Descrição dos papeis:
 **Fonte**: [Henrique Batalha](https://github.com/HeBatalha)
 
 </center>
+
+<br>
+
+Reuniões gravadas:
+
+- Entre um mediador e o desenvolvedor. Realizado em duas partes no dia 14/04/2024: 
+
+<iframe width="460" height="215" src="https://www.youtube.com/embed/AbhOq84xDHg?si=ioeYwkhgkxXGSAcy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Entre um mediador e o usuário. Realizado no dia 14/04/2024:
+
+<iframe width="460" height="215" src="https://www.youtube.com/embed/ck6qjMUL5pg?si=LrJ5g1htOfVdEmHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br>
 
 Os seguintes passos foram realizados no processo *First Things First*:
@@ -114,3 +127,5 @@ Os seguintes passos foram realizados no processo *First Things First*:
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 13/04/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.1   | 15/04/2024 | Adição da tabela dos resultados | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.2   | 16/04/2024 | Adição dos vídeos das entrevistas | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+
