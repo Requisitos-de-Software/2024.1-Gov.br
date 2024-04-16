@@ -116,6 +116,96 @@ Os seguintes passos foram realizados no processo *First Things First*:
 **Fonte**: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 </center>
 
+### Descrição dos Requisitos Funcionais
+
+<center>
+
+**Tabela 3** - Requisitos Funcionais - Análise de Documentos 
+</center>
+
+| ID | Descrição                                                                                                            |
+|----|----------------------------------------------------------------------------------------------------------------------|
+| RF01  | O sistema deve possuir uma funcionalidade de reconhecimento facial para autenticação do usuário.                      |
+| RF02  | O sistema deve permitir que os usuários recuperem suas senhas através de métodos seguros e eficientes.                |
+| RF03  | O sistema deve oferecer verificação em duas etapas como uma camada adicional de segurança para os usuários.           |
+| RF04  | O sistema deve permitir que os usuários utilizem suas credenciais para acessar diferentes serviços governamentais de forma centralizada. |
+| RF05  | O sistema deve facilitar o processo de mudança de celular pelo usuário, permitindo a transferência de segurança e autenticações sem necessidade de cancelar e recriar a conta. |
+| RF06  | O sistema deve notificar os usuários de quaisquer acessos não autorizados ou mudanças críticas na segurança de suas contas. |
+| RF07  | O sistema deve permitir a autenticação do usuário utilizando métodos como biometria facial e validação biográfica.      |
+| RF08  | O sistema deve permitir ao usuário acessar, atualizar e excluir seus dados pessoais.                                    |
+| RF09  | O sistema deve oferecer funcionalidades para recuperação de conta através de SMS, e-mail ou suporte direto.             |
+| RF10  | O sistema deve permitir aos usuários visualizar e gerenciar documentos digitais associados à sua conta.                 |
+| RF11  | O sistema deve oferecer uma funcionalidade de Prova de Vida para verificação de beneficiários de programas de previdência ou assistência social. |
+
+<center>
+
+**Fonte**: [Análise de Documentos](Elicitação/analise_documentos.md)
+
+<br>
+
+**Tabela 4** - Requisitos Funcionais - Storytelling
+</center>
+
+| ID | Descrição                                                                                      |
+|---------------|------------------------------------------------------------------------------------------------|
+| ST01          | Como usuário, desejo acessar o aplicativo gov.br de forma rápida e intuitiva.                  |
+| ST02          | Como usuário, desejo encontrar facilmente o serviço de agendamento na Receita Federal.         |
+| ST03          | Como usuário, desejo acessar as funções de assinatura digital para agilizar a assinatura de documentos. |
+| RF04          | Como usuário, desejo agendar atendimentos em órgãos públicos através do aplicativo.            |
+| RF05          | Como usuário, desejo consultar informações sobre benefícios sociais através do aplicativo.     |
+| RF06          | Como usuário, desejo acessar a função de carteira digital no aplicativo.                      |
+| RF07          | Como usuário, desejo continuar recebendo minha aposentadoria através da função de prova de vida. |
+| RF08          | Como usuário, desejo uma navegação intuitiva para buscar processos e documentos.               |
+| RF09          | Como usuário, desejo garantir a segurança na transmissão e armazenamento de documentos sensíveis. |
+| RF10          | Como usuário, desejo eficiência no agendamento e acompanhamento de processos.                 |
+| RF11          | Como usuário, desejo receber atualizações relevantes sobre processos e benefícios sociais.    |
+| RF12          | Como usuário, desejo substituir minha carteira física por uma versão digital no aplicativo.   |
+| RF13          | Como usuário, desejo acesso rápido aos meus documentos no celular, sem a necessidade de documentos físicos. |
+| RF14          | Como usuário, desejo poder acessar meus documentos mesmo sem conexão com a internet.          |
+| RF15          | Como usuário, desejo garantir a privacidade das informações pessoais.                         |
+
+<center>
+
+**Fonte**: [Storytelling](Elicitação/storytelling.md)
+</center>
+
+### Descrição dos Requisitos Não Funcionais
+<center>
+
+**Tabela 5** - Requisitos Não Funcionais - Análise de Documentos
+</center>
+
+| ID | Descrição                                                                                      |
+|---------------|------------------------------------------------------------------------------------------------|
+| RFN04  | O sistema deve assegurar o tratamento adequado dos dados sensíveis de acordo com a legislação (LGPD).                     |
+| RFN05  | O sistema deve obter consentimento explícito dos usuários para o tratamento de seus dados pessoais.                        |
+| RFN06  | O sistema deve ser acessível através de diferentes dispositivos e navegadores.                                             |
+| RFN07  | O sistema deve implementar múltiplos níveis de segurança de acesso (bronze, prata, ouro).                                  |
+| RFN08  | O sistema deve ser acessível e disponível para todos os usuários, garantindo acessibilidade para usuários com deficiências e oferecendo suporte a múltiplas plataformas e navegadores. |
+
+<center>
+
+**Fonte**: [Análise de Documentos](Elicitação/analise_documentos.md)
+
+<br>
+
+**Tabela 6** - Requisitos Não Funcionais - Storytelling
+</center>
+
+| ID | Descrição                                                                                      |
+|---------------|------------------------------------------------------------------------------------------------|
+| RNF01         | Segurança: O aplicativo deve garantir a segurança dos dados pessoais dos usuários.            |
+| RNF02         | Usabilidade: A interface do aplicativo deve ser simples e fácil de usar.                      |
+| RNF03         | Eficiência: O aplicativo deve ser rápido no acesso e no agendamento de serviços.               |
+| RNF04         | Acessibilidade: O aplicativo deve ser acessível mesmo sem conexão com a internet.              |
+| RNF05         | Confiabilidade: O aplicativo deve manter a integridade dos documentos e informações consultadas. |
+| RNF06         | Atualização: O aplicativo deve manter os usuários informados sobre novidades e atualizações importantes. |
+| RNF07         | Privacidade: Garantir que as informações dos usuários não sejam compartilhadas sem permissão. |
+
+<center>
+
+**Fonte**: [Storytelling](Elicitação/storytelling.md)
+</center>
 
 ## Bibliografia
 
@@ -128,4 +218,5 @@ Os seguintes passos foram realizados no processo *First Things First*:
 |  1.0   | 13/04/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.1   | 15/04/2024 | Adição da tabela dos resultados | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.2   | 16/04/2024 | Adição dos vídeos das entrevistas | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+
 
