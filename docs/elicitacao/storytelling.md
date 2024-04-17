@@ -21,16 +21,31 @@ A partir da criação das personas e com base nos seus respectivos perfis e seus
 ## João Silva
 
 
-[João Silva](../Elicitação/Personas.md), um engenheiro civil de 55 anos e dono de uma pequena empresa de construção em Brasília. Graduado em Engenharia Civil pela Universidade de Brasília (UnB), João é experiente em sua área, mas não muito familiarizado com tecnologias modernas, já que sua empresa utiliza métodos tradicionais de construção. Seu dia geralmente começa cedo, revisando planos de construção e gerenciando sua equipe.
+[João Silva](../Elicitação/Personas.md), um engenheiro civil e dono de uma pequena empresa de construção em Brasília, começa seu dia revisando planos de construção. Seu filho, Pedro, sugeriu que ele usasse o aplicativo gov.br para agendar um serviço na Receita Federal, algo que João não estava acostumado a fazer pelo smartphone.
 
+Naquela manhã, após uma reunião com sua equipe, João lembra do agendamento. Com um pouco de hesitação, pega seu smartphone e abre o aplicativo gov.br. Para sua surpresa, a interface é simples e amigável. Ele encontra facilmente o serviço de agendamento, seleciona a data desejada e confirma.
 
-João é pai de Pedro, um jovem de 25 anos que estuda Engenharia Elétrica na mesma universidade em que João se formou. Ele mantém amizades próximas com colegas de profissão e vizinhos. Seu objetivo atual é usar o aplicativo gov.br para solicitar agendamento na Receita Federal, seguindo a orientação de seu filho Pedro. Ele espera que o aplicativo seja fácil de usar, mesmo para alguém com pouca experiência em smartphones, e valoriza a privacidade e segurança ao lidar com informações sensíveis. Uma vez que finalize suas pendências, João tende a fechar o aplicativo, já que não costuma utilizá-lo para outras tarefas.
+Em questão de minutos, a tarefa está concluída. João fecha o aplicativo, satisfeito por ter resolvido a pendência rapidamente. Ele reflete sobre como a tecnologia pode simplificar até mesmo tarefas para alguém não tão familiarizado com smartphones.
 
+Com o agendamento feito, João volta sua atenção para os planos de construção, sentindo-se mais confiante. Agradece mentalmente a Pedro pela dica e decide explorar mais o aplicativo para futuras necessidades da sua empresa.
 
 ## Maria Fernanda Alves
 
 
-[Maria Fernanda Alves](../Elicitação/Personas.md), advogada especializada em Direito Tributário, busca simplificar sua rotina no renomado escritório de Brasília. Com o app gov.br, seu objetivo é acessar serviços de assinatura digital para agilizar a assinatura de documentos de clientes. Ela espera uma navegação intuitiva, segurança e rapidez para buscar processos e informações. Casada e mãe, também é ativa em eventos jurídicos, complementando sua experiência profissional com atualizações constantes sobre leis e regulamentos.
+[Maria Fernanda Alves](../Elicitação/Personas.md), uma advogada especializada em Direito Tributário, enfrenta um dia agitado em seu escritório em Brasília. Mãe de dois filhos e casada, ela precisa lidar com os desafios de sua profissão enquanto equilibra sua vida pessoal.
+
+Como membro ativo da comunidade jurídica, Maria Fernanda está sempre em busca de maneiras de simplificar seu trabalho. Por isso, decidiu instalar o aplicativo gov.br em seu smartphone para acessar serviços relacionados à assinatura digital. Ela precisa assinar documentos constantemente em relação aos processos de seus clientes e deseja diminuir sua carga de trabalho.
+
+Um dia, entre uma consulta e outra, Maria Fernanda precisa assinar um contrato importante para um cliente. Ela pega seu smartphone, abre o aplicativo gov.br e, para sua satisfação, encontra uma interface intuitiva e de fácil navegação.
+
+Na tela inicial do aplicativo, ela encontra rapidamente a opção de "Assinatura Digital". Com apenas alguns toques, ela seleciona o documento que precisa assinar, verifica os detalhes e adiciona sua assinatura digital de forma rápida e segura. Maria Fernanda se sente aliviada ao ver como o processo foi simplificado.
+
+Além disso, ela aproveita a seção de "Busca de Processos e Documentos" para encontrar informações atualizadas sobre leis e regulamentos tributários. A navegação é ágil, permitindo que ela encontre o que precisa em poucos minutos.
+
+Ao concluir a assinatura, Maria Fernanda sente-se confiante de que o documento está seguro. O aplicativo gov.br garante a segurança na transmissão e armazenamento de documentos sensíveis, atendendo às suas expectativas.
+
+Com o contrato assinado e o trabalho concluído em tempo recorde, Maria Fernanda volta sua atenção para os próximos casos em sua mesa. Ela agradece por ter encontrado uma solução tão eficiente para suas necessidades de assinatura digital, tudo graças ao aplicativo gov.br que facilitou seu dia agitado no escritório.
+
 
 
 
@@ -38,13 +53,17 @@ João é pai de Pedro, um jovem de 25 anos que estuda Engenharia Elétrica na me
 ## Rafael Pedrosa
 
 
-[Rafael Pedrosa](../Elicitação/Personas.md), professor de História de 28 anos, é especializado em História Moderna e leciona em uma escola pública de ensino médio em Brasília. Com formação em Licenciatura em História e Mestrado em Educação, ele possui habilidades em pesquisa histórica e métodos de ensino inovadores.
+[Rafael Pedrosa](../Elicitação/Personas.md), um jovem professor de História, aproveita seu tempo livre em seu apartamento em Brasília para estudar e preparar suas aulas sobre História Moderna. Solteiro e dedicado ao ensino, Rafael busca maneiras de facilitar suas tarefas diárias, incluindo o acesso a serviços governamentais.
 
+Recentemente, Rafael instalou o aplicativo gov.br em seu smartphone com o objetivo de utilizar os serviços online do governo. Ele deseja agendar atendimentos em órgãos públicos, consultar informações sobre benefícios sociais e acompanhar processos relacionados à sua carreira de professor.
 
-Solteiro e morando sozinho em um apartamento na cidade, Rafael é ativo em grupos de estudo online sobre história. Seu objetivo ao usar o app gov.br é acessar serviços governamentais como agendamento de atendimentos, consulta de benefícios sociais e acompanhamento de processos de sua carreira.
+Em uma tarde tranquila, Rafael decide explorar o aplicativo gov.br para ver como ele pode simplificar suas tarefas burocráticas. Ao abrir o aplicativo, ele é recebido por uma interface amigável e organizada, o que o deixa satisfeito.
 
+Na tela inicial, Rafael encontra facilmente a seção de "Agendamento de Atendimentos". Ele seleciona o órgão público desejado, escolhe o tipo de serviço e, em poucos passos, consegue agendar um horário para renovar sua documentação profissional. Rafael fica impressionado com a eficiência do processo e a rapidez com que conseguiu marcar o atendimento.
 
-Ele espera facilidade de acesso, eficiência no agendamento e acompanhamento de processos, transparência nas informações, recebimento de atualizações relevantes, e garantia de segurança das informações pessoais.
+Além disso, ele explora a seção de "Consulta de Benefícios Sociais". Com apenas algumas informações, Rafael consegue verificar se está elegível para algum benefício do governo. Ele também aproveita para acompanhar processos relacionados à educação e sua carreira de professor, encontrando atualizações relevantes de forma clara e acessível.
+
+Ao finalizar suas tarefas no aplicativo gov.br, Rafael sente-se satisfeito. Ele encontrou exatamente o que precisava: facilidade de acesso aos serviços governamentais, eficiência no agendamento de atendimentos e acompanhamento de processos, transparência nas informações e até mesmo a garantia de segurança e privacidade das suas informações pessoais.
 
 
 
@@ -52,10 +71,15 @@ Ele espera facilidade de acesso, eficiência no agendamento e acompanhamento de 
 ## Lucas Oliveira
 
 
-[Lucas Oliveira](../Elicitação/Personas.md), desenvolvedor de jogos indie de 25 anos, graduado em Design de Jogos pela Universidade de São Paulo (USP), ele é conhecido por sua criatividade e talento em design de níveis, programação e arte pixelada. Seu jogo mais recente, "Galactic Quest", foi bem recebido pela comunidade gamer.
+[Lucas Oliveira](../Elicitação/Personas.md), em um intervalo entre sessões de programação, decide explorar o aplicativo gov.br para verificar como a carteira digital pode ajudá-lo em seu dia a dia. Ao abrir o aplicativo, ele é recebido por uma interface limpa e intuitiva, o que o deixa animado.
 
+Na tela inicial, Lucas encontra a seção de "Carteira Digital". Ele começa a adicionar seus documentos, como RG, CPF e carteira de motorista, digitalizando-os diretamente pelo aplicativo. Em poucos minutos, seus documentos estão seguramente armazenados em sua carteira digital.
 
-Como membro ativo da comunidade de desenvolvedores de jogos indie, Lucas mantém contato próximo com outros profissionais e fãs de jogos. Ao instalar o app gov.br, seu objetivo principal é acessar as funções da carteira digital. Ele busca substituir completamente sua carteira física, desejando acesso rápido aos seus documentos no celular, sem a necessidade de documentos físicos. Lucas espera poder acessar facilmente seus documentos mesmo sem conexão com a internet.
+Empolgado com as possibilidades, Lucas percebe que agora pode acessar seus documentos importantes rapidamente, sem precisar carregar sua carteira física. Ele também se surpreende ao descobrir que pode acessar seus documentos mesmo sem conexão com a internet, ideal para situações em que não há sinal disponível.
+
+Além disso, Lucas encontra a opção de "Verificação de Documentos", onde pode mostrar seus documentos digitalizados quando necessário. Ele também percebe que pode compartilhar documentos com terceiros de forma segura e protegida, algo que pode ser útil em eventos da indústria de jogos ou game jams.
+
+Ao finalizar o processo de digitalização de seus documentos, Lucas sente-se satisfeito. Ele percebeu que a carteira digital no aplicativo gov.br não apenas simplifica sua vida, mas também oferece segurança e praticidade. Agora, ele está pronto para continuar seu trabalho em "Cyber Realm" com a certeza de que seus documentos importantes estão sempre ao alcance de seu smartphone.
 
 
 
@@ -63,7 +87,17 @@ Como membro ativo da comunidade de desenvolvedores de jogos indie, Lucas mantém
 ## Olimar Gonçalves
 
 
-[Olimar Gonçalves](../Elicitação/Personas.md), aposentado e renomado na área de Física Teórica, é conhecido por suas contribuições acadêmicas. Com um Doutorado pela UnB, ele passa seu tempo em seu escritório, trabalhando em teorias complexas e participando de eventos científicos. Orientado por sua família, instalou o app gov.br para acessar recursos relacionados à aposentadoria, principalmente a função de prova de vida para garantir o recebimento de sua aposentadoria.
+[Olimar Gonçalves](../Elicitação/Personas.md), agora aposentado, recebeu a orientação de sua família para instalar o aplicativo gov.br em seu smartphone. O objetivo é acessar recursos relacionados à sua aposentadoria, em particular, utilizar a função de prova de vida para garantir a continuidade do recebimento de sua aposentadoria.
+
+Em uma tarde tranquila, Olimar decide explorar o aplicativo gov.br para entender como pode simplificar o processo de prova de vida. Ao abrir o aplicativo, ele é recebido por uma interface simples e direta, o que o agrada.
+
+Na tela inicial, Olimar encontra facilmente a seção de "Prova de Vida". Ele segue as instruções, fornecendo as informações necessárias e tirando uma foto de seu rosto. Em questão de minutos, a prova de vida é concluída e confirmada pelo aplicativo.
+
+Olimar fica impressionado com a facilidade e rapidez do processo. Ele percebe que não precisa mais se deslocar até uma agência bancária ou posto de atendimento para realizar a prova de vida. Agora, pode fazê-la de forma conveniente e segura diretamente pelo aplicativo gov.br.
+
+Além disso, Olimar encontra a opção de "Consulta de Benefícios" no aplicativo. Ele verifica o status de sua aposentadoria, conferindo se está tudo em ordem. Tudo isso sem precisar sair de seu escritório ou interromper seu trabalho.
+
+Ao finalizar as tarefas no aplicativo, Olimar sente um alívio. Ele percebe que a prova de vida simplificada oferecida pelo gov.br não apenas economiza tempo, mas também proporciona comodidade e segurança. Ele agradece por ter encontrado uma solução tão eficiente para suas necessidades como aposentado, tudo graças ao aplicativo gov.br.
 
 ## Requisitos elicitados
 
@@ -119,3 +153,4 @@ Como membro ativo da comunidade de desenvolvedores de jogos indie, Lucas mantém
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 13/04/2024 | Versão Inicial | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.1   | 16/04/2024 | Ajuste nas histórias das personas | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
