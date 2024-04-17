@@ -14,29 +14,38 @@ O brainstorming foi realizado no dia 15/04/2024, com horário de incío às 22h 
     - Acessar documentos<br>
     - Consultar serviços<br>
     - Baixar certidões
+    - Se inscrever em concursos públicos
+    - Consultar programas do governo
+    - Conectar com o Detran
+    - Pagar impostos trabalhistas
 2. Quais problemas ou desafios os usuários enfrentam ao acessar os serviços do governo online?
-    - Falta de clarezanos processos<br>
+    - Falta de clareza nos processos<br>
     - Lentidão<br>
-    - Experiência de Usuário ruim<br>
-    - Transtornos com senhas<br>
+    - Sistema instável<br>
+    - Experiência de usuário ruim<br>
+    - Dificuldade para fazer autenticação<br>
     - Necessidade de acessos múltiplos com logins separados<br>
-    - Falat de automatização nos serviços online
+    - Falta de automatização nos serviços online
 3. Quais informações e serviços específicos os usuários desejam acessar através do aplicativo Gov.br?
     - Acessar a carteira de documentos<br>
     - Logar em outros sistemas do governo<br>
     - Assinar documentos digitalmente<br>
     - Emitir prova de vida<br>
     - Acessar informações pessoais<br>
-    - Emitir cetidões
+    - Emitir certidões
+    - Pegar código de acesso
 4. Quais recursos de segurança e privacidade são essenciais para proteger os dados dos usuários no aplicativo Gov.br?
     - Autenticação por biometria<br>
     - Criptografia dos dados<br>
     - Autenticação em dois fatores<br>
     - Reconhecimento facial na base da Justiça Eleitoral
+    - Autenticação por QR Code
+    - Gerenciar dispositivos confiáveis
+    - Aumentar nível da conta
 5. Como podemos garantir que o aplicativo Gov.br seja acessível para pessoas com deficiência?
     - Descrição de áudio<br>
-    - Autocontrate<br>
-    - Aumentar tipografia<br>
+    - Autocontraste<br>
+    - Aumentar/diminuir tipografia<br>
     - Atendimento especializado
 6. Quais são as características de usabilidade mais importantes para tornar o aplicativo Gov.br intuitivo e fácil de usar?
     - Boa documentação de ajuda<br>
@@ -44,10 +53,13 @@ O brainstorming foi realizado no dia 15/04/2024, com horário de incío às 22h 
     - Evitar o uso de termos técnicos para usuários leigos<br>
     - Interface limpa e objetiva<br>
     - Existência de um canal FAQ
+    - Chat bot
 7. Quais são algumas melhorias que você acredita que influenciaria positivamente a experiência do usuário?
     - Tema escuro<br>
     - Possibilidade de acompanhar o andamento dos processos<br>
+    - Centralizar todos os serviços em um único aplicativo<br>
     - Aba de ajuda<br>
+    - Melhorar estabilidade do aplicativo<br>
     - Audiodescrição
 
 Na elicitação de requisitos para o aplicativo Gov.br, utilizaremos abreviações para classificar e organizar os requisitos de maneira clara e estruturada. Dois desses códigos frequentemente usados são RF (Requisitos Funcionais) e RNF (Requisitos Não Funcionais). Além disso, cada requisito elicitado terá um ID.
