@@ -6,18 +6,18 @@ O Brainstorm é uma técnica de elicitação que possui uma abordagem mais colab
 
 ## Metodologia
 
-O brainstorming foi realizado no dia 15/04/2024, com horário de incío às 22h e o horário de fim às 22:50h. A sessão contou com a participação de todos os integrantes do grupo, com dois mediadores [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Ester Lino](https://github.com/esteerlino). Inicialmente ocorreu uma breve introdução sobre o brainstorm, explicando como funcionaria e quais as recomendações. Em seguida, foi apresentado o quadro no Miro organizado com post-it's e contendo as sete perguntas que guiaram o brainstorming. A cada pergunta os mediadores solicitavam que cada participate incluísse os post-it's com suas respostas/ideias e quando necessário ocorriam discussões sobre as respostas obtidas. 
+O brainstorming foi realizado no dia 16/04/2024, com horário de incío às 14h e o horário de fim às 14:30h. A sessão contou com a participação de 8 usuários do aplicativo Gov.br, com um mediador [Arthur Gabriel](https://github.com/ArthurGabrieel) e uma secretária [Ester Lino](https://github.com/esteerlino). Inicialmente ocorreu uma breve introdução sobre o brainstorm, explicando como funcionaria e quais as recomendações. Em seguida, foi o mediador realizou as 7 perguntas, uma a uma, que guiaram o brainstorm. A cada pergunta os mediadores solicitavam que cada participante informasse suas respostas, ideias e opiniões e quando necessário ocorriam discussões sobre as respostas obtidas. 
 
 ## Perguntas e Respostas
 
 1. Quais são as principais funcionalidades que os usuários esperam do aplicativo Gov.br?
     - Acessar documentos<br>
     - Consultar serviços<br>
-    - Baixar certidões
-    - Se inscrever em concursos públicos
-    - Consultar programas do governo
-    - Conectar com o Detran
-    - Pagar impostos trabalhistas
+    - Baixar certidões<br>
+    - Se inscrever em concursos públicos<br>
+    - Consultar programas do governo<br>
+    - Conectar com o Detran<br>
+    - Pagar impostos trabalhistas<br>
 2. Quais problemas ou desafios os usuários enfrentam ao acessar os serviços do governo online?
     - Falta de clareza nos processos<br>
     - Lentidão<br>
@@ -32,15 +32,15 @@ O brainstorming foi realizado no dia 15/04/2024, com horário de incío às 22h 
     - Assinar documentos digitalmente<br>
     - Emitir prova de vida<br>
     - Acessar informações pessoais<br>
-    - Emitir certidões
+    - Emitir certidões<br>
     - Pegar código de acesso
 4. Quais recursos de segurança e privacidade são essenciais para proteger os dados dos usuários no aplicativo Gov.br?
     - Autenticação por biometria<br>
     - Criptografia dos dados<br>
     - Autenticação em dois fatores<br>
-    - Reconhecimento facial na base da Justiça Eleitoral
-    - Autenticação por QR Code
-    - Gerenciar dispositivos confiáveis
+    - Reconhecimento facial na base da Justiça Eleitoral<br>
+    - Autenticação por QR Code<br>
+    - Gerenciar dispositivos confiáveis<br>
     - Aumentar nível da conta
 5. Como podemos garantir que o aplicativo Gov.br seja acessível para pessoas com deficiência?
     - Descrição de áudio<br>
@@ -125,3 +125,4 @@ Na elicitação de requisitos para o aplicativo Gov.br, utilizaremos abreviaçõ
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 15/04/2024 | Criação da página  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/ArthurGabrieel) |
 |  1.1   | 16/04/2024 | Adicionando tabelas de requisitos  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/ArthurGabrieel) |
+|  1.2   | 17/04/2024 | Atualizando as informações da página  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/ArthurGabrieel) |

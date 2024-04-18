@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Este Termo de Consentimento Livre e Esclarecido (TCLE) visa esclarecer os objetivos, procedimentos e seus direitos como participante da pesquisa sobre o perfil dos usuários do aplicativo Gov.br, conduzida pela equipe 2 da disciplina de Requisitos, lecionada pelo professor André Barros de Sales na Universidade de Brasília.
+Este Termo de Consentimento Livre e Esclarecido (TCLE) visa esclarecer os objetivos, procedimentos e seus direitos como participante da pesquisa sobre o perfil dos usuários do aplicativo Gov.br, conduzida pela equipe 04 da disciplina de Requisitos, lecionada pelo professor André Barros de Sales na Universidade de Brasília.
 
 ## Apresentação
 
@@ -40,4 +40,4 @@ Centro universitário salesiano de São Paulo
 ##  Histórico de Versão
  | Versão |    Data    | Descrição                    |                                                 Autor(es)                                                 |                  Revisor(es)                   |
  | :----: | :--------: | :--------------------------- | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
- | `1.0`  | 29/09/2023 | Criação do Perfil de Usuário | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Thiago Ribeiro](https://github.com/ArthurGabrieel) |
+ | 1.0 | 29/09/2023 | Criação do Perfil de Usuário | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Thiago Ribeiro](https://github.com/ArthurGabrieel) |
