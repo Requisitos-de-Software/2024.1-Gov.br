@@ -117,13 +117,13 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 
 <br>
 
-<p style="text-align: center"><b>Tabela 6</b> - Antipersona Sofia Silva.</p>
+<p style="text-align: center"><b>Tabela 6</b> - Antipersona Sofia Guerra.</p>
 
 | |
 | -- |
 | <figure markdown><p style="text-align: center">Figura 6 - Antipersona Sofia.<div style="display: flex; justify-content: center;"><img src="assets/Persona6.jpeg" alt="Persona Sofia." style="height: 500px; width: 500px;"></div><figcaption>
 |<p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
-|**Nome:** Sofia Oliveira|
+|**Nome:** Sofia Guerra|
 |**Status:** Antipersona|
 |**Gênero:** Feminino|
 |**Idade:** 10 anos|

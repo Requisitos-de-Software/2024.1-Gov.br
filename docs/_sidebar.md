@@ -35,3 +35,4 @@
 - [Priorização](priorizacao/priorizacao.md)
     - [First Things First](priorizacao/FirstThingsFirst.md)
     - [Three Level Scale](priorizacao/ThreeLevelScale.md)
+    - [MoSCoW](priorizacao/moscow.md)
