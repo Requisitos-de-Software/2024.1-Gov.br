@@ -107,7 +107,7 @@ Para a atividade de priorização MoSCoW foi realizada um entrevista com um usu�
 
 ## Reunião
 
-No dia 21/04/2024, às 10:30, foi conduzida uma reunião com a presença do usuário Pablo, bem como dos membros do grupo [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Isaque Santos](https://github.com/IsaqueSH). Durante o encontro, o usuário Pablo consentiu com os termos de utilização de sua imagem e dados. Na ocasião, foram apresentados todos os requisitos previamente identificados, e cada um recebeu uma classificação de prioridade com base nas informações fornecidas pelo usuário entrevistado. Segue abaixo link para a gravação da reunião:
+No dia 21/04/2024, às 10:30, foi conduzida uma reunião com a presença do usuário Pablo, bem como dos membros do grupo [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Isaque Santos](https://github.com/IsaqueSH). O usuário Pablo consentiu com os termos de utilização de sua imagem e dados. Na ocasião, foram apresentados todos os requisitos previamente identificados, e cada um recebeu uma classificação de prioridade com base nas informações fornecidas pelo usuário entrevistado. Segue abaixo link para a gravação da reunião:
 
 - [Gravação da Reunião](https://youtu.be/9w48BD_Sl0M)
 
