@@ -13,7 +13,15 @@ O termo MoSCoW é um acrônimo derivado do inglês, onde cada letra maiúscula r
 - **Could(Poderia ter)**: Representa um nível de prioridade menor, ou seja, são desejáveis mas não são necessários. Eles são implementados caso haja a disponiblidade de tempo e de recursos.
 - **Won't(Não terá)**: Representa um nível de prioridade menos cŕitico possível, com um menor retorno sobre o investimento ou não tão adequados para serem realizados.
 
-Para a atividade de priorização MoSCoW foi realizada um entrevista com um usuário, onde foram apresentados todos os requisitos já elicitados, e a partir disso cada requisito recebeu seu nível de prioridade de acordo com o usuário entrevistado.
+Para a atividade de priorização MoSCoW foi realizada um entrevista com um usuário, onde foram apresentados todos os requisitos já elicitados, e a partir disso, cada requisito recebeu seu nível de prioridade de acordo com o usuário entrevistado.
+
+## Reunião
+
+No dia 21/04/2024, às 10:30, foi conduzida uma reunião com a presença do usuário Pablo Trajano, bem como dos membros do grupo [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Isaque Santos](https://github.com/IsaqueSH). O usuário Pablo consentiu com os termos de utilização de sua imagem e dados. Na ocasião, foram apresentados todos os requisitos previamente identificados, e cada um recebeu uma classificação de prioridade com base nas informações fornecidas pelo usuário entrevistado. Segue abaixo a gravação da reunião:
+
+#### Gravação da Reunião
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9w48BD_Sl0M?si=TFVvZmVuWomanpsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Resultados
 
@@ -105,11 +113,6 @@ Para a atividade de priorização MoSCoW foi realizada um entrevista com um usu�
 </div>
 
 
-## Reunião
-
-No dia 21/04/2024, às 10:30, foi conduzida uma reunião com a presença do usuário Pablo, bem como dos membros do grupo [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Isaque Santos](https://github.com/IsaqueSH). O usuário Pablo consentiu com os termos de utilização de sua imagem e dados. Na ocasião, foram apresentados todos os requisitos previamente identificados, e cada um recebeu uma classificação de prioridade com base nas informações fornecidas pelo usuário entrevistado. Segue abaixo link para a gravação da reunião:
-
-- [Gravação da Reunião](https://youtu.be/9w48BD_Sl0M)
 
 ## Bibliografia
 

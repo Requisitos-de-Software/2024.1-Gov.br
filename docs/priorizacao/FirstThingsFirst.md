@@ -218,5 +218,5 @@ Os seguintes passos foram realizados no processo *First Things First*:
 |  1.0   | 13/04/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.1   | 15/04/2024 | Adição da tabela dos resultados | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.2   | 15/04/2024 | Adição dos vídeos das entrevistas | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
-|  1.3   | 16/04/2024 | Correções no arquvio | [Henrique Batalha](https://github.com/HeBatalha) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.3   | 16/04/2024 | Correções no arquivo | [Henrique Batalha](https://github.com/HeBatalha) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 
