@@ -1,6 +1,7 @@
 # Análise de Documentos
 
 ## Introdução
+
 <p align="justify">Este documento é destinado à elicitação e documentação dos requisitos de software para o aplicativo Gov.br, utilizando a técnica de análise de documentos. O Gov.br é uma plataforma integrada que oferece acesso a uma ampla gama de serviços públicos federais, estaduais e municipais.</p>
 
 ### Metodologia de Análise de Documentação
@@ -8,15 +9,18 @@
 Neste projeto, adotamos uma metodologia específica para a análise de documentação com o objetivo de elicitar requisitos a partir de documentos existentes sobre o aplicativo gov.br. O processo foi cuidadosamente estruturado para garantir que todos os aspectos relevantes fossem considerados e que as informações obtidas fossem precisas e úteis para o desenvolvimento do projeto. A seguir, detalhamos os passos específicos que foram seguidos:
 
 #### 1. Seleção de Documentos
+
 Inicialmente, identificamos e reunimos todos os documentos relevantes que pudessem fornecer insights sobre os requisitos do sistema. Para este projeto, os documentos selecionados incluíram:
 - **Termos de Uso e Aviso de Privacidade do aplicativo gov.br**: Este documento foi crucial pois continha informações detalhadas sobre as funcionalidades do sistema, os dados tratados pelo aplicativo e as obrigações legais relacionadas à privacidade e proteção de dados.
 - **Feedback de Usuários na Play Store**: Comentários de usuários na Play Store foram revisados para entender as percepções dos usuários, problemas comuns e sugestões de melhorias que não estão explicitamente documentadas nos requisitos técnicos formais. 
 
 #### 2. Revisão e Análise
+
 - **Leitura Detalhada**: Cada documento foi lido detalhadamente para extrair informações pertinentes sobre o funcionamento atual do sistema e requisitos potenciais. As sessões de leitura foram seguidas de sessões de anotação onde pontos chave foram destacados.
 - **Identificação de Requisitos**: Durante a leitura, identificamos explicitamente requisitos funcionais e não funcionais. Por exemplo, a partir do Termo de Uso e Aviso de Privacidade, extraímos requisitos relacionados à segurança de dados, conformidade legal e funcionalidades específicas do sistema.
 
 #### 3. Documentação dos Requisitos
+
 - **Registro de Requisitos**: Todos os requisitos identificados foram documentados em um formato padronizado. Isso incluiu a descrição do requisito, a fonte do documento onde a informação foi encontrada e qualquer observação relevante que pudesse influenciar a implementação ou teste desses requisitos.
 - **Validação**: Os requisitos documentados foram revisados por toda a equipe.
 

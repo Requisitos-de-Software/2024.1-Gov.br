@@ -10,7 +10,6 @@ O grupo decidiu, após análise das técnicas estudadas e avaliação de quais p
 1. [Análise de documentos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos)
 2. [Brainstorm](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm)
 3. [Storytelling](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling)
-4. [Introspecção]()
 
 ## Bibliografia
 
