@@ -64,7 +64,7 @@ Após uma análise das respostas obtidas pelo questionário juntamente com a an�
 - **Idade:** acima de 18 anos.
 - **Experiência:** Variável, desde iniciantes até experientes em tecnologia.
 - **Atitudes:** Tecnófilos.
-- **Tarefas primárias:** Acessar serviços como consulta de benefícios, emissão de documentos, pagamento de impostos, etc.
+- **Tarefas primárias:** Acessar serviços como consulta de documentos, assinar documentos digitalmente, baixar certidões, etc.
 
 ## Bibliografia
 
