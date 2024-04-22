@@ -28,7 +28,25 @@ A tabela 1 apresenta o cronograma executado para a entrega da etapa 1.
 
 A tabela 2 apresenta o cronograma executado para a entrega da etapa 2.
 
-***EM BREVE...***
+<figcaption align="center">Tabela 2 - Cronograma planejado da etapa 2</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 04/04</br> Fim: 13/04 | [Ester Lino](https://github.com/esteerlino) | Início:15/04</br> Fim: 17/04 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 13/04</br> Fim: 20/04 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:21/04</br> Fim: 22/04 |
+| Perfil de Usuário | [Arthur Gabriel](ArthurGabrieel), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 03/04</br> Fim: 13/04 | [Henrique Batalha](https://github.com/HeBatalha) | Início:21/04</br> Fim: 22/04 |
+| Criação das Personas | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH) | Início: 07/04</br> Fim: 14/04 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:21/04</br> Fim: 22/04 |
+| Técnicas de elicitação: análise de documentos | [Henrique Batalha](https://github.com/HeBatalha), [Caio Berg](https://github.com/Caio-bergbjj) | Início: 11/04</br> Fim: 17/04 | [Isaque Santos](https://github.com/IsaqueSH) | Início: 21/04</br> Fim: 22/04 |
+| Técnicas de elicitação: brainstorming | [Ester Lino](https://github.com/esteerlino), [Arthur Gabriel](ArthurGabrieel) | Início: 15/04</br> Fim: 21/04 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:21/04</br> Fim: 22/04 |
+| Técnicas de elicitação: storytelling | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | Início: 13/04</br> Fim: 16/04 | [Arthur Gabriel](ArthurGabrieel) | Início:21/04</br> Fim: 22/04  |
+| Técnicas de priorização: MoSCoW | [Arthur Gabriel](ArthurGabrieel), [Isaque Santos](https://github.com/IsaqueSH) | Início: 13/04</br> Fim: 22/04 | [Ester Lino](https://github.com/esteerlino) | Início:21/04</br> Fim: 22/04 |
+| Técnicas de priorização: First Thing First | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Henrique Batalha](https://github.com/HeBatalha) | Início: 13/04</br> Fim: 16/04 | [Arthur Gabriel](ArthurGabrieel) | Início:21/04</br> Fim: 22/04 |
+| Técnicas de priorização: Three Level Scale | [Ester Lino](https://github.com/esteerlino) | Início: 13/04</br> Fim: 22/04 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:21/04</br> Fim: 22/04 |
+| Página com os requisitos elicitados | [Ester Lino](https://github.com/esteerlino) |  Início: 13/04</br> Fim: 22/04 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:21/04</br> Fim: 22/04 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 20/04</br> Fim: 22/04 | [Arthur Gabriel](ArthurGabrieel) | Início:21/04</br> Fim: 22/04 |
+| Correção após feedbacks da entrega 02 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 22/04</br> Fim: 27/04 | [Ester Lino](https://github.com/esteerlino) | Início:27/04</br> Fim: 28/04 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
 
 ## Cronograma Executado da Etapa 3 - Modelagem de Requisitos I
 
@@ -75,3 +93,4 @@ A tabela 9 apresenta o cronograma planejado para a entrega da etapa 7.
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 09/04/2024 | Criação da página para os cronogramas executados| [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+|  1.1   | 22/04/2024 | Inclusão do cronograma executado da etapa 02 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |

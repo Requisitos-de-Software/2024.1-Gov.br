@@ -29,6 +29,6 @@ Após uma análise das respostas obtidas pelo questionário juntamente com a an�
 
 ## 📑 Histórico de versões:
 
- | Versão |    Data    | Descrição                                                         |                   Autor(es)                    |                  Revisor(es)                   |
- | :----: | :--------: | :---------------------------------------------------------------- | :--------------------------------------------: | :--------------------------------------------: |
- | `1.0`  | 29/09/2023 | Criação do Perfil de Usuário                                      | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/ArthurGabrieel)| [Caio Berg](https://github.com/ArthurGabrieel)|
+| Versão |    Data    | Descrição                                                         |                   Autor(es)                    |                  Revisor(es)                   |
+| :----: | :--------: | :---------------------------------------------------------------- | :--------------------------------------------: | :--------------------------------------------: |
+| `1.0`  | 09/04/2024 | Criação do Perfil de Usuário                                      | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/ArthurGabrieel)| [Caio Berg](https://github.com/ArthurGabrieel)|
