@@ -16,7 +16,7 @@ A metodologia de elaboração e definição do perfil de usuário do aplicativo 
 
 ### Termo de Consentimento
 
-![Termo de Consentimento](/docs/perfil_usuario/assets/consentimento.png)
+![Termo de Consentimento](/perfil_usuario/assets/consentimento.png)
 
 ### Perguntas
 
@@ -24,37 +24,37 @@ A metodologia de elaboração e definição do perfil de usuário do aplicativo 
 
 #### Pergunta 1
 
-![Pergunta 1](/docs/perfil_usuario/assets/pergunta1.png)
+![Pergunta 1](/perfil_usuario/assets/pergunta1.png)
 
 #### Pergunta 2
 
-![Pergunta 2](/docs/perfil_usuario/assets/pergunta2.png)
+![Pergunta 2](/perfil_usuario/assets/pergunta2.png)
 
 #### Pergunta 3
 
-![Pergunta 3](/docs/perfil_usuario/assets/pergunta3.png)
+![Pergunta 3](/perfil_usuario/assets/pergunta3.png)
 
 ### Perfil de Usuário
 
 #### Pergunta 4
 
-![Pergunta 4](/docs/perfil_usuario/assets/pergunta4.png)
+![Pergunta 4](/perfil_usuario/assets/pergunta4.png)
 
 #### Pergunta 5
 
-![Pergunta 5](/docs/perfil_usuario/assets/pergunta5.png)
+![Pergunta 5](/perfil_usuario/assets/pergunta5.png)
 
 #### Pergunta 6
 
-![Pergunta 6](/docs/perfil_usuario/assets/pergunta6.png)
+![Pergunta 6](/perfil_usuario/assets/pergunta6.png)
 
 #### Pergunta 7
 
-![Pergunta 7](/docs/perfil_usuario/assets/pergunta7.png)
+![Pergunta 7](/perfil_usuario/assets/pergunta7.png)
 
 #### Pergunta 8
 
-![Pergunta 8](/docs/perfil_usuario/assets/pergunta8.png)
+![Pergunta 8](/perfil_usuario/assets/pergunta8.png)
 
 ## Definição do Perfil de Usuário
 
