@@ -21,7 +21,7 @@ A tabela 1 apresenta os requisitos funcionais e não funcionais, sendo que cada 
 
 <p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais e não funcionais</p>
 
-|  ID  |                                Descrição                                |                                  Rastreabilidade                                 | Implementado |
+|  Tipo  |                                Descrição                                |                                  Rastreabilidade                                 | Implementado |
 |:----:|:-----------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:-------------:|
 | RF01 | O sistema deve possuir uma funcionalidade de reconhecimento facial para autenticação do usuário. | [ADFU01](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) | Sim |
 | RF02 | O sistema deve permitir que os usuários recuperem suas senhas através de métodos seguros e eficientes. | [ADFU02](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) | Sim |

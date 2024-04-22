@@ -9,7 +9,7 @@ Priorização de requisitos consiste no processo de classificar e ordenar requis
 O grupo decidiu, após análise das técnicas estudadas e avaliação de quais poderiam ser utilizadas, trabalhar com as seguintes técnicas de priorização:
 1. [First Things First](https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/FirstThingsFirst)
 2. [Three Level Scale](https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/ThreeLevelScale)
-3. [MoSCoW]()
+3. [MoSCoW](https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/moscow)
 
 ## Bibliografia
 
