@@ -8,9 +8,9 @@ O Three Level Scale é uma técnica que consiste em classificar os requisitos de
 
 A priorização por essa técnica foi realizada por um membro da equipe, que guiou a sessão e um usuário, responsável por classificar os requisitos em algumas das três categorias. As categorias de prioridade foram elaboradas de acordo com a urgência e importância de cada requisito, seguindo a legenda a seguir:
 
-- Alta prioridade: requisitos importantes e urgentes. Geralmente têm um impacto significativo e imediato nas metas ou objetivos prioritários. Requisitos nessa categoria devem ser tratados o mais rápido possível.
-- Média prioridade: requisitos importantes, mas não urgentes. Eles podem ter um impacto significativo a longo prazo ou contribuir para metas secundárias. ERequisitos nessa categoria devem ser tratados em um prazo razoável.
-- Baixa prioridade: requisitos nem importantes, nem urgentes. Eles geralmente têm um impacto menor ou são tarefas opcionais que podem ser adiadas. Requisitos nessa categoria podem ser tratados quando houver tempo disponível.
+- **Alta prioridade:** requisitos importantes e urgentes. Geralmente têm um impacto significativo e imediato nas metas ou objetivos prioritários. Requisitos nessa categoria devem ser tratados o mais rápido possível.
+- **Média prioridade:** requisitos importantes, mas não urgentes. Eles podem ter um impacto significativo a longo prazo ou contribuir para metas secundárias. ERequisitos nessa categoria devem ser tratados em um prazo razoável.
+- **Baixa prioridade:** requisitos nem importantes, nem urgentes. Eles geralmente têm um impacto menor ou são tarefas opcionais que podem ser adiadas. Requisitos nessa categoria podem ser tratados quando houver tempo disponível.
 
 ## Participantes
 
@@ -72,7 +72,7 @@ A sessão de priorização foi realizada no dia 22/04/2024, com horário de inc�
 | RF39 | Como usuário, desejo substituir minha carteira física por uma versão digital no aplicativo.   | [ST12](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Média |
 | RF40 | Como usuário, desejo acesso rápido aos meus documentos no celular, sem a necessidade de documentos físicos. | [ST13](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Alta |
 | RF41 | Como usuário, desejo poder acessar meus documentos mesmo sem conexão com a internet.          | [ST14](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Média |
-| RF42 | Como usuário, desejo garantir a privacidade das informações pessoais.                         | [ST15](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Alt |
+| RF42 | Como usuário, desejo garantir a privacidade das informações pessoais.                         | [ST15](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Alta |
 | RNF01 | O sistema deve ser estável e confiável, funcionando corretamente sem travamentos ou fechamentos inesperados. | [ADFU07](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) | Alta |
 | RNF02 | A interface do sistema deve ser clara e fácil de usar, evitando complexidades desnecessárias que possam confundir os usuários. | [ADFU08](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |  Alta |
 | RNF03 | As funcionalidades críticas, como reconhecimento facial e autenticação, devem ser otimizadas para operar de maneira rápida e eficiente. | [ADFU09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) | Média |
@@ -100,6 +100,7 @@ A sessão de priorização foi realizada no dia 22/04/2024, com horário de inc�
 
 ## Gravação da reunião
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZRdGgvMjjA?si=6PqCsxmw7Uvno0WJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
@@ -110,4 +111,5 @@ A sessão de priorização foi realizada no dia 22/04/2024, com horário de inc�
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 22/04/2024 | Criação da página  | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+|  1.1   | 22/04/2024 | Incluído o vídeo da sessão de priorização | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 
