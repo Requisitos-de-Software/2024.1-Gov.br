@@ -24,9 +24,9 @@
 
 **Elicitação**
 
-- [Personas](Personas/Personas.md)
 - [Perfil de Usuário](perfil_usuario/perfil_usuario.md)
   - [Termo de Consentimento](perfil_usuario/TCLE_pesquisa.md)
+- [Personas](Personas/Personas.md)
 - [Elicitação](elicitacao/elicitacao.md)
   - [Termo de Consentimento](elicitacao/termo_de_consentimento.md)
   - [Análise de Documentos](elicitacao/analise_documentos.md)
