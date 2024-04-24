@@ -58,7 +58,7 @@ A metodologia de elaboração e definição do perfil de usuário do aplicativo 
 
 ## Definição do Perfil de Usuário
 
-Após uma análise das respostas obtidas pelo questionário juntamente com a análise documental, foi traçado um Perfil de Usuário para o aplicativo da Carteira Digital de Trânsito com as seguintes descrições:
+Após uma análise das respostas obtidas pelo questionário juntamente com a análise documental, foi traçado um Perfil de Usuário para o aplicativo do Gov.br com as seguintes descrições:
 
 - **Gênero:** Em sua maioria Masculino.
 - **Idade:** acima de 18 anos.
