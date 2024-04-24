@@ -3,11 +3,13 @@
 **Apresentações**
 
 - [Apresentação 01](apresentacoes/apresentacao_01.md)
+- [Apresentação 02](apresentacoes/apresentacao_02.md)
 
 **Atas**
 
 - [Reunião 01](atas/reuniao_01.md)
 - [Reunião 02](atas/reuniao_02.md)
+- [Reunião 03](atas/reuniao_03.md)
 
 **Pré-Rastreabilidade**
 
