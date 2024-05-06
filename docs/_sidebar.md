@@ -40,3 +40,7 @@
   - [First Things First](priorizacao/FirstThingsFirst.md)
   - [Three Level Scale](priorizacao/ThreeLevelScale.md)
   - [MoSCoW](priorizacao/moscow.md)
+
+**Modelagem**
+
+- [Cenários](modelagem/cenarios.md)
