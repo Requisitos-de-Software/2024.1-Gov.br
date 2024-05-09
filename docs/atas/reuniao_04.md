@@ -48,17 +48,17 @@ A Ata de reunião é um registro formal de um encontro organizacional. Nela, fic
 | N°  | Compromisso                           | Responsável        | Data       |
 |-----|---------------------------------------|--------------------|------------|
 | 1   | PERFIL DE USUÁRIO: Descrição sobre o perfil, Perfil mais amplo, Período do questionário, Referências Bibliográficas e Versão do termoAcesso | Thiago               | 
-| 2   | ANÁLISE DE DOCUMENTOS: Data de realização, Prints e Versões do termo de uso | Caio               | 13/05/2024 |
-| 3   | PERSONAS: Especificar a quantidade e o motivo                  | Henrique               | 13/05/2024 |
-| 4   | STORYTELLING: Áudio                  | Carlos               | 13/05/2024 |
-| 5   | GIT PAGES: Contraste de Cor                  | Ester               |  |
-| 6   | Atas da entrega 04                  | Carlos               | 13/05/2024 |
-| 7   | Atualização do Notion                            | Thiago             | 13/05/2024  |
-| 8   | Cenários                         |   Carlos e Henrique    | 13/05/2024  |
-| 9   | Casos de Usos                         | Isaque e Caio    | 13/05/2024 |
-| 10   | Especificação Suplementar                          | Arthur, Caio e Thiago           | 13/05/2024  |
-| 11   | Léxicos                    | Ester               | 13/05/2024 |
-| 12   | Cronograma Executado                   | Ester              | 13/05/2024 |
+| 2   | ANÁLISE DE DOCUMENTOS: Data de realização, Prints e Versões do termo de uso | Caio               | 12/05/2024 |
+| 3   | PERSONAS: Especificar a quantidade e o motivo                  | Henrique               | 12/05/2024 |
+| 4   | STORYTELLING: Áudio                  | Carlos               | 12/05/2024 |
+| 5   | GIT PAGES: Contraste de Cor                  | Ester               | 12/05/2024 |
+| 6   | Atas da entrega 3                   | Carlos               | 19/05/2024 |
+| 7   | Atualização do Notion                            | Thiago             | 19/05/2024  |
+| 8   | Cenários                         |   Carlos e Henrique    | 19/05/2024  |
+| 9   | Casos de Usos                         | Isaque e Caio    | 19/05/2024 |
+| 10   | Especificação Suplementar                          | Arthur, Caio e Thiago           | 19/05/2024  |
+| 11   | Léxicos                    | Ester               | 19/05/2024 |
+| 12   | Cronograma Executado                   | Ester              | 19/05/2024 |
 
 ### Link da Gravação
 
