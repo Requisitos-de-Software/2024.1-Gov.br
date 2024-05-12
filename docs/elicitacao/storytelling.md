@@ -166,3 +166,4 @@ Ao finalizar as tarefas no aplicativo, Olimar sente um alívio. Ele percebe que 
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 13/04/2024 | Versão Inicial | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.1   | 16/04/2024 | Ajuste nas histórias das personas | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.2   | 11/05/2024 | Adição das histórias em áudios | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
