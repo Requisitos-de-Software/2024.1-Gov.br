@@ -17,6 +17,18 @@ envolvendo-os em uma jornada que os cativa e os inspira a pensar, sentir ou agir
 
 A partir da criação das personas e com base nos seus respectivos perfis e seus atributos de habilidade, experiências, objetivo e expectativa, teve-se a base para elicitar os requisitos e desenvolver o storytelling.
 
+## Histórias para escutar
+
+[História do Joao Silva](https://drive.google.com/file/d/1FEmeSsDe-8jFr4s0cxZ-NSNnOcnE1r2I/view?usp=sharing)
+
+[História do Lucas Oliveira](https://drive.google.com/file/d/1FEmeSsDe-8jFr4s0cxZ-NSNnOcnE1r2I/view?usp=sharing)
+
+[História da Maria Fernanda](https://drive.google.com/file/d/1HYrny4quzumHSyDw1uAP7tZyrWzkYJfD/view?usp=sharing)
+
+[História do Olimar Gonçalves](https://drive.google.com/file/d/1i8QkmO4NOYSt1HPtssWWusZ9oMFqpyHu/view?usp=sharing)
+
+[História do Rafael Pedrosa](https://drive.google.com/file/d/1Lp56FelxYmLadJ4k2MTAuL1H0tuMUPoq/view?usp=sharing)
+
 
 ## João Silva
 
