@@ -21,7 +21,7 @@ A partir da criação das personas e com base nos seus respectivos perfis e seus
 
 [História do Joao Silva](https://drive.google.com/file/d/1FEmeSsDe-8jFr4s0cxZ-NSNnOcnE1r2I/view?usp=sharing)
 
-[História do Lucas Oliveira](https://drive.google.com/file/d/1FEmeSsDe-8jFr4s0cxZ-NSNnOcnE1r2I/view?usp=sharing)
+[História do Lucas Oliveira](https://drive.google.com/file/d/1uEy3uBu2MI-anhzX45qyFLEtEX6k6NAh/view?usp=sharing)
 
 [História da Maria Fernanda](https://drive.google.com/file/d/1HYrny4quzumHSyDw1uAP7tZyrWzkYJfD/view?usp=sharing)
 
