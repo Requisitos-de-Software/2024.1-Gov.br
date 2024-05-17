@@ -44,3 +44,4 @@
 **Modelagem**
 
 - [Cenários](modelagem/cenarios.md)
+- [Léxicos](modelagem/lexicos.md)

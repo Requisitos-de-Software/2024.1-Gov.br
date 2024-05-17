@@ -96,7 +96,7 @@ A sessão de priorização foi realizada no dia 22/04/2024, com horário de inc�
 | RNF21 | Atualização: O aplicativo deve manter os usuários informados sobre novidades e atualizações importantes. | [ST21](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Baixa |
 | RNF22 | Privacidade: Garantir que as informações dos usuários não sejam compartilhadas sem permissão. | [ST22](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling)  | Alta |
 
-<font size="2"><p style="text-align: center"><b>Autora: <a href="https://github.com/esteerlino">Ester Lino</a></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></p></font>
 
 ## Gravação da reunião
 

@@ -8,7 +8,7 @@ Os cenários são uma descrição escrita em linguagem natural de eventos e situ
 
 Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
-<p style="text-align: center"><b>Tabela 1</b> - Modelo dos cenários</p>
+<p style="text-align: center">Tabela 1 - Modelo dos cenários</p>
 
 | Elemento           | Descrição                                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,11 +20,13 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Restrições**         | Restriçõe e limitações que podem afetar os episódios. |
 | **Exceções**           | Condições ou acontecimentos que podem impossibilitar o cenário |
 
-<p style="text-align: center"><b>Fonte:</b> Autores</p>
+<p style="text-align: center">Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a> e <a href="https://github.com/HeBatalha">Henrique Batalha</a></p>
 
 ## Cenários criados
 
 ### Cenário 1: Agendamento de Atendimento em Órgão Público - gov.br
+
+<p style="text-align: center">Tabela 2 - Cenário 01</p>
 
 | Elemento    | Descrição                                                                                       |
 | ----------- | ----------------------------------------------------------------------------------------------- |
@@ -37,7 +39,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceção**     | - Se o serviço desejado não estiver disponível para agendamento online, o aplicativo exibirá uma mensagem informando ao cidadão que o agendamento deve ser feito presencialmente. - Se o cidadão tentar agendar um atendimento para uma data e horário indisponíveis, o aplicativo exibirá uma mensagem informando que o horário escolhido não está disponível e sugerirá outros horários. |
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ### Cenário 2: Busca Intuitiva de Processos e Documentos - gov.br
+
+<p style="text-align: center">Tabela 3 - Cenário 02</p>
 
 | Elemento     | Descrição                                                                                                           |
 | ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +56,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceção**     | - Se houver falha na autenticação do usuário, o aplicativo deve exibir uma mensagem de erro e oferecer opções de recuperação de conta.<br>- Se ocorrer um erro durante a busca, o aplicativo deve apresentar uma mensagem de falha na pesquisa e sugerir tentar novamente mais tarde.<br>- Se os resultados da pesquisa forem inconsistentes ou incompletos, o aplicativo deve oferecer opções de feedback para que o usuário possa reportar o problema. |
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ### Cenário 3: Eficiência no Agendamento e Acompanhamento de Processos - gov.br
+
+<p style="text-align: center">Tabela 4 - Cenário 03</p>
 
 | Elemento      | Descrição                                                                                           |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +73,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceção**              | - Se houver falha na autenticação do usuário, o aplicativo deve exibir uma mensagem de erro e oferecer opções de recuperação de conta.<br>- Se ocorrer um erro durante o agendamento do processo, o aplicativo deve apresentar uma mensagem de falha e permitir ao usuário tentar novamente.<br>- Se o processo não puder ser acompanhado devido a problemas técnicos ou de integração com sistemas externos, o aplicativo deve informar ao usuário sobre a indisponibilidade temporária do serviço.                                                                                                                                                          |
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ### Cenário 4: Acesso Rápido a Documentos Digitais no Celular - gov.br
+
+<p style="text-align: center">Tabela 5 - Cenário 04</p>
 
 | Elemento                            | Descrição                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -76,7 +90,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceção**                            | - Se houver falha na autenticação do usuário, o aplicativo deve exibir uma mensagem de erro e oferecer opções de recuperação de conta.<br>- Se ocorrer um erro durante o acesso aos documentos digitais, o aplicativo deve apresentar uma mensagem de falha e orientar o usuário sobre as medidas a serem tomadas.<br>- Se um documento digital não estiver disponível ou não puder ser verificado, o aplicativo deve informar ao usuário sobre a situação e sugerir alternativas.   |
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ### Cenário 5: Segurança na Transmissão e Armazenamento de Documentos Sensíveis - gov.br
+
+<p style="text-align: center">Tabela 6 - Cenário 05</p>
 
 | Elemento                                 | Descrição          |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -89,7 +107,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceção**                                 | - Se ocorrer uma falha na transmissão dos dados criptografados, o aplicativo deve exibir uma mensagem de erro e orientar o cidadão sobre as medidas a serem tomadas.<br>- Se houver uma violação de segurança nos servidores do governo, o aplicativo deve notificar imediatamente o cidadão sobre o incidente e as medidas de proteção adotadas.                                                                               |
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ### Cenário 6: Garantia da Privacidade das Informações Pessoais - gov.br
+
+<p style="text-align: center">Tabela 7 - Cenário 06</p>
 
 | Elemento                                     | Descrição                                                                                                                                                                                                                         |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -102,7 +124,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceção**                                     | - Se ocorrer uma violação de dados pessoais, o aplicativo gov.br deve notificar imediatamente o cidadão afetado e as autoridades competentes, conforme exigido pela LGPD e outras regulamentações aplicáveis.<br>- Se um cidadão não puder acessar, retificar ou excluir seus dados pessoais devido a problemas técnicos ou de sistema, o aplicativo gov.br deve fornecer um mecanismo alternativo para que o cidadão exerça seus direitos de privacidade.                                                                                                                                                                                                                                 |
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ### Cenário 7: Eficiência no Acesso e Agendamento de Serviços - gov.br
+
+<p style="text-align: center">Tabela 8 - Cenário 07</p>
 
 | Elemento           | Descrição                                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,7 +141,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceções**           | - Serviços presenciais: Alguns serviços públicos ainda exigem atendimento presencial, mesmo com a disponibilidade da opção online. Nesses casos, o aplicativo gov.br pode fornecer informações sobre os locais de atendimento presencial e orientar o cidadão sobre como realizar o agendamento.<br>-Situações de emergência: Em situações de emergência, o governo poderá priorizar o atendimento de serviços essenciais, podendo haver interrupções temporárias ou ajustes nos serviços disponíveis no aplicativo gov.br. |
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ### Cenário 8: Manutenção da Integridade de Documentos e Informações - gov.br
+
+<p style="text-align: center">Tabela 9 - Cenário 08</p>
 
 | Elemento              | Descrição                                                                                                                                             |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -128,7 +158,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceções**              | - Documentos antigos: Documentos antigos que foram digitalizados ou armazenados em formato digital antigo podem não ter os recursos de segurança necessários para garantir sua completa autenticidade e integridade.<br>-Informações que estão em processo de atualização nos sistemas do governo podem estar temporariamente indisponíveis ou apresentar inconsistências.|
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ### Cenário 9: Acessibilidade Offline - gov.br
+
+<p style="text-align: center">Tabela 10 - Cenário 09</p>
 
 | Elemento      | Descrição                                                                                                                                                                       |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -141,7 +175,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceções**   | -Nem todos os serviços públicos estarão disponíveis para uso offline no aplicativo gov.br.<br>-Alguns serviços podem exigir conexão com a internet por motivos técnicos ou de segurança.<br>-Falhas técnicas no aplicativo gov.br ou no smartphone do cidadão podem afetar a disponibilidade dos serviços offline. <br>-Em caso de desastres naturais que afetem a infraestrutura de telecomunicações, o aplicativo gov.br offline pode ser a única maneira de o cidadão acessar serviços públicos essenciais. |
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ### Cenário 10: Notificação de Acessos Não Autorizados e Mudanças Críticas na Segurança - gov.br
+
+<p style="text-align: center">Tabela 11 - Cenário 10</p>
 
 | Elemento  | Descrição                                          |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -154,6 +192,8 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceções**  | Falhas técnicas no aplicativo gov.br ou na infraestrutura de comunicação podem afetar o envio das notificações. - Erros humanos: Erros humanos no cadastramento das informações de contato do cidadão podem impedir que ele receba as notificações. <br>-Ações maliciosas de terceiros podem tentar bloquear ou interceptar as notificações enviadas pelo gov.br. |
 <br>
 
+<p style="text-align: center">Fonte: <a href=""></a></p>
+
 ## Bibliografia
 
 - SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf. Acesso em: 06 de maio de 2024.
@@ -163,3 +203,4 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 06/05/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.1   | 17/05/2024 | Correção das legendas das tabelas e definição do cenário | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
