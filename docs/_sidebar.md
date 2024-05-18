@@ -43,5 +43,6 @@
 
 **Modelagem**
 
+- [Casos de Uso](modelagem/casos_de_uso.md)
 - [Cenários](modelagem/cenarios.md)
 - [Léxicos](modelagem/lexicos.md)
