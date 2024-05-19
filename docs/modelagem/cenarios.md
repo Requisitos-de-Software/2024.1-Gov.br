@@ -40,19 +40,20 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 <br>
 <p style="text-align: center">Fonte: <a href=""></a></p>
 
-### Cenário 2: Busca Intuitiva de Processos e Documentos - gov.br
+### Cenário 2:  Simulação de Aposentadoria - gov.br
 
 <p style="text-align: center">Tabela 3 - Cenário 02</p>
 
 | Elemento     | Descrição                                                                                                           |
 | ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**     | Descrever o processo de um cidadão buscar processos e documentos de forma intuitiva no aplicativo gov.br, utilizando recursos de pesquisa avançada e personalização. |
-| Contexto     | O cidadão está em casa e precisa consultar o andamento de um processo que ele já deu entrada ou baixar um documento relacionado a um serviço público. O cidadão já possui uma conta no gov.br e está conectado à internet. |
-| **Recursos**     | Smartphone com o aplicativo gov.br instalado. Conexão com a internet.                                                                                        |
+| **Objetivo**     | Descrever um cenário para ilustrar a simulação de aposentadoria no aplicativo Gov.br para os cidadãos. |
+| Contexto     | O cidadão está em casa e está curioso para saber quando poderá se aposentar e quanto receberá de benefício. O cidadão já possui uma conta no gov.br e está conectado à internet. |
+| **Recursos**     | Aplicativo gov.br instalado e atualizado.<br>Conta gov.br com login e senha.<br>Dados cadastrais atualizados no INSS, incluindo tempo de contribuição e histórico de salários. |
 | **Ator**         | Cidadão                                                                                                                                                     |
-| **Episódios**    | -O usuário abre o aplicativo gov.br e faz login com seu CPF e senha. <br>Na tela inicial do aplicativo, o usuário localiza e toca no botão "Buscar Processos e Documentos". <br>Na tela de busca, o cidadão escolhe entre as opções de pesquisa disponíveis, como número do protocolo, CPF/CNPJ, assunto, palavras-chave, órgão responsável, data, filtros adicionais e pesquisa por voz.<br>O usuário pode acessar seu histórico de buscas para facilitar consultas recorrentes.<br>O usuário pode combinar diferentes métodos de busca e utilizar operadores lógicos para refinar os resultados da pesquisa.<br>O usuário inicia a pesquisa tocando no botão "Buscar". <br>O aplicativo apresenta uma lista de resultados relevantes ordenados por critérios como data de atualização, relevância ou status do processo.<br>O usuário seleciona um resultado da lista para visualizar detalhes.<br>O aplicativo exibe uma tela com informações completas sobre o processo ou documento escolhido, incluindo histórico do processo, documentos disponíveis e informações de contato do órgão responsável.<br>O usuário pode salvar suas preferências de busca para uma experiência mais personalizada. |
-| **Restrições**  | - O cidadão deve estar conectado à internet para utilizar o aplicativo gov.br.<br>- Os processos e documentos disponíveis para consulta devem estar dentro do escopo do sistema gov.br.<br>- A utilização de filtros e operadores lógicos está sujeita à disponibilidade de recursos no aplicativo.<br>- A precisão e relevância dos resultados da pesquisa podem variar dependendo da qualidade dos dados e da eficácia dos algoritmos de busca. |
-| **Exceção**     | - Se houver falha na autenticação do usuário, o aplicativo deve exibir uma mensagem de erro e oferecer opções de recuperação de conta.<br>- Se ocorrer um erro durante a busca, o aplicativo deve apresentar uma mensagem de falha na pesquisa e sugerir tentar novamente mais tarde.<br>- Se os resultados da pesquisa forem inconsistentes ou incompletos, o aplicativo deve oferecer opções de feedback para que o usuário possa reportar o problema. |
+| **Episódios**    | O usuário abre o aplicativo gov.br e faz login com seu CPF e senha.<br>O usuário localiza a barra de pesquisa e digita "Aposentadoria"<br> O usuário localiza a opção "Simular Aposentadoria" e clica.<br>O aplicativo direciona o cidadão para uma página da calculadora do INSS e o cidadão clica em "Iniciar"<br>O cidadão localiza a opção "Simular aposentadoria".<br>O cidadão ajusta os dados com o empregador e o tempo de serviço.<br>O cidadão clica em "Recalcular e obtém os dados"  |
+| **Restrições**  | A simulação para quem só possui contribuição depois de 13/11/2019 ainda está em desenvolvimento.<br>A simulação de aposentadoria no aplicativo gov.br requer acesso à internet.  |
+| **Exceção**     | A simulação pode apresentar resultados imprecisos ou incompletos se os dados cadastrais do cidadão no INSS estiverem desatualizados ou incorretos.<br>A legislação previdenciária brasileira é complexa e pode sofrer alterações ao longo do tempo. |
+<br>
 <br>
 
 <p style="text-align: center">Fonte: <a href=""></a></p>
@@ -205,3 +206,4 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 |  1.1   | 17/05/2024 | Correção das legendas das tabelas | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 |  1.2   | 18/05/2024 | Definição do cenário 04 | [Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |
 |  1.3   | 19/05/2024 | Definição do cenário 01 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Henrique Batalha](https://github.com/HeBatalha) |
+|  1.4   | 19/05/2024 | Definição do cenário 02 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Henrique Batalha](https://github.com/HeBatalha) |
