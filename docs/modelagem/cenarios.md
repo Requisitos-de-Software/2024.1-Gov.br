@@ -54,7 +54,6 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Restrições**  | A simulação para quem só possui contribuição depois de 13/11/2019 ainda está em desenvolvimento.<br>A simulação de aposentadoria no aplicativo gov.br requer acesso à internet.  |
 | **Exceção**     | A simulação pode apresentar resultados imprecisos ou incompletos se os dados cadastrais do cidadão no INSS estiverem desatualizados ou incorretos.<br>A legislação previdenciária brasileira é complexa e pode sofrer alterações ao longo do tempo. |
 <br>
-<br>
 
 <p style="text-align: center">Fonte: <a href=""></a></p>
 
@@ -99,11 +98,11 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | Elemento     | Descrição                                                                                                           |
 | ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Objetivo**     |  Descrever um cenário para agendamento de visita no Palácio do Planalto, utilizando o aplicativo gov.br |
-| Contexto     | O cidadãodeseja agendar uma visita ao Palácio do Planalto para conhecer as instalações e saber mais sobre o funcionamento do governo federal. Ele está acessando o aplicativo gov.br em seu smartphone |
+| Contexto     | O cidadão deseja agendar uma visita ao Palácio do Planalto para conhecer as instalações e saber mais sobre o funcionamento do governo federal. Ele está acessando o aplicativo gov.br em seu smartphone |
 | **Recursos**     | Smartphone com acesso à internet<br>Aplicativo gov.br instalado e atualizado<br>Conta gov.br com login e senha. |
 | **Ator**         | Cidadão                                                                                                                                                     |
 | **Episódios**    | O usuário abre o aplicativo gov.br na tela de login e digita seu CPF e senha.<br>Na barra de pesquisa digita "Agendar"<br>Localiza o serviço "Agendar visita institucional ao Palácio do Planalto"<br>O aplicativo direciona para uma nova página de Apreciação<br>O usuário clica em "Iniciar"<br>O usuário é direcionado para uma tela com a imagem do Palácio do Planalto e clica em "Entrar com GOV.BR"<br>O usuário seleciona o número de visitantes.<br>O usuário seleciona a data da visita<br>O usuário seleciona o horário<br>O usuário seleciona o idioma do evento<br>O usuário concorda com os termos e condições.|
-| **Restrições**  | A redefinição de senha no aplicativo gov.br requer acesso à internet.<br> O agendamento só pode ser realizado por meio de uma conta gov.br.<br>O número máximo de visitantes por agendamento é de 5 pessoas.<br>As datas e horários disponíveis para visitação podem variar de acordo com a agenda do Palácio do Planalto.<br>O Palácio do Planalto possui regras de segurança rígidas que devem ser respeitadas por todos os visitantes.  |
+| **Restrições**  | O agendamento no aplicativo gov.br requer acesso à internet.<br> O agendamento só pode ser realizado por meio de uma conta gov.br.<br>O número máximo de visitantes por agendamento é de 5 pessoas.<br>As datas e horários disponíveis para visitação podem variar de acordo com a agenda do Palácio do Planalto.<br>O Palácio do Planalto possui regras de segurança rígidas que devem ser respeitadas por todos os visitantes.  |
 | **Exceção**     | Escolas podem solicitar agendamento de visita para grupos de alunos por meio de canais específicos do Palácio do Planalto, como o site oficial ou e-mail.<br>Autoridades, diplomatas e outros convidados oficiais podem agendar visitas por meio de canais diplomáticos ou de contato direto com o cerimonial do Palácio do Planalto.<br>Em casos excepcionais, o Palácio do Planalto pode analisar solicitações de visita fora do horário normal de agendamento ou para grupos com mais de 5 pessoas.  |                                                                               |
 <br>
 
@@ -120,79 +119,29 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Recursos**     | Smartphone com acesso à internet<br>Aplicativo gov.br instalado e atualizado<br>Conta gov.br com login e senha. |
 | **Ator**         | Cidadão                                                                                                                                                     |
 | **Episódios**    | O usuário abre o aplicativo gov.br na tela de login e digita seu CPF e senha.<br>Na tela principal, o cidadão vai até a parte inferior da tela na seção "Minha conta"<br>O cidadão localiza "Privacidade"<br>Nessa seção, o cidadão clica em "Histórico de login"<br>O cidadão pode consultar os acessos do login em relação à data, hora e o serviço relacionado|
-| **Restrições**  | A redefinição de senha no aplicativo gov.br requer acesso à internet.<br> O agendamento só pode ser realizado por meio de uma conta gov.br.<br>O histórico de login é armazenado por um período limitado de tempo, definido pelo gov.br. Acessos realizados fora desse período não serão exibidos na lista.  |
+| **Restrições**  | A consulta do histórico no aplicativo gov.br requer acesso à internet.<br> A consulta só pode ser realizado por meio de uma conta gov.br.<br>O histórico de login é armazenado por um período limitado de tempo, definido pelo gov.br. Acessos realizados fora desse período não serão exibidos na lista.  |
 | **Exceção**     | O titular da conta gov.br pode solicitar a exclusão de itens específicos do seu histórico de login, desde que não interfiram em investigações legais ou em processos internos do gov.br.<br>Se o cidadão identificar erros no seu histórico de login, como acessos não realizados por ele, deve entrar em contato com o suporte do gov.br para que o problema seja investigado e corrigido.  |
 <br>
 
 <p style="text-align: center">Fonte: <a href=""></a></p>
 
-### Cenário 7: Eficiência no Acesso e Agendamento de Serviços - gov.br
+### Cenário 7: Consulta dos Termos de Uso do Aplicativo gov.br
 
 <p style="text-align: center">Tabela 8 - Cenário 07</p>
 
-| Elemento           | Descrição                                                                                                                                             |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**           | Descrever como o aplicativo gov.br garante a eficiência no acesso e agendamento de serviços públicos, proporcionando uma experiência rápida, simples e intuitiva para os cidadãos. |
-| **Contexto**           | O cidadão busca agilidade e praticidade na resolução de suas necessidades com o governo. O aplicativo gov.br deve ser um canal eficiente para o acesso e agendamento de diversos serviços públicos, como emissão de documentos, consulta de benefícios sociais, agendamento de consultas médicas e outros. |
-| **Recursos**           | Smartphone com o aplicativo gov.br instalado, conexão com a internet, banco de dados integrado com os órgãos públicos responsáveis pelos serviços, interface de usuário amigável e intuitiva. |
-| **Ator**               | Cidadão                                                                                                                                               |
-| **Episódios**         | -O cidadão utiliza a barra de pesquisa do aplicativo gov.br para encontrar rapidamente o serviço desejado. <br>-O cidadão pode navegar facilmente pelo aplicativo, sem precisar de conhecimentos técnicos avançados, e encontrar os serviços desejados de forma rápida e eficiente.<br>-O cidadão utiliza o aplicativo gov.br para agendar o serviço desejado, escolhendo data, hora e local de atendimento, quando disponível.<br>-O cidadão tem acesso a todas as informações necessárias para se preparar para o atendimento e utilizar o serviço de forma correta e eficiente.<br>-O cidadão pode acompanhar o status dos serviços agendados ou em andamento através do aplicativo gov.br, recebendo notificações sobre o andamento do processo. O cidadão tem acesso a informações atualizadas sobre o status dos serviços solicitados, permitindo que ele acompanhe o andamento do processo e se programe de acordo. |
-| **Restrições**         | - Disponibilidade de serviços online: Nem todos os serviços públicos estão disponíveis para agendamento online no aplicativo gov.br. - Demanda por serviços: Em alguns casos, a demanda por um serviço específico pode ser alta, o que pode levar a um tempo de espera mais longo para o agendamento.<br>-Falhas técnicas no aplicativo gov.br ou na infraestrutura de comunicação podem afetar o acesso e o agendamento de serviços. |
-| **Exceções**           | - Serviços presenciais: Alguns serviços públicos ainda exigem atendimento presencial, mesmo com a disponibilidade da opção online. Nesses casos, o aplicativo gov.br pode fornecer informações sobre os locais de atendimento presencial e orientar o cidadão sobre como realizar o agendamento.<br>-Situações de emergência: Em situações de emergência, o governo poderá priorizar o atendimento de serviços essenciais, podendo haver interrupções temporárias ou ajustes nos serviços disponíveis no aplicativo gov.br. |
+| Elemento     | Descrição                                                                                                           |
+| ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**     |  Descrever um cenário para consulta dos termos de uso do aplicativo gov.br |
+| Contexto     | O cidadão está está acessando o aplicativo gov.br pela primeira vez em seu smartphone. Ele deseja se familiarizar com os termos de uso da plataforma antes de criar sua conta e começar a utilizar os serviços disponíveis. |
+| **Recursos**     | Smartphone com acesso à internet<br>Aplicativo gov.br instalado e atualizado<br>Conta gov.br com login e senha. |
+| **Ator**         | Cidadão                                                                                                                                                     |
+| **Episódios**    | O usuário abre o aplicativo gov.br na tela de login e digita seu CPF e senha.<br>Na tela principal, o cidadão vai até a parte inferior da ela, onde tem as funcionalidades. <br>O cidadão localiza "Menu" e clica.<br>Abre uma barra lateral com a versão do aplicativo e o Termo de uso.<br>O aplicativo direciona o cidadão para uma nova tela com o Termo de uso e aviso de privacidade<br>O cidadão identifica o termo de suas seções|
+| **Restrições**  | A consulta dos termos de uso no aplicativo gov.br requer acesso à internet.  |
+| **Exceção**     | O gov.br pode atualizar os termos de uso periodicamente para atender a novas necessidades legais ou regulatórias.<br> Os termos de uso do aplicativo gov.br também devem estar disponíveis em outros canais, como no site oficial do gov.br<br>  |
 <br>
 
 <p style="text-align: center">Fonte: <a href=""></a></p>
 
-### Cenário 8: Manutenção da Integridade de Documentos e Informações - gov.br
-
-<p style="text-align: center">Tabela 9 - Cenário 08</p>
-
-| Elemento              | Descrição                                                                                                                                             |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**              | Descrever como o aplicativo gov.br garante a integridade dos documentos e informações consultadas pelos cidadãos, assegurando a confiabilidade e autenticidade dos dados. |
-| **Contexto**              | O cidadão utiliza o aplicativo gov.br para consultar diversos documentos e informações importantes, como certidões, extratos bancários, acompanhamento de benefícios sociais e outros. É fundamental que o cidadão tenha a certeza de que os documentos e informações consultados no aplicativo gov.br são autênticos, íntegros e confiáveis. |
-| **Recursos**              | Smartphone com o aplicativo gov.br instalado, conexão segura com a internet, certificados digitais e criptografia para garantir a segurança da comunicação entre o aplicativo e os servidores do governo, mecanismos de validação e verificação dos documentos e informações consultados. |
-| **Ator**                  | Cidadão                                                                                                                                               |
-| **Episódios**            | <br>-O cidadão utiliza o aplicativo gov.br para consultar um documento ou informação específica, como uma certidão de nascimento ou extrato bancário.<br>-O cidadão tem a certeza de que o documento consultado é autêntico e não foi falsificado ou adulterado. <br>-O cidadão tem a certeza de que as informações consultadas são precisas e confiáveis, refletindo os dados originais armazenados pelo governo. <br>-O cidadão tem fácil acesso ao histórico de consultas e pode consultar novamente os documentos e informações que precisa. <br>O cidadão tem a certeza de que seus dados e informações estão protegidos contra interceptação, espionagem ou adulteração durante a transmissão. |
-| **Restrições**            | - Falhas técnicas: Falhas técnicas no aplicativo gov.br ou na infraestrutura de comunicação podem afetar a consulta de documentos e informações. - Erros humanos: Erros humanos na digitação dos dados de consulta podem levar à recuperação de documentos ou informações incorretos. - Tentativas de fraude: Tentativas de fraude por parte de terceiros podem tentar falsificar ou adulterar documentos e informações. |
-| **Exceções**              | - Documentos antigos: Documentos antigos que foram digitalizados ou armazenados em formato digital antigo podem não ter os recursos de segurança necessários para garantir sua completa autenticidade e integridade.<br>-Informações que estão em processo de atualização nos sistemas do governo podem estar temporariamente indisponíveis ou apresentar inconsistências.|
-<br>
-
-<p style="text-align: center">Fonte: <a href=""></a></p>
-
-### Cenário 9: Acessibilidade Offline - gov.br
-
-<p style="text-align: center">Tabela 10 - Cenário 09</p>
-
-| Elemento      | Descrição                                                                                                                                                                       |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Objetivo**      | Descrever como o aplicativo gov.br garante a acessibilidade mesmo sem conexão com a internet, permitindo que o cidadão utilize seus serviços de forma offline.                      |
-| **Contexto**      | O cidadão está em uma área com sinal de internet instável ou inexistente. O cidadão precisa acessar serviços públicos urgentes, como consulta de extratos bancários, acompanhamento de benefícios sociais ou emissão de certidões. O aplicativo gov.br oferece uma solução para que o cidadão possa utilizar seus serviços mesmo sem conexão com a internet. |
-| **Recursos**      | Smartphone com o aplicativo gov.br instalado. Espaço de armazenamento interno do smartphone.                                                                                     |
-| **Ator**          | Cidadão                                                                                                                                                                         |
-| **Episódios**|   -O cidadão pode selecionar e baixar serviços específicos para uso offline no aplicativo gov.br.<br>-Quando o cidadão está conectado à internet, o aplicativo gov.br sincroniza automaticamente os dados dos serviços baixados para uso offline com a base de dados do governo.<br>Mesmo sem conexão com a internet, o cidadão pode acessar os serviços baixados anteriormente no aplicativo gov.br.<br>-O aplicativo gov.br oferece uma interface intuitiva e menus simples para facilitar a navegação mesmo sem conexão com a internet. <br>-O aplicativo gov.br oferece recursos de acessibilidade para pessoas com deficiência, como narração de tela, compatibilidade com leitores de tela e interfaces adaptadas para diferentes tipos de deficiência.|
-| **Restrições**   | -A quantidade de serviços que podem ser baixados para uso offline depende da capacidade de armazenamento interno do smartphone do cidadão.<br>-Os serviços offline só serão atualizados quando o cidadão estiver conectado à internet. É importante que o cidadão sincronize seus dados regularmente para garantir que as informações estejam precisas. <br>-Alguns serviços públicos podem ter funcionalidades complexas que não podem ser totalmente replicadas no modo offline.<br>-No modo offline, o aplicativo gov.br não permite a atualização de dados em tempo real.<br>-O suporte técnico para o aplicativo gov.br no modo offline pode ser limitado. |
-| **Exceções**   | -Nem todos os serviços públicos estarão disponíveis para uso offline no aplicativo gov.br.<br>-Alguns serviços podem exigir conexão com a internet por motivos técnicos ou de segurança.<br>-Falhas técnicas no aplicativo gov.br ou no smartphone do cidadão podem afetar a disponibilidade dos serviços offline. <br>-Em caso de desastres naturais que afetem a infraestrutura de telecomunicações, o aplicativo gov.br offline pode ser a única maneira de o cidadão acessar serviços públicos essenciais. |
-<br>
-
-<p style="text-align: center">Fonte: <a href=""></a></p>
-
-### Cenário 10: Notificação de Acessos Não Autorizados e Mudanças Críticas na Segurança - gov.br
-
-<p style="text-align: center">Tabela 11 - Cenário 10</p>
-
-| Elemento  | Descrição                                          |
-| ---------- | -------------------------------------------------------------------------------------------- |
-| **Objetivo**  | Descrever como o aplicativo gov.br notifica os usuários sobre acessos não autorizados em suas contas e alterações críticas nas configurações de segurança, garantindo a proteção de seus dados e a prevenção de fraudes.  |
-| **Contexto**  | O cidadão utiliza o aplicativo gov.br para acessar diversos serviços públicos, armazenar documentos importantes e realizar transações online. A segurança das contas dos usuários é fundamental para garantir a proteção de seus dados pessoais e evitar fraudes. O aplicativo gov.br implementa um sistema robusto de notificações para alertar os usuários sobre qualquer atividade suspeita em suas contas.                     |
-| **Recursos**  | Smartphone com o aplicativo gov.br instalado, conexão com a internet, endereço de e-mail ou número de telefone celular cadastrados na conta do gov.br.                   |
-| **Ator**    | Cidadão                               |
-| **Episódios**| Quando o aplicativo gov.br detecta um login não autorizado na conta do cidadão, o sistema envia uma notificação imediata para o e-mail ou número de telefone celular cadastrado. O cidadão é alertado imediatamente sobre o acesso não autorizado, permitindo que ele tome medidas imediatas para proteger sua conta. Tentativa de login não autorizada em uma conta do gov.br. Notificação por e-mail ou SMS informando sobre o acesso não autorizado e orientando o cidadão a tomar as medidas cabíveis. <br>-A notificação por e-mail ou SMS inclui detalhes sobre o acesso não autorizado, como data, hora, local (cidade e país) e dispositivo utilizado. <br>-A notificação por e-mail ou SMS também inclui orientações sobre como o cidadão pode proteger sua conta, como alterar sua senha, ativar a autenticação de dois fatores e revisar as configurações de segurança. <br>-O aplicativo gov.br também notifica o cidadão sobre qualquer mudança crítica na configuração de segurança de sua conta, como a alteração da senha, a ativação da autenticação de dois fatores ou a adição de um novo dispositivo autorizado. <br>-A notificação por e-mail ou SMS inclui um canal de comunicação para que o cidadão possa tirar dúvidas sobre a notificação recebida ou solicitar suporte em caso de problemas com sua conta.|
-| **Restrições** | - Dependência de conexão com a internet: O recebimento das notificações depende de o cidadão ter acesso à internet em seu dispositivo móvel ou e-mail. <br>-Em alguns casos, o gov.br poderá solicitar ao cidadão que verifique sua identidade para confirmar a titularidade da conta e garantir a segurança das informações. - Possibilidade de falsos positivos: Em casos raros, o sistema de detecção de acessos não autorizados pode gerar falsos positivos, notificando o cidadão sobre um acesso que, na verdade, foi realizado por ele mesmo. Nesses casos, o cidadão poderá entrar em contato com o suporte do gov.br para esclarecer a situação. |
-| **Exceções**  | Falhas técnicas no aplicativo gov.br ou na infraestrutura de comunicação podem afetar o envio das notificações. - Erros humanos: Erros humanos no cadastramento das informações de contato do cidadão podem impedir que ele receba as notificações. <br>-Ações maliciosas de terceiros podem tentar bloquear ou interceptar as notificações enviadas pelo gov.br. |
-<br>
-
-<p style="text-align: center">Fonte: <a href=""></a></p>
 
 ## Bibliografia
 
