@@ -75,7 +75,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 <p style="text-align: center">Fonte: <a href=""></a></p>
 
-### Cenário 4: Acesso Rápido a Documentos Digitais no Celular - gov.br
+### Cenário 4: Acessar Documentos Digitais no Celular
 
 <p style="text-align: center">Tabela 5 - Cenário 04</p>
 
@@ -85,12 +85,12 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Contexto**                            | O cidadão precisa apresentar um documento digital para comprovar sua identidade ou acessar um serviço público. O cidadão já possui uma conta no gov.br e está conectado à internet em seu smartphone. |
 | **Recursos**                            | Smartphone com o aplicativo gov.br instalado. Conexão com a internet.                                                                                                               |
 | **Ator**                                | Cidadão                                                                                                           |
-| **Episódios**                          | -O cidadão abre o aplicativo gov.br e faz login com seu CPF e senha.<br>-Na tela inicial do aplicativo, o cidadão localiza e toca no botão "Meus Documentos Digitais".<br>-O cidadão visualiza a lista de seus documentos digitais armazenados no aplicativo, incluindo tipo de documento, data de emissão, órgão emissor e status do documento.<br>-O cidadão toca no documento que deseja visualizar ou compartilhar.<br>-O cidadão pode verificar a autenticidade do documento digital utilizando mecanismos como código QR, assinatura digital e histórico de acessos.<br>-O cidadão utiliza o documento digital para comprovar sua identidade ou acessar um serviço público online ou presencial.<br>-O aplicativo armazena os documentos digitais do cidadão de forma segura, utilizando criptografia e outros mecanismos de proteção.<br>-O aplicativo verifica periodicamente se há atualizações disponíveis para os documentos digitais do cidadão.<br>-O aplicativo se integra com outros serviços digitais do governo, permitindo que o cidadão acesse seus documentos digitais de forma centralizada. |
+| **Episódios**                          | -O cidadão abre o aplicativo gov.br e faz login com seu CPF e senha.<br>-Na tela inicial do aplicativo, o cidadão localiza e clica no botão "Carteira de documentos".<br>-O cidadão visualiza a lista de seus documentos digitais armazenados no aplicativo, incluindo tipo de documento, data de emissão, órgão emissor e status do documento.<br>-O cidadão toca no documento que deseja visualizar ou compartilhar.<br>-O cidadão pode verificar a autenticidade do documento digital utilizando mecanismos como código QR, assinatura digital e histórico de acessos.<br>-O cidadão utiliza o documento digital para comprovar sua identidade ou acessar um serviço público online ou presencial.<br>-O aplicativo armazena os documentos digitais do cidadão de forma segura, utilizando criptografia e outros mecanismos de proteção.<br>-O aplicativo verifica periodicamente se há atualizações disponíveis para os documentos digitais do cidadão.<br>-O aplicativo se integra com outros serviços digitais do governo, permitindo que o cidadão acesse seus documentos digitais de forma centralizada. |
 | **Restrições**                        | - O cidadão deve estar conectado à internet para utilizar o aplicativo gov.br.<br>- A disponibilidade de documentos digitais está sujeita à autenticidade e integridade dos documentos armazenados.<br>- A verificação da autenticidade dos documentos depende da implementação de mecanismos de segurança pelo órgão emissor.<br>- O acesso aos documentos digitais pode estar sujeito à autorização do cidadão e às políticas de privacidade do governo.                                        |
 | **Exceção**                            | - Se houver falha na autenticação do usuário, o aplicativo deve exibir uma mensagem de erro e oferecer opções de recuperação de conta.<br>- Se ocorrer um erro durante o acesso aos documentos digitais, o aplicativo deve apresentar uma mensagem de falha e orientar o usuário sobre as medidas a serem tomadas.<br>- Se um documento digital não estiver disponível ou não puder ser verificado, o aplicativo deve informar ao usuário sobre a situação e sugerir alternativas.   |
 <br>
 
-<p style="text-align: center">Fonte: <a href=""></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></p>
 
 ### Cenário 5: Segurança na Transmissão e Armazenamento de Documentos Sensíveis - gov.br
 
@@ -203,4 +203,5 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 06/05/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
-|  1.1   | 17/05/2024 | Correção das legendas das tabelas e definição do cenário | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+|  1.1   | 17/05/2024 | Correção das legendas das tabelas | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+|  1.2   | 18/05/2024 | Definição do cenário 04 | [Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |
