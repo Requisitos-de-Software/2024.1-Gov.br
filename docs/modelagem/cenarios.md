@@ -30,15 +30,14 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 | Elemento    | Descrição                                                                                       |
 | ----------- | ----------------------------------------------------------------------------------------------- |
-| **Objetivo**   | Descrever o processo de um cidadão agendar um atendimento em um órgão público através do aplicativo gov.br. |
-| **Contexto**    | O cidadão está em casa e precisa agendar um atendimento presencial para resolver um problema com seu CPF. O cidadão já possui uma conta no gov.br e está conectado à internet. O órgão público desejado oferece agendamento online através do gov.br. |
-| **Recursos**    | Smartphone com o aplicativo gov.br instalado. Conexão com a internet.                          |
+| **Objetivo**   | Descrever o processo de um cidadão consultar CPF no aplicativo Gov.br. |
+| **Contexto**    | O cidadão brasileiro deseja consultar seu CPF através do aplicativo gov.br. Ele está em casa, acessando o aplicativo em seu smartphone |
+| **Recursos**    | Smartphone com o aplicativo Gov.br instalado. Conexão com a internet.                          |
 | **Ator**        | Cidadão                                                                                         |
-| **Episódios**   | -O cidadão abre o aplicativo gov.br e faz login com seu CPF e senha. <br>-Na tela inicial, o cidadão seleciona a opção "Agendar Atendimento". <br>-O cidadão digita o nome do órgão público que deseja agendar o atendimento. <br>-O aplicativo apresenta uma lista de serviços disponíveis para agendamento no órgão público selecionado. <br>-O cidadão seleciona o serviço desejado e informa a data e horário preferidos para o atendimento. <br>-O aplicativo verifica a disponibilidade de horários para o serviço e data selecionados. <br>-Se houver horários disponíveis, o cidadão escolhe o horário desejado e confirma o agendamento. <br>-O aplicativo exibe uma mensagem de confirmação com o número do protocolo do agendamento, data, horário, local do atendimento e documentos necessários. <br>-O cidadão pode salvar a confirmação do agendamento em seu smartphone ou imprimi-la. |
-| **Restrições**  | - O cidadão só pode agendar atendimentos para serviços que estejam disponíveis para agendamento online. - O cidadão não pode agendar atendimentos para datas e horários indisponíveis. - O cidadão precisa apresentar o número do protocolo do agendamento no dia do atendimento. |
-| **Exceção**     | - Se o serviço desejado não estiver disponível para agendamento online, o aplicativo exibirá uma mensagem informando ao cidadão que o agendamento deve ser feito presencialmente. - Se o cidadão tentar agendar um atendimento para uma data e horário indisponíveis, o aplicativo exibirá uma mensagem informando que o horário escolhido não está disponível e sugerirá outros horários. |
+| **Episódios**   | O cidadão acessa a opção "Serviços" no aplicativo Gov.br<br>Busca pela opção "Consulta de CPF".<br>O aplicativo direciona o cidadão para a página de consulta de CPF.<br>O cidadão digita seu número de CPF e sua data de nascimento.<br>O cidadão confirma a ação e obtem os dados. |
+| **Restrições**  | Para consultar o CPF, o cidadão precisa ter acesso à internet e um smartphone com o aplicativo gov.br instalado.<br>O CPF digitado deve ser válido e estar associado ao usuário logado no aplicativo.<br>O aplicativo pode apresentar instabilidade ou falhas de conexão em momentos específicos, afetando a consulta do CPF. |
+| **Exceção**     | Se o CPF digitado for inválido ou não estiver associado ao usuário logado, o aplicativo exibirá uma mensagem de erro informando o problema.<br>Em caso de falhas de conexão, o aplicativo tentará reconectar-se automaticamente.<br>Se a falha persistir, o cidadão poderá tentar novamente mais tarde. |
 <br>
-
 <p style="text-align: center">Fonte: <a href=""></a></p>
 
 ### Cenário 2: Busca Intuitiva de Processos e Documentos - gov.br
