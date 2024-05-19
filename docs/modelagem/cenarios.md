@@ -58,19 +58,19 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 <p style="text-align: center">Fonte: <a href=""></a></p>
 
-### Cenário 3: Eficiência no Agendamento e Acompanhamento de Processos - gov.br
+### Cenário 3: Redefinição de Senha no Aplicativo gov.br
 
 <p style="text-align: center">Tabela 4 - Cenário 03</p>
 
-| Elemento      | Descrição                                                                                           |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**              | Descrever o processo de um cidadão agendar e acompanhar processos de forma eficiente e transparente através do aplicativo gov.br.                                            |
-| **Contexto**             | O cidadão precisa dar entrada em um novo processo ou consultar o andamento de um processo em andamento. O cidadão já possui uma conta no gov.br e está conectado à internet. |
-| **Recursos**              | Smartphone com o aplicativo gov.br instalado. Conexão com a internet.                                                                                                        |
-| **Ator**                  | Cidadão            |
-| **Episódios**             | -O cidadão abre o aplicativo gov.br e faz login com seu CPF e senha.<br>-Na tela inicial do aplicativo, o cidadão localiza e toca no botão "Agendar Processos".<br>-Na tela de agendamento, o cidadão escolhe entre as opções de iniciar um novo processo ou consultar um processo em andamento.<br>-O cidadão preenche o formulário de agendamento com as informações necessárias para iniciar o processo, como dados pessoais, documentos comprobatórios e detalhes do serviço solicitado.<br>-O aplicativo verifica se as informações inseridas pelo cidadão estão corretas e completas.<br>-O cidadão revisa as informações inseridas e confirma o agendamento do processo.<br>-O cidadão acessa a tela de acompanhamento de processos para verificar o status de seu processo em andamento.<br>-O cidadão seleciona um processo específico na lista de acompanhamento e visualiza seu histórico de eventos.<br>-O cidadão configura suas preferências de notificação para receber alertas sobre o andamento do processo. |
-| **Restrições**           | - O cidadão deve estar conectado à internet para utilizar o aplicativo gov.br.<br>- Os processos disponíveis para agendamento e acompanhamento devem estar dentro do escopo do sistema gov.br.<br>- A precisão e atualização das informações sobre o andamento do processo dependem da disponibilidade de dados fornecidos pelo órgão responsável.<br>- A disponibilidade de notificações está sujeita à configuração e autorização do usuário.          |
-| **Exceção**              | - Se houver falha na autenticação do usuário, o aplicativo deve exibir uma mensagem de erro e oferecer opções de recuperação de conta.<br>- Se ocorrer um erro durante o agendamento do processo, o aplicativo deve apresentar uma mensagem de falha e permitir ao usuário tentar novamente.<br>- Se o processo não puder ser acompanhado devido a problemas técnicos ou de integração com sistemas externos, o aplicativo deve informar ao usuário sobre a indisponibilidade temporária do serviço.                                                                                                                                                          |
+| Elemento     | Descrição                                                                                                           |
+| ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**     |  Descrever um cenário para ilustrar o processo de redefinição de senha do gov.br |
+| Contexto     | O cidadão, em casa, acessa o aplicativo gov.br em seu smartphone. Ele esqueceu sua senha e precisa redefini-la para entrar em sua conta. |
+| **Recursos**     | Smartphone com acesso à internet<br>Aplicativo gov.br instalado e atualizado<br>Endereço de e-mail cadastrado na conta gov.br ou número de celular associado. |
+| **Ator**         | Cidadão                                                                                                                                                     |
+| **Episódios**    | O usuário abre o aplicativo gov.br na tela de login e digita seu CPF.<br>O usuário localiza a opção "Esqueci minha senha" <br>O usuário localiza a opção "Fazer reconhecimento facial" e clica.<br>O aplicativo direciona o cidadão para uma página de recuperação onde pede para que o cidadão posicione o rosto na área delimitada para validar o reconhecimento facial.<br>A página mostra que será enviado um código para o e-mail cadastrado<br>O cidadão abre o e-mail, localiza o código e digita no espaço da página de recuperação.<br>A página de recuperação pede a nova senha e a confirmação. Feito isso, a senha será redefinida. |
+| **Restrições**  | A redefinição de senha no aplicativo gov.br requer acesso à internet.<br>O link enviado por e-mail ou SMS para redefinição de senha possui um tempo de validade limitado.<br>Se o cidadão digitar um endereço de e-mail ou número de celular incorreto ou desatualizado, não receberá o link de redefinição.  |
+| **Exceção**     | Se a conta do cidadão for bloqueada por tentativas excessivas de login incorretos, a redefinição de senha pelo aplicativo não estará disponível.<br>Se o cidadão alterar seu número de celular ou endereço de e-mail cadastrado na conta gov.br, precisará atualizar esses dados no perfil da sua conta. |
 <br>
 
 <p style="text-align: center">Fonte: <a href=""></a></p>
