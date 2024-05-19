@@ -61,10 +61,12 @@ Os seguintes passos foram realizados no processo *First Things First*:
 
 ## Resultados
 
+A tabela 2 apresenta os resultados obtidos pela elicitação usando a técnica First Things First.<br>
+**Arraste a tabela para a esquerda para visualizar todas as colunas**
+
 <center>
 
 **Tabela 2** - Resultado da priorização de requisitos
-
 
 | ID | Benefício<br>Relativo | Penalidade<br>Relativa | Valor<br>total | Valor<br>(%) | Custo<br>Relativo | Custo<br>% | Risco<br>Relativo | Risco<br>% | Prioridade |
 |------|--------------------|---------------------|-------------|------------|----------------|------------|----------------|-------------|--------------|

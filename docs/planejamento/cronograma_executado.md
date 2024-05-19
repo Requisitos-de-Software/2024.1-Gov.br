@@ -28,7 +28,7 @@ A tabela 1 apresenta o cronograma executado para a entrega da etapa 1.
 
 A tabela 2 apresenta o cronograma executado para a entrega da etapa 2.
 
-<figcaption align="center">Tabela 2 - Cronograma planejado da etapa 2</figcaption>
+<figcaption align="center">Tabela 2 - Cronograma executado da etapa 2</figcaption>
 
 | Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
 |:------:|:------------:| :------------------------: | :-----: |:------------------:|
@@ -52,35 +52,48 @@ A tabela 2 apresenta o cronograma executado para a entrega da etapa 2.
 
 A tabela 3 apresenta o cronograma executado para a entrega da etapa 3.
 
-***EM BREVE...***
+<figcaption align="center">Tabela 3 - Cronograma executado da etapa 3</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 23/04</br> Fim: 19/05 | [Ester Lino](https://github.com/esteerlino) | Início:19/05</br> Fim: 20/05 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 23/04</br> Fim: 19/05 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:19/05</br> Fim: 20/05 |
+| Cenários | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 03/05</br> Fim: 19/05 | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Henrique Batalha](https://github.com/HeBatalha) | Início:19/05</br> Fim: 20/05 |
+| Use Cases | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 03/05</br> Fim: 19/05 | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | Início:19/05</br> Fim: 20/05 |
+| Léxico | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |  Início: 03/05</br> Fim: 19/05 | [Ester Lino](https://github.com/esteerlino) | Início:19/05</br> Fim: 20/05 |
+| Especificação Suplementar | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 03/05</br> Fim: 19/05 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj) e [Thiago Freitas](https://github.com/thiagorfreita) |  Início:19/05</br> Fim: 20/05 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 19/05</br> Fim: 20/05 | [Henrique Batalha](https://github.com/HeBatalha) | Início:19/05</br> Fim: 20/05 |
+| Correção após feedbacks da entrega 03 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 21/05</br> Fim: 23/05  | [Ester Lino](https://github.com/esteerlino) | Início:23/05</br> Fim: 24/05 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
 
 ## Cronograma Executado da Etapa 4 - Modelagem de Requisitos II
 
-A tabela 4 apresenta o cronograma planejado para a entrega da etapa 4.
+A tabela 4 apresenta o cronograma executado para a entrega da etapa 4.
 
 ***EM BREVE...***
 
 ## Cronograma Executado da Etapa 5.1 - Análise de Requisitos I
 
-A tabela 5 apresenta o cronograma planejado para a entrega da etapa 5.1.
+A tabela 5 apresenta o cronograma executado para a entrega da etapa 5.1.
 
 ***EM BREVE...***
 
 ## Cronograma Executado da Etapa 6 - Pós-Rastreabilidade
 
-A tabela 6 apresenta o cronograma planejado para a entrega da etapa 6.
+A tabela 6 apresenta o cronograma executado para a entrega da etapa 6.
 
 ***EM BREVE...***
 
 ## Cronograma Executado da Etapa 5.2 - Análise de Requisitos II
 
-A tabela 7 apresenta o cronograma planejado para a entrega da etapa 5.2.
+A tabela 7 apresenta o cronograma executado para a entrega da etapa 5.2.
 
 ***EM BREVE...***
 
 ## Cronograma Executado da Etapa 7 - Entrega Final
 
-A tabela 9 apresenta o cronograma planejado para a entrega da etapa 7.
+A tabela 9 apresenta o cronograma executado para a entrega da etapa 7.
 
 ***EM BREVE...***
 
@@ -94,3 +107,4 @@ A tabela 9 apresenta o cronograma planejado para a entrega da etapa 7.
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 09/04/2024 | Criação da página para os cronogramas executados| [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
 |  1.1   | 22/04/2024 | Inclusão do cronograma executado da etapa 02 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+|  1.2   | 18/05/2024 | Inclusão do cronograma executado da etapa 03 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
