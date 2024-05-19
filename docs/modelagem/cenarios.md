@@ -38,7 +38,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Restrições**  | Para consultar o CPF, o cidadão precisa ter acesso à internet e um smartphone com o aplicativo gov.br instalado.<br>O CPF digitado deve ser válido e estar associado ao usuário logado no aplicativo.<br>O aplicativo pode apresentar instabilidade ou falhas de conexão em momentos específicos, afetando a consulta do CPF. |
 | **Exceção**     | Se o CPF digitado for inválido ou não estiver associado ao usuário logado, o aplicativo exibirá uma mensagem de erro informando o problema.<br>Em caso de falhas de conexão, o aplicativo tentará reconectar-se automaticamente.<br>Se a falha persistir, o cidadão poderá tentar novamente mais tarde. |
 <br>
-<p style="text-align: center">Fonte: <a href=""></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></p>
 
 ### Cenário 2:  Simulação de Aposentadoria - gov.br
 
@@ -92,19 +92,19 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 <p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></p>
 
-### Cenário 5: Segurança na Transmissão e Armazenamento de Documentos Sensíveis - gov.br
+### Cenário 5: Agendamento de Visita ao Palácio do Planalto - gov.br
 
 <p style="text-align: center">Tabela 6 - Cenário 05</p>
 
-| Elemento                                 | Descrição          |
-| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**                                 | Descrever os mecanismos de segurança utilizados pelo aplicativo gov.br para garantir a confidencialidade, integridade e disponibilidade de documentos sensíveis durante a transmissão e armazenamento.    |
-| **Contexto**                                 | O cidadão precisa transmitir e armazenar documentos sensíveis, como certidões de nascimento e casamento, comprovantes de renda e declarações fiscais, através do aplicativo gov.br. O cidadão tem a expectativa de que seus documentos sejam protegidos contra acesso não autorizado, perda ou roubo.           |
-| **Recursos**                                 | Smartphone com o aplicativo gov.br instalado. Conexão com a internet segura.    |
-| **Ator**                                     | Cidadão        |
-| **Episódios**                               |  -O aplicativo gov.br criptografa todos os dados transmitidos entre o dispositivo do cidadão e os servidores do governo, utilizando protocolos de criptografia robustos como TLS 1.3 e AES 256.<br>-Os documentos sensíveis do cidadão são armazenados em servidores do governo com alto nível de segurança, protegidos por firewalls, mecanismos de autenticação multifator e outras medidas de segurança física e lógica.<br>-O aplicativo gov.br permite que o cidadão defina permissões de acesso granular para seus documentos sensíveis, controlando quem pode visualizar, baixar ou compartilhar os documentos.<br>-O aplicativo gov.br registra todas as atividades relacionadas aos documentos sensíveis, incluindo quem acessou, quando e de qual dispositivo.<br>-O aplicativo gov.br notifica o cidadão em caso de atividades suspeitas relacionadas aos seus documentos sensíveis, como logins de dispositivos desconhecidos ou tentativas de acesso não autorizadas.<br>-O aplicativo gov.br recebe atualizações frequentes de segurança para corrigir vulnerabilidades e proteger contra novas ameaças cibernéticas. <br>-O governo disponibiliza informações claras e transparentes sobre as práticas de segurança utilizadas para proteger os documentos sensíveis dos cidadãos no aplicativo gov.br. |
-| **Restrições**                              | - O acesso aos documentos sensíveis está sujeito à autenticação do cidadão e às políticas de privacidade do governo.<br>- A transmissão segura dos dados depende de uma conexão com a internet segura por parte do cidadão.<br>- O armazenamento seguro dos documentos depende da implementação de medidas de segurança pelos servidores do governo.                                                                                                                                 |
-| **Exceção**                                 | - Se ocorrer uma falha na transmissão dos dados criptografados, o aplicativo deve exibir uma mensagem de erro e orientar o cidadão sobre as medidas a serem tomadas.<br>- Se houver uma violação de segurança nos servidores do governo, o aplicativo deve notificar imediatamente o cidadão sobre o incidente e as medidas de proteção adotadas.                                                                               |
+| Elemento     | Descrição                                                                                                           |
+| ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Objetivo**     |  Descrever um cenário para agendamento de visita no Palácio do Planalto, utilizando o aplicativo gov.br |
+| Contexto     | O cidadãodeseja agendar uma visita ao Palácio do Planalto para conhecer as instalações e saber mais sobre o funcionamento do governo federal. Ele está acessando o aplicativo gov.br em seu smartphone |
+| **Recursos**     | Smartphone com acesso à internet<br>Aplicativo gov.br instalado e atualizado<br>Conta gov.br com login e senha. |
+| **Ator**         | Cidadão                                                                                                                                                     |
+| **Episódios**    | O usuário abre o aplicativo gov.br na tela de login e digita seu CPF e senha.<br>Na barra de pesquisa digita "Agendar"<br>Localiza o serviço "Agendar visita institucional ao Palácio do Planalto"<br>O aplicativo direciona para uma nova página de Apreciação<br>O usuário clica em "Iniciar"<br>O usuário é direcionado para uma tela com a imagem do Palácio do Planalto e clica em "Entrar com GOV.BR"<br>O usuário seleciona o número de visitantes.<br>O usuário seleciona a data da visita<br>O usuário seleciona o horário<br>O usuário seleciona o idioma do evento<br>O usuário concorda com os termos e condições.|
+| **Restrições**  | A redefinição de senha no aplicativo gov.br requer acesso à internet.<br> O agendamento só pode ser realizado por meio de uma conta gov.br.<br>O número máximo de visitantes por agendamento é de 5 pessoas.<br>As datas e horários disponíveis para visitação podem variar de acordo com a agenda do Palácio do Planalto.<br>O Palácio do Planalto possui regras de segurança rígidas que devem ser respeitadas por todos os visitantes.  |
+| **Exceção**     | Escolas podem solicitar agendamento de visita para grupos de alunos por meio de canais específicos do Palácio do Planalto, como o site oficial ou e-mail.<br>Autoridades, diplomatas e outros convidados oficiais podem agendar visitas por meio de canais diplomáticos ou de contato direto com o cerimonial do Palácio do Planalto.<br>Em casos excepcionais, o Palácio do Planalto pode analisar solicitações de visita fora do horário normal de agendamento ou para grupos com mais de 5 pessoas.  |                                                                               |
 <br>
 
 <p style="text-align: center">Fonte: <a href=""></a></p>
