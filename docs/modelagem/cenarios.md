@@ -24,7 +24,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 ## Cenários criados
 
-### Cenário 1: Agendamento de Atendimento em Órgão Público - gov.br
+### Cenário 1: Consulta de CPF - gov.br
 
 <p style="text-align: center">Tabela 2 - Cenário 01</p>
 
@@ -204,3 +204,4 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 |  1.0   | 06/05/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.1   | 17/05/2024 | Correção das legendas das tabelas | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 |  1.2   | 18/05/2024 | Definição do cenário 04 | [Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |
+|  1.3   | 19/05/2024 | Definição do cenário 01 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Henrique Batalha](https://github.com/HeBatalha) |
