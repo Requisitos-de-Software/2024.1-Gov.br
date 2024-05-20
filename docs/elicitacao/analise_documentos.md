@@ -11,7 +11,7 @@ Neste projeto, adotamos uma metodologia específica para a análise de documenta
 #### 1. Seleção de Documentos
 
 Inicialmente, identificamos e reunimos todos os documentos relevantes que pudessem fornecer insights sobre os requisitos do sistema. Para este projeto, os documentos selecionados incluíram:
-- **Termos de Uso e Aviso de Privacidade do aplicativo gov.br**: Este documento foi crucial pois continha informações detalhadas sobre as funcionalidades do sistema, os dados tratados pelo aplicativo e as obrigações legais relacionadas à privacidade e proteção de dados.
+- **Termos de Uso e Aviso de Privacidade do aplicativo gov.br**: Este documento foi crucial pois continha informações detalhadas sobre as funcionalidades do sistema, os dados tratados pelo aplicativo e as obrigações legais relacionadas à privacidade e proteção de dados. Foi utilizado a versão 3.0 do documento acessado no dia 11/04/2024, para acesso do mesmo documento utilizado <a href="./assets/termo_de_uso.pdf" target="_blank">Baixe o PDF aqui</a>.
 - **Feedback de Usuários na Play Store**: Comentários de usuários na Play Store foram revisados para entender as percepções dos usuários, problemas comuns e sugestões de melhorias que não estão explicitamente documentadas nos requisitos técnicos formais. 
 
 #### 2. Revisão e Análise
@@ -83,3 +83,4 @@ Esta metodologia assegurou que a análise de documentação fosse conduzida de m
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 11/04/2024 | Versão inicial  | [Caio Berg](https://github.com/Caio-bergbjj) | [Ester Lino](https://github.com/esteerlino) |
+|  1.1   | 19/05/2024 | Inclusão do PDF dos documentos | [Caio Berg](https://github.com/Caio-bergbjj) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
