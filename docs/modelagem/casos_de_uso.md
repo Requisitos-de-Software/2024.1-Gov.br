@@ -365,8 +365,8 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
-|  1.0   | 17/05/2024 | Versão Inicial | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
-|  1.1   | 19/05/2024 | Adição do diagrama de casos de uso e imagens da legenda | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Ester Lino](https://github.com/esteerlino) |
+|  1.0   | 17/05/2024 | Versão Inicial | [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.1   | 19/05/2024 | Adição do diagrama de casos de uso e imagens da legenda | [Isaque Santos](https://github.com/IsaqueSH) | [Ester Lino](https://github.com/esteerlino) |
 |  1.2   | 19/05/2024 | Adição de especificações de casos de uso | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Henrique Batalha](https://github.com/HeBatalha) |
 |  1.3   | 19/05/2024 | Adição de especificações de casos de uso 1 a 5 | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 |  1.4   | 20/05/2024 | Definição dos casos de uso 7 e 8 | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH) |
