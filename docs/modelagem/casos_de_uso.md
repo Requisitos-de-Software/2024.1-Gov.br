@@ -71,6 +71,150 @@ Abaixo o diagrama de casos de uso:
 
 ## Especificação dos Casos de Uso
 
+As especificações de caso de uso têm o objetivo de detalhar os casos de uso utilizando uma linguagem natural. Elas descrevem de forma precisa como um sistema deve se comportar em resposta a uma solicitação externa, e são fundamentais para a análise de sistemas, garantindo que todos os requisitos funcionais sejam capturados e entendidos claramente. 
+
+A Tabela 2 explicará melhor cada um dos seus elementos:
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Explicação detalhada sobre os elementos das especificações de casos de uso</p></font>
+</div>
+
+| Código caso de uso | Nome do caso de uso |
+| --- | --- |
+| **Atores** | Os usuários ou sistemas externos que interagem com o caso de uso. |
+| **Frequência de uso** | Refere-se à estimativa de quantas vezes ou com que regularidade o caso de uso será executado durante um determinado período de tempo. |
+| **Pré-condições** | As condições que devem ser atendidas antes que o caso de uso possa ser realizado.|
+| **Fluxo básico** | Trata-se da maneira "padrão" que o ator utilizará a funcionalidade, ou seja, é o que ele tentará realizar, primariamente, sempre que utilizar a funcionalidade. |
+| **Fluxos alternativos** | São fluxos que podem ser executados numa funcionalidade a partir da escolha do usuário, e não a partir de erros ou exceções do sistema.|
+| **Fluxos de exceção** | Descreve o que ocorre quando um erro ou uma situação excepcional surge durante a execução do caso de uso. |
+| **Pós-condições** | Descreve o estado do sistema após a conclusão do caso de uso. |
+| **Rastreabilidade** | Ligação do caso de uso com requistos específicos.|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/IsaqueSH">Isaque Santos</a>, 2024</p></font>
+</div >
+
+
+### UC01 - Fazer Login
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Especificação do caso de uso Fazer Login</p></font>
+</div>
+
+| UC01 | Fazer login|
+| --- | --- |
+| **Atores** | Cidadão |
+| **Frequência de uso** | Baixa |
+| **Pré-condições** | PRE01. O usuário deve estar registrado no sistema. <br>PRE02. Possuir conexão à internet. |
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário chega até a página de login.<li> O sistema apresenta o formulário de login solicitando nome de usuário e senha. <li> O usuário insere seu nome de usuário e senha. <li> O usuário clica no botão "Entrar". <li> O sistema valida as credenciais fornecidas. <li> Se as credenciais são válidas, o sistema cria uma sessão para o usuário. </ol>  |
+| **Fluxos alternativos** |  <b>FA01: Lembrar-me</b> <ol> <li> O usuário marca a opção "Lembrar-me" antes de clicar em "Entrar". <li> O sistema armazena informações do usuário para manter a sessão aberta por um período prolongado. <li> O usuário é logado. <li> Fim do caso de uso. </ol> <b> FA02: Esqueci a senha</b> <ol> <li> O usuário clica no link "Esqueci a senha". <li> O sistema redireciona o usuário para a página de recuperação de senha. <li>O usuário é logado. <li>Fim do caso de uso. </ol>  |
+| **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado <li> O sistema informa em qual campo está com o dado inválido. </ul> </ol> <b> FE02:Código de validação errado </b> <ol> <li> O usuário fornece o código de validação errado <li> O sistema informa que o código inserido é invalido </ol> |
+| **Pós-condições**|POS01. O usuário está autenticado no sistema e tem acesso às funcionalidades permitidas conforme suas permissões. |
+| **Data da criação**| 19/05/2024  |
+| **Rastreabilidade** | ----- |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+</div >
+
+
+### UC02 - Validar Credenciais
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Especificação do caso de uso Validar Credenciais</p></font>
+</div>
+
+| UC02 | Validar Credenciais|
+| --- | --- |
+| **Atores** | Cidadão e Sistemas Governamentais |
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. O usuário deve ter uma conta válida no aplicativo gov.br. <br>PRE02. Possuir conexão à internet.<br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário abre o aplicativo gov.br.<li> O usuário seleciona a opção de verificar suas credenciais. <li> O aplicativo solicita que o usuário insira seu nome de usuário e senha. <li> O usuário insere suas credenciais e confirma. <li> O aplicativo verifica as credenciais fornecidas. <li> Se as credenciais são válidas, o aplicativo exibe uma mensagem de sucesso e permite que o usuário prossiga. </ol>  |
+| **Fluxos alternativos** |  <b>FA01: Esqueci minha senha</b> <ol> <li> O usuário seleciona a opção "Esqueci minha senha". <li> O aplicativo solicita que o usuário insira seu e-mail registrado. <li> O usuário insere seu e-mail e confirma. <li> O aplicativo envia um e-mail com instruções para redefinir a senha. </ol> <b> </ol>  |
+| **Fluxos de exceção** | <b>FE01: Credenciais inválidas </b> <ol> <li> O aplicativo verifica as credenciais fornecidas. <li> Se as credenciais são inválidas, o aplicativo exibe uma mensagem de erro informando que o nome de usuário ou a senha estão incorretos. </ul> </ol> <ol> |
+| **Pós-condições**|POS01.O usuário verifica com sucesso suas credenciais no aplicativo gov.br. <br> POS2. O usuário pode prosseguir para outras ações dentro do aplicativo conforme suas permissões. |
+| **Data da criação**| 19/05/2024  |
+| **Rastreabilidade** | ----- |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+</div >
+
+
+### UC03 - Emitir Erro de Login
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Especificação do caso de uso Emitir Erro de Login</p></font>
+</div>
+
+| UC03 | Emitir Erro de Login|
+| --- | --- |
+| **Atores** | Cidadão |
+| **Frequência de uso** | Baixa |
+| **Pré-condições** | PRE01. O usuário tentou fazer login no aplicativo gov.br. <br>PRE02. As credenciais fornecidas pelo usuário são inválidas.<br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário insere seu nome de usuário e senha no aplicativo gov.br.<li> O aplicativo verifica as credenciais fornecidas. <li> O aplicativo detecta que as credenciais são inválidas. <li> O aplicativo exibe uma mensagem de erro informando que o nome de usuário ou a senha estão incorretos. <li> O aplicativo oferece a opção de tentar fazer login novamente. </ol>  |
+| **Fluxos alternativos** | ------ |
+| **Fluxos de exceção** | ------ |
+| **Pós-condições**|POS01.O usuário recebeu uma mensagem de erro de login no aplicativo gov.br.br. <br> POS2. O usuário pode tentar fazer login novamente com credenciais válidas. |
+| **Data da criação**| 19/05/2024  |
+| **Rastreabilidade** | ----- |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+</div >
+
+
+### UC04 - Atualizar Dados Pessoais
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação do caso de uso Atualizar Dados Pessoais</p></font>
+</div>
+
+| UC04 | Atualizar Dados Pessoais|
+| --- | --- |
+| **Atores** | Cidadão |
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. O usuário está autenticado no aplicativo gov.br. <br>PRE02. Possuir conexão à internet.<br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário acessa a seção de "Dados Pessoais" do aplicativo gov.br.<li> O aplicativo exibe os dados pessoais atuais do usuário. <li> O usuário seleciona a opção de editar os dados pessoais. <li> O aplicativo exibe um formulário com os campos para edição dos dados pessoais. <li> O usuário atualiza os campos desejados.<li> O usuário confirma a atualização dos dados pessoais. <li> O aplicativo valida os dados atualizados. <li> Se os dados são válidos, o aplicativo atualiza os dados pessoais do usuário.<li> O aplicativo exibe uma mensagem de sucesso informando que os dados foram atualizados com sucesso. </ol> |
+| **Fluxos alternativos** |  <b>FA01: Cancelar atualização</b> <ol> <li> O usuário decide cancelar a atualização dos dados pessoais. <li> O aplicativo cancela a edição e retorna à visualização dos dados pessoais atuais.</ol> <b> </ol>  |
+| **Fluxos de exceção** | <b>FE01:  Dados Inválidos</b> <ol> <li> O aplicativo valida os dados atualizados.<li> Se algum dado é inválido, o aplicativo exibe uma mensagem de erro informando sobre o dado inválido. <li>O aplicativo permite que o usuário corrija o dado inválido e tente atualizar novamente. </ul> </ol> <ol> |
+| **Pós-condições**|POS01.Os dados pessoais do usuário foram atualizados com sucesso no aplicativo gov.br. |
+| **Data da criação**| 19/05/2024  |
+| **Rastreabilidade** | ADTU02, ADTU07, BS17 e ST16 |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+</div >
+
+
+### UC05 - Consultar Benefícios
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação do caso de uso Consultar Benefícios</p></font>
+</div>
+
+| UC05 | Consultar Benefícios|
+| --- | --- |
+| **Atores** | Cidadão e Serviços Governamentais |
+| **Frequência de uso** | Alta |
+| **Pré-condições** | PRE01. O usuário está autenticado no aplicativo gov.br. <br>PRE02. Possuir conexão à internet.<br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário acessa a seção de "Consultar Benefícios" do aplicativo gov.br.<li> O aplicativo exibe uma lista de benefícios disponíveis para o usuário.<li> O usuário seleciona o benefício que deseja consultar. <li> O aplicativo exibe os detalhes do benefício selecionado, como informações sobre o programa, requisitos, e como solicitar. </ol> |
+| **Fluxos alternativos** |  <b>FA01: Benefício Não Encontrado</b> <ol> <li> O usuário não encontra o benefício desejado na lista. <li> O aplicativo oferece a opção de buscar por benefícios específicos. <li> O usuário insere o nome do benefício na barra de busca. <li> O aplicativo exibe os resultados da busca e o usuário seleciona o benefício desejado.</ol> <b> </ol>  |
+| **Fluxos de exceção** | <b>FE01:  Problemas de Conexão</b> <ol> <li> O usuário tenta acessar a consulta de benefícios.<li> Se houver problemas de conexão, o aplicativo exibe uma mensagem de erro informando sobre a falha na conexão. <li>O aplicativo sugere que o usuário tente novamente mais tarde. </ul> </ol> <ol> |
+| **Pós-condições**|POS01.O usuário obteve informações atualizadas sobre os benefícios disponíveis no aplicativo gov.br. |
+| **Data da criação**| 19/05/2024  |
+| **Rastreabilidade** | ST05 e ST11 |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+</div >
+
+
 ### UC06 - Aumentar nível da conta
 | **Nome** | Aumentar nível da conta |
 | - | - |
@@ -196,6 +340,7 @@ Abaixo o diagrama de casos de uso:
 
 - SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf. Acesso em: 17 de maio de 2024.
 - VLC. Casos de Uso. Grupo VLC da disciplina Requisitos de Software, disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/casos_de_uso. Acesso em: 17 de maio de 2024.
+- Economia DF. Casos de Uso. Grupo Economia DF da disciplina Requisitos de Software, disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/. Acesso em: 19 de maio de 2024.
 
 ## Histórico de Versão
 
@@ -204,3 +349,4 @@ Abaixo o diagrama de casos de uso:
 |  1.0   | 17/05/2024 | Versão Inicial | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.1   | 19/05/2024 | Adição do diagrama de casos de uso e imagens da legenda | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Ester Lino](https://github.com/esteerlino) |
 |  1.2   | 19/05/2024 | Adição de especificações de casos de uso | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Henrique Batalha](https://github.com/HeBatalha) |
+|  1.3   | 19/05/2024 | Adição de especificações de casos de uso 1 a 5 | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
