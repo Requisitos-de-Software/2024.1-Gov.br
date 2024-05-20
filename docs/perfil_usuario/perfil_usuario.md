@@ -14,6 +14,10 @@ A metodologia de elaboração e definição do perfil de usuário do aplicativo 
 
 ## Questionário
 
+O questionário foi elaborado com o intuito de coletar informações relevantes sobre os usuários do aplicativo Gov.br. As perguntas foram cuidadosamente elaboradas para abordar aspectos como gênero, idade, experiência com tecnologia, atitudes em relação à tecnologia e tarefas primárias realizadas no aplicativo. A coleta de dados por meio do questionário foi realizada de forma online, garantindo a participação de um número significativo de usuários.
+
+Período do Questionário: 09/04/2024 a 16/04/2024.
+
 ### Termo de Consentimento
 
 ![Termo de Consentimento](../perfil_usuario/assets/consentimento.png)
@@ -58,6 +62,33 @@ A metodologia de elaboração e definição do perfil de usuário do aplicativo 
 
 ## Definição do Perfil de Usuário
 
+Após uma análise das respostas obtidas pelo questionário juntamente com a análise documental, foi traçado um Perfil de Usuário para o aplicativo do Gov.br com
+![Pergunta 3](../perfil_usuario/assets/pergunta3.png)
+
+### Perfil de Usuário
+
+#### Pergunta 4
+
+![Pergunta 4](../perfil_usuario/assets/pergunta4.png)
+
+#### Pergunta 5
+
+![Pergunta 5](../perfil_usuario/assets/pergunta5.png)
+
+#### Pergunta 6
+
+![Pergunta 6](../perfil_usuario/assets/pergunta6.png)
+
+#### Pergunta 7
+
+![Pergunta 7](../perfil_usuario/assets/pergunta7.png)
+
+#### Pergunta 8
+
+![Pergunta 8](../perfil_usuario/assets/pergunta8.png)
+
+## Definição do Perfil de Usuário
+
 Após uma análise das respostas obtidas pelo questionário juntamente com a análise documental, foi traçado um Perfil de Usuário para o aplicativo do Gov.br com as seguintes descrições:
 
 - **Gênero:** Em sua maioria Masculino.
@@ -74,7 +105,8 @@ Após uma análise das respostas obtidas pelo questionário juntamente com a an�
 
 ## 📑 Histórico de versões:
 
-| Versão |    Data    | Descrição                                |                                                 Autor(es)                                                 |                 Revisor(es)                  |
-| :----: | :--------: | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------: |
-| `1.0`  | 09/04/2024 | Criação do Perfil de Usuário             | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) | [Caio Berg](https://github.com/Caio-bergbjj) |
-| `2.0`  | 09/04/2024 | Adição dos dados obtidos no Questionário | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) | [Caio Berg](https://github.com/Caio-bergbjj) |
+| Versão |    Data    | Descrição                                |                                                 Autor(es)                                                 |                     Revisor(es)                     |
+| :----: | :--------: | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
+| `1.0`  | 09/04/2024 | Criação do Perfil de Usuário             | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) |    [Caio Berg](https://github.com/Caio-bergbjj)     |
+| `1.1`  | 22/04/2024 | Adição dos dados obtidos no Questionário | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) |    [Caio Berg](https://github.com/Caio-bergbjj)     |
+| `2.0`  | 20/05/2024 | Correção Pós-Feedback                    |                            [Thiago Ribeiro](https://github.com/thiagorfreitas)                            | [Arthur Gabriel](https://github.com/ArthurGabrieel) |

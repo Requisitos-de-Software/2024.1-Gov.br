@@ -48,5 +48,6 @@ Centro universitário salesiano de São Paulo
 
 | Versão |    Data    | Descrição                    |                      Autor(es)                      |                     Revisor(es)                     |
 | :----: | :--------: | :--------------------------- | :-------------------------------------------------: | :-------------------------------------------------: |
-|  1.0   | 29/09/2023 | Criação do Perfil de Usuário | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Thiago Ribeiro](https://github.com/thiagorfreitas) |
-|  1.1   | 29/09/2023 | Correção de Links            | [Thiago Ribeiro](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+| `1.0`  | 29/09/2023 | Criação do Perfil de Usuário | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Thiago Ribeiro](https://github.com/thiagorfreitas) |
+| `1.1`  | 29/09/2023 | Correção de Links            | [Thiago Ribeiro](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+| `2.0`  | 20/05/2024 | Correção Pós-Feedback        | [Thiago Ribeiro](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
