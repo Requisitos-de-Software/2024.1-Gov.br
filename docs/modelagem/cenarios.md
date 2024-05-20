@@ -55,7 +55,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceção**     | A simulação pode apresentar resultados imprecisos ou incompletos se os dados cadastrais do cidadão no INSS estiverem desatualizados ou incorretos.<br>A legislação previdenciária brasileira é complexa e pode sofrer alterações ao longo do tempo. |
 <br>
 
-<p style="text-align: center">Fonte: <a href=""></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></p>
 
 ### Cenário 3: Redefinição de Senha no Aplicativo gov.br
 
@@ -106,7 +106,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceção**     | Escolas podem solicitar agendamento de visita para grupos de alunos por meio de canais específicos do Palácio do Planalto, como o site oficial ou e-mail.<br>Autoridades, diplomatas e outros convidados oficiais podem agendar visitas por meio de canais diplomáticos ou de contato direto com o cerimonial do Palácio do Planalto.<br>Em casos excepcionais, o Palácio do Planalto pode analisar solicitações de visita fora do horário normal de agendamento ou para grupos com mais de 5 pessoas.  |                                                                               |
 <br>
 
-<p style="text-align: center">Fonte: <a href=""></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/IsaqueSH">Isaque Santos</a></p>
 
 ### Cenário 6: Consulta do Histórico de Login no Aplicativo gov.br
 
@@ -123,7 +123,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 | **Exceção**     | O titular da conta gov.br pode solicitar a exclusão de itens específicos do seu histórico de login, desde que não interfiram em investigações legais ou em processos internos do gov.br.<br>Se o cidadão identificar erros no seu histórico de login, como acessos não realizados por ele, deve entrar em contato com o suporte do gov.br para que o problema seja investigado e corrigido.  |
 <br>
 
-<p style="text-align: center">Fonte: <a href=""></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></p>
 
 ### Cenário 7: Consulta dos Termos de Uso do Aplicativo gov.br
 
@@ -156,3 +156,4 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 |  1.2   | 18/05/2024 | Definição do cenário 04 | [Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |
 |  1.3   | 19/05/2024 | Definição do cenário 01 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Henrique Batalha](https://github.com/HeBatalha) |
 |  1.4   | 19/05/2024 | Definição do cenário 07 | [Henrique Batalha](https://github.com/HeBatalha) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+|  1.5  | 20/05/2024 | Atualização dos cenários  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | [Carlos Gabriel](https://github.com/TheCarlosRamos)  |
