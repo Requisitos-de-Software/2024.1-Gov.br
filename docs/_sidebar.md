@@ -46,5 +46,5 @@
 
 - [Cenários](modelagem/cenarios.md)
 - [Casos de Uso](modelagem/casos_de_uso.md)
-- [Léxicos](modelagem/lexicos.md)
 - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
+- [Léxicos](modelagem/lexicos.md)

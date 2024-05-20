@@ -251,7 +251,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [BS03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm), [ST13](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) e [ADTU04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
 
-<p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino, 2024</a></p>
 
 ### UC08 - Baixar documentos
 
@@ -271,7 +271,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [ADTU04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos)  |
 
-<p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino, 2024</a></p>
 
 ### UC09 - Emitir 2ª via
 | **Nome** | Emitir 2ª via |
