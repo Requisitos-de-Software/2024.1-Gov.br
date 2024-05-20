@@ -9,8 +9,7 @@ Casos de uso, também conhecidos como diagramas comportamentais na notação UML
 
 Para a realização deste artefato, será criado um diagrama de casos de uso para representar graficamente a interação entre os atores e os casos de uso do sistema Gov.br. Ele ajudará a descrever as funcionalidades do sistema de forma clara e concisa, destacando quem(atores) pode fazer o quê(casos de uso).
 
-...
-
+Para a criação do diagrama de casos de uso, primeiro foram identificados os autores do sistema, que são dois: Cidadão e Serviços Governamentais, em seguida, foram analisados todos os casos de uso oferecidos pelo sistema, de forma em que apareciam conforme a realização dos objetivos e tarefas dentro do aplicativo. A partir da identificação dos casos de uso, foi realizada a criação do diagrama usando como ferramenta as plataformas Draw.io e LucidChart.
 
 
 ## Componentes
@@ -32,32 +31,43 @@ O diagrama de casos de uso é composto por quatro componentes, sendo eles: Ator,
   </thead>
   <tbody>
     <tr>
-      <td><figure class="usecaseElement" style="width: 20%; display: flex;"><img src="" alt="Ator"></figure></td>
+      <td><figure class="usecaseElement" style="width: 70%; display: flex;"><img src="assets/Ator.png" alt="Ator"></figure></td>
       <td>Ator</td>
       <td>Representa os usuários ou sistemas externos que interagem com o sistema</td>
     </tr>
     <tr>
-      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="" alt="Elipse (Caso de Uso)"></figure></td>
+      <td><figure class="usecaseElement" style="width: 70%; display: flex;"><img src="assets/Elipse.png" alt="Elipse (Caso de Uso)"></figure></td>
       <td>Elipse (Caso de Uso)</td>
       <td>É uma funcionalidade ou serviço específico que o sistema oferece a seus usuários ou outros sistemas externos(atores). A elipse contém o nome do caso de uso, descrevendo a ação ou processo que o sistema realiza.</td>
     </tr>
     <tr>
-      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="" alt="Sistema"></figure></td>
+      <td><figure class="usecaseElement" style="width: 70%; display: flex;"><img src="assets/Sistema.png" alt="Sistema"></figure></td>
       <td>Sistema</td>
       <td>É representado por um retângulo que delimita todas as funcionalidades que o sistema deve realizar, e define o escopo do sistema mostrando o que está incluído no projeto e como interage com atores externos</td>
     </tr>
     <tr>
-      <td><figure class="usecaseElement" style="width: 100%; display: flex;"><img src="" alt="Comunicação"></figure></td>
+      <td><figure class="usecaseElement" style="width: 70%; display: flex;"><img src="assets/Comunicação.png" alt="Comunicação"></figure></td>
       <td>Comunicação</td>
       <td>As comunicações(relacionamentos) são usadas para representar as relações ou interações entre atores e casos de uso</td>
     </tr>
   </tbody>
 </table>
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/IsaqueSH">Isaque Santos</a>, 2024</p></font>
 </div>
 
 ## Diagrama de Casos de Uso
 
+Abaixo o diagrama de casos de uso:
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama de caso de uso do aplicativo Gov.br</p></font>
+
+<img src="assets/UseCase.png" class="usecaseElement">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/IsaqueSH">Isaque Santos</a> e <a href="https://github.com/HeBatalha">Henrique Batalha</a>, 2024</p></font>
+
+</div>
 
 ## Especificação dos Casos de Uso 
 
@@ -76,3 +86,4 @@ O diagrama de casos de uso é composto por quatro componentes, sendo eles: Ator,
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 17/05/2024 | Versão Inicial | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.1   | 19/05/2024 | Adição do diagrama de casos de uso e imagens da legenda | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Ester Lino](https://github.com/esteerlino) |
