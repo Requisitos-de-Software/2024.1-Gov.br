@@ -4,6 +4,9 @@
 
 <p align="justify">Os cronogramas apresentados foram construídos seguindo os prazos de entrega especificados no plano de ensino da disciplina Requisitos de Software (2024.1) e estão organizados por datas executadas para as tarefas requeridas, permitindo que exista um acompanhamento real do desenvolvimento do projeto.</p>
 
+
+Além disso é possível consultar e filtrar o cronograma de maneira personalizada e visualizar a relação do status de cada tarefa, priorização, designação por membro, etapa, tags e mais detalhes no [Notion da Equipe](https://requisitos-grupo4.notion.site/7ae52914340f45a6ad525d985c7d3010?v=0b90d8d4561a4e5db3d364cfc976be9e&pvs=74).
+
 ## Cronograma Executado da Etapa 1 - Planejamento
 
 A tabela 1 apresenta o cronograma executado para a entrega da etapa 1.
