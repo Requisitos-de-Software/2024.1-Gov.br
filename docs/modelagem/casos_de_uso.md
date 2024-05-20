@@ -124,7 +124,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Especificação do caso de uso Validar Credenciais</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Especificação do caso de uso Validar Credenciais</p></font>
 </div>
 
 | UC02 | Validar Credenciais|
@@ -148,7 +148,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Especificação do caso de uso Emitir Erro de Login</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação do caso de uso Emitir Erro de Login</p></font>
 </div>
 
 | UC03 | Emitir Erro de Login|
@@ -172,7 +172,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação do caso de uso Atualizar Dados Pessoais</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Especificação do caso de uso Atualizar Dados Pessoais</p></font>
 </div>
 
 | UC04 | Atualizar Dados Pessoais|
@@ -195,7 +195,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 ### UC05 - Consultar Benefícios
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação do caso de uso Consultar Benefícios</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Especificação do caso de uso Consultar Benefícios</p></font>
 </div>
 
 | UC05 | Consultar Benefícios|
@@ -216,6 +216,11 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 
 
 ### UC06 - Aumentar nível da conta
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Especificação do caso de uso Aumentar nível da conta</p></font>
+</div>
+
 | **Nome** | Aumentar nível da conta |
 | - | - |
 | **Atores** | Cidadão |
@@ -229,6 +234,11 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Rastreabilidade** | [ADTU09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
 
 ### UC07 - Visualizar documentos
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Especificação do caso de uso Visualizar documentos</p></font>
+</div>
+
 | **Nome** | Visualizar documentos |
 | - | - |
 | **Atores** | Cidadão |
@@ -241,7 +251,14 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [BS03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm), [ST13](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) e [ADTU04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
 
+<p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></p>
+
 ### UC08 - Baixar documentos
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Especificação do caso de uso Baixar documentos</p></font>
+</div>
+
 | **Nome** | Baixar documentos |
 | - | - |
 | **Atores** | Cidadão |
@@ -253,6 +270,8 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Pós-condições** | POS01. O documento é baixado para o dispositivo do cidadão. |
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [ADTU04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos)  |
+
+<p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></p>
 
 ### UC09 - Emitir 2ª via
 | **Nome** | Emitir 2ª via |
@@ -350,3 +369,4 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 |  1.1   | 19/05/2024 | Adição do diagrama de casos de uso e imagens da legenda | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Ester Lino](https://github.com/esteerlino) |
 |  1.2   | 19/05/2024 | Adição de especificações de casos de uso | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Henrique Batalha](https://github.com/HeBatalha) |
 |  1.3   | 19/05/2024 | Adição de especificações de casos de uso 1 a 5 | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+|  1.4   | 20/05/2024 | Definição dos casos de uso 7 e 8 | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH) |

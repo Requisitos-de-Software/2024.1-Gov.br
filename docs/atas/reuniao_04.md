@@ -62,7 +62,7 @@ A Ata de reunião é um registro formal de um encontro organizacional. Nela, fic
 
 ### Link da Gravação
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kia6lLGpYD4?si=156c6ONT2pmD6Iwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referência Bibliográfica
 
@@ -73,3 +73,5 @@ A Ata de reunião é um registro formal de um encontro organizacional. Nela, fic
 | Versão | Data       | Descrição                           | Responsáveis          | Revisor        |
 |--------|------------|-------------------------------------|------------------------|----------------|
 |  1.0	|08/05/2024|	Versão inicial de documento de descrição do projeto	|[Carlos Gabriel](https://github.com/TheCarlosRamos) |[Ester Lino](https://github.com/esteerlino) |
+|  1.1	|19/05/2024|	Adicionado link do vídeo da reunião	| [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+

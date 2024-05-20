@@ -104,7 +104,7 @@ A sessão de priorização foi realizada no dia 22/04/2024, com horário de inc�
 
 ## Bibliografia
 
-> WIEGERS, Karl; BEATTY, Joy.Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013.
+- WIEGERS, Karl; BEATTY, Joy.Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013.
 
 ## Histórico de versão
 

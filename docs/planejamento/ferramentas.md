@@ -21,11 +21,13 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 | <img src="assets/docsify.png" alt="Logo do Docsify" width="200"/>                  | Docsify         | Para geração de documentação estática a partir de arquivos Markdown.                                                                    |
 | <img src="assets/ThisPersonDoesNotExist.png" alt="Logo do T.P.D.N.E" width="200"/>  | This Person Does Not Exist  | Para geração de imagens das Personas.                                                                             |
 | <img src="assets/Draw.io.png" alt="Logo do Draw.io " width="200"/>  | Draw.io  | Para criação de diagramas.                                                                             |
+| <img src="assets/google_docs.png" alt="Logo do Docs" width="200"/>  | Google Docs  | Para controle das entregas e correções.     |
 
 
 <figcaption align="center">Autor: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></figcaption>
 
 ## Referências Bibliograficas
+
 1. GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 31 de mar. de 2024.
 2. Git. Disponível em: [https://git-scm.com](). Acesso em: 31 de mar. de 2024.
 3. WhatsApp. Disponível em: [https://www.whatsapp.com/?lang=pt_BR](). Acesso em: 31 de mar. de 2024.
@@ -37,6 +39,7 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 9. Docsify. Disponível em: [https://docsify.js.org/#/](). Acesso em: 31 de mar. de 2024.
 10. This Person Does Not Exist. Disponível em: [https://this-person-does-not-exist.com/en](). Acesso em: 6 de abr. de 2024
 11. Draw.io. Disponível em: [https://app.diagrams.net/](). Acesso em: 19 de maio de 2024.
+12. Google Docs. Disponível em: [https://docs.google.com/](). Acesso em: 20 de maio de 2024
 
 ## Histórico de Versão
 
@@ -47,3 +50,4 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 |  1.2   | 04/04/2024 | Adição da ferramenta Canva       | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Ester Lino](https://github.com/esteerlino)  |
 |  1.3   | 07/04/2024 | Adição da ferramenta This Person Does Not Exist| [Henrique Batalha](https://github.com/HeBatalha) | [Isaque Santos](https://github.com/IsaqueSH)  |
 |  1.4   | 19/04/2024 | Adição da ferramenta Draw.io| [Isaque Santos](https://github.com/IsaqueSH) | [Henrique Batalha](https://github.com/HeBatalha)  |
+|  1.5   | 20/05/2024 | Adição da ferramenta Google Docs| [Ester Lino](https://github.com/esteerlino) | [Arthur Gabriel](https://github.com/ArthurGabrieel)  |
