@@ -14,6 +14,7 @@ A metodologia de personas envolve a criação de perfis fictícios baseados em d
 
 De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser criterioso na escolha do número de personas a serem desenvolvidas. Eles destacam a importância de que as personas sejam facilmente memoráveis, o que pode ser alcançado por meio da restrição do elenco de personas. Se houver um grande número de personas que representem diferentes grupos de usuários, há o risco de que elas se confundam na mente dos designers e desenvolvedores, diminuindo assim a eficácia dessa técnica. É crucial abranger os principais grupos de usuários com personas para garantir um produto abrangente, pois, dessa forma, ter apenas uma persona pode excluir informações importantes de usuários que não se encaixam nesse perfil. Por isso, recomenda-se ter pelo menos três personas primárias.
 
+Levando isso em consideração, optamos por criar seis personas no total: sendo três primarias, duas secundárias e uma antipersona.
 
 ## Elenco
 
@@ -37,7 +38,7 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 
 <br>
 
-<p style="text-align: center"><b>Tabela 2</b> - Persona Maria Fernanda Alves.</p>
+<p style="text-align: center"><b>Tabela 2</b> - Persona Primária Maria Fernanda Alves.</p>
 
 | |
 | -- |
@@ -104,7 +105,7 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 | <figure markdown><p style="text-align: center">Figura 5 - Persona Olimar Gonçalves.<div style="display: flex; justify-content: center;"><img src="assets/Persona5.jpeg" alt="Persona Olimar Gonçalves." style="height: 500px; width: 500px;"></div><figcaption>
 |<p style="text-align: center">Fonte: T.P.D.N.E [](https://github.com/)
 |**Nome:** Olimar Gonçalves|
-|**Status:** Persona Secundária|
+|**Status:** Persona Primária|
 |**Gênero:** Masculino|
 |**Idade:** 62 anos|
 |**Profissão:** Aposentado|
@@ -146,3 +147,4 @@ De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser crite
 |  1.0   | 07/04/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)| [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 |  1.1   | 09/04/2024 | Correção de imagens | [Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |
 |  1.2   | 14/04/2024 | Adiciona Antipersona Sofia | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)| [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+| 1.3 | 20/05/2024 | Correções pós-apresentação 2 | [Henrique Batalha](https://github.com/HeBatalha) | [Isaque Santos](https://github.com/IsaqueSH)|
