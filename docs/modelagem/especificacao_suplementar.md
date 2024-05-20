@@ -16,7 +16,7 @@ Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cad
 
 ### F: Funcionalidade (Functionality)
 
-Os requisitos funcionais foram elicitados na seção de elicitação, [tabela 1](../../elicitacao/requisitos_elicitados.md#tab_1) da página de [requisitos elicitados](../../elicitacao/requisitos_elicitados.md).
+Os requisitos funcionais foram elicitados na seção de elicitação, [tabela 1](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados#tab_1) da página de [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados).
 
 ### U: Usabilidade (Usability)
 
