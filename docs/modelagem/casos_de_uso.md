@@ -116,7 +116,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Rastreabilidade** | ----- |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/TheCarlosRamos">Carlos Gabriel,</a> 2024</p></font>
 </div >
 
 
@@ -140,7 +140,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Rastreabilidade** | ----- |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/TheCarlosRamos">Carlos Gabriel,</a> 2024</p></font>
 </div >
 
 
@@ -164,9 +164,8 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Rastreabilidade** | ----- |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/IsaqueSH">Isaque Santos</a>, 2024</p></font>
 </div >
-
 
 ### UC04 - Atualizar Dados Pessoais
 
@@ -188,9 +187,8 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Rastreabilidade** | ADTU02, ADTU07, BS17 e ST16 |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/IsaqueSH">Isaque Santos</a>, 2024</p></font>
 </div >
-
 
 ### UC05 - Consultar Benefícios
 
@@ -211,7 +209,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Rastreabilidade** | ST05 e ST11 |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href=""></a> ,2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/thiagorfreitas">Thiago Freitas</a>, 2024</p></font>
 </div >
 
 
@@ -233,6 +231,10 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [ADTU09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/thiagorfreitas">Thiago Freitas</a>, 2024</p></font>
+</div >
+
 ### UC07 - Visualizar documentos
 
 <div align="center">
@@ -253,10 +255,10 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 
 <p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino, 2024</a></p>
 
-### UC08 - Baixar documentos
+### UC08 - Baixar Documentos
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Especificação do caso de uso Baixar documentos</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Especificação do caso de uso Baixar Documentos</p></font>
 </div>
 
 | **Nome** | Baixar documentos |
@@ -274,6 +276,11 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 <p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino, 2024</a></p>
 
 ### UC09 - Emitir 2ª via
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Especificação do caso de uso Emitir 2º via</p></font>
+</div>
+
 | **Nome** | Emitir 2ª via |
 | - | - |
 | **Atores** | Cidadão |
@@ -286,7 +293,16 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [REQ09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados) |
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Caio-bergbjj">Caio Berg</a>, 2024</p></font>
+</div >
+
 ### UC10 - Agendar Atendimento
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Especificação do caso de uso Agendar Atendimento</p></font>
+</div>
+
 | **Nome** | Agendar Atendimento |
 | - | - |
 | **Atores** | Cidadão |
@@ -299,7 +315,16 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [ST04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Caio-bergbjj">Caio Berg</a>, 2024</p></font>
+</div >
+
 ### UC11 - Solicitar Prova de Vida
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 13:</b> Especificação do caso de uso Solicitar Prova de Vida</p></font>
+</div>
+
 | **Nome** | Solicitar Prova de Vida |
 | - | - |
 | **Atores** | Cidadão |
@@ -312,7 +337,16 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [ADTU05](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) e [ST07](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/HeBatalha">Henrique Batalha</a>, 2024</p></font>
+</div >
+
 ### UC12 - Ver Histórico de Prova de Vida
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 14:</b> Especificação do caso de uso Ver Histórico de Prova de Vida</p></font>
+</div>
+
 | **Nome** | Ver Histórico de Prova de Vida |
 | - | - |
 | **Atores** | Cidadão |
@@ -325,7 +359,16 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** |  |
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/HeBatalha">Henrique Batalha</a>, 2024</p></font>
+</div >
+
 ### UC13 - Baixar Certidões
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 15:</b> Especificação do caso de uso Baixar Certidões</p></font>
+</div>
+
 | **Nome** | Baixar Certidões |
 | - | - |
 | **Atores** | Cidadão |
@@ -338,7 +381,16 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [BS05](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, 2024</p></font>
+</div >
+
 ### UC14 - Assinar Documentos Digitalmente
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 16:</b> Especificação do caso de uso Assinar Documentos Digitalmente</p></font>
+</div>
+
 | **Nome** | Assinar Documentos Digitalmente |
 | - | - |
 | **Atores** | Cidadão |
@@ -350,6 +402,10 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Pós-condições** | POS01. O documento é assinado digitalmente e salvo. |
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [BS08](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm), [ST03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, 2024</p></font>
+</div >
 
 ## Validação dos Casos de Uso 
 
@@ -375,3 +431,4 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 |  1.2   | 19/05/2024 | Adição de especificações de casos de uso | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Henrique Batalha](https://github.com/HeBatalha) |
 |  1.3   | 19/05/2024 | Adição de especificações de casos de uso 1 a 5 | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 |  1.4   | 20/05/2024 | Definição dos casos de uso 7 e 8 | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH) |
+|  1.5  | 20/05/2024 | Alguns ajustes e definição de todos os casos de uso                  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj),[Thiago Freitas](https://github.com/thiagorfreitas)  , [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH) |
