@@ -82,6 +82,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 
 | Código caso de uso | Nome do caso de uso |
 | --- | --- |
+| **Descrição** | Descrição do caso de uso |
 | **Atores** | Os usuários ou sistemas externos que interagem com o caso de uso. |
 | **Frequência de uso** | Refere-se à estimativa de quantas vezes ou com que regularidade o caso de uso será executado durante um determinado período de tempo. |
 | **Pré-condições** | As condições que devem ser atendidas antes que o caso de uso possa ser realizado.|
@@ -95,72 +96,69 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/IsaqueSH">Isaque Santos</a>, 2024</p></font>
 </div >
 
-
 ### UC01 - Fazer Login
-
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Especificação do caso de uso Fazer Login</p></font>
 </div>
 
-| UC01 | Fazer login|
+| **Nome** | Fazer login |
 | --- | --- |
+| **Descrição** | Permite ao cidadão acessar o sistema utilizando suas credenciais. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Baixa |
 | **Pré-condições** | PRE01. O usuário deve estar registrado no sistema. <br>PRE02. Possuir conexão à internet. |
 | **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário chega até a página de login.<li> O sistema apresenta o formulário de login solicitando nome de usuário e senha. <li> O usuário insere seu nome de usuário e senha. <li> O usuário clica no botão "Entrar". <li> O sistema valida as credenciais fornecidas. <li> Se as credenciais são válidas, o sistema cria uma sessão para o usuário. </ol>  |
-| **Fluxos alternativos** |  <b>FA01: Lembrar-me</b> <ol> <li> O usuário marca a opção "Lembrar-me" antes de clicar em "Entrar". <li> O sistema armazena informações do usuário para manter a sessão aberta por um período prolongado. <li> O usuário é logado. <li> Fim do caso de uso. </ol> <b> FA02: Esqueci a senha</b> <ol> <li> O usuário clica no link "Esqueci a senha". <li> O sistema redireciona o usuário para a página de recuperação de senha. <li>O usuário é logado. <li>Fim do caso de uso. </ol>  |
-| **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado <li> O sistema informa em qual campo está com o dado inválido. </ul> </ol> <b> FE02:Código de validação errado </b> <ol> <li> O usuário fornece o código de validação errado <li> O sistema informa que o código inserido é invalido </ol> |
-| **Pós-condições**|POS01. O usuário está autenticado no sistema e tem acesso às funcionalidades permitidas conforme suas permissões. |
-| **Data da criação**| 19/05/2024  |
+| **Fluxos alternativos** |  <b>FA01: Lembrar-me</b> <ol> <li> O usuário marca a opção "Lembrar-me" antes de clicar em "Entrar". <li> O sistema armazena informações do usuário para manter a sessão aberta por um período prolongado. <li> O usuário é logado. <li> Fim do caso de uso. </ol> <b> FA02: Esqueci a senha</b> <ol> <li> O usuário clica no link "Esqueci a senha". <li> O sistema redireciona o usuário para a página de recuperação de senha. <li> O usuário é logado. <li> Fim do caso de uso. </ol>  |
+| **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado. <li> O sistema informa em qual campo está com o dado inválido. </ol> <b> FE02: Código de validação errado </b> <ol> <li> O usuário fornece o código de validação errado. <li> O sistema informa que o código inserido é inválido. </ol> |
+| **Pós-condições** | POS01. O usuário está autenticado no sistema e tem acesso às funcionalidades permitidas conforme suas permissões. |
+| **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | ----- |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/TheCarlosRamos">Carlos Gabriel,</a> 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>, 2024</p></font>
 </div >
 
-
 ### UC02 - Validar Credenciais
-
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Especificação do caso de uso Validar Credenciais</p></font>
 </div>
 
-| UC02 | Validar Credenciais|
+| **Nome** | Validar Credenciais |
 | --- | --- |
+| **Descrição** | Permite ao sistema validar as credenciais fornecidas pelo usuário durante o login. |
 | **Atores** | Cidadão e Sistemas Governamentais |
 | **Frequência de uso** | Média |
-| **Pré-condições** | PRE01. O usuário deve ter uma conta válida no aplicativo gov.br. <br>PRE02. Possuir conexão à internet.<br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
-| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário abre o aplicativo gov.br.<li> O usuário seleciona a opção de verificar suas credenciais. <li> O aplicativo solicita que o usuário insira seu nome de usuário e senha. <li> O usuário insere suas credenciais e confirma. <li> O aplicativo verifica as credenciais fornecidas. <li> Se as credenciais são válidas, o aplicativo exibe uma mensagem de sucesso e permite que o usuário prossiga. </ol>  |
-| **Fluxos alternativos** |  <b>FA01: Esqueci minha senha</b> <ol> <li> O usuário seleciona a opção "Esqueci minha senha". <li> O aplicativo solicita que o usuário insira seu e-mail registrado. <li> O usuário insere seu e-mail e confirma. <li> O aplicativo envia um e-mail com instruções para redefinir a senha. </ol> <b> </ol>  |
-| **Fluxos de exceção** | <b>FE01: Credenciais inválidas </b> <ol> <li> O aplicativo verifica as credenciais fornecidas. <li> Se as credenciais são inválidas, o aplicativo exibe uma mensagem de erro informando que o nome de usuário ou a senha estão incorretos. </ul> </ol> <ol> |
-| **Pós-condições**|POS01.O usuário verifica com sucesso suas credenciais no aplicativo gov.br. <br> POS2. O usuário pode prosseguir para outras ações dentro do aplicativo conforme suas permissões. |
-| **Data da criação**| 19/05/2024  |
+| **Pré-condições** | PRE01. O usuário deve ter uma conta válida no aplicativo gov.br. <br>PRE02. Possuir conexão à internet. <br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário abre o aplicativo gov.br. <li> O usuário seleciona a opção de verificar suas credenciais. <li> O aplicativo solicita que o usuário insira seu nome de usuário e senha. <li> O usuário insere suas credenciais e confirma. <li> O aplicativo verifica as credenciais fornecidas. <li> Se as credenciais são válidas, o aplicativo exibe uma mensagem de sucesso e permite que o usuário prossiga. </ol> |
+| **Fluxos alternativos** |  <b>FA01: Esqueci minha senha</b> <ol> <li> O usuário seleciona a opção "Esqueci minha senha". <li> O aplicativo solicita que o usuário insira seu e-mail registrado. <li> O usuário insere seu e-mail e confirma. <li> O aplicativo envia um e-mail com instruções para redefinir a senha. </ol> |
+| **Fluxos de exceção** | <b>FE01: Credenciais inválidas </b> <ol> <li> O aplicativo verifica as credenciais fornecidas. <li> Se as credenciais são inválidas, o aplicativo exibe uma mensagem de erro informando que o nome de usuário ou a senha estão incorretos. </ol> |
+| **Pós-condições** | POS01. O usuário verifica com sucesso suas credenciais no aplicativo gov.br. <br> POS02. O usuário pode prosseguir para outras ações dentro do aplicativo conforme suas permissões. |
+| **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | ----- |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/TheCarlosRamos">Carlos Gabriel,</a> 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>, 2024</p></font>
 </div >
 
-
 ### UC03 - Emitir Erro de Login
-
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação do caso de uso Emitir Erro de Login</p></font>
 </div>
 
-| UC03 | Emitir Erro de Login|
+| **Nome** | Emitir Erro de Login |
 | --- | --- |
+| **Descrição** | Informa ao usuário quando há um erro no login, indicando qual campo está incorreto. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Baixa |
-| **Pré-condições** | PRE01. O usuário tentou fazer login no aplicativo gov.br. <br>PRE02. As credenciais fornecidas pelo usuário são inválidas.<br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
-| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário insere seu nome de usuário e senha no aplicativo gov.br.<li> O aplicativo verifica as credenciais fornecidas. <li> O aplicativo detecta que as credenciais são inválidas. <li> O aplicativo exibe uma mensagem de erro informando que o nome de usuário ou a senha estão incorretos. <li> O aplicativo oferece a opção de tentar fazer login novamente. </ol>  |
+| **Pré-condições** | PRE01. O usuário tentou fazer login no aplicativo gov.br. <br>PRE02. As credenciais fornecidas pelo usuário são inválidas. <br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário insere seu nome de usuário e senha no aplicativo gov.br. <li> O aplicativo verifica as credenciais fornecidas. <li> O aplicativo detecta que as credenciais são inválidas. <li> O aplicativo exibe uma mensagem de erro informando que o nome de usuário ou a senha estão incorretos. <li> O aplicativo oferece a opção de tentar fazer login novamente. </ol> |
 | **Fluxos alternativos** | ------ |
 | **Fluxos de exceção** | ------ |
-| **Pós-condições**|POS01.O usuário recebeu uma mensagem de erro de login no aplicativo gov.br.br. <br> POS2. O usuário pode tentar fazer login novamente com credenciais válidas. |
-| **Data da criação**| 19/05/2024  |
+| **Pós-condições** | POS01. O usuário recebeu uma mensagem de erro de login no aplicativo gov.br. <br> POS02. O usuário pode tentar fazer login novamente com credenciais válidas. |
+| **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | ----- |
 
 <div align="center">
@@ -169,26 +167,18 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 
 ### UC04 - Atualizar Dados Pessoais
 
-
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Especificação do caso de uso Atualizar Dados Pessoais</p></font>
 </div>
 
-| UC04 | Atualizar Dados Pessoais|
+| **Nome** | Atualizar Dados Pessoais |
 | --- | --- |
+| **Descrição** | Permite ao cidadão atualizar suas informações pessoais no aplicativo. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Média |
-| **Pré-condições** | PRE01. O usuário está autenticado no aplicativo gov.br. <br>PRE02. Possuir conexão à internet.<br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
-| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário acessa a seção de "Dados Pessoais" do aplicativo gov.br.<li> O aplicativo exibe os dados pessoais atuais do usuário. <li> O usuário seleciona a opção de editar os dados pessoais. <li> O aplicativo exibe um formulário com os campos para edição dos dados pessoais. <li> O usuário atualiza os campos desejados.<li> O usuário confirma a atualização dos dados pessoais. <li> O aplicativo valida os dados atualizados. <li> Se os dados são válidos, o aplicativo atualiza os dados pessoais do usuário.<li> O aplicativo exibe uma mensagem de sucesso informando que os dados foram atualizados com sucesso. </ol> |
-| **Fluxos alternativos** |  <b>FA01: Cancelar atualização</b> <ol> <li> O usuário decide cancelar a atualização dos dados pessoais. <li> O aplicativo cancela a edição e retorna à visualização dos dados pessoais atuais.</ol> <b> </ol>  |
-| **Fluxos de exceção** | <b>FE01:  Dados Inválidos</b> <ol> <li> O aplicativo valida os dados atualizados.<li> Se algum dado é inválido, o aplicativo exibe uma mensagem de erro informando sobre o dado inválido. <li>O aplicativo permite que o usuário corrija o dado inválido e tente atualizar novamente. </ul> </ol> <ol> |
-| **Pós-condições**|POS01.Os dados pessoais do usuário foram atualizados com sucesso no aplicativo gov.br. |
-| **Data da criação**| 19/05/2024  |
-| **Rastreabilidade** | ADTU02, ADTU07, BS17 e ST16 |
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/IsaqueSH">Isaque Santos</a>, 2024</p></font>
-</div >
+| **Pré-condições** | PRE01. O usuário está autenticado no aplicativo gov.br. <br>PRE02. Possuir conexão à internet. <br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário acessa a seção de "Dados Pessoais" do aplicativo gov.br. <li> O aplicativo exibe os dados pessoais atuais do usuário. <li> O usuário seleciona a opção de editar os dados pessoais. <li> O aplicativo exibe um formulário com os campos para edição dos dados pessoais. <li> O usuário atualiza os campos desejados. <li> O usuário confirma a atualização dos dados pessoais. <li> O aplicativo valida os dados atualizados. <li> Se os dados são válidos, o aplicativo atualiza os dados pessoais do usuário. <li> O aplicativo exibe uma mensagem de sucesso informando que os dados foram atualizados com sucesso. </ol> |
+| **Fluxos alternativos** | <b>FA01: Cancelar atualização</b> <ol> <li> O usuário decide cancelar a atualização dos dados pessoais. <li> O aplicativo cancela a edição e retorna à visualização dos dados pessoais atuais. </
 
 ### UC05 - Consultar Benefícios
 
@@ -196,22 +186,22 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 <font size="3"><p style="text-align: center"><b>Tabela 7:</b> Especificação do caso de uso Consultar Benefícios</p></font>
 </div>
 
-| UC05 | Consultar Benefícios|
+| **Nome** | Consultar Benefícios |
 | --- | --- |
+| **Descrição** | Permite ao cidadão consultar os benefícios disponíveis no sistema. |
 | **Atores** | Cidadão e Serviços Governamentais |
 | **Frequência de uso** | Alta |
-| **Pré-condições** | PRE01. O usuário está autenticado no aplicativo gov.br. <br>PRE02. Possuir conexão à internet.<br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
-| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário acessa a seção de "Consultar Benefícios" do aplicativo gov.br.<li> O aplicativo exibe uma lista de benefícios disponíveis para o usuário.<li> O usuário seleciona o benefício que deseja consultar. <li> O aplicativo exibe os detalhes do benefício selecionado, como informações sobre o programa, requisitos, e como solicitar. </ol> |
-| **Fluxos alternativos** |  <b>FA01: Benefício Não Encontrado</b> <ol> <li> O usuário não encontra o benefício desejado na lista. <li> O aplicativo oferece a opção de buscar por benefícios específicos. <li> O usuário insere o nome do benefício na barra de busca. <li> O aplicativo exibe os resultados da busca e o usuário seleciona o benefício desejado.</ol> <b> </ol>  |
-| **Fluxos de exceção** | <b>FE01:  Problemas de Conexão</b> <ol> <li> O usuário tenta acessar a consulta de benefícios.<li> Se houver problemas de conexão, o aplicativo exibe uma mensagem de erro informando sobre a falha na conexão. <li>O aplicativo sugere que o usuário tente novamente mais tarde. </ul> </ol> <ol> |
-| **Pós-condições**|POS01.O usuário obteve informações atualizadas sobre os benefícios disponíveis no aplicativo gov.br. |
-| **Data da criação**| 19/05/2024  |
-| **Rastreabilidade** | ST05 e ST11 |
+| **Pré-condições** | PRE01. O usuário está autenticado no aplicativo gov.br. <br>PRE02. Possuir conexão à internet. <br>PRE03. O aplicativo gov.br deve estar operacional e acessível. |
+| **Fluxo básico** | <b>FB01. </b> <ol> <li> O usuário acessa a seção de "Consultar Benefícios" do aplicativo gov.br. <li> O aplicativo exibe uma lista de benefícios disponíveis para o usuário. <li> O usuário seleciona o benefício que deseja consultar. <li> O aplicativo exibe os detalhes do benefício selecionado, como informações sobre o programa, requisitos, e como solicitar. </ol> |
+| **Fluxos alternativos** | <b>FA01: Benefício Não Encontrado</b> <ol> <li> O usuário não encontra o benefício desejado na lista. <li> O aplicativo oferece a opção de buscar por benefícios específicos. <li> O usuário insere o nome do benefício na barra de busca. <li> O aplicativo exibe os resultados da busca e o usuário seleciona o benefício desejado. </ol> |
+| **Fluxos de exceção** | <b>FE01: Problemas de Conexão</b> <ol> <li> O usuário tenta acessar a consulta de benefícios. <li> Se houver problemas de conexão, o aplicativo exibe uma mensagem de erro informando sobre a falha na conexão. <li> O aplicativo sugere que o usuário tente novamente mais tarde. </ol> |
+| **Pós-condições** | POS01. O usuário obteve informações atualizadas sobre os benefícios disponíveis no aplicativo gov.br. |
+| **Data da criação** | 19/05/2024 |
+| **Rastreabilidade** | [ST05](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling), [ST11](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/thiagorfreitas">Thiago Freitas</a>, 2024</p></font>
 </div >
-
 
 ### UC06 - Aumentar nível da conta
 
@@ -221,12 +211,13 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 
 | **Nome** | Aumentar nível da conta |
 | - | - |
+| **Descrição** | Permite ao cidadão aumentar o nível de sua conta para prata ou ouro. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Baixa |
 | **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo; <br>PRE02. O cidadão deve ter permissão para aumentar o nível da conta. |
 | **Fluxo básico** | **FB01.** <ol><li> O cidadão seleciona a opção de aumentar o nível da conta. <li> O sistema exibe os níveis disponíveis e seus benefícios. <li> O cidadão escolhe o nível desejado (bronze, prata ou ouro). <li> O sistema processa a solicitação e atualiza o nível da conta. <li> O sistema confirma a atualização e ajusta os privilégios correspondentes. <li> Fim do caso de uso. </ol> |
 | **Fluxos alternativos** | |
-| **Fluxos de exceção** | **FE01: Requisitos** <ol> <li> O cidadão seleciona a opção de aumentar o nível da conta. <li> O sistema exibe os níveis disponíveis e seus benefícios. <li> O cidadão escolhe o nível desejado (bronze, prata ou ouro). <li> O usuário não consegue cumprir com as especificações minímas do nível.|
+| **Fluxos de exceção** | **FE01: Requisitos** <ol><li> O cidadão seleciona a opção de aumentar o nível da conta. <li> O sistema exibe os níveis disponíveis e seus benefícios. <li> O cidadão escolhe o nível desejado (bronze, prata ou ouro). <li> O usuário não consegue cumprir com as especificações mínimas do nível. </ol> |
 | **Pós-condições** | POS01. A conta do cidadão é atualizada para o nível escolhido. <li> Fim do caso de uso.|
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [ADTU09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
@@ -242,47 +233,50 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 </div>
 
 | **Nome** | Visualizar documentos |
-| - | - |
+| --- | --- |
+| **Descrição** | Permite ao cidadão visualizar documentos disponíveis no sistema. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo. |
 | **Fluxo básico** | **FB01.** <ol><li> O cidadão acessa a seção de documentos. <li> O sistema lista os documentos disponíveis. <li> O cidadão seleciona um documento. <li> O sistema exibe o documento selecionado. <li> Fim do caso de uso. </ol> |
 | **Fluxos alternativos** | |
-| **Fluxos de exceção** | **FE01: Documento não encontrado** <ol> <li> O cidadão acessa a seção de documentos.<li> O cidadão não encontra o documento desejado. <li> O caso de uso é encerrado. </ol> |
+| **Fluxos de exceção** | **FE01: Documento não encontrado** <ol><li> O cidadão acessa a seção de documentos. <li> O cidadão não encontra o documento desejado. <li> O caso de uso é encerrado. </ol> |
 | **Pós-condições** | POS01. Os documentos são exibidos na interface do usuário. |
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [BS03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm), [ST13](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) e [ADTU04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
 
 <p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino, 2024</a></p>
 
-### UC08 - Baixar Documentos
+### UC08 - Baixar documentos
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 10:</b> Especificação do caso de uso Baixar Documentos</p></font>
 </div>
 
 | **Nome** | Baixar documentos |
-| - | - |
+| --- | --- |
+| **Descrição** | Permite ao cidadão baixar documentos para seu dispositivo. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo. |
 | **Fluxo básico** | **FB01.** <ol><li> O cidadão acessa a seção de documentos. <li> O cidadão seleciona um documento para baixar. <li> O sistema prepara o documento para download. <li> O cidadão confirma o download. <li> O sistema baixa o documento para o dispositivo do cidadão. <li> Fim do caso de uso. </ol> |
 | **Fluxos alternativos** | |
-| **Fluxos de exceção** | **FE01: Falha no download** <ol><li> O cidadão acessa a seção de documentos.  <li> O cidadão seleciona um documento para baixar. <li> O download falha devido a problemas de conexão. <li> O cidadão tenta novamente. <li> Fim do caso de uso. </ol> |
+| **Fluxos de exceção** | **FE01: Falha no download** <ol><li> O cidadão acessa a seção de documentos. <li> O cidadão seleciona um documento para baixar. <li> O download falha devido a problemas de conexão. <li> O cidadão tenta novamente. <li> Fim do caso de uso. </ol> |
 | **Pós-condições** | POS01. O documento é baixado para o dispositivo do cidadão. |
 | **Data da criação** | 19/05/2024 |
-| **Rastreabilidade** | [ADTU04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos)  |
+| **Rastreabilidade** | [ADTU04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
 
 <p style="text-align: center">Fonte: <a href="https://github.com/esteerlino">Ester Lino, 2024</a></p>
 
 ### UC09 - Emitir 2ª via
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Especificação do caso de uso Emitir 2º via</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Especificação do caso de uso Emitir 2ª via</p></font>
 </div>
 
 | **Nome** | Emitir 2ª via |
-| - | - |
+| --- | --- |
+| **Descrição** | Permite ao cidadão emitir a segunda via de documentos. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo. |
@@ -291,7 +285,7 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Fluxos de exceção** | **FE01: Documento original não encontrado** <ol><li> O sistema não encontra o documento original. <li> O caso de uso é encerrado. </ol> |
 | **Pós-condições** | POS01. A segunda via do documento é gerada e disponível para download. |
 | **Data da criação** | 19/05/2024 |
-| **Rastreabilidade** | [REQ09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados) |
+| **Rastreabilidade** | [ADTU09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Caio-bergbjj">Caio Berg</a>, 2024</p></font>
@@ -304,13 +298,24 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 </div>
 
 | **Nome** | Agendar Atendimento |
-| - | - |
+| --- | --- |
+| **Descrição** | Permite ao cidadão agendar um atendimento em uma unidade governamental. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo. |
 | **Fluxo básico** | **FB01.** <ol><li> O cidadão seleciona a opção de agendamento. <li> O sistema exibe as datas e horários disponíveis. <li> O cidadão escolhe uma data e horário. <li> O sistema confirma o agendamento. <li> Fim do caso de uso. </ol> |
 | **Fluxos alternativos** | |
-| **Fluxos de exceção** | **FE01: Sem horários disponíveis** <ol><li> O cidadão seleciona a opção de agendamento. <li> Não há horários disponíveis na data escolhida. <li> O cidadão escolhe outra data. <li> Fim do caso de uso. </ol> |
+| **Fluxos de exceção** | **FE01: Sem horários disponíveis** <ol><li> O cidadão seleciona a opção de agendamento. <li> Não há horários disponíveis na data escolhida. <li> O cidadão escolhe outra data.
+
+| **Nome** | Agendar Atendimento |
+| --- | --- |
+| **Descrição** | Permite ao cidadão agendar um atendimento em uma unidade governamental. |
+| **Atores** | Cidadão |
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo. |
+| **Fluxo básico** | **FB01.** <ol><li> O cidadão seleciona a opção de agendamento. <li> O sistema exibe as datas e horários disponíveis. <li> O cidadão escolhe uma data e horário. <li> O sistema confirma o agendamento. <li> Fim do caso de uso. </ol> |
+| **Fluxos alternativos** | |
+| **Fluxos de exceção** | **FE01: Sem horários disponíveis** <ol><li> Não há horários disponíveis na data escolhida. <li> O cidadão escolhe outra data. <li> Fim do caso de uso. </ol> |
 | **Pós-condições** | POS01. O atendimento é agendado e confirmado. |
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [ST04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
@@ -326,13 +331,14 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 </div>
 
 | **Nome** | Solicitar Prova de Vida |
-| - | - |
+| --- | --- |
+| **Descrição** | Permite ao cidadão solicitar a prova de vida. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Baixa |
 | **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo. |
-| **Fluxo básico** | **FB01.** <ol><li> O cidadão acessa a seção de histórico de prova de vida. <li> O cidadão solicita a prova de vida. <li> O sistema realiza no aplicativo, através do reconhecimento facial. <li> O sistema confirma a solicitação e valida para o cidadão. <li> Fim do caso de uso. </ol> |
+| **Fluxo básico** | **FB01.** <ol><li> O cidadão solicita a prova de vida. <li> O sistema registra a solicitação. <li> O sistema confirma a solicitação para o cidadão. <li> Fim do caso de uso. </ol> |
 | **Fluxos alternativos** | |
-| **Fluxos de exceção** | **FE01: Falha na solicitação** <ol><li> O cidadão solicita a prova de vida.<li> O sistema não consegue validar a solicitação devido a problemas técnicos. <li> O cidadão tenta novamente. <li> Fim do caso de uso. </ol> |
+| **Fluxos de exceção** | **FE01: Falha na solicitação** <ol><li> O sistema não consegue registrar a solicitação devido a problemas técnicos. <li> O cidadão tenta novamente. <li> Fim do caso de uso. </ol> |
 | **Pós-condições** | POS01. A solicitação de prova de vida é registrada. |
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [ADTU05](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) e [ST07](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
@@ -348,13 +354,14 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 </div>
 
 | **Nome** | Ver Histórico de Prova de Vida |
-| - | - |
+| --- | --- |
+| **Descrição** | Permite ao cidadão visualizar o histórico de suas provas de vida. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo. |
 | **Fluxo básico** | **FB01.** <ol><li> O cidadão acessa a seção de histórico de prova de vida. <li> O sistema exibe o histórico das provas de vida realizadas. <li> Fim do caso de uso. </ol> |
 | **Fluxos alternativos** | |
-| **Fluxos de exceção** | **FE01: Sem registros** <ol><li> O cidadão acessa a seção de histórico de prova de vida. <li> Não há registros de prova de vida. <li> O caso de uso é encerrado. </ol> |
+| **Fluxos de exceção** | **FE01: Sem registros** <ol><li> Não há registros de prova de vida. <li> O caso de uso é encerrado. </ol> |
 | **Pós-condições** | POS01. O histórico de prova de vida é exibido. |
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** |  |
@@ -370,11 +377,12 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 </div>
 
 | **Nome** | Baixar Certidões |
-| - | - |
+| --- | --- |
+| **Descrição** | Permite ao cidadão baixar certidões específicas como Certidão de PCD e Certificado de Cad. Único. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo. |
-| **Fluxo básico** | **FB01.** <ol><li> O cidadão acessa a seção de certidões. <li> O sistema lista as certidões disponíveis (Certidão de PCD, Certificado de Cad. Único). <li> O cidadão seleciona uma certidão. <li> O sistema prepara o documento para download. <li> O cidadão confirma o download. <li> O sistema baixa a certidão para o dispositivo do cidadão. <li> Fim do caso de uso. </ol> |
+| **Fluxo básico** | **FB01.** <ol><li> O cidadão acessa a seção de certidões. <li> O sistema lista as certidões disponíveis. <li> O cidadão seleciona uma certidão. <li> O sistema prepara o documento para download. <li> O cidadão confirma o download. <li> O sistema baixa a certidão para o dispositivo do cidadão. <li> Fim do caso de uso. </ol> |
 | **Fluxos alternativos** | |
 | **Fluxos de exceção** | **FE01: Falha no download** <ol><li> O download falha devido a problemas de conexão. <li> O cidadão tenta novamente. <li> Fim do caso de uso. </ol> |
 | **Pós-condições** | POS01. A certidão é baixada para o dispositivo do cidadão. |
@@ -392,13 +400,14 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 </div>
 
 | **Nome** | Assinar Documentos Digitalmente |
-| - | - |
+| --- | --- |
+| **Descrição** | Permite ao cidadão assinar documentos digitalmente. |
 | **Atores** | Cidadão |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. O cidadão deve estar logado no aplicativo; <br>PRE02. O cidadão deve ter documentos disponíveis para assinatura. |
-| **Fluxo básico** | **FB01.** <ol><li> O cidadão acessa a seção de assinatura digital. <li> O cidadão seleciona um documento para assinar. <li> O sistema aplica a assinatura digital ao documento. <li> O sistema salva o documento assinado e o disponibiliza para o cidadão. <li> Fim do caso de uso. </ol> |
+| **Fluxo básico** | **FB01.** <ol><li> O cidadão acessa a seção de assinatura digital. <li> O sistema exibe os documentos disponíveis para assinatura. <li> O cidadão seleciona um documento para assinar. <li> O sistema aplica a assinatura digital ao documento. <li> O sistema salva o documento assinado e o disponibiliza para o cidadão. <li> Fim do caso de uso. </ol> |
 | **Fluxos alternativos** | |
-| **Fluxos de exceção** | **FE01: Falha na assinatura** <ol><li> O sistema não consegue aplicar a assinatura digital. <li> O cidadão tenta novamente. <li> Fim do caso de uso. </ol> |
+| **Fluxos de exceção** | **FE01: Falha na assinatura** <ol><li> O sistema não consegue aplicar a assinatura digital devido a problemas técnicos. <li> O cidadão tenta novamente. <li> Fim do caso de uso. </ol> |
 | **Pós-condições** | POS01. O documento é assinado digitalmente e salvo. |
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [BS08](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm), [ST03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
@@ -408,6 +417,8 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 </div >
 
 ## Validação dos Casos de Uso 
+
+  No dia 20 de maio de 2024, às 18h, realizamos uma entrevista com um usuário para validar os casos de uso do aplicativo Gov.br. O objetivo dessa entrevista foi assegurar que os casos de uso desenvolvidos atendem às necessidades e expectativas dos usuários. A gravação a seguir documenta todo o processo de validação, incluindo feedbacks específicos do usuário sobre cada caso de uso, possíveis melhorias e ajustes necessários.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g7orrLdftj0?si=OaDyyvQEXPCkQ00H&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
