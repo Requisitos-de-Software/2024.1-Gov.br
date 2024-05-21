@@ -351,6 +351,11 @@ A Tabela 2 explicará melhor cada um dos seus elementos:
 | **Data da criação** | 19/05/2024 |
 | **Rastreabilidade** | [BS08](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm), [ST03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
 
+## Validação dos Casos de Uso 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZRdGgvMjjA?si=6PqCsxmw7Uvno0WJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Referências Bibliográficas
 
 - Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 17 de maio de 2024.
