@@ -67,7 +67,8 @@ Os requisitos funcionais foram elicitados na seção de elicitação, [tabela 1]
 | :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 |     DES01     | As funcionalidades críticas, como reconhecimento facial e autenticação, devem ser otimizadas para operar de maneira rápida e eficiente. |
 |     DES02     |                                          O aplicativo deve ter boa performance e ser estável.                                           |
-|     DES03     |                            Eficiência: O aplicativo deve ser rápido no acesso e no agendamento de serviços.                             |
+|     DES03     |                            O aplicativo deve ser rápido no acesso e no agendamento de serviços.                                         |
+|     DES04     |                            O aplicativo não deve demorar mais que 2 segundos para fazer uma consulta.                                   |
 
 </center>
 
@@ -86,6 +87,7 @@ Os requisitos funcionais foram elicitados na seção de elicitação, [tabela 1]
 |     SUP03     |                                                    Como usuário, desejo uma navegação intuitiva para buscar processos e documentos.                                                    |
 |     SUP04     |                                                     Como usuário, desejo eficiência no agendamento e acompanhamento de processos.                                                      |
 |     SUP05     |                                               Como usuário, desejo receber atualizações relevantes sobre processos e benefícios sociais.                                               |
+|     SUP05     |                                               Como usuário, desejo ter acesso ao aplicativo tanto no android como no ios.                                                              |
 
 </center>
 
