@@ -8,4 +8,4 @@ Nessa página consta o vídeo de apresentação do conteúdo entregue na Etapa 0
 
 | Versão |    Data    |             Descrição             |                                       Responsáveis                                       |                    Revisor                    |
 | :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| 1.0 | 01/04/2023 | Adicionada a apresentação 1 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+| 1.0 | 01/04/2024 | Adicionada a apresentação 1 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
