@@ -70,9 +70,8 @@ Para questões relativas à pesquisa ou para se retirar, entre em contato via e-
 
 ### Bibliografia
 
-> Modelo de Termo de Consentimento Livre e Esclarecido. https://www.rosana.unesp.br/Home/pesquisa/orientacoesemanual/modelo-termo-de-consentimento-livre-e-esclarecido.docx Acesso em: 18 de abril de 2024.
-
-> 2023.2-e-Titulo https://requisitos-de-software.github.io/2023.2-e-Titulo/
+- Modelo de Termo de Consentimento Livre e Esclarecido. https://www.rosana.unesp.br/Home/pesquisa/orientacoesemanual/modelo-termo-de-consentimento-livre-e-esclarecido.docx Acesso em: 18 de abril de 2024.
+- 2023.2-e-Titulo https://requisitos-de-software.github.io/2023.2-e-Titulo/
 
 ### Histórico de Versões
 

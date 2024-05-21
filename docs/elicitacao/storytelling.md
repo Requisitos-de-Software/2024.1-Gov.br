@@ -158,9 +158,6 @@ Ao finalizar as tarefas no aplicativo, Olimar sente um alívio. Ele percebe que 
 - SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07: Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 13 de abril de 2024.
 - Storytelling do Grupo Lichess 2022/2. Disponível em: https://github.com/Requisitos-de-Software/2022.2-Lichess. Acesso em: 13 de abril de 2024.
 
-
-
-
 ## Histórico de Versão
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |

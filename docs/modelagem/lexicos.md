@@ -8,7 +8,7 @@ O léxico, na Engenharia de Requisitos, tem como finalidade definir termos e exp
 
 A metodologia utilizada para a elaboração deste artefato foi a LAL - Léxico Ampliado da Linguagem. Essa técnica permite identificar cada símbolo e descrevê-lo a partir da definição da noção e do impacto dele. Na tabela 1 é possível visualizar cada tipo de léxico e como definir os conceitos necessários para cada um deles.
 
-<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Léxicos segundo a LAL</p>
+<font><p style="text-align: center">**Tabela 1** - Léxicos segundo a LAL</p></font>
 
 |  Tipo de símbolo | Noção | Impacto |
 |:----------------:|:-----:|:-------:|
@@ -28,7 +28,7 @@ A seguir são apresentadas as tabelas de 2 a 4, que apresentam, respectivamente 
 
 ### Léxicos do tipo Verbo
 
-<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 2</b> - Léxicos do tipo Verbo</p>
+<font><p style="text-align: center">**Tabela 2** - Léxicos do tipo Verbo</p></font>
 
 |  ID  |  Símbolo  |  Noção  |  Impacto  |  Sinônimo(s)  |  Autor(a)  |
 |:----:|:---------:|:-------:|:---------:|:-----------:|:----------:|
@@ -45,7 +45,7 @@ A seguir são apresentadas as tabelas de 2 a 4, que apresentam, respectivamente 
 
 ### Léxicos do tipo Objeto
 
-<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 3</b> - Léxicos do tipo Objeto</p>
+<font><p style="text-align: center">**Tabela 3** - Léxicos do tipo Objeto</p></font>
 
 |  ID  |  Símbolo  |  Noção  |  Impacto  |  Sinônimo(s)  |  Autor(a)  |
 |:----:|:---------:|:-------:|:---------:|:-----------:|:----------:|
@@ -61,7 +61,7 @@ A seguir são apresentadas as tabelas de 2 a 4, que apresentam, respectivamente 
 
 ### Léxicos do tipo Estado
 
-<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 4</b> - Léxicos do tipo Estado</p>
+<font><p style="text-align: center">**Tabela 4** - Léxicos do tipo Estado</p></font>
 
 |  ID  |  Símbolo  |  Noção  |  Impacto  |  Sinônimo(s)  |  Autor(a)  |
 |:----:|:---------:|:-------:|:---------:|:-----------:|:----------:|

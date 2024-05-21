@@ -32,7 +32,6 @@ Por se tratar de uma plataforma do governo, não a restrições em relação ao 
 
 > Fonte: GOV.BR Disponível em: https://cadastro.acesso.gov.br/termo-de-uso, Acesso em 31/04/2024.
 
-
 ## Aplicativos Analisados para o projeto da disciplina
 
 <figcaption>Tabela 1 - Tabela dos aplicativos analisados</figcaption>
@@ -49,8 +48,8 @@ Por se tratar de uma plataforma do governo, não a restrições em relação ao 
 <figcaption>Autores: <a href="https://github.com/Caio-bergbjj">Caio Berg</a>, <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></figcaption>
 
 ## Bibliografia
-[1] gov.br . Disponível em: [gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Acesso em 31 de Março de 2024.
 
+- gov.br . Disponível em: [gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Acesso em 31 de Março de 2024.
 
 ## Histórico de versão
 
@@ -58,4 +57,3 @@ Por se tratar de uma plataforma do governo, não a restrições em relação ao 
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 31/03/2024 | Versão inicial  | [Caio Berg](https://github.com/Caio-bergbjj) | [Thiago Freitas](https://github.com/thiagorfreitas) |
 |  1.1   | 07/04/2024 | Cirtérios e referências  | [Caio Berg](https://github.com/Caio-bergbjj) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
-

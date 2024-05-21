@@ -219,8 +219,8 @@ A SGD se reserva o direito de modificar, a qualquer momento, as presentes normas
 | 3.0    | 27/10/2023 | SGD   | Mais sobre as funcionalidades do Acesso e Aplicativo gov.br; Detalhamento do tratamento de dados pessoais. |
 
 ## Bibliografia
-[1] gov.br . Disponível em: https://cadastro.acesso.gov.br/termo-de-uso. Acesso em 07 de Abril de 2024.
 
+- gov.br . Disponível em: https://cadastro.acesso.gov.br/termo-de-uso. Acesso em 07 de Abril de 2024.
 
 ## Histórico de versão
 

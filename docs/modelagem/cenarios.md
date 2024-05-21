@@ -6,9 +6,9 @@ Os cenários são uma descrição escrita em linguagem natural de eventos e situ
 
 ## Metodologia
 
-Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
+Foram criados 07 cenários no total, seguindo o modelo aprensentado na tabela 1. As tabelas de 2 a 8 correspondem aos cenários definidos pelos membros do grupo.
 
-<p style="text-align: center">Tabela 1 - Modelo dos cenários</p>
+<font><p style="text-align: center">**Tabela 1** - Modelo dos cenários</p></font>
 
 | Elemento           | Descrição                                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 ### Cenário 1: Consulta de CPF - gov.br
 
-<p style="text-align: center">Tabela 2 - Cenário 01</p>
+<font><p style="text-align: center">**Tabela 2** - Cenário 01</p></font>
 
 | Elemento    | Descrição                                                                                       |
 | ----------- | ----------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 ### Cenário 2:  Simulação de Aposentadoria - gov.br
 
-<p style="text-align: center">Tabela 3 - Cenário 02</p>
+<font><p style="text-align: center">**Tabela 3** - Cenário 02</p></font>
 
 | Elemento     | Descrição                                                                                                           |
 | ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +59,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 ### Cenário 3: Redefinição de Senha no Aplicativo gov.br
 
-<p style="text-align: center">Tabela 4 - Cenário 03</p>
+<font><p style="text-align: center">**Tabela 4** - Cenário 03</p></font>
 
 | Elemento     | Descrição                                                                                                           |
 | ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,7 +76,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 ### Cenário 4: Consulta de CNPJ - gov.br
 
-<p style="text-align: center">Tabela 5 - Cenário 04</p>
+<font><p style="text-align: center">**Tabela 5** - Cenário 04</p></font>
 
 | Elemento    | Descrição                                                                                       |
 | ----------- | ----------------------------------------------------------------------------------------------- |
@@ -93,7 +93,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 ### Cenário 5: Agendamento de Visita ao Palácio do Planalto - gov.br
 
-<p style="text-align: center">Tabela 6 - Cenário 05</p>
+<font><p style="text-align: center">**Tabela 6** - Cenário 05</p></font>
 
 | Elemento     | Descrição                                                                                                           |
 | ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -110,7 +110,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 ### Cenário 6: Consulta do Histórico de Login no Aplicativo gov.br
 
-<p style="text-align: center">Tabela 7 - Cenário 06</p>
+<font><p style="text-align: center">**Tabela 7** - Cenário 06</p></font>
 
 | Elemento     | Descrição                                                                                                           |
 | ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -127,7 +127,7 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 
 ### Cenário 7: Consulta dos Termos de Uso do Aplicativo gov.br
 
-<p style="text-align: center">Tabela 8 - Cenário 07</p>
+<font><p style="text-align: center">**Tabela 8** - Cenário 07</p></font>
 
 | Elemento     | Descrição                                                                                                           |
 | ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -141,7 +141,6 @@ Foram criados 10 no total. Seguindo o modelo aprensentado na tabela 1 a seguir:
 <br>
 
 <p style="text-align: center">Fonte: <a href="https://github.com/HeBatalha">Henrique Batalha</a></p>
-
 
 ## Bibliografia
 

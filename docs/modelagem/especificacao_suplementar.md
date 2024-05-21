@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta a Especificação Suplementar para o projeto GovBR. A Especificação Suplementar é um artefato importante no processo de desenvolvimento de software, pois descreve os requisitos não funcionais do sistema - aqueles que não estão diretamente relacionados com a funcionalidade específica do software, mas com características como desempenho, usabilidade, confiabilidade, entre outros. Esses requisitos são cruciais para garantir a qualidade do software e a satisfação do usuário.
+Este documento apresenta a Especificação Suplementar para o projeto Gov.br. A Especificação Suplementar é um artefato importante no processo de desenvolvimento de software, pois descreve os requisitos não funcionais do sistema - aqueles que não estão diretamente relacionados com a funcionalidade específica do software, mas com características como desempenho, usabilidade, confiabilidade, entre outros. Esses requisitos são cruciais para garantir a qualidade do software e a satisfação do usuário.
 
 ## Metodologia
 
@@ -13,6 +13,8 @@ FURPS+ é um acrônimo para Funcionalidade, Usabilidade, Confiabilidade, Desempe
 Este documento foi estruturado de acordo com as categorias do modelo FURPS+. Cada seção do documento corresponde a uma categoria e apresenta uma descrição detalhada dos requisitos não funcionais relacionados a essa categoria para o aplicativo GovBR.
 
 ## FURPS+
+
+As tabelas de 1 a 7 correspondem à especificação suplementar de cada uma das categorias do **FURPS+**.
 
 ### F: Funcionalidade (Functionality)
 
@@ -144,6 +146,6 @@ Os requisitos funcionais foram elicitados na seção de elicitação, [tabela 1]
 
 | Versão |    Data    | Descrição                                         |                                                                                                                                              Autor(es)                                                                                                                                               |                     Revisor(es)                     |
 | :----: | :--------: | :------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
-| `1.0`  | 16/05/2024 | Criação do documento                              |                                                                                              [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas)                                                                                               |    [Caio Berg](https://github.com/Caio-bergbjj)     |
-| `1.1`  | 19/05/2024 | Definição da Metodologia e Introdução ao trabalho |                                                                                              [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas)                                                                                               |    [Caio Berg](https://github.com/Caio-bergbjj)     |
-| `1.2`  | 20/05/2024 | Adição das Tabelas e Requisitos                   | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH), [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Ester Lino](https://github.com/esteerlino) | [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 1.0  | 16/05/2024 | Criação do documento                              |                                                                                              [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas)                                                                                               |    [Caio Berg](https://github.com/Caio-bergbjj)     |
+| 1.1  | 19/05/2024 | Definição da Metodologia e Introdução ao trabalho |                                                                                              [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas)                                                                                               |    [Caio Berg](https://github.com/Caio-bergbjj)     |
+| 1.2  | 20/05/2024 | Adição das Tabelas e Requisitos                   | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH), [Henrique Batalha](https://github.com/HeBatalha), [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Ester Lino](https://github.com/esteerlino) | [Thiago Freitas](https://github.com/thiagorfreitas) |

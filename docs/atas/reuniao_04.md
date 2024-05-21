@@ -66,7 +66,7 @@ A Ata de reunião é um registro formal de um encontro organizacional. Nela, fic
 
 ## Referência Bibliográfica
 
-[1] ASANA. Dicas para criar um modelo de ata de reunião. Disponível em: https://asana.com/pt/templates/meeting-minutes. Acesso em 23 de abril de 2024.
+- ASANA. Dicas para criar um modelo de ata de reunião. Disponível em: https://asana.com/pt/templates/meeting-minutes. Acesso em 23 de abril de 2024.
 
 ## Histórico de Versão
 

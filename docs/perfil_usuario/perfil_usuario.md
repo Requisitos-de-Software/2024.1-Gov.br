@@ -160,17 +160,15 @@ Após uma análise das respostas obtidas pelo questionário juntamente com a an�
 
 ## Bibliografia
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
-> HENRIQUE, Matheus. FERREIRA, Rafael. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 09 de abril de 2024.
-
-> Meu Perfil de Usuário, GovBR.
+- BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+- HENRIQUE, Matheus. FERREIRA, Rafael. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 09 de abril de 2024.
+- Meu Perfil de Usuário, GovBR.
 Disponível em: [https://www.gov.br/pt-br/perfil_usuario/todos_os_perfis](https://www.gov.br/pt-br/perfil_usuario/todos_os_perfis). Acesso em 20 de maio de 2024.
 
-## 📑 Histórico de versões:
+## Histórico de versões:
 
 | Versão |    Data    | Descrição                                |                                                 Autor(es)                                                 |                     Revisor(es)                     |
 | :----: | :--------: | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
-| `1.0`  | 09/04/2024 | Criação do Perfil de Usuário             | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) |    [Caio Berg](https://github.com/Caio-bergbjj)     |
-| `1.1`  | 22/04/2024 | Adição dos dados obtidos no Questionário | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) |    [Caio Berg](https://github.com/Caio-bergbjj)     |
-| `2.0`  | 20/05/2024 | Correção Pós-Feedback                    |                            [Thiago Ribeiro](https://github.com/thiagorfreitas)                            | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+| 1.0  | 09/04/2024 | Criação do Perfil de Usuário             | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) |    [Caio Berg](https://github.com/Caio-bergbjj)     |
+| 1.1  | 22/04/2024 | Adição dos dados obtidos no Questionário | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) |    [Caio Berg](https://github.com/Caio-bergbjj)     |
+| 2.0  | 20/05/2024 | Correção Pós-Feedback                    |                            [Thiago Ribeiro](https://github.com/thiagorfreitas)                            | [Arthur Gabriel](https://github.com/ArthurGabrieel) |

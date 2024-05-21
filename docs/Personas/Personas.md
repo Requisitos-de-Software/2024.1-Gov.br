@@ -136,6 +136,7 @@ Levando isso em consideração, optamos por criar seis personas no total: sendo 
 |**Tarefas:**  Durante a semana, Sofia vai para a escola e passa a maior parte do tempo brincando com seus colegas no parque. À noite, gosta de ler histórias antes de dormir, jogar com seus brinquedos e, às vezes, assistir a um filme infantil em família.|
 
 ## Bibliografia
+
 - This Person Does Not Exist. Disponível em: https://this-person-does-not-exist.com/en . Acesso em: 6 de abril de 2024
 - Personas. Disponível em: https://www.portalinsights.com.br/perguntas-frequentes/quais-os-beneficios-da-persona. Acesso em: 6 de Abril de 2024
 - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Acesso em: 7 de Abril de 2024

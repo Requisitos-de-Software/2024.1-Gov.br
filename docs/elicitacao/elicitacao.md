@@ -13,7 +13,7 @@ O grupo decidiu, após análise das técnicas estudadas e avaliação de quais p
 
 ## Bibliografia
 
-> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016. 
+- VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016. 
 
 ## Histórico de versão
 

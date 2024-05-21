@@ -102,7 +102,7 @@ A tabela 9 apresenta o cronograma executado para a entrega da etapa 7.
 
 ## Bibliografia
 
-> 1. Plano_de_Ensino RE 012024 Turma 1. Aprender3. Acesso em 31/março/2024.
+- Plano_de_Ensino RE 012024 Turma 1. Aprender3. Acesso em 31/março/2024.
 
 ## Histórico de versão
 

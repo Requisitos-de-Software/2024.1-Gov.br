@@ -13,7 +13,7 @@ O grupo decidiu, após análise das técnicas estudadas e avaliação de quais p
 
 ## Bibliografia
 
-> WIEGERS, Karl; BEATTY, Joy.Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013.
+- WIEGERS, Karl; BEATTY, Joy.Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013.
 
 ## Histórico de versão
 

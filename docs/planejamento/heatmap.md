@@ -24,13 +24,11 @@ Com base na avaliação do Heatmap, identificamos os seguintes horários como os
 
 ### Conclusão
 
-
 O emprego do heatmap de disponibilidade para encontros provou ser uma ferramenta útil no planejamento e coordenação das atividades em equipe. A representação visual dos momentos disponíveis possibilitou uma tomada de decisão mais embasada e eficiente na marcação de encontros e na elaboração de agendas. Este registro documental é uma forma de documentar o processo e os resultados alcançados, simplificando a comunicação e a troca de informações entre os integrantes da equipe.
 
+### Bibliografia
 
-### Referências Bibliográficas
-
-1. YI, M. Heatmap: The Complete Guide. Atlassian. Disponível em: https://www.atlassian.com/data/charts/heatmap-complete-guide. Acesso em: 04 abr. 2024.
+- YI, M. Heatmap: The Complete Guide. Atlassian. Disponível em: https://www.atlassian.com/data/charts/heatmap-complete-guide. Acesso em: 04 abr. 2024.
 
 ### Histórico de Versões
 

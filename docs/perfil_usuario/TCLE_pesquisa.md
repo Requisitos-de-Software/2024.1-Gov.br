@@ -37,17 +37,17 @@ Ao prosseguir, você declara ter lido e compreendido este TCLE, concordando em p
 
 Este TCLE garante a transparência e a clareza da pesquisa. Ao fornecer informações precisas e compreensíveis, buscamos assegurar a participação consciente dos voluntários.
 
-## Referências Bibliográficas
+## Bibliografia
 
 Centro universitário salesiano de São Paulo
 
-1. **Orientações para elaboração do Termo de Consentimento Livre e Esclarecido (TCLE)**. Disponível em: <https://www.rondonia.fiocruz.br/wp-content/uploads/2021/06/Orienta%C3%A7%C3%B5es-para-elabora%C3%A7%C3%A3o-do-TCLE.docx-3-1.pdf> Acesso em: 09 abr. 2024.
-2. CENTRO UNIVERSITÁRIO SALESIANO DE SÃO PAULO. **Orientações para Elaboração do Termo de Consentimento Livre e Esclarecido (TCLE)**. Disponível em <https://unisal.br/wp-content/uploads/2021/12/Roteiro-para-Elaboracao-do-Termo-de-Consentimento-Livre-e-Esclarecido-TCLE.pdf> Acesso em: 09 abr. 2024.
+- **Orientações para elaboração do Termo de Consentimento Livre e Esclarecido (TCLE)**. Disponível em: <https://www.rondonia.fiocruz.br/wp-content/uploads/2021/06/Orienta%C3%A7%C3%B5es-para-elabora%C3%A7%C3%A3o-do-TCLE.docx-3-1.pdf> Acesso em: 09 abr. 2024.
+- CENTRO UNIVERSITÁRIO SALESIANO DE SÃO PAULO. **Orientações para Elaboração do Termo de Consentimento Livre e Esclarecido (TCLE)**. Disponível em <https://unisal.br/wp-content/uploads/2021/12/Roteiro-para-Elaboracao-do-Termo-de-Consentimento-Livre-e-Esclarecido-TCLE.pdf> Acesso em: 09 abr. 2024.
 
 ## Histórico de Versão
 
 | Versão |    Data    | Descrição                    |                      Autor(es)                      |                     Revisor(es)                     |
 | :----: | :--------: | :--------------------------- | :-------------------------------------------------: | :-------------------------------------------------: |
-| `1.0`  | 29/09/2023 | Criação do Perfil de Usuário | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Thiago Ribeiro](https://github.com/thiagorfreitas) |
-| `1.1`  | 29/09/2023 | Correção de Links            | [Thiago Ribeiro](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
-| `2.0`  | 20/05/2024 | Correção Pós-Feedback        | [Thiago Ribeiro](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+| 1.0  | 29/09/2023 | Criação do Perfil de Usuário | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Thiago Ribeiro](https://github.com/thiagorfreitas) |
+| 1.1  | 29/09/2023 | Correção de Links            | [Thiago Ribeiro](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+| 2.0  | 20/05/2024 | Correção Pós-Feedback        | [Thiago Ribeiro](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |

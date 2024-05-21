@@ -71,12 +71,11 @@ Esta metodologia assegurou que a análise de documentação fosse conduzida de m
 | RFN07  | Níveis de Segurança de Acesso           | O sistema deve implementar múltiplos níveis de segurança de acesso (bronze, prata, ouro).                                  |
 | RFN08  | Disponibilidade e Acessibilidade        | O sistema deve ser acessível e disponível para todos os usuários, garantindo acessibilidade para usuários com deficiências e oferecendo suporte a múltiplas plataformas e navegadores. |
 
-
 ## Bibliografia
-> 1. REtraining UFSC Guia. Análise de Documentos . Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos. Acesso em 11 de Abril de 2024.
-> 2. Termo de Uso Gov.br .  Disponível em: https://cadastro.acesso.gov.br/termo-de-uso. Acesso em 11 de Abril de 2024.
-> 3. Play Store. Comentários Gov.br. Disponível em: https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US. Acesso em 11 de Abril de 2024.Disponível
 
+- REtraining UFSC Guia. Análise de Documentos . Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos. Acesso em 11 de Abril de 2024.
+- Termo de Uso Gov.br .  Disponível em: https://cadastro.acesso.gov.br/termo-de-uso. Acesso em 11 de Abril de 2024.
+- Play Store. Comentários Gov.br. Disponível em: https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US. Acesso em 11 de Abril de 2024.Disponível
 
 ## Histórico de versão
 
