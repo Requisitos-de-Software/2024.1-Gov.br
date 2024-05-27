@@ -134,6 +134,8 @@ A tabela 1 apresenta o backlog com as histórias de usuário elaboradas, assim c
 
 ## Bibliografia
 
+- SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 15): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>>. Acesso em: 26/07/2024.
+
 ## Histórico de Versão
 
 | Versão |    Data    | Descrição            |                                                                                                                                                  Autor(es)                                                                                                                                                  |                     Revisor(es)                     |
