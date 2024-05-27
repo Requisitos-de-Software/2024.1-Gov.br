@@ -71,16 +71,16 @@ Para cada NFR foi feito uma tabela de requisitos NF derivada da especificação 
 |     AD01     | Atualização: O aplicativo deve manter os usuários informados sobre novidades e atualizações importantes. |
 |     AD02     | Privacidade: Garantir que as informações dos usuários não sejam compartilhadas sem permissão.                                           |
 
-<p style="text-align: center">Autor(a):  <a href=""></a></p>
+<p style="text-align: center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></p>
 <br>
 
 ### Sem Propagação
 <div align="center"><img src="../../assets/NFR04.jpeg"></div>
-<p style="text-align: center">Figura 3: NFR- Ajuda e documentação Sem Propagação, Autor(a): <a href=""></a></p>
+<p style="text-align: center">Figura 3: NFR- Ajuda e documentação Sem Propagação, Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></p>
 
 ### Com Propagação
 <div align="center"><img src="../assets/NFR04P.jpeg"></div>
-<p style="text-align: center">Figura 4: NFR- Ajuda e documentação Sem Propagação, Autor(a): <a href=""></a></p>
+<p style="text-align: center">Figura 4: NFR- Ajuda e documentação Sem Propagação, Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></p>
 <br>
 
 <font><p style="text-align: center">Tabela 4: Cartão de Especificação - Ajuda e Documentação</p></font>
@@ -95,7 +95,7 @@ Para cada NFR foi feito uma tabela de requisitos NF derivada da especificação 
 | Conflito              | Nenhum |
 | História              | 26 de mai. 2024|
 
-<div align="center">Autor(a): <a href=""></a> </div>
+<div align="center"> Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a> </div>
 
 ## NFR03 - Portabilidade
 
@@ -110,7 +110,7 @@ Para cada NFR foi feito uma tabela de requisitos NF derivada da especificação 
 |     DES03     |                            O aplicativo deve ser rápido no acesso e no agendamento de serviços.                                         |
 |     DES04     |                            O aplicativo não deve demorar mais que 2 segundos para fazer uma consulta.                                   |
 <div align="center">
-Autor(a): 
+Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a> e <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>
 </div>
 
 ### Sem Propagação
@@ -120,7 +120,7 @@ Autor(a):
 </div>
 
 <div align="center">
-Figura 5: NFR- Portabilidade Sem Propagação, Autor(a): 
+Figura 5: NFR- Portabilidade Sem Propagação, Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a> e <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>
 </div>
 
 ### Com Propagação
@@ -130,7 +130,7 @@ Figura 5: NFR- Portabilidade Sem Propagação, Autor(a):
 </div>
 
 <div align="center">
-Figura 6: NFR- Portabilidade com Propagação, Autor(a): 
+Figura 6: NFR- Portabilidade com Propagação, Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a> e <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>
 </div>
 <br>
 
@@ -155,7 +155,7 @@ Figura 6: NFR- Portabilidade com Propagação, Autor(a):
 | Prioridade      | Alta |
 | Conflito       | Nenhum |
 | Historia       | 26 de maio de 2024 |
-<div align="center">Autor(a): <a href=""></a> </div>
+<div align="center">Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a> e <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a> </div>
 
 ## NFR04 - Desempenho (Performance)
 
@@ -294,7 +294,7 @@ Facilidade de Encontrar Ajuda:  |
 |     RD03      | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. |
 
 <div align="center">
-Autor(a): 
+Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a>
 </div>
 
 
@@ -305,7 +305,7 @@ Autor(a):
 </div>
 
 <div align="center">
-Figura 11: NFR- Restrição e Design Sem Propagação, Autor(a): 
+Figura 11: NFR- Restrição e Design Sem Propagação, Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a>
 </div>
 
 ### Com Propagação
@@ -315,7 +315,7 @@ Figura 11: NFR- Restrição e Design Sem Propagação, Autor(a):
 </div>
 
 <div align="center">
-Figura 12: NFR- Restrição e Design com Propagação, Autor(a): 
+Figura 12: NFR- Restrição e Design com Propagação, Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a>
 </div>
 <br>
 
@@ -351,7 +351,7 @@ Figura 12: NFR- Restrição e Design com Propagação, Autor(a):
 | Prioridade      | Alta |
 | Conflito       | Nenhum |
 | Historia       | 26 de maio de 2024 |
-<div align="center">Autor(a): <a href=""></a> </div>
+<div align="center">Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a></div>
 
 ## Bibliografia
 
@@ -364,3 +364,4 @@ Figura 12: NFR- Restrição e Design com Propagação, Autor(a):
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0  | 26/05/2024 | Versão Inicial  | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com/IsaqueSH) | [Ester Lino](https://github.com/esteerlino) |
 |  1.1  | 27/05/2024 | Atualização do NFR framework  | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com/IsaqueSH) | [Ester Lino](https://github.com/esteerlino) |
+|  1.2  | 27/05/2024 | Atualização do NFR framework  | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | [Henrique Batalha](https://github.com/HeBatalha) |
