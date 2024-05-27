@@ -33,17 +33,13 @@ As funcionalidades foram documentadas de maneira ágil e padronizada, alinhadas 
 
 Ao escrever as histórias de usuário para este projeto, é crucial seguir as diretrizes especificadas neste documento. Para modelar as histórias de usuário de forma consistente, devemos incluir as seguintes informações:
 
-- ID: Este é o identificador único das histórias de usuário. Os IDs estão presentes nos títulos das histórias, que foram organizadas em toggles.
-
 - História de Usuário: Cada história de usuário deve seguir a estrutura "Eu, como [usuário], desejo [realizar algo] para que [alcance algum objetivo]".
-
 - Tema: É importante indicar a qual tema ou categoria a está relacionada, proporcionando um contexto mais amplo.
-
 - Critérios de Aceitação: Aqui, devemos listar um conjunto de atributos ou condições que uma funcionalidade deve atender para ser considerada "aceita" ou concluída com sucesso.
-
 - Prioridade: A prioridade ajuda a determinar o nível de importância da história de usuário no projeto. Pode ser classificada como alta, média ou baixa, levando em consideração fatores como o valor para o usuário, facilidade de implementação, dependências técnicas e restrições de prazo.
-
 - Dificuldade de Implementação (DI): Essa métrica está relacionada à dificuldade de implementar a funcionalidade e pode ser categorizada como baixa, média ou alta.
+- Persona: A persona é um personagem fictício que representa um grupo de usuários reais. Ela ajuda a contextualizar a história de usuário e a compreender as necessidades e expectativas dos usuários finais.
+- Histórias Impactadas: Indica quais outras histórias de usuário podem ser impactadas pela implementação da história atual.
 
 # Histórias de Usuário
 
@@ -52,10 +48,10 @@ Ao escrever as histórias de usuário para este projeto, é crucial seguir as di
 A tabela 1 apresenta a história de usuário referente a consulta de documentos.
 
 <font><p style="text-align: center">**Tabela 1** - HSU01 - Consultar Documentos</p></font>
-
+ 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo consultar documentos para verificar informações pessoais. | Consulta de Documentos | - O sistema deve permitir a seleção e visualização de documentos. | Média  | Baixa | Ana, estudante universitária | HSU06 - Listar Documentos |
+| Eu, como cidadão, desejo consultar documentos para verificar informações pessoais. | Consulta de Documentos | - O sistema deve permitir a seleção e visualização de documentos. | Média  | Baixa | Olimar Gonçalves,  doutorado em fisica | HSU06 - Listar Documentos |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
@@ -67,7 +63,7 @@ A tabela 2 apresenta a história de usuário referente ao upload de documentos.
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo enviar documentos para análise para completar minha solicitação de serviço. | Upload de Documentos | - O sistema deve permitir upload e validação de formatos de documentos. |   Baixa   | Baixa | Ana, estudante universitária | HSU01 - Consultar Documentos |
+| Eu, como cidadão, desejo enviar documentos para análise para completar minha solicitação de serviço. | Upload de Documentos | - O sistema deve permitir upload e validação de formatos de documentos. |   Baixa   | Baixa | Olimar Gonçalves,  doutorado em fisica | HSU01 - Consultar Documentos |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
@@ -79,7 +75,7 @@ A tabela 3 apresenta a história de usuário referente a edição de informaçõ
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo editar informações de documentos previamente submetidos na plataforma. | Edição de Documentos | - O sistema deve permitir a edição de informações com atualização em tempo real. |   Alta   | Baixa | Carlos, viajante frequente | HSU02 - Upload de Documentos |
+| Eu, como cidadão, desejo editar informações de documentos previamente submetidos na plataforma. | Edição de Documentos | - O sistema deve permitir a edição de informações com atualização em tempo real. |   Alta   | Baixa | Rafael Pedrosa, professor | HSU02 - Upload de Documentos |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
@@ -103,7 +99,7 @@ A tabela 5 apresenta a história de usuário referente a renovação de document
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo renovar documentos como carteira de identidade ou passaporte diretamente pela plataforma. | Renovação de Documentos | - O sistema deve permitir a renovação com opções de pagamento integradas. |   Alta  | Média | Carlos, viajante frequente | HSU01 - Consultar Documentos |
+| Eu, como cidadão, desejo renovar documentos como carteira de identidade ou passaporte diretamente pela plataforma. | Renovação de Documentos | - O sistema deve permitir a renovação com opções de pagamento integradas. |   Alta  | Média | Maria Fernanda, graduada em direito | HSU01 - Consultar Documentos |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
@@ -115,7 +111,7 @@ A tabela 6 apresenta a história de usuário referente a listagem de documentos.
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo listar todos os documentos disponíveis para entender quais estão acessíveis para mim. | Lista de Documentos | - O sistema deve apresentar uma lista completa de documentos disponíveis para consulta. |   Alta   | Baixa | Ana, estudante universitária | HSU01 - Consultar Documentos |
+| Eu, como cidadão, desejo listar todos os documentos disponíveis para entender quais estão acessíveis para mim. | Lista de Documentos | - O sistema deve apresentar uma lista completa de documentos disponíveis para consulta. |   Alta   | Baixa | Maria Fernanda, graduada em direito | HSU01 - Consultar Documentos |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
@@ -127,7 +123,7 @@ A tabela 7 apresenta a história de usuário referente a revisão de informaçõ
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo revisar e corrigir informações em meu perfil para garantir que meus dados estejam corretos. | Revisão de Perfil | - O sistema deve permitir visualização e edição de informações pessoais com verificação de dados. |  Alta    | Média | Carlos, viajante frequente | HSU06 - Edição de Perfil |
+| Eu, como cidadão, desejo revisar e corrigir informações em meu perfil para garantir que meus dados estejam corretos. | Revisão de Perfil | - O sistema deve permitir visualização e edição de informações pessoais com verificação de dados. |  Alta    | Média |  Lucas Oliveira, desenvolvedor | HSU06 - Edição de Perfil |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
@@ -139,115 +135,91 @@ A tabela 8 apresenta a história de usuário referente ao cancelamento de agenda
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo cancelar um agendamento prévio para evitar compromissos desnecessários. | Cancelamento de Agendamento | - O sistema deve permitir cancelamento de agendamentos com confirmação imediata. |   Baixa | Baixa | Maria, profissional de saúde | HSU03 - Agendamento de Saúde |
+| Eu, como cidadão, desejo cancelar um agendamento prévio para evitar compromissos desnecessários. | Cancelamento de Agendamento | - O sistema deve permitir cancelamento de agendamentos com confirmação imediata. |   Baixa | Baixa | João Silva, engenheiro | HSU03 - Agendamento de Saúde |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
-## HSU09 - Atualizar Contatos de Emergência
+## HSU9 - Alterar Senha de Acesso
 
-A tabela 9 apresenta a história de usuário referente a atualização de contatos de emergência.
+A tabela 9 apresenta a história de usuário referente a alteração da senha de acesso.
 
-<font><p style="text-align: center">**Tabela 9** - HSU09 - Atualizar Contatos de Emergência</p></font>
-
-| História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
-| ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo atualizar meus contatos de emergência para garantir minha segurança. | Contatos de Emergência | - O sistema deve permitir adição e remoção de contatos de emergência facilmente. |  Alta   | Alta | João, administrador de TI | Nenhuma              |
-
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
-
-## HSU10 - Alterar Senha de Acesso
-
-A tabela 10 apresenta a história de usuário referente a alteração da senha de acesso.
-
-<font><p style="text-align: center">**Tabela 10** - HSU10 - Alterar Senha de Acesso</p></font>
+<font><p style="text-align: center">**Tabela 9** - HSU9 - Alterar Senha de Acesso</p></font>
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo alterar minha senha de acesso para manter a segurança da minha conta. | Segurança da Conta | - O sistema deve permitir a alteração de senha com verificações de segurança. |    Alta  | Baixa | Maria, profissional de saúde | Nenhuma              |
+| Eu, como cidadão, desejo alterar minha senha de acesso para manter a segurança da minha conta. | Segurança da Conta | - O sistema deve permitir a alteração de senha com verificações de segurança. |    Alta  | Baixa | Lucas Oliveira, desenvolvedor | Nenhuma              |
 
 <figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
 
-## HSU11 - Solicitar Nova Certidão
+## HSU10 - Solicitar Nova Certidão
 
-A tabela 11 apresenta a história de usuário referente a solicitação de nova certidão.
+A tabela 10 apresenta a história de usuário referente a solicitação de nova certidão.
 
-<font><p style="text-align: center">**Tabela 11** - HSU11 - Solicitar Nova Certidão</p></font>
+<font><p style="text-align: center">**Tabela 10** - HSU10 - Solicitar Nova Certidão</p></font>
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo solicitar uma nova certidão de nascimento para regularizar minha documentação civil. | Solicitação de Certidões | - O sistema deve permitir a solicitação e o pagamento de novas certidões de forma simples e segura. |   Média   | Baixa | Ana, estudante universitária | HSU06 - Listar Documentos |
+| Eu, como cidadão, desejo solicitar uma nova certidão de nascimento para regularizar minha documentação civil. | Solicitação de Certidões | - O sistema deve permitir a solicitação e o pagamento de novas certidões de forma simples e segura. |   Média   | Baixa | Maria Fernanda, graduada em direito | HSU06 - Listar Documentos |
 
 <figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
 
-## HSU12 - Visualizar Notificações de Pagamento
+## HSU11 - Visualizar Notificações de Pagamento
 
-A tabela 12 apresenta a história de usuário referente a visualização de notificações de pagamento.
+A tabela 11 apresenta a história de usuário referente a visualização de notificações de pagamento.
 
-<font><p style="text-align: center">**Tabela 12** - HSU12 - Visualizar Notificações de Pagamento</p></font>
+<font><p style="text-align: center">**Tabela 11** - HSU11 - Visualizar Notificações de Pagamento</p></font>
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo visualizar notificações de pagamento para gerenciar minhas pendências financeiras com o governo. | Gerenciamento Financeiro | - O sistema deve fornecer um painel de notificações de pagamentos pendentes e realizados. |  Alta   | Alta | Carlos, viajante frequente | HSU10 - Alterar Senha de Acesso |
+| Eu, como cidadão, desejo visualizar notificações de pagamento para gerenciar minhas pendências financeiras com o governo. | Gerenciamento Financeiro | - O sistema deve fornecer um painel de notificações de pagamentos pendentes e realizados. |  Alta   | Alta | Rafael Pedrosa, professor | HSU9 - Alterar Senha de Acesso |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
-## HSU13 - Responder Pesquisas de Satisfação
+## HSU12 - Responder Pesquisas de Satisfação
 
-A tabela 13 apresenta a história de usuário referente a responder pesquisas de satisfação.
+A tabela 12 apresenta a história de usuário referente a responder pesquisas de satisfação.
 
-<font><p style="text-align: center">**Tabela 13** - HSU13 - Responder Pesquisas de Satisfação</p></font>
+<font><p style="text-align: center">**Tabela 12** - HSU12 - Responder Pesquisas de Satisfação</p></font>
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo responder pesquisas de satisfação para contribuir com a melhoria dos serviços públicos. | Feedback de Serviços | - O sistema deve disponibilizar pesquisas de satisfação de forma periódica e registrar as respostas. |  Baixa  | Média | Maria, profissional de saúde | Nenhuma              |
+| Eu, como cidadão, desejo responder pesquisas de satisfação para contribuir com a melhoria dos serviços públicos. | Feedback de Serviços | - O sistema deve disponibilizar pesquisas de satisfação de forma periódica e registrar as respostas. |  Baixa  | Média | Rafael Pedrosa, professor | Nenhuma              |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
-## HSU14 - Consultar Calendário de Eventos
+## HSU13 - Registrar Queixas e Reclamações
 
-A tabela 14 apresenta a história de usuário referente a consulta do calendário de eventos.
+A tabela 13 apresenta a história de usuário referente ao registro de queixas e reclamações.
 
-<font><p style="text-align: center">**Tabela 14** - HSU14 - Consultar Calendário de Eventos</p></font>
+<font><p style="text-align: center">**Tabela 13** - HSU13 - Registrar Queixas e Reclamações</p></font>
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo consultar o calendário de eventos públicos para planejar minha participação em atividades locais. | Acesso a Eventos | - O sistema deve oferecer um calendário atualizado de eventos públicos com opções de filtragem por data e tipo. |    Baixa   | Baixa | João, administrador de TI | Nenhuma              |
+| Eu, como cidadão, desejo registrar queixas e reclamações sobre serviços públicos para que medidas corretivas possam ser tomadas. | Registro de Queixas | - O sistema deve permitir o registro de queixas de forma anônima ou identificada, garantindo resposta ou acompanhamento. |   Média   | Alta | Lucas Oliveira, desenvolvedor | HSU12 - Responder Pesquisas de Satisfação |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
-## HSU15 - Registrar Queixas e Reclamações
+## HSU14 - Login no Sistema
 
-A tabela 15 apresenta a história de usuário referente ao registro de queixas e reclamações.
+A tabela 14 apresenta a história de usuário referente ao login no sistema.
 
-<font><p style="text-align: center">**Tabela 15** - HSU15 - Registrar Queixas e Reclamações</p></font>
+<font><p style="text-align: center">**Tabela 14** - HSU14 - Registrar Queixas e Reclamações</p></font>
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo registrar queixas e reclamações sobre serviços públicos para que medidas corretivas possam ser tomadas. | Registro de Queixas | - O sistema deve permitir o registro de queixas de forma anônima ou identificada, garantindo resposta ou acompanhamento. |   Média   | Alta | Ana, estudante universitária | HSU13 - Responder Pesquisas de Satisfação |
+| Eu, como usuário registrado, desejo fazer login para acessar minha conta e utilizar os serviços do sistema. | Autenticação de Usuário | - O sistema deve validar as credenciais do usuário.<br>- Deve haver uma mensagem de erro para credenciais inválidas. |  Alta    | Baixa | João Silva, engenheiro | Nenhuma              |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
-## HSU16 - Login no Sistema
+## HSU15 - Recuperação de Senha
 
-A tabela 16 apresenta a história de usuário referente ao login no sistema.
+A tabela 15 apresenta a história de usuário referente a recuperação de senha.
 
-<font><p style="text-align: center">**Tabela 16** - HSU16 - Registrar Queixas e Reclamações</p></font>
-
-| História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
-| ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como usuário registrado, desejo fazer login para acessar minha conta e utilizar os serviços do sistema. | Autenticação de Usuário | - O sistema deve validar as credenciais do usuário.<br>- Deve haver uma mensagem de erro para credenciais inválidas. |  Alta    | Baixa | Ana, estudante universitária | Nenhuma              |
-
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
-
-## HSU17 - Recuperação de Senha
-
-A tabela 17 apresenta a história de usuário referente a recuperação de senha.
-
-<font><p style="text-align: center">**Tabela 17** - HSU17 - Recuperação de Senha</p></font>
+<font><p style="text-align: center">**Tabela 15** - HSU15 - Recuperação de Senha</p></font>
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como usuário que esqueceu a senha, desejo recuperar minha senha para poder acessar novamente o sistema. | Gerenciamento de Senhas | - O sistema deve permitir solicitar a redefinição de senha através de e-mail.<br>- Deve fornecer instruções claras para a redefinição de senha. | Alta       | Média | Carlos, viajante frequente | HS16 - Login no Sistema |
+| Eu, como usuário que esqueceu a senha, desejo recuperar minha senha para poder acessar novamente o sistema. | Gerenciamento de Senhas | - O sistema deve permitir solicitar a redefinição de senha através de e-mail.<br>- Deve fornecer instruções claras para a redefinição de senha. | Alta       | Média | João Silva, engenheiro | HS16 - Login no Sistema |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
