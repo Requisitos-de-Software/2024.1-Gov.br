@@ -74,7 +74,19 @@ A tabela 3 apresenta o cronograma executado para a entrega da etapa 3.
 
 A tabela 4 apresenta o cronograma executado para a entrega da etapa 4.
 
-***EM BREVE...***
+<figcaption align="center">Tabela 4 - Cronograma planejado da etapa 4</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 21/05</br> Fim: 26/05 | [Isaque Santos](https://github.com/IsaqueSH) | Início: 26/05</br> Fim: 27/05 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 21/05</br> Fim: 26/05 | [Caio Berg](https://github.com/Caio-bergbjj) | Início: 26/05</br> Fim: 27/05 |
+| Histórias de Usuário | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj) e [Thiago Freitas](https://github.com/thiagorfreitas) |  Início: 21/05</br> Fim: 26/05 | [Ester Lino](https://github.com/esteerlino) | Início: 26/05</br> Fim: 27/05 |
+| Backlog do Produto| [Caio Berg](https://github.com/Caio-bergbjj) e [Ester Lino](https://github.com/esteerlino) | Início: 21/05</br> Fim: 26/05 | [Henrique Batalha](https://github.com/HeBatalha) | Início: 26/05</br> Fim: 27/05 |
+| NFR Framework | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com/IsaqueSH) |  Início: 21/05</br> Fim: 26/05  | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 26/05</br> Fim: 27/05 |
+| Gravação da apresentação | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 26/05</br> Fim: 27/05 | [Arthur Gabriel](ArthurGabrieel) | Início:26/05</br> Fim: 27/05 |
+| Correção após feedbacks da entrega 04 | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 28/05</br> Fim: 30/05 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 30/05</br> Fim: 31/05 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
 
 ## Cronograma Executado da Etapa 5.1 - Análise de Requisitos I
 
@@ -111,3 +123,4 @@ A tabela 9 apresenta o cronograma executado para a entrega da etapa 7.
 |  1.0   | 09/04/2024 | Criação da página para os cronogramas executados| [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
 |  1.1   | 22/04/2024 | Inclusão do cronograma executado da etapa 02 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
 |  1.2   | 18/05/2024 | Inclusão do cronograma executado da etapa 03 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+|  1.3   | 27/05/2024 | Inclusão do cronograma executado da etapa 04 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
