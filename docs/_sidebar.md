@@ -49,3 +49,5 @@
 - [Casos de Uso](modelagem/casos_de_uso.md)
 - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
 - [Léxicos](modelagem/lexicos.md)
+- [Ágil](modelagem/agil)
+  - [NFR Framework](modelagem/agil/nfr_framework.md)
