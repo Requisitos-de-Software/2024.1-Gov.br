@@ -50,4 +50,5 @@
 - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
 - [Léxicos](modelagem/lexicos.md)
 - [Ágil](modelagem/agil)
+  - [Histórias de Usuário](modelagem/agil/historia_usuario.md)
   - [NFR Framework](modelagem/agil/nfr_framework.md)
