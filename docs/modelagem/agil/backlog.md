@@ -69,7 +69,7 @@ A tabela 1 apresenta o backlog com as histórias de usuário elaboradas, assim c
     <td>Altaa</td>
   </tr>
   <tr>
-    <td>HSU11 - Solicitar Nova Certidão</td>
+    <td>HSU10 - Solicitar Nova Certidão</td>
     <td>Média</td>
   </tr>
   <tr>
@@ -89,11 +89,8 @@ A tabela 1 apresenta o backlog com as histórias de usuário elaboradas, assim c
     <td>Alta</td>
   </tr>
   <tr>
-    <td>HSU09 - Atualizar Contatos de Emergência</td>
-    <td>Alta</td>
-  </tr>
   <tr>
-    <td>HSU10 - Alterar Senha de Acesso</td>
+    <td>HSU09 - Alterar Senha de Acesso</td>
     <td>Alta</td>
   </tr>
   <tr>
@@ -101,30 +98,28 @@ A tabela 1 apresenta o backlog com as histórias de usuário elaboradas, assim c
   <tr>
     <td rowspan="5"><b>T04 -</b> Interações com o Sistema</td>
     <td rowspan="2"><b>EP04 -</b> Autenticação e Acesso</td>
-    <td>HSU16 - Login no Sistema</td>
+    <td>HSU14 - Login no Sistema</td>
     <td>Alta</td>
   </tr>
   <tr>
-    <td>HSU17 - Recuperação de Senha</td>
+    <td>HSU15 - Recuperação de Senha</td>
     <td>Alta</td>
   </tr>
   <tr>
     <td rowspan="3"><b>EP05 -</b> Feedback e Comunicações</td>
-    <td>HSU13 - Responder Pesquisas de Satisfação</td>
+    <td>HSU12 - Responder Pesquisas de Satisfação</td>
     <td>Baixa</td>
   </tr>
   <tr>
-    <td>HSU14 - Consultar Calendário de Eventos</td>
-    <td>Baixa</td>
   </tr>
   <tr>
-    <td>HSU15 - Registrar Queixas e Reclamações</td>
+    <td>HSU13 - Registrar Queixas e Reclamações</td>
     <td>Média</td>
   </tr>
   <tr>
     <td><b>T05 -</b> Gerenciamento Financeiro</td>
     <td><b>EP06 -</b> Notificações Financeiras</td>
-    <td>HSU12 - Visualizar Notificações de Pagamento</td>
+    <td>HSU11 - Visualizar Notificações de Pagamento</td>
     <td>Alta</td>
   </tr>
 </table>
@@ -141,4 +136,4 @@ A tabela 1 apresenta o backlog com as histórias de usuário elaboradas, assim c
 | Versão |    Data    | Descrição            |                                                                                                                                                  Autor(es)                                                                                                                                                  |                     Revisor(es)                     |
 | :----: | :--------: | :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
 |  1.0   | 26/05/2024 | Criação do documento | [Ester Lino](https://github.com/esteerlino) |  [Caio Berg](https://github.com/Caio-bergbjj) |
-
+|  1.1   | 27/05/2024 | Atualização das histórias de usuário | [Ester Lino](https://github.com/esteerlino) |  [Caio Berg](https://github.com/Caio-bergbjj) |
