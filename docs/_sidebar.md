@@ -5,7 +5,7 @@
 - [Apresentação 01](apresentacoes/apresentacao_01.md)
 - [Apresentação 02](apresentacoes/apresentacao_02.md)
 - [Apresentação 03](apresentacoes/apresentacao_03.md)
-- [Apresentação 04](apresentaçoes/apresentacao_04.md)
+- [Apresentação 04](apresentacoes/apresentacao_04.md)
 
 **Atas**
 
