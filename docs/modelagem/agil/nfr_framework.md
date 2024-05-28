@@ -40,11 +40,11 @@ Para cada NFR foi feito uma tabela de requisitos NF derivada da especificação 
 <br>
 
 ### Sem Propagação
-<div align="center"><img src="../../assets/NFR01.jpeg"></div>
+<div align="center"><img src="./assets/NFR01.jpeg"></div>
 <p style="text-align: center">Figura 1: NFR- Confiabilidade Sem Propagação, Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></p>
 
 ### Com Propagação
-<div align="center"><img src="../assets/NFR01P.jpeg"></div>
+<div align="center"><img src="./assets/NFR01P.jpeg"></div>
 <p style="text-align: center">Figura 2: NFR- Confiabilidade Com Propagação, Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></p>
 <br>
 
@@ -75,11 +75,11 @@ Para cada NFR foi feito uma tabela de requisitos NF derivada da especificação 
 <br>
 
 ### Sem Propagação
-<div align="center"><img src="../../assets/NFR04.jpeg"></div>
+<div align="center"><img src="./assets/NFR04.jpeg"></div>
 <p style="text-align: center">Figura 3: NFR- Ajuda e documentação Sem Propagação, Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></p>
 
 ### Com Propagação
-<div align="center"><img src="../assets/NFR04P.jpeg"></div>
+<div align="center"><img src="./assets/NFR04P.jpeg"></div>
 <p style="text-align: center">Figura 4: NFR- Ajuda e documentação Sem Propagação, Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></p>
 <br>
 
@@ -116,7 +116,7 @@ Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a> e <a hr
 ### Sem Propagação
 
 <div align="center">
-<img src="../assets/PORTABILIDADE_I.png">
+<img src="./assets/PORTABILIDADE_I.png">
 </div>
 
 <div align="center">
@@ -126,7 +126,7 @@ Figura 5: NFR- Portabilidade Sem Propagação, Autor(a): <a href="https://github
 ### Com Propagação
 
  <div align="center">
-<img src="../assets/PORTABILIDADE_II.png">
+<img src="./assets/PORTABILIDADE_II.png">
 </div>
 
 <div align="center">
@@ -178,7 +178,7 @@ Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>
 ### Sem Propagação
 
 <div align="center">
-<img src="../assets/PERFORMANCE I.png">
+<img src="./assets/PERFORMANCE I.png">
 </div>
 
 <div align="center">
@@ -188,7 +188,7 @@ Figura 7: NFR- Desempenho(Performance) Sem Propagação, Autor(a): <a href="http
 ### Com Propagação
 
  <div align="center">
-<img src="../assets/PERFORMANCE II.png">
+<img src="./assets/PERFORMANCE II.png">
 </div>
 
 <div align="center">
@@ -239,7 +239,7 @@ Figura 8: NFR- Desempenho (Performance) com Propagação, Autor(a): <a href="htt
 ### Sem Propagação
 
 <div align="center">
-<img src="../assets/USABILIDADE I.png">
+<img src="./assets/USABILIDADE I.png">
 </div>
 
 <div align="center">
@@ -249,7 +249,7 @@ Figura 9: NFR- Usabilidade Sem Propagação, Autor(a): <a href="https://github.c
 ### Com Propagação
 
  <div align="center">
-<img src="../assets/USABILIDADE II.png">
+<img src="./assets/USABILIDADE II.png">
 </div>
 
 <div align="center">
@@ -301,7 +301,7 @@ Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a>
 ### Sem Propagação
 
 <div align="center">
-<img src="../assets/RESTRIÇÃO DE DESIGN I.png">
+<img src="./assets/RESTRIÇÃO DE DESIGN I.png">
 </div>
 
 <div align="center">
@@ -311,7 +311,7 @@ Figura 11: NFR- Restrição e Design Sem Propagação, Autor(a): <a href="https:
 ### Com Propagação
 
  <div align="center">
-<img src="../assets/RESTRIÇÃO DE DESIGN II.png">
+<img src="./assets/RESTRIÇÃO DE DESIGN II.png">
 </div>
 
 <div align="center">
