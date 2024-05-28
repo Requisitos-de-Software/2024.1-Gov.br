@@ -227,6 +227,8 @@ A tabela 15 apresenta a história de usuário referente a recuperação de senha
 
 A validação das histórias de usuário foi realizada no dia 27/05/2024 às 15:00h. A reunião foi presencial na FGA e a gravação foi feita pelo Microsoft Teams. Os participantes dessa reunião foram: Ester Lino (mediadora) e Oscar Brito (usuário que cumpriu o papel de PO). Durante a reunião o usuário avaliou cada história de usuário produzida pelo grupo e seguindo da a técnica de priorização Three Level Scale, definiu a prioridade de cada uma. A seguir está disponível a gravação da reunião.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rK7XDFPZabI?si=R2UUL-y2a5ovam5a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 1. DIOGO. Guia definitivo para Histórias de Usuário - Product Management. YouTube, 26 mai. 2024. Disponível em: <https://www.youtube.com/watch?v=pLJ3LxR292w>.
