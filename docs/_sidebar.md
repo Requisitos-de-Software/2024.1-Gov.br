@@ -52,4 +52,5 @@
 - [Léxicos](modelagem/lexicos.md)
 - [Ágil](modelagem/agil/agil.md)
   - [Backlog](modelagem/agil/backlog.md)
+  - [Histórias de Usuário](modelagem/agil/historia_usuario.md)
   - [NFR Framework](modelagem/agil/nfr_framework.md)
