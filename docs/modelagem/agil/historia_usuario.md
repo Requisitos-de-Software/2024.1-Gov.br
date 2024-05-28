@@ -53,7 +53,7 @@ A tabela 1 apresenta a história de usuário referente a consulta de documentos.
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
 | Eu, como cidadão, desejo consultar documentos para verificar informações pessoais. | Consulta de Documentos | - O sistema deve permitir a seleção e visualização de documentos. | Média  | Baixa | Olimar Gonçalves,  doutorado em fisica | HSU06 - Listar Documentos |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/ArthurGabrieel"></a></figcaption>
 
 ## HSU02 - Upload de Documentos
 
@@ -77,7 +77,7 @@ A tabela 3 apresenta a história de usuário referente a edição de informaçõ
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
 | Eu, como cidadão, desejo editar informações de documentos previamente submetidos na plataforma. | Edição de Documentos | - O sistema deve permitir a edição de informações com atualização em tempo real. |   Alta   | Baixa | Rafael Pedrosa, professor | HSU02 - Upload de Documentos |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/ArthurGabrieel"></a></figcaption>
 
 ## HSU04 - Acessar Serviços de Saúde
 
@@ -113,7 +113,7 @@ A tabela 6 apresenta a história de usuário referente a listagem de documentos.
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
 | Eu, como cidadão, desejo listar todos os documentos disponíveis para entender quais estão acessíveis para mim. | Lista de Documentos | - O sistema deve apresentar uma lista completa de documentos disponíveis para consulta. |   Alta   | Baixa | Maria Fernanda, graduada em direito | HSU01 - Consultar Documentos |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/ArthurGabrieel"></a></figcaption>
 
 ## HSU07 - Revisar Informações de Perfil
 
@@ -135,7 +135,7 @@ A tabela 8 apresenta a história de usuário referente ao cancelamento de agenda
 
 | História de Usuário | Tema | Critérios de Aceitação | Prioridade | (DI)  | Persona | Histórias Impactadas |
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
-| Eu, como cidadão, desejo cancelar um agendamento prévio para evitar compromissos desnecessários. | Cancelamento de Agendamento | - O sistema deve permitir cancelamento de agendamentos com confirmação imediata. |   Baixa | Baixa | João Silva, engenheiro | HSU03 - Agendamento de Saúde |
+| Eu, como cidadão, desejo cancelar um agendamento prévio para evitar compromissos desnecessários. | Cancelamento de Agendamento | - O sistema deve permitir cancelamento de agendamentos com confirmação imediata. |   Baixa | Baixa | João Silva, engenheiro | HSU04 - Agendamento de Saúde |
 
 <figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
 
