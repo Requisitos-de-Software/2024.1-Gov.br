@@ -12,6 +12,7 @@
 - [Reunião 02](atas/reuniao_02.md)
 - [Reunião 03](atas/reuniao_03.md)
 - [Reunião 04](atas/reuniao_04.md)
+- [Reunião 05](atas/reuniao_05.md)
 
 **Pré-Rastreabilidade**
 
@@ -49,6 +50,7 @@
 - [Casos de Uso](modelagem/casos_de_uso.md)
 - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
 - [Léxicos](modelagem/lexicos.md)
-- [Ágil](modelagem/agil)
+- [Ágil](modelagem/agil/agil.md)
+  - [Backlog](modelagem/agil/backlog.md)
   - [Histórias de Usuário](modelagem/agil/historia_usuario.md)
   - [NFR Framework](modelagem/agil/nfr_framework.md)
