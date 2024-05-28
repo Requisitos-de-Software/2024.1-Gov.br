@@ -65,7 +65,7 @@ A tabela 2 apresenta a história de usuário referente ao upload de documentos.
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
 | Eu, como cidadão, desejo enviar documentos para análise para completar minha solicitação de serviço. | Upload de Documentos | - O sistema deve permitir upload e validação de formatos de documentos. |   Baixa   | Baixa | Olimar Gonçalves,  doutorado em fisica | HSU01 - Consultar Documentos |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte:<a href="https://github.com/Caio-bergbjj">Caio Berg</a></figcaption>
 
 ## HSU03 - Editar Informações de Documentos
 
@@ -209,7 +209,7 @@ A tabela 14 apresenta a história de usuário referente ao login no sistema.
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
 | Eu, como usuário registrado, desejo fazer login para acessar minha conta e utilizar os serviços do sistema. | Autenticação de Usuário | - O sistema deve validar as credenciais do usuário.<br>- Deve haver uma mensagem de erro para credenciais inválidas. |  Alta    | Baixa | João Silva, engenheiro | Nenhuma              |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte :<a href="https://github.com/Caio-bergbjj">Caio Berg</a></figcaption>
 
 ## HSU15 - Recuperação de Senha
 
@@ -221,7 +221,7 @@ A tabela 15 apresenta a história de usuário referente a recuperação de senha
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
 | Eu, como usuário que esqueceu a senha, desejo recuperar minha senha para poder acessar novamente o sistema. | Gerenciamento de Senhas | - O sistema deve permitir solicitar a redefinição de senha através de e-mail.<br>- Deve fornecer instruções claras para a redefinição de senha. | Alta       | Média | João Silva, engenheiro | HS16 - Login no Sistema |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/Caio-bergbjj">Caio Berg</a></figcaption>
 
 ## Validação das Histórias de Usuário
 
