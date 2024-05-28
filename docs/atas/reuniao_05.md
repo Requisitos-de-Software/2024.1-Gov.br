@@ -54,6 +54,7 @@ A Ata de reunião é um registro formal de um encontro organizacional. Nela, fic
 
 ### Link da Gravação
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u0bqew2Eq_w?si=VgKBB5e7SV7y9HcG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referência Bibliográfica
 
