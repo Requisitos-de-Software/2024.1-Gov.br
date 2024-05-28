@@ -101,7 +101,7 @@ A tabela 5 apresenta a história de usuário referente a renovação de document
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
 | Eu, como cidadão, desejo renovar documentos como carteira de identidade ou passaporte diretamente pela plataforma. | Renovação de Documentos | - O sistema deve permitir a renovação com opções de pagamento integradas. |   Alta  | Média | Maria Fernanda, graduada em direito | HSU01 - Consultar Documentos |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/HeBatalha">Henrique Batalha</a></figcaption>
 
 ## HSU06 - Listar Documentos
 
@@ -125,7 +125,7 @@ A tabela 7 apresenta a história de usuário referente a revisão de informaçõ
 | ------------------- | ---- | ---------------------- | ---------- | ----- | ------- | -------------------- |
 | Eu, como cidadão, desejo revisar e corrigir informações em meu perfil para garantir que meus dados estejam corretos. | Revisão de Perfil | - O sistema deve permitir visualização e edição de informações pessoais com verificação de dados. |  Alta    | Média |  Lucas Oliveira, desenvolvedor | HSU06 - Edição de Perfil |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/HeBatalha">Henrique Batalha</a></figcaption>
 
 ## HSU08 - Cancelar Agendamento
 
