@@ -89,7 +89,7 @@ A tabela 4 apresenta a história de usuário referente ao acesso de serviços de
 | ---------------------------------------------------------------------------------- | -------------------------- | ---------------------------------------------------------------------- | ---------- | ----- | ---------------------------- | ---------------------------- |
 | Eu, como cidadão, desejo acessar serviços de saúde disponibilizados na plataforma. | Acesso a Serviços de Saúde | - O sistema deve mostrar serviços disponíveis e permitir agendamentos. | Média      | Baixa | Maria, profissional de saúde | HSU08 - Cancelar Agendamento |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></figcaption>
 
 ## HSU05 - Renovação de Documentos
 
@@ -113,7 +113,7 @@ A tabela 6 apresenta a história de usuário referente a listagem de documentos.
 | -------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------- | ---------- | ----- | ----------------------------------- | ---------------------------- |
 | Eu, como cidadão, desejo listar todos os documentos disponíveis para entender quais estão acessíveis para mim. | Lista de Documentos | - O sistema deve apresentar uma lista completa de documentos disponíveis para consulta. | Alta       | Baixa | Maria Fernanda, graduada em direito | HSU01 - Consultar Documentos |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></figcaption>
 
 ## HSU07 - Revisar Informações de Perfil
 
@@ -137,7 +137,7 @@ A tabela 8 apresenta a história de usuário referente ao cancelamento de agenda
 | ------------------------------------------------------------------------------------------------ | --------------------------- | -------------------------------------------------------------------------------- | ---------- | ----- | ---------------------- | ---------------------------- |
 | Eu, como cidadão, desejo cancelar um agendamento prévio para evitar compromissos desnecessários. | Cancelamento de Agendamento | - O sistema deve permitir cancelamento de agendamentos com confirmação imediata. | Baixa      | Baixa | João Silva, engenheiro | HSU04 - Agendamento de Saúde |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/IsaqueSH">Isaque Santos</a></figcaption>
 
 ## HSU9 - Alterar Senha de Acesso
 
@@ -197,7 +197,7 @@ A tabela 13 apresenta a história de usuário referente ao registro de queixas e
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------- | ---- | ----------------------------- | ----------------------------------------- |
 | Eu, como cidadão, desejo registrar queixas e reclamações sobre serviços públicos para que medidas corretivas possam ser tomadas. | Registro de Queixas | - O sistema deve permitir o registro de queixas de forma anônima ou identificada, garantindo resposta ou acompanhamento. | Média      | Alta | Lucas Oliveira, desenvolvedor | HSU12 - Responder Pesquisas de Satisfação |
 
-<figcaption align="center">Fonte: <a href="https://github.com/"></a></figcaption>
+<figcaption align="center">Fonte: <a href="https://github.com/IsaqueSH">Isaque Santos</a></figcaption>
 
 ## HSU14 - Login no Sistema
 
