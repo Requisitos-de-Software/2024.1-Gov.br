@@ -22,6 +22,8 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | 7 | O Rich Picture conta uma história?[¹](#ref1) |  |
 <div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
 
+## Problemas Encontrados
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
