@@ -55,3 +55,20 @@
   - [Backlog](modelagem/agil/backlog.md)
   - [Histórias de Usuário](modelagem/agil/historia_usuario.md)
   - [NFR Framework](modelagem/agil/nfr_framework.md)
+
+**Verificação**
+
+- [Entrega 1]()
+  - [Rich Picture](verificacao/entrega1/rich_picture_verificacao.md)
+- [Entrega 2]()
+  - [Personas](verificacao/entrega2/personas_verificacao.md)
+  - [Elicitação]()
+    - [Introspecção](verificacao/entrega2/elicitacacao/introspeccao_verificacao.md)
+    - [Entrevista](verificacao/entrega2/elicitacacao/entrevista_verificacao.md)
+  - [Priorização]()
+    - [MoSCoW](verificacao/entrega2/priorizacao/moscow_verificacao.md)
+    - [Three Levels Scale](verificacao/entrega2/priorizacao/three_levels_scale_verificacao.md)
+- [Entrega 3]()
+  - [Cenários](verificacao/entrega3/cenarios_verificacao.md)
+- [Entrega 4]()
+  - [NFR FRAMEWORK](verificacao/entrega4/nfr_verificacao.md)

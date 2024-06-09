@@ -1,0 +1,1 @@
+# Verificação - Three Levels Scale
