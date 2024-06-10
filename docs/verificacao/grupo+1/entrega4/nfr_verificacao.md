@@ -13,19 +13,23 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | Cada NFR possui um cartão de especificação?[¹](#ref1) |  |
-| 2 | Cada NFR possui um gráfico de interdependência de softgoals?[¹](#ref1) |  |
-| 3 | Cada NFR possui um gráfico de propagação de impactos?[¹](#ref1) |  |
-| 4 | Os softgoals possuem relações de interdependência? [¹](#ref1)|  |
-| 5 | Os requisitos analisados são não funcionais?[¹](#ref1)|   |
-| 6 | Os requisitos não funcionais apresentados possuem um identificador?| |
-| 7 | Os requisitos utilizados possuem rastreabilidade? |  |
-| 8 | Os cartões de especificação possuem as características: Descrição; Justificativa; Origem; Critério de aceitação; Dependências; Prioridade; Conflitos e História?[¹](#ref1) |  |
-| 9 | Os gráficos estão utilizando a notação adequada da técnica?[¹](#ref1)|   |
+| 1 | Cada NFR possui um cartão de especificação?[¹](#ref1) | Sim |
+| 2 | Cada NFR possui um gráfico de interdependência de softgoals?[¹](#ref1) | Sim |
+| 3 | Cada NFR possui um gráfico de propagação de impactos?[¹](#ref1) | Sim |
+| 4 | Os softgoals possuem relações de interdependência? [¹](#ref1)| Sim |
+| 5 | Os requisitos analisados são não funcionais?[¹](#ref1)| Sim |
+| 6 | Os requisitos não funcionais apresentados possuem um identificador? | Não |
+| 7 | Os requisitos utilizados possuem rastreabilidade? | Não |
+| 8 | Os cartões de especificação possuem as características: Descrição; Justificativa; Origem; Critério de aceitação; Dependências; Prioridade; Conflitos e História?[¹](#ref1) | Incompleto |
+| 9 | Os gráficos estão utilizando a notação adequada da técnica?[¹](#ref1)| Sim |
 <div align="center">Autor(a): <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
 ## Problemas Encontrados
 
+- **6:** Os requisitos utilizados no artefato não estão especificados.
+- **7:** Assim como no ponto **6** os requisitos não estão especificados e não possuem rastreabilidade.
+- **8:** Faltou apenas as dependências.
+ 
 ## Referências Bibliográficas 
 
 <a id="ref1"></a>
@@ -37,4 +41,6 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 09/06/2024 | Versão Inicial | [Isaque Santos](https://github.com)|  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 10/06/2024 | Adicionando resultados da verificação | [Isaque Santos](https://github.com)|  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+
 

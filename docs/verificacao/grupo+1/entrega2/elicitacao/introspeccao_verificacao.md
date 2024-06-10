@@ -29,7 +29,7 @@ A gravação foi realizada no dia 10/06/2024 com inicio às 18h20. Pelo integran
 
 ## Problemas Encontrados
 
-3 - Um problema encontrado foi em relação a especificação da data, horário e local da realização da técnica(vídeo), que não está bem definido dentro do artefato. 
+- **3:** Um problema encontrado foi em relação a especificação da data, horário e local da realização da técnica(vídeo), que não está bem definido dentro do artefato. 
 
 Apesar disso, o artefato está bem construído e condizente, e atende ao checklist elaborado.
 
