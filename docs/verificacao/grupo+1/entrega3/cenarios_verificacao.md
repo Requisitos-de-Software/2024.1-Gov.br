@@ -12,17 +12,19 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 |  O cenário possui título, objetivos/metas, contexto, ator(es), recursos, episódios, restrições e exceções?[²](#ref2) |    |
-| 2 | Os episódios possuem uma ordem lógica e plausível?[¹](#ref1) |  |
-| 3 | O ator faz sentido com o cenário que participa?[¹](#ref1) |  |
-| 4 | Está presente no contexto: Local; Tempo e Pré-condição?[²](#ref2) |  |
-| 5 | O título do cenário explica bem o seu conteúdo?[¹](#ref1) |  |
-| 6 | Os objetivos dos cenários correspondem a uma situação de interação com o sistema?[¹](#ref1) |  |    
-| 7 | Os objetivos dos cenários estão de acordo com o seu título?[¹](#ref1) |  |
-| 8 | As restrições e exceções dos cenários estão bem definidas?[¹](#ref1) |  |
+| 1 | O cenário possui todos os elementos em sua composição(título, objetivos/metas, contexto, ator, recursos, episódios, restrições e exceções)?[²](#ref2) | Sim |
+| 2 | Os episódios possuem uma ordem lógica e plausível?[¹](#ref1) | Sim |
+| 3 | O ator faz sentido com o cenário que participa?[¹](#ref1) | Sim |
+| 4 | Está presente no contexto: Local; Tempo e Pré-condição?[²](#ref2) | Sim |
+| 5 | O título do cenário explica bem o seu conteúdo?[¹](#ref1) | Sim |
+| 6 | Os objetivos dos cenários correspondem a uma situação de interação com o sistema?[¹](#ref1) | Sim |    
+| 7 | Os objetivos dos cenários estão de acordo com o seu título?[¹](#ref1) | Sim |
+| 8 | As restrições e exceções dos cenários estão bem definidas?[¹](#ref1) | Sim |
 <div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
 
 ## Problemas Encontrados
+
+Nenhum problema foi encontrado na verificação do artefato, visto que atende todos os pontos avalidados.
 
 ## Referências Bibliográficas 
 
@@ -39,3 +41,4 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 09/06/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 10/06/2024 | Adiciona vídeo da verificação e resultados | [Henrique Batalha](https://github.com/HeBatalha) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
