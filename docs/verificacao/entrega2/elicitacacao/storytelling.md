@@ -54,6 +54,11 @@ A documentação poderia ser aprimorada com a inclusão de:
 - Registro da elicitação, como gravações ou transcrições das histórias.
 - Desenvolvimento de personas que representem os diferentes tipos de usuários do aplicativo.
 
+## Vídeo da Verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qoxGwBeqdtE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Referências Bibliográficas 
 
 > [1] MENDES, Tamara M. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. SBC OPEN LIB. 
@@ -65,3 +70,4 @@ A documentação poderia ser aprimorada com a inclusão de:
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
 |1.0 | 09/06/2024 | Criação do Documento | [Carlos Gabriel](https://github.com/TheCarlosRamos) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
+|1.1 | 10/06/2024 | Adição do vídeo da Verificação | [Carlos Gabriel](https://github.com/TheCarlosRamos) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
