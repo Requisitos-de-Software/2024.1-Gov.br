@@ -12,17 +12,27 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | Os requisitos foram divididos como funcionais e não funcionais?[¹](#ref1) |    |
-| 2 | Os requisitos possuem status?(implementado ou não implementado).[¹](#ref1) |   |
-| 3 | A data, horário e local da técnica foram inseridos dentro do artefato? |    |
-| 4 | Gravação da técnica de elicitação?[¹](#ref1) |  |
-| 5 | Utilização da persona ou usuário na técnica de elicitação?[¹](#ref1) |   |
-| 6 | Um cenário imaginário foi utilizado na técnica para uma melhor representação?[¹](#ref1) |   |
-| 7 | Foram utilizadas, para complementar melhor a técnica, outras formas de coletas de dados para obter uma visão mais completa?[¹](#ref1) |    |
-| 8 | Os requisitos utilizados foram identificados por meio de IDs? |    |
+| 1 | Os requisitos foram divididos como funcionais e não funcionais?[¹](#ref1) | Sim |
+| 2 | Os requisitos possuem status?(implementado ou não implementado).[¹](#ref1) | Sim |
+| 3 | A data, horário e local da técnica foram inseridos dentro do artefato? | Incompleto |
+| 4 | Gravação da técnica de elicitação?[¹](#ref1) | Sim |
+| 5 | Utilização da persona ou usuário na técnica de elicitação?[¹](#ref1) | Sim |
+| 6 | Um cenário imaginário foi utilizado na técnica para uma melhor representação?[¹](#ref1) | Sim |
+| 7 | Os requisitos utilizados foram identificados por meio de IDs? | Sim |
 <div align="center">Autor(a): <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
+## Vídeo da Verificação
+
+A gravação foi realizada no dia 10/06/2024 com inicio às 18h20. Pelo integrante <a href="https://github.com/IsaqueSH">Isaque Santos</a>.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MAcSjEwyuj4?si=FESZJ2yutpQ_5-8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Problemas Encontrados
+
+3 - Um problema encontrado foi em relação a especificação da data, horário e local da realização da técnica(vídeo), que não está bem definido dentro do artefato. 
+
+Apesar disso, o artefato está bem construído e condizente, e atende ao checklist elaborado.
+
 
 ## Referências Bibliográficas
 
@@ -35,3 +45,4 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 09/06/2024 | Versão Inicial | [Isaque Santos](https://github.com)|  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 10/06/2024 | Adicionando vídeo da verificação e resultados | [Isaque Santos](https://github.com)|  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
