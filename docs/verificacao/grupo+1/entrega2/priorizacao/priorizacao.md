@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Priorização de requisitos consiste no processo de classificar e ordenar requisitos com base na sua necessidade e importância. A priorização é fundamental para determinar a ordem em que os requisitos serão implementados ou para decidir quais funcionalidades devem ser incluídas em uma versão inicial do produto. Isso pode ser feito considerando diversos critérios, como o valor para o cliente, o impacto no negócio, a complexidade técnica, os recursos disponíveis, entre outros. Uma boa priorização ajuda a maximizar o retorno sobre o investimento, garantir a entrega de valor ao cliente e otimizar o uso dos recursos disponíveis.
+Priorização de requisitos consiste no processo de classificar e ordenar requisitos com base na sua necessidade e importância. A priorização é fundamental para determinar a ordem em que os requisitos serão implementados ou para decidir quais funcionalidades devem ser incluídas em uma versão inicial do produto. Este artefato registra as técnicas utilizadas pelo [grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) ao priorizar os requisitos elicitados para o aplicativo Sinesp Cidadão.
 
 ## Técnicas utilizadas
 

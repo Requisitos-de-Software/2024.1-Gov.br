@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta página apresenta a estrutura geral para análise dos artefatos desenvolvidos pelo [grupo 05](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) e que correponde à entrega 5.1 - Verificação do grupo + 1 da disciplina Requisitos de Software. A verificação irá englobar as entregas 1, 2, 3 e 4, desde o Rich Picture desenvolvido na etapa de Planejamento até a etapa de Modelagem de Requisitos.
+Esta página apresenta a estrutura geral para análise dos artefatos desenvolvidos pelo [Grupo 05](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) e que correponde à entrega 5.1 - Verificação do grupo + 1 da disciplina Requisitos de Software. A verificação irá englobar as entregas 1, 2, 3 e 4, desde o Rich Picture desenvolvido na etapa de Planejamento até a etapa de Modelagem de Requisitos.
 
 ## Metodologia
 
@@ -10,7 +10,7 @@ A verificação dos artefatos será feita usando o método de Inspeção desenvo
 
 ## Verificação do grupo 02
 
-A tabela 1 apresenta a organização do [grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/) para verificar os artefatos do [grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/). Na tabela é possível visualizar a versão, o autor e o responsável por verificar cada artefato.
+A tabela 1 apresenta a organização do [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/) para verificar os artefatos do [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/). Na tabela é possível visualizar a versão, o autor e o responsável por verificar cada artefato.
 
 <p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Organização da Verificação do grupo 5</p>
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Elicitação de requisitos consiste no processo de identificar, descobrir e documentar as necessidades e expectativas dos usuários, clientes e demais stakeholders em um sistema. Para auxiliar a reunir as informações necessárias, algumas técnicas podem ser aplicadas para ajudar a refinar os requisitos, como entrevistas, questionários, análise de documentos, observação, brainstorm, entre outras. O objetivo é garantir que todos os stakeholers compreendam o que será desenvolvido e que as expectativas sejam adequadamente gerenciadas ao longo do projeto.
+Elicitação de requisitos consiste no processo de identificar, descobrir e documentar as necessidades e expectativas dos usuários, clientes e demais stakeholders em um sistema. Este artefato registra as técnicas utilizadas pelo [grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) ao elicitar os requisitos do aplicativo Sinesp Cidadão.
 
 ## Técnicas utilizadas
 
