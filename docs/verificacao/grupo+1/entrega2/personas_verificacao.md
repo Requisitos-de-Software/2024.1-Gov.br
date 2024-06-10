@@ -15,23 +15,25 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | Todas as personas possuem os mesmos tópicos? Seguem o mesmo padrão?[¹](#ref1) |  |
-| 2 | As personas possuem nome, foto, gênero e idade?[¹](#ref1) |  |
-| 3 | As personas possuem habilidades?[¹](#ref1) |  |
-| 4 | É especificado o motivo do número de personas utilizado? |  |
-| 5 | As personas possuem relacionamentos?[¹](#ref1) |  |
-| 6 | As personas possuem objetivos?[¹](#ref1) |  |
-| 7 | As personas possuem detalhes sobre hábitos, comportamentos, preferências ou rotina diária?[¹](#ref1) |  |
-| 8 | As personas possuem status/tipo? (primária, secundária ou antipersona).[¹](#ref1) |  |
-| 9 | As personas são pessoas fictícias?[¹](#ref1) |  |
-| 10 | As personas estão condizentes com o perfil do usuário?[¹](#ref1) |  |
-| 11 | É explicado a metodologia utilizada para a criação das personas? |  |
+| 1 | Todas as personas possuem os mesmos tópicos? Seguem o mesmo padrão?[¹](#ref1) | Sim |
+| 2 | As personas possuem nome, foto, gênero e idade?[¹](#ref1) | Sim |
+| 3 | As personas possuem habilidades?[¹](#ref1) | Sim |
+| 4 | É especificado o motivo do número de personas utilizado? | Não |
+| 5 | As personas possuem relacionamentos?[¹](#ref1) | Sim |
+| 6 | As personas possuem objetivos?[¹](#ref1) | Sim |
+| 7 | As personas possuem detalhes sobre hábitos, comportamentos, preferências ou rotina diária?[¹](#ref1) | Sim |
+| 8 | As personas possuem status/tipo? (primária, secundária ou antipersona).[¹](#ref1) | Sim |
+| 9 | As personas são pessoas fictícias?[¹](#ref1) | Sim |
+| 10 | As personas estão condizentes com o perfil do usuário?[¹](#ref1) | Sim |
+| 11 | É explicado a metodologia utilizada para a criação das personas? | Sim* |
 <div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 					
 
 
 ## Problemas Encontrados
 
+- **4:** Não foi explicado o motivo para o número de personas criadas.  
+- **11:** Foi explicado a metodologia para a criação das personas, porém de forma não tão completa e exemplificada.
 
 ## Referências Bibliográficas 
 
@@ -45,3 +47,5 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 09/06/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com)|  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1  | 09/06/2024 | Adicionando resultados da verificação | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com)|  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+
