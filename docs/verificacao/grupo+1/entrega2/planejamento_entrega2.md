@@ -114,17 +114,29 @@ A tabela 1 apresenta o cronograma para a realização dessa verificação.
 
 ## Checklists
 
-A tabela 2 contém a checklist usada para verificar o artefato produzido.
+As checklists foram construídas levando em conta os padrões esperados para os artefatos que estão disponíveis nas referências bibliográficas.
 
-<font><p style="text-align: center">**Tabela 2:** </p></font>
+<center>
 
-<div align="center">Fonte: <a href="https://github.com/user">User</a></div>
+**Tabela 2** - Checklist para os Itens Gerais.
+
+| ID  | Descrição                                                                                          | Avaliação | Observação | Referência    |
+| --- | -------------------------------------------------------------------------------------------------- | --------- | ---------- | ------------- |
+| 1   | O artefato possui introdução?                                                                      |           |            | [1](#ancora1) |
+| 2   | O artefato possui referência bibliográfica?                                                        |           |            | [1](#ancora1) |
+| 3   | O artefato possui histórico de versão com o id e descrição das versões, data, autores e revisores? |           |            |               |
+| 4   | As tabelas e imagens possuem legendas e fontes padronizadas?                                       |           |            | [1](#ancora1) |
+| 5   | As tabelas são referenciadas no texto?                                                             |           |            | [1](#ancora1) |
+
+Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
+
+</center>
 
 ## Referências Bibliográficas
 
-<a id="ref1"></a>
+> [1] Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 09 de Junho de 2024.
 
-1. Referencia 1 - Ref 1. Disponível em: https://aprender3.unb.br/ref.pdf Acessado em: 10 de junho de 2024
+> [2] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
 ## Histórico de versão
 
