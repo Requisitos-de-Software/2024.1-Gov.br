@@ -64,6 +64,12 @@ _Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
 - O artefato não contempla o contexto do projeto, dificultando a avaliação completa da aplicação do FTF.
 - Fornecer descrições mais detalhadas das funcionalidades e critérios de priorização poderia melhorar a clareza.
 
+## Vídeo da Verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qGTPKKAnc48" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 ## Bibliografia
 
@@ -77,3 +83,4 @@ _Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
 |1.0 | 09/06/2024 | Criação do Documento | [Carlos Gabriel](https://github.com/TheCarlosRamos) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
+|1.1 | 10/06/2024 | Adição do vídeo da verificação | [Carlos Gabriel](https://github.com/TheCarlosRamos) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
