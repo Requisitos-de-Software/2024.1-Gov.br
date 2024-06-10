@@ -58,8 +58,7 @@
 
 **Verificação**
 
-- [Grupo 05](verificacao/grupo+1/grupo_05.md)
-  - [Panorama Geral](verificacao/grupo+1/panorama_geral.md)
+- [Grupo 05](verificacao/grupo+1/panorama_geral.md)
   - [Entrega 1](verificacao/grupo+1/entrega1/planejamento_entrega1.md)
     - [Rich Picture](verificacao/grupo+1/entrega1/rich_picture_verificacao.md)
   - [Entrega 2](verificacao/grupo+1/entrega2/planejamento_entrega2.md)
