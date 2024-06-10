@@ -132,6 +132,34 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 </center>
 
+<center>
+
+## Storytelling
+**Tabela 3** - Checklist para a verificação do Strorytelling
+| ID  | Descrição                                                                                                                                              | Avaliação  | Observação                   | Referência |
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------|------------|
+| 1   | O artefato possui Introdução?                                                                                                                          |   -        | -                            |-
+| 2   | O artefato possui referências bibliográficas?                                                                                                          |   -        | -                            |-
+| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                 |   -        | -                            |-            |
+| 4   | O artefato possui uma metodologia?                                                                                                                     |   -        | -                            |-            |
+| 5   | As tabelas e imagens possuem legendas e fontes?                                                                                                        |   -        | -                            |-
+| 6   | Há narração das histórias?                                                                                                                             |   -        | -                            |-
+| 7   | Há gravação ou registro da elicitação dos requisitos?                                                                                                  |   -        | -                            |-
+| 8   | As histórias remetem aos requisitos do projeto?                                                                                                        |   -        | -                            |-
+| 9   | As histórias apresentam coerência e coesão?                                                                                                            |   -        | -                            |-            |
+| 10  | Os requisitos são classificados em Funcionais e Não Funcionais?                                                                                        |   -        | -                            |-            |
+| 11  | Há participação do cliente ou personas na elicitação?                                                                                                  |   -        | -                            |-
+| 12  | A documentação do Storytelling possui dados importantes, como eventos que remetem para a interação dos personagens com o aplicativo em questão?        |   -        | -                            |-
+| 13  | As personas ou personagens foram desenvolvidos de maneira que representem os usuários do aplicativo?                                                   |   -        | -                            |-
+| 14  | Possui links para os outros artefatos?                                                                                                                 |   -        | -                            |-          |
+
+                                                                                             
+
+_Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
+
+</center>
+
+
 ## Referências Bibliográficas
 
 > [1] Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 09 de Junho de 2024.
@@ -143,3 +171,4 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 | Versão |    Data    |     Descrição     |                    Responsáveis                     |                                                                                                                                                                         Revisor                                                                                                                                                                          |
 | :----: | :--------: | :---------------: | :-------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1.0   | 10/06/2024 | Criação da página | [Thiago Freitas](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 10/06/2024 | Adição da tabela do checklist do storytelling |  [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
