@@ -29,13 +29,13 @@ O resultado da verificação está apresentado em uma página separada e que pod
 
 A tabela 1 apresenta o cronograma para a realização dessa verificação. 
 
-<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Cronograma da Verificação da Entrega 1</p>
+<font><p style="text-align: center">**Tabela 1:** Cronograma da Verificação da Entrega 1</p></font>
 
 | Nº | Compromisso | Responsável | Data |
 |:--:|:-----------:|:-----------:|:----:|
 | 01 | Rich Pictures | [Henrique Batalha](https://github.com/HeBatalha) | 10/06/2024 |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></p></font>
+<div align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></div>
 
 ## Checklists
 
@@ -52,7 +52,8 @@ A tabela 2 contém a checklist usada para verificar o artefato produzido.
 | 5 | O Rich Picture contém todas as palavras-chave relevantes? | [01](#ref1) |
 | 6 | O Rich Picture possui mais elementos visuais do que texto? | [01](#ref1) |
 | 7 | O Rich Picture conta uma história? | [01](#ref1) |
-<div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
+
+<div align="center">Fonte: <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
 
 ## Referências Bibliográficas
 
