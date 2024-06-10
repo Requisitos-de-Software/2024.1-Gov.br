@@ -13,16 +13,25 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | O Rich Picture possui legenda? |  |
-| 2 | Todos os elementos que compõem um Rich Picture(atores, operações, fluxo de dados, armazenamento de dados e fronteira) estão presentes no artefato?[¹](#ref1) |   |
-| 3 | Os atores estão fora do sistema?[¹](#ref1) |    | 
-| 4 | O Rich Picture é facilmente entendido?[¹](#ref1) |  |
-| 5 | O Rich Picture contém todas as palavras-chave relevantes?[¹](#ref1) |  |
-| 6 | O Rich Picture possui mais elementos visuais do que texto?[¹](#ref1) |  |
-| 7 | O Rich Picture conta uma história?[¹](#ref1) |  |
+| 1 | O Rich Picture possui legenda? | Incompleto |
+| 2 | Todos os elementos que compõem um Rich Picture(atores, operações, fluxo de dados, armazenamento de dados e fronteira) estão presentes no artefato?[¹](#ref1) | Sim |
+| 3 | Os atores estão fora do sistema?[¹](#ref1) | Sim | 
+| 4 | O Rich Picture é facilmente entendido?[¹](#ref1) | Sim |
+| 5 | O Rich Picture contém todas as palavras-chave relevantes?[¹](#ref1) | Sim |
+| 6 | O Rich Picture possui mais elementos visuais do que texto?[¹](#ref1) | Não* |
+| 7 | O Rich Picture conta uma história?[¹](#ref1) | Sim |
 <div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
 
+## Vídeo da Verificação
+
+A gravação foi realizada no dia 10/06/2024 com inicio às 10h10. Pelo integrante <a href="https://github.com/HeBatalha">Henrique Batalha</a>.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRn7O2ox300?si=VF_-lIR1sbbX7xUL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Problemas Encontrados
+
+- **1:** O Rich Picture possui uma legenda muito simples que poderia ter sido melhor detalha, com a inclusão de descrições e explicações dos elementos presentes da figura. Por isso, a avaliação determinou como incompleto.
+- **6:** O Rich Picture possui mais texto do que elementos visuais, de acordo com a referencia [1](#ref1), um Rich Picture deve ter mais elementos visuais do que texto. Porém a quantidade de texto presento ou a falta de elementos visuais não afeta negativamente na compreensão da figura, por isso a avaliação determinou como não*.
 
 ## Referências Bibliográficas
 
@@ -36,4 +45,5 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 09/06/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 10/06/2024 | Adiciona vídeo da verificação e resultados | [Henrique Batalha](https://github.com/HeBatalha) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
 
