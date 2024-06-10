@@ -10,7 +10,23 @@ O objetivo deste documento é realizar a verificação dos artefatos desenvolvid
 
 ## Metodologia
 
-O método que será utilizado para realizar as verificações é o de inspeção. Para auxiliar, o grupo criou checklists para identificar aspectos que precisam de correções.
+Para garantir a qualidade dos artefatos do Grupo 5, empregaremos a metodologia de Inspeção idealizada por [Fagan](#ancora2). Essa técnica estruturada, aclamada por sua meticulosidade, visa a revisão profunda de códigos e demais elementos do software. Com a Inspeção de Fagan, o foco principal reside na identificação e correção minuciosa de falhas durante as etapas iniciais do desenvolvimento. Essa abordagem proativa contribui significativamente para a redução de custos e otimização do tempo, além de elevar a confiabilidade e robustez do software final.
+
+A metodologia se destaca por seus pilares fundamentais:
+
+- Sistematização: A inspeção segue um conjunto de etapas rígidas e bem definidas, garantindo uniformidade e consistência no processo de revisão.
+- Rigor: A análise meticulosa dos artefatos busca detectar falhas de diversas naturezas, desde erros simples até falhas complexas e sutis.
+- Detecção Precoce: A identificação de defeitos nas fases iniciais do desenvolvimento minimiza o retrabalho e os custos, otimizando o cronograma do projeto.
+- Aprimoramento Contínuo: As falhas encontradas servem como base para o aperfeiçoamento contínuo dos processos e da qualidade do software como um todo.
+
+Vantagens da Inspeção de Fagan:
+
+- Maior qualidade do software
+- Redução de custos
+- Otimização do tempo
+- Maior confiabilidade e robustez do software
+- Detecção precoce de erros
+- Melhoria dos processos de desenvolvimento
 
 ## Participantes
 

@@ -135,10 +135,11 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 <center>
 
 ## Storytelling
+
 **Tabela 3** - Checklist para a verificação do Strorytelling
-| ID  | Descrição                                                                                                                                              | Avaliação  | Observação                   | Referência |
+| ID  | Descrição  | Avaliação  | Observação                   | Referência |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------|------------|
-| 1   | O artefato possui Introdução?                                                                                                                          |   -        | -                            |-
+| 1   | O artefato possui Introdução?               |   -        | -                            |-
 | 2   | O artefato possui referências bibliográficas?                                                                                                          |   -        | -                            |-
 | 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                 |   -        | -                            |-            |
 | 4   | O artefato possui uma metodologia?                                                                                                                     |   -        | -                            |-            |
@@ -159,16 +160,46 @@ _Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
 
 </center>
 
+## Análise de Protocolo
+
+<font><p style="text-align: center">**Tabela 2:** Checklist para a verificação da Análise de Protocolo.</p></font>
+
+| Número | Ponto | Rastreabilidade |
+| :----: | :---: | :-------------: |
+|  1 | Houve a participação do usuário para a realização da técnica? | [03](#ref3) |
+|  2 | O entrevistado é um stakeholder do aplicativo? | [03](#ref3) |
+|  3 | O usuário utilizou a técnica "Thinking Out Loud" para expor suas ações durante a sessão?| [03](#ref3) |
+|  4 | A data, horário e local da entrevista foram especificados? | [04](#ref4) |
+|  5 | Os participantes da sessão foram especificados? | [04](#ref4) |
+|  6 | Houve a participação de um secretário para auxiliar o usuário? | [04](#ref4)  |
+|  7 | Os passos seguidos pelo usuário durante a sessão são apresentados no documento? | [03](#ref3) |
+|  8 | As respostas do entrevistado foram devidamente registradas? | [04](#ref4) |
+|  9 | Foi elaborada uma tabela resumo com todos os requisitos elicitados após a sessão? | [03](#ref3) |
+
+<div align="center">Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a></div>
 
 ## Referências Bibliográficas
 
-> [1] Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 09 de Junho de 2024.
+<a id="ref1"></a> 
 
-> [2] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+1. Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 09 de Junho de 2024.
+
+<a id="ref2"></a> 
+
+2. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+
+<a id="ref3"></a> 
+
+3. REtraining. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-protocolo. Acesso em 10 de junho de 2024.
+
+<a id="ref4"></a> 
+
+4. Vazquez, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016. Acesso em: 10 de Junho de 2024.
 
 ## Histórico de versão
 
 | Versão |    Data    |     Descrição     |                    Responsáveis                     |                                                                                                                                                                         Revisor                                                                                                                                                                          |
 | :----: | :--------: | :---------------: | :-------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1.0   | 10/06/2024 | Criação da página | [Thiago Freitas](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
-|  1.1   | 10/06/2024 | Adição da tabela do checklist do storytelling |  [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 10/06/2024 | Adição da tabela do checklist do Storytelling |  [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.2   | 10/06/2024 | Adição da tabela do checklist da Análise de Protocolo |  [Ester Lino](https://github.com/esteerlino) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
