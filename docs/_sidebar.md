@@ -64,6 +64,7 @@
   - [Entrega 2](verificacao/grupo+1/entrega2/planejamento_entrega2.md)
     - [Personas](verificacao/grupo+1/entrega2/personas_verificacao.md)
     - [Elicitação](verificacao/grupo+1/entrega2/elicitacao/elicitacao.md)
+      - [Análise de Protocolo](verificacao/grupo+1/entrega2/elicitacao/analise_protocolo.md)
       - [Introspecção](verificacao/grupo+1/entrega2/elicitacao/introspeccao_verificacao.md)
       - [Entrevista](verificacao/grupo+1/entrega2/elicitacao/entrevista_verificacao.md)
     - [Priorização](verificacao/grupo+1/entrega2/priorizacao/priorizacao.md)
