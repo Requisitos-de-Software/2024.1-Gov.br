@@ -10,27 +10,23 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 <font><p style="text-align: center">**Tabela 1:** Checklist de Avaliação.</p></font>
 
-| Número | Ponto                                                                                                                             | Avaliação |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| 1      | O perfil de usuário é descrito detalhadamente? [¹](#ref1)                                                                         |           |
-| 2      | As características dos usuários estão claramente identificadas? (e.g., cargo, função, experiência, nível de instrução) [¹](#ref1) |           |
-| 3      | O perfil inclui dados demográficos (idade, gênero, localização)? [¹](#ref1)                                                       |           |
-| 4      | Há uma descrição das habilidades dos usuários? [¹](#ref1)                                                                         |           |
-| 5      | O contexto de uso do sistema é descrito? (e.g., ambiente físico e técnico) [¹](#ref1)                                             |           |
-| 6      | Os objetivos dos usuários são claros e específicos? [¹](#ref1)                                                                    |           |
-| 7      | O perfil inclui informações sobre a relação do usuário com a tecnologia? [¹](#ref1)                                               |           |
-| 8      | Há uma descrição dos hábitos e comportamentos dos usuários? [¹](#ref1)                                                            |           |
-| 9      | As necessidades e preferências dos usuários estão documentadas? [¹](#ref1)                                                        |           |
-| 10     | São consideradas questões de acessibilidade? (e.g., compatibilidade com tecnologias assistivas) [¹](#ref1)                        |           |
-| 11     | A metodologia utilizada para criar o perfil de usuário está explicada? [¹](#ref1)                                                 |           |
-
-### Referências
-
-1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação.
+| Número | Ponto | Avaliação |
+| ------ | ------ | --------- |
+| 1 | O perfil de usuário é descrito detalhadamente? [¹](#ref1) | Sim |
+| 2 | As características dos usuários estão claramente identificadas? (e.g., experiência tecnológica, nível de instrução) [¹](#ref1) | Sim |
+| 3 | O perfil inclui dados demográficos (idade, gênero)? [¹](#ref1) | Sim |
+| 4 | Há uma descrição das habilidades dos usuários? [¹](#ref1) | Sim | | |
+| 5 | Os objetivos dos usuários são claros e específicos? [¹](#ref1) | Incompleto |
+| 6 | O perfil inclui informações sobre a relação do usuário com a tecnologia? [¹](#ref1) | Sim |
+| 7 | As necessidades e preferências dos usuários estão documentadas? [¹](#ref1) | Incompleto |
+| 8 | A metodologia utilizada para criar o perfil de usuário está explicada? [¹](#ref1) | Sim |
 
 <div align="center">Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas </a> e <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></div>
 
 ## Problemas Encontrados
+
+- **5:** Um problema encontrado foi em relação a descrição dos objetivos dos usuários, que não está bem definido dentro do artefato de perfil de usuário, como perguntas sobre funcionalidades do sistema não estarem presentes no questionário.
+- **7:** Outro problema encontrado foi em relação as necessidades e preferências dos usuários, que não está bem definido dentro do artefato, seguindo vista a falta de perguntas sobre os do usuário dentro da aplicação.
 
 ## Referências Bibliográficas
 
