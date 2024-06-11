@@ -178,12 +178,13 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 
 Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 
-## Lista de Problemas e Análise
+## Problemas Encontrados
+### Lista de Problemas e Análise
 
 - ID 16: O artefato não especifica o Tempo Médio entre Falhas (MTBF).
 - ID 17: O artefato não define o Tempo Médio para Reparos (MTTR).
 
-## Solução
+### Solução
 
 - ID 16: Recomenda-se adicionar a métrica MTBF como um Requisito de Confiabilidade.
 - ID 17: Recomenda-se incluir o MTTR como um Requisito de Confiabilidade.
@@ -191,7 +192,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 ## Referências Bibliográficas
 
 1. SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 13. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 10 de junho de 2024.
-2. CARTEIRA DIGITAL DE TRÂNSITO. [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/#requisitos-de-implementacao), FGA, GAMA, 2023. Acesso em: 10 de junho de 2024.
+2. SINESP. [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/especificacao_suplementar/), FGA, GAMA, 2024. Acesso em: 10 de junho de 2024.
 
 ## Histórico de Versões
 
