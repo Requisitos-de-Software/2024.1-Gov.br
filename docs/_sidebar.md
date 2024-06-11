@@ -71,6 +71,7 @@
       - [Introspecção](verificacao/grupo+1/entrega2/elicitacao/introspeccao_verificacao.md)
       - [Entrevista](verificacao/grupo+1/entrega2/elicitacao/entrevista_verificacao.md)
       - [Questionário](verificacao/grupo+1/entrega2/elicitacao/questionario.md)
+      - [Análise de Documentos](verificacao/grupo+1/entrega2/elicitacao/analise_documentos.md)
     - [Priorização](verificacao/grupo+1/entrega2/priorizacao/priorizacao.md)
       - [100$](verificacao/grupo+1/entrega2/priorizacao/100_verificacao.md)
       - [MoSCoW](verificacao/grupo+1/entrega2/priorizacao/moscow_verificacao.md)

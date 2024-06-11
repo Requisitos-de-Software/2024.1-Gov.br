@@ -259,6 +259,41 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 
 </center>
 
+## Analise de Documentos
+<font><p style="text-align: center">**Tabela 9:** Checklist de Avaliação.</p></font>
+
+| Número | Ponto | Avaliação |
+|--------|-------|-----------|
+| 1      | Foi informado os critérios da seleção e documentos? Se sim, a seleção dos documentos foi baseada em critérios claros e relevantes para os objetivos de informação?  | [4](#ref1) |
+| 2      | Foi utilizado mais de um documento para tentar evitar a seletividade tendenciosa?  | [3](#ref1) |
+| 3      | Foi citado a versão do documento utilizado e o mesmo foi guardado no repositório do projeto para consulta posterior da mesma versão e devidamente organizado?  | [4](#ref1) |
+| 4      | Foi relatado as necessidades de informação a serem respondidas pela técnica?  | [4](#ref1) |
+| 5      | As questões preparatórias foram elaboradas para guiar a análise dos documentos selecionados?  | [4](#ref1) |
+| 6      | A elicitação cita os documentos analisados e associa esses documentos às questões respondidas para manter a rastreabilidade ? | [4](#ref1) |
+| 7      | As respostas obtidas com a análise foram documentadas e validadas pelas partes interessadas?  | [4](#ref1) |
+| 8      | O processo de análise de documentos foi documentado de maneira adequada?  | [4](#ref1) |
+
+<div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></div>
+
+## Requisitos Elicitados
+<font><p style="text-align: center">**Tabela 10:** Checklist de Avaliação.</p></font>
+
+| Número | Ponto                                                                                                                      | Rastreabilidade    |
+|--------|----------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1      |  Existe um registro claro das versões do documento de requisitos?                                  | [9](#ref9)   |
+| 2      | Os requisitos são claramente descritos e fáceis de entender para todas as partes interessadas?                             | [9](#ref9)            |
+| 3      | Há consistência nos requisitos elicitados? Não existem contradições entre os requisitos que possam causar confusões ou erros durante o desenvolvimento?  | [9](#ref9)            |
+| 4      | Os requisitos podem ser rastreados até suas fontes originais para verificar sua validade e relevância?                      | [9](#ref9)            |
+| 5      | Os riscos associados aos requisitos são identificados e gerenciados? Existem estratégias documentadas para mitigar os riscos identificados?         | [9](#ref9)     |
+| 6      | Os requisitos são testáveis? Há critérios claros que permitem verificar se os requisitos foram atendidos?                   | [9](#ref9)            |
+| 7      | Os requisitos estão priorizados de acordo com a importância e urgência de implementação?                                    | [9](#ref9)            |
+| 8      | Como os requisitos são gerenciados em caso de mudanças? Existe um processo claro para modificar os requisitos após eles serem inicialmente definidos?  | [9](#ref9)            |
+| 9      | Os requisitos de escalabilidade e desempenho são abordados? Eles estão claramente definidos para facilitar o planejamento de capacidade e a gestão de recursos?  | [9](#ref9)            |
+
+
+<div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></div>
+
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a> 
@@ -292,6 +327,11 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 <a id="ref8"></a>
 
 8. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010  
+
+<a id="ref6=9"></a> 
+
+9. SAYÃO, Miriam; LEITE, Juilio Cesar. Rastreabilidade de Requisitos, Monografias em Ciência da Computação, No. 20/05. Disponivel em: https://aprender3.unb.br/pluginfile.php/2845099/mod_resource/content/3/05_20_sayao.pdf
+
 
 
 ## Histórico de versão

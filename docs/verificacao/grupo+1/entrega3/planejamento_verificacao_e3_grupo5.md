@@ -109,6 +109,25 @@ As checklists foram construídas levando em conta os padrões esperados para os 
 
 Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas), 2024.
 
+
+## Casos de Uso
+
+<font><p style="text-align: center">**Tabela 4:** Checklist de Avaliação.</p></font>
+
+| Número | Ponto                                                                                                                    | Rastreabilidade |
+|--------|--------------------------------------------------------------------------------------------------------------------------|-----------|
+| 1      | As responsabilidades e ações dos atores estão bem definidas?                                                               | [6](#ref6)       |
+| 2      | Não existem contradições ou ambiguidades nos casos de uso que possam levar a múltiplas interpretações?                      | [6](#ref6)       |
+| 3      | Os casos de uso estão adequadamente ligados às suas fontes, como requisitos de negócios ou documentos de referência?        | [6](#ref6)       |
+| 4      | As pré-condições e pós-condições são relevantes e corretamente descritas para cada caso de uso?                            | [6](#ref6)       |
+| 5      | Os fluxos de eventos descrevem detalhadamente as interações entre atores e o sistema?                                      | [6](#ref6)       |
+| 6      | Os relacionamentos são logicamente coerentes e contribuem para a integridade do sistema?                                    | [6](#ref6)       |
+| 7      | Os atores sistêmicos (outros sistemas ou componentes) estão claramente diferenciados dos atores humanos?                   |    [6](#ref6)      |
+| 8      | As informações no diagrama são consistentes com outras documentações de requisitos ou especificações fornecidas?           | [6](#ref6)       |
+| 9      | O diagrama utiliza a notação UML de maneira correta e precisa conforme as práticas padrão?                                  | [6](#ref6)       |
+
+<div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></div>
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
@@ -125,6 +144,12 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](ht
 
 <a id="ref5"></a>
 5. SINESP. [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/especificacao_suplementar/), FGA, GAMA, 2024. Acesso em: 10 de junho de 2024.
+
+<a id="ref6"></a>
+
+6. REINEHR, Sheila. Engenharia de requisitos. [Digite o Local da Editora]: Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 10 jun. 2024.
+- SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 11. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf Acesso em: 10 de jun. 2024.
+
 
 ## Histórico de versão
 

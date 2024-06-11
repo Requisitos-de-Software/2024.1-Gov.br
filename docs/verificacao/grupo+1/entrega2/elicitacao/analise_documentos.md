@@ -20,7 +20,7 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 |--------|-------|-----------|
 | 1      | Foi informado os critérios da seleção e documentos? Se sim, a seleção dos documentos foi baseada em critérios claros e relevantes para os objetivos de informação?[¹](#ref1)  | Não |
 | 2      | Foi utilizado mais de um documento para tentar evitar a seletividade tendenciosa?[²](#ref1)  | Não |
-| 3      | Foi citado a versão do documento utilizado e o mesmo foi guardado no repositório do projeto para consulta posterior da mesma versão e devidamente organizado?[¹](#ref1)  | Não |
+| 3      | Foi citado a versão do documento utilizado e o mesmo foi guardado no repositório do projeto para consulta posterior da mesma versão e devidamente organizado?[¹](#ref1)  | Incompleto |
 | 4      | Foi relatado as necessidades de informação a serem respondidas pela técnica?[¹](#ref1)  | Não |
 | 5      | As questões preparatórias foram elaboradas para guiar a análise dos documentos selecionados?[¹](#ref1)  | Não |
 | 6      | A elicitação cita os documentos analisados e associa esses documentos às questões respondidas para manter a rastreabilidade ?[¹](#ref1) | Não |
@@ -32,13 +32,18 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 ## Problemas Encontrados
 - **ID 1:** Não é possível afirmar que a seleção foi baseada em critérios claros e relevantes para os objetivos de informação.
 - **ID 2:** Pela análise do texto foi indicado a utilização de somente um documento, o que pode levar a uma seletividade tendenciosa sem critério.
-- **ID 3:** A versão do documento utilizado não foi explicitamente citada na página de análise de documento, e não há indicação de que a versão foi armazenada no repositório para consulta futura de forma organizada.
+- **ID 3:** A versão do documento utilizado não foi explicitamente citada na página de análise de documento e não há indicação de que a versão foi armazenada no repositório para consulta futura de forma organizada, mas tem um video com a gravação do documento seria mais interesseante um pdf.
 - **ID 4:** A página foca mais nos resultados obtidos do que nas perguntas específicas ou objetivos de informação que guiaram a análise, não foi explicitamente relatado quais eram as necessidades de informação que a técnica deveria responder.
 - **ID 5:** Não há menção explícita às questões preparatórias que poderiam ter guiado a análise dos documentos.
 - **ID 6:** A rastreabilidade entre os documentos analisados e as questões respondidas não foi claramente estabelecida.
 - **ID 7:** As respostas obtidas com a análise parecem ter sido documentadas. No entanto, não há informação disponível sobre a validação destas respostas pelas partes interessadas.
 - **ID 8:** O processo de análise de documentos parece ter sido documentado superficialmente. Não há detalhes específicos sobre como a análise foi conduzida, apenas os resultados obtidos.
 
+## Vídeo da Verificação
+
+A verificação foi feita por [Caio Berg](https://github.com/Caio-bergbjj) no dia 10/06/2024 e a sessão de inspeção foi realizada no Microsoft Teams.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZGNwzXOxoYo?si=gn_x7532z4iycYVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Bibliografia
