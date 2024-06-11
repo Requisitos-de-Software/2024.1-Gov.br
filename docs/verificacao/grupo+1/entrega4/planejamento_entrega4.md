@@ -92,6 +92,20 @@ As checklists foram construídas levando em conta os padrões esperados para os 
 | 11  | As histórias de usuário possuem estimativas de esforço ou pontos de história?                                  | [04](#ref4)       |
 | 12  | As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros? | [04](#ref4)       |
 
+## NFR Framework
+
+| Número | Ponto | Avaliação |
+| ------------- | ------------- | ------------- |
+| 1 | Cada NFR possui um cartão de especificação?[¹](#ref1) |  |
+| 2 | Cada NFR possui um gráfico de interdependência de softgoals?[¹](#ref1) | |
+| 3 | Cada NFR possui um gráfico de propagação de impactos?[¹](#ref1) |  |
+| 4 | Os softgoals possuem relações de interdependência? [¹](#ref1)|  |
+| 5 | Os requisitos analisados são não funcionais?[¹](#ref1)|  |
+| 6 | Os requisitos não funcionais apresentados possuem um identificador? |  |
+| 7 | Os requisitos utilizados possuem rastreabilidade? |  |
+| 8 | Os cartões de especificação possuem as características: Descrição; Justificativa; Origem; Critério de aceitação; Dependências; Prioridade; Conflitos e História?[¹](#ref1) | |
+
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
@@ -116,3 +130,4 @@ As checklists foram construídas levando em conta os padrões esperados para os 
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 09/06/2024 | Versão inicial do documento  | [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
 |  1.1   | 10/06/2024 | Checklist de Backlog | [Ester Lino](https://github.com/esteerlino) | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
+|  1.2   | 10/06/2024 | Checklist de NFR Framework | [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
