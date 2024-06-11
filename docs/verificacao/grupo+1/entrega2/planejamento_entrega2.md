@@ -137,22 +137,18 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 ## Storytelling
 
 <font><p style="text-align: center">**Tabela 3:** Checklist para a verificação do Storytelling.</p></font>
-| ID  | Descrição                                                                                                                                               | Avaliação | Observação                                      | Referência |
-|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------|------------|
-| 1   | O artefato possui Introdução?                                                                                                                           | -         | -                                              | -          |
-| 2   | O artefato possui referências bibliográficas?                                                                                                           | -         | -                                              | -          |
-| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                  | -         | -                                              | -          |
-| 4   | O artefato possui uma metodologia?                                                                                                                      | -         | -                                              | -          |
-| 5   | As tabelas e imagens possuem legendas e fontes?                                                                                                         | -         | -                                              | -          |
-| 6   | Há narração das histórias?                                                                                                                              | -         | -                                              | -          |
-| 7   | Há gravação ou registro da elicitação dos requisitos?                                                                                                   | -         | -                                              | -          |
-| 8   | As histórias remetem aos requisitos do projeto?                                                                                                         | -         | -                                              | -          |
-| 9   | As histórias apresentam coerência e coesão?                                                                                                             | -         | -                                              | -          |
-| 10  | Os requisitos são classificados em Funcionais e Não Funcionais?                                                                                         | -         | -                                              | -          |
-| 11  | Há participação do cliente ou personas na elicitação?                                                                                                   | -         | -                                              | -          |
-| 12  | A documentação do Storytelling possui dados importantes, como eventos que remetem para a interação dos personagens com o aplicativo em questão?         | -         | -                                              | -          |
-| 13  | As personas ou personagens foram desenvolvidos de maneira que representem os usuários do aplicativo?                                                    | -         | -                                              | -          |
-| 14  | Possui links para os outros artefatos?                                                                                                                  | -         | -                                              | -          |
+
+| ID  | Descrição                                                                                                                                               | Avaliação | Referência |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
+| 1   | Há narração das histórias?                                                                                                                              | -         | [08](#ref3)          |
+| 2   | Há gravação ou registro da elicitação dos requisitos?                                                                                                   | -         | [08](#ref3)          |
+| 3   | As histórias remetem aos requisitos do projeto?                                                                                                         | -         | [08](#ref3)          |
+| 4   | As histórias apresentam coerência e coesão?                                                                                                             | -         | [08](#ref3)          |
+| 5  | Os requisitos são classificados em Funcionais e Não Funcionais?                                                                                         | -         | [08](#ref3)          |
+| 6  | Há participação do cliente ou personas na elicitação?                                                                                                   | -         | [08](#ref3)          |
+| 7  | A documentação do Storytelling possui dados importantes, como eventos que remetem para a interação dos personagens com o aplicativo em questão?         | -         | [08](#ref3)-          |
+| 8  | As personas ou personagens foram desenvolvidos de maneira que representem os usuários do aplicativo?                                                    | -         | [08](#ref3)          |
+| 9  | Possui links para os outros artefatos?                                                                                                                  | -         | [08](#ref3)          |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>
 
@@ -193,35 +189,32 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 ## First Things First
 
+## First Things First
+
 <font><p style="text-align: center">**Tabela 6:** Checklist para a verificação do First Things First.</p></font>
 
-| ID  | Descrição | Avaliação | Observação | Referência |
-| --- | ------- | -------- | ---------- | ----------- |
-| 1 | O artefato possui introdução? | - | - | - |
-| 2 | O artefato possui referência bibliográfica? | - | - | - |
-| 3 | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | - | - | - |
-| 4 | Todas as tabelas e imagens possuem legendas e fontes? | - | - | - |
-| 5 | As tabelas são referenciadas no texto? | - | - | - |
-| 6 | Os revisores são pessoas diferentes dos autores? | - | - | - |
-| 7 | Foram listados todos os requisitos a serem priorizados? | - | - | - |
-| 8 | Os requisitos não se repetem? | - | - | - |
-| 9 | Os benefícios relativos são estimados em uma escala de 1 a 9? | - | - | - |
-| 10 | As penalidades relativas são estimadas em uma escala de 1 a 9? | - | - | - |
-| 11 | O valor total é calculado? | - | - | - |
-| 12 | Há a porcentagem dos valores dos requisitos em relação ao valor total? | - | - | - |
-| 13 | Há o resultado do custo relativo e estão estimados de 1 a 9? | - | - | - |
-| 14 | Há o calculo da porcentagem dos custos dos requisitos? | - | - | - |
-| 15 | O valor dos riscos relativos foram estimados em uma escala de 1 a 9? | - | - | - |
-| 16 | O percentual dos riscos dos requisitos em relação ao risco relativo total são apresentados? | - | - | - |
-| 17 | É calculada a prioridade para cada requisito? | - | - | - |
-| 18 | A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)? | - | - | - |
-| 19 | A fórmula utilizada é (Valor%)/[(Custo%)x(Peso Custo) + (Risco%)x(Peso Risco)]? | - | - | - |
-| 20 | A lista de requisitos foi ordenada de forma decrescente em relação à prioridade? | - | - | - |
-| 21 | Há mediador? | - | - | - |
-| 22 | Há o representante dos usuários? | - | - | - |
-| 23 | Há desenvolvedor? | - | - | - |
-| 24 | A reunião com os participantes foi documentada? | - | - | - |
-| 25 | Há gravação? | - | - | - |
+| ID  | Descrição | Avaliação | Referência |
+| --- | --------- | --------- | ----------|
+| 1   | Foram listados todos os requisitos a serem priorizados? | - | [07](#ref3) |
+| 2   | Os requisitos não se repetem? | - | [07](#ref3) |
+| 3   | Os benefícios relativos são estimados em uma escala de 1 a 9? | - | [07](#ref3) |
+| 4  | As penalidades relativas são estimadas em uma escala de 1 a 9? | - | [07](#ref3) |
+| 5  | O valor total é calculado? | - |[07](#ref3) |
+| 6  | Há a porcentagem dos valores dos requisitos em relação ao valor total? | - | [07](#ref3) |
+| 7  | Há o resultado do custo relativo e estão estimados de 1 a 9? | - | [07](#ref3) |
+| 8  | Há o calculo da porcentagem dos custos dos requisitos? | - | [07](#ref3) |
+| 9  | O valor dos riscos relativos foram estimados em uma escala de 1 a 9? | - | [07](#ref3) |
+| 10  | O percentual dos riscos dos requisitos em relação ao risco relativo total são apresentados? | - | [07](#ref3) |
+| 11  | É calculada a prioridade para cada requisito? | - | [07](#ref3) |
+| 12  | A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)? | - | [07](#ref3) |
+| 13  | A fórmula utilizada é (Valor%)/[(Custo%)x(Peso Custo) + (Risco%)x(Peso Risco)]? | - | [07](#ref3) |
+| 14  | A lista de requisitos foi ordenada de forma decrescente em relação à prioridade? | - | [07](#ref3) |
+| 15  | Há mediador? | - | [07](#ref3) |
+| 16  | Há o representante dos usuários? | - | [07](#ref3) |
+| 17  | Há desenvolvedor? | - | [07](#ref3) |
+| 18  | A reunião com os participantes foi documentada? | - | [07](#ref3) |
+| 19  | Há gravação? | - | [07](#ref3) |
+
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>
 
 <center>
