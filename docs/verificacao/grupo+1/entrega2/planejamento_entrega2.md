@@ -175,6 +175,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 <div align="center">Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a></div>
 
+## 100$
 
 <font><p style="text-align: center">**Tabela 5:** Checklist de Verificação da Priorização por 100$.</p></font>
 
