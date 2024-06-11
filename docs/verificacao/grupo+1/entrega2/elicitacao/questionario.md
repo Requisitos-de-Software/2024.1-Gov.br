@@ -80,7 +80,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 
 O vídeo da verificação foi realizado no dia 10/06/2024, pelo integrante [Arthur Gabriel](https://github.com/ArthurGabrieel), no qual é apresentado o artefato e os resultados da verificação.
 
-<iframe width="560" height="315" src="https://youtu.be/oJkqABWW4lA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJkqABWW4lA?si=T67XEFPtTGpx6_uj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
