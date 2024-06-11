@@ -138,7 +138,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 <font><p style="text-align: center">**Tabela 3:** Checklist para a verificação do Storytelling.</p></font>
 
-| ID  | Descrição                                                                                                                                               | Avaliação | Referência |
+| ID  | Descrição  | Avaliação | Referência |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
 | 1   | Há narração das histórias?                                                                                                                              | -         | [08](#ref3)          |
 | 2   | Há gravação ou registro da elicitação dos requisitos?                                                                                                   | -         | [08](#ref3)          |
@@ -185,9 +185,6 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 | 6 | A prioridade dos requisitos foi definida de acordo com a precificação ($)? | [05](#ref5) |
 | 7 | Houve a participação do usuário ou persona para a realização da técnica? | [05](#ref5) | 
 <div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a> e <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div>
-
-
-## First Things First
 
 ## First Things First
 
