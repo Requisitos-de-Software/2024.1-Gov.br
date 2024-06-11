@@ -120,7 +120,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 - É importante informar o motivo da escolha dessa técnica de elicitação, para que o leitor compreenda a razão de sua utilização.
 
 ### Checklist Específico
-Nenhum problema foi encontrado no checklist geral.
+- Não foi explicado no artefato como o questionário será utilizado, o que pode gerar dúvidas sobre a sua aplicação.
 
 ## Bibliografia
 
