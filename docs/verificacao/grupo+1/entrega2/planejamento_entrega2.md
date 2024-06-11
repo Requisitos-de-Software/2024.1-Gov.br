@@ -223,6 +223,27 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 | 25 | Há gravação? | - | - | - |
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>
 
+<center>
+
+## Perfil de Usuário
+
+**Tabela 7** - Checklist para a verificação do Perfil de Usuário
+
+| Número | Ponto | Rastreabilidade |
+| ------ | ------ | --------- |
+| 1 | O perfil de usuário é descrito detalhadamente? | [06](#ref6) |
+| 2 | As características dos usuários estão claramente identificadas? (e.g., experiência tecnológica, nível de instrução)  | [06](#ref6) |
+| 3 | O perfil inclui dados demográficos (idade, gênero)?  | [06](#ref6) |
+| 4 | Há uma descrição das habilidades dos usuários?  | [06](#ref6) | | |
+| 5 | Os objetivos dos usuários são claros e específicos?  | [06](#ref6) |
+| 6 | O perfil inclui informações sobre a relação do usuário com a tecnologia?  | [06](#ref6) |
+| 7 | As necessidades e preferências dos usuários estão documentadas?  | [06](#ref6) |
+| 8 | A metodologia utilizada para criar o perfil de usuário está explicada?  | [06](#ref6) |
+
+<div align="center">Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div>
+
+</center>
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a> 
@@ -244,6 +265,10 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 <a id="ref5"></a> 
 
 5. WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013. Acesso em: 8 de Junho de 2024.
+
+<a id="ref6"></a>
+
+6.  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2844974/mod_resource/content/2/ihc-ux-%20Personas.pdf">https://aprender3.unb.br/pluginfile.php/2844974/mod_resource/content/2/ihc-ux-%20Personas.pdf</a>. Acesso em: 10 de Junho de 2024.
 
 ## Histórico de versão
 
