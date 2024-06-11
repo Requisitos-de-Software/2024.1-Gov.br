@@ -31,6 +31,7 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 <div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
 ## Problemas Encontrados
+- **ID 1:** Não houve uma diferenciação entre atores humanos e atores que representam outros sistemas, o que pode confundir dependendo do caso de uso.
 
 ## Bibliografia
 
