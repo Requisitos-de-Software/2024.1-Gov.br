@@ -79,18 +79,18 @@ As checklists foram construídas levando em conta os padrões esperados para os 
 
 | Número  | Ponto                                                                                                      | Rastreabilidade |
 | --- | -------------------------------------------------------------------------------------------------------------- | --------- |
-| 1   | Os títulos das histórias de usuário são auto-explicativos?                                                     | Sim       |
-| 2   | O "quem", "o que" e o "por que" estão definidos na história de usuário?                                        | Sim       |
-| 3   | A história possui critérios de aceitação?                                                                      | Sim       |
-| 4   | Os critérios de aceitação das histórias foram definidos?                                                       | Sim       |
-| 5   | Houve a participação do cliente e/ou persona na elicitação de requisitos?                                      | Sim       |
-| 6   | Todas as histórias de usuário podem ser testadas?                                                              | Sim       |
-| 7   | Há uma fonte de onde foram retiradas as histórias?                                                             | Sim       |
-| 8   | As histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades?                            | Sim       |
-| 9   | As histórias de usuário estão divididas em tarefas menores ou subtarefas?                                      | Sim       |
-| 10  | As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema?              | Sim       |
-| 11  | As histórias de usuário possuem estimativas de esforço ou pontos de história?                                  | Sim       |
-| 12  | As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros? | Sim       |
+| 1   | Os títulos das histórias de usuário são auto-explicativos?                                                     | [04](#ref4)       |
+| 2   | O "quem", "o que" e o "por que" estão definidos na história de usuário?                                        | [04](#ref4)       |
+| 3   | A história possui critérios de aceitação?                                                                      | [04](#ref4)       |
+| 4   | Os critérios de aceitação das histórias foram definidos?                                                       | [04](#ref4)       |
+| 5   | Houve a participação do cliente e/ou persona na elicitação de requisitos?                                      | [04](#ref4)       |
+| 6   | Todas as histórias de usuário podem ser testadas?                                                              | [04](#ref4)       |
+| 7   | Há uma fonte de onde foram retiradas as histórias?                                                             | [04](#ref4)       |
+| 8   | As histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades?                            | [04](#ref4)       |
+| 9   | As histórias de usuário estão divididas em tarefas menores ou subtarefas?                                      | [04](#ref4)       |
+| 10  | As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema?              | [04](#ref4)       |
+| 11  | As histórias de usuário possuem estimativas de esforço ou pontos de história?                                  | [04](#ref4)       |
+| 12  | As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros? | [04](#ref4)       |
 
 ## Referências Bibliográficas
 
