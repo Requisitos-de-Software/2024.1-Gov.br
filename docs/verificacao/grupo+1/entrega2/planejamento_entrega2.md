@@ -146,7 +146,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 | 4   | As histórias apresentam coerência e coesão?                                                                                                             | -         | [08](#ref3)          |
 | 5  | Os requisitos são classificados em Funcionais e Não Funcionais?                                                                                         | -         | [08](#ref3)          |
 | 6  | Há participação do cliente ou personas na elicitação?                                                                                                   | -         | [08](#ref3)          |
-| 7  | A documentação do Storytelling possui dados importantes, como eventos que remetem para a interação dos personagens com o aplicativo em questão?         | -         | [08](#ref3)-          |
+| 7  | A documentação do Storytelling possui dados importantes, como eventos que remetem para a interação dos personagens com o aplicativo em questão?         | -         | [08](#ref3)         |
 | 8  | As personas ou personagens foram desenvolvidos de maneira que representem os usuários do aplicativo?                                                    | -         | [08](#ref3)          |
 | 9  | Possui links para os outros artefatos?                                                                                                                  | -         | [08](#ref3)          |
 
