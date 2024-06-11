@@ -63,12 +63,12 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
     <tr>
       <td align="center">6</td>
       <td>Foi informado o motivo da escolha do questionário?</td>
-      <td align="center">Sim</td>
+      <td align="center">Não</td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>Antes da elaboração do questionário, foi feito um estudo para decidir as perguntas?</td>
-      <td align="center">Sim</td>
+      <td align="center">Não</td>
     </tr>
     <tr>
       <td align="center">8</td>
@@ -77,41 +77,36 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
     </tr>
     <tr>
       <td align="center">9</td>
-      <td>O questionário apresenta mais perguntas fechadas do que perguntas abertas?</td>
-      <td align="center">Sim</td>
-    </tr>
-    <tr>
-      <td align="center">10</td>
       <td>Os resultados foram tratados e apresentados?</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
-      <td align="center">11</td>
+      <td align="center">10</td>
       <td>O perfil de usuário apresenta os pontos principais requisitados?</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
-      <td align="center">12</td>
+      <td align="center">11</td>
       <td>É explicado no artefato como o questionário será utilizado?</td>
-      <td align="center">Sim</td>
+      <td align="center">Não</td>
     </tr>
     <tr>
-      <td align="center">13</td>
+      <td align="center">12</td>
       <td>As perguntas apresentam alguma ordem ou padrão estratégico?</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
-      <td align="center">14</td>
+      <td align="center">13</td>
       <td>Apresenta no texto os locais onde o questionário foi distribuído?</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
-      <td align="center">15</td>
+      <td align="center">14</td>
       <td>Apresenta no texto o prazo em que ficou aberto?</td>
       <td align="center">Sim</td>
     </tr>
     <tr>
-      <td align="center">16</td>
+      <td align="center">15</td>
       <td>Houve o cuidado para não haver perguntas pessoais ou evasivas?</td>
       <td align="center">Sim</td>
     </tr>
@@ -122,7 +117,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 
 ## Problemas Encontrados
 ### Checklist Geral
-Nenhum problema foi encontrado no checklist geral.
+- É importante informar o motivo da escolha dessa técnica de elicitação, para que o leitor compreenda a razão de sua utilização.
 
 ### Checklist Específico
 Nenhum problema foi encontrado no checklist geral.
