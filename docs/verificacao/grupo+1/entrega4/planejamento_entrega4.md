@@ -51,7 +51,7 @@ Os artefatos alvo dessa verificação são:
 | 03  | Backlog                                               | [Caio Berg](https://github.com/Caio-bergbjj) e [Ester Lino](https://github.com/esteerlino) | 10/06/2024 |
 | 04  | Especificação Suplementar                             | [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Isaque Santos](https://github.com/IsaqueSH)         | 10/06/2024 |
 
-Fonte: [Caio Berg](https://github.com/Caio-bergbjj)
+Autor: [Caio Berg](https://github.com/Caio-bergbjj)
 
 </center>
 
@@ -104,6 +104,7 @@ As checklists foram construídas levando em conta os padrões esperados para os 
 | 6 | Os requisitos não funcionais apresentados possuem um identificador? |  |
 | 7 | Os requisitos utilizados possuem rastreabilidade? |  |
 | 8 | Os cartões de especificação possuem as características: Descrição; Justificativa; Origem; Critério de aceitação; Dependências; Prioridade; Conflitos e História?[¹](#ref1) | |
+<div align="center">Autor(a): <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
 
 ## Referências Bibliográficas
