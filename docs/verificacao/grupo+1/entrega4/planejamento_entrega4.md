@@ -1,4 +1,5 @@
-# Planejamento da Entrega 4
+# Planejamento da Verificação - Entrega 4 (Grupo 05)
+
 ## Introdução
 
 A verificação desempenha um papel crucial para garantir a qualidade, confiabilidade e robustez no processo de desenvolvimento de software. Através da verificação, é possível identificar e corrigir falhas, erros e inconsistências desde as etapas iniciais do desenvolvimento, prevenindo problemas mais sérios que podem surgir posteriormente e gerar custos adicionais. Dessa forma, este documento apresenta o planejamento da verificação dos seguintes artefatos produzido pelo [Grupo 5](https://github.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao): [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/Agil/Historias_de_Usuario/), [Backlog](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/Agil/backlog/) e [NFR Framework](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/Agil/NFR/) 

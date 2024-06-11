@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Entrega 3 do Grupo 5
+# Planejamento da Verificação - Entrega 3 (Grupo 05)
 
 ## Introdução
 
@@ -64,26 +64,6 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 ## Checklists
 
 As checklists foram construídas levando em conta os padrões esperados para os artefatos que estão disponíveis nas referências bibliográficas.
-
-<center>
-
-**Tabela 2** - Checklist para os Itens Gerais.
-
-
-
-
-| ID  | Descrição                                                                                              | Avaliação | Observação | Referência |
-| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- | ---------- |
-| 1   | O artefato possui introdução?                                                                          |           |             |[1](#ancora1)|
-| 2   | O artefato possui referência bibliográfica?                                                            |           |             |[1](#ancora1)|
-| 3   | O artefato possui histórico de versão com o id e descrição das versões, data, autores e revisores?     |           |             |            |
-| 4   | As tabelas e imagens possuem legendas e fontes padronizadas?                                           |           |             |[1](#ancora1)|
-| 5   | As tabelas são referenciadas no texto?                                                                 |           |             |[1](#ancora1)|
-
-
-Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
-
-</center>
 
 ## Léxicos
 

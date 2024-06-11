@@ -118,25 +118,9 @@ As checklists foram construídas levando em conta os padrões esperados para os 
 
 <center>
 
-**Tabela 2** - Checklist para os Itens Gerais.
-
-| ID  | Descrição                                                                                          | Avaliação | Observação | Referência    |
-| --- | -------------------------------------------------------------------------------------------------- | --------- | ---------- | ------------- |
-| 1   | O artefato possui introdução?                                                                      |           |            | [1](#ancora1) |
-| 2   | O artefato possui referência bibliográfica?                                                        |           |            | [1](#ancora1) |
-| 3   | O artefato possui histórico de versão com o id e descrição das versões, data, autores e revisores? |           |            |               |
-| 4   | As tabelas e imagens possuem legendas e fontes padronizadas?                                       |           |            | [1](#ancora1) |
-| 5   | As tabelas são referenciadas no texto?                                                             |           |            | [1](#ancora1) |
-
-Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
-
-</center>
-
-<center>
-
 ## Storytelling
 
-<font><p style="text-align: center">**Tabela 3:** Checklist para a verificação do Storytelling.</p></font>
+<font><p style="text-align: center">**Tabela 2:** Checklist para a verificação do Storytelling.</p></font>
 
 | ID  | Descrição  | Avaliação | Referência |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
@@ -155,7 +139,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 ## Análise de Protocolo
 
-<font><p style="text-align: center">**Tabela 4:** Checklist para a verificação da Análise de Protocolo.</p></font>
+<font><p style="text-align: center">**Tabela 3:** Checklist para a verificação da Análise de Protocolo.</p></font>
 
 | Número | Ponto | Rastreabilidade |
 | :----: | :---: | :-------------: |
@@ -173,7 +157,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 ## 100$
 
-<font><p style="text-align: center">**Tabela 5:** Checklist de Verificação da Priorização por 100$.</p></font>
+<font><p style="text-align: center">**Tabela 4:** Checklist de Verificação da Priorização por 100$.</p></font>
 
 | Número | Ponto | Rastreabilidade |
 | ------------- | ------------- | ------------- |
@@ -188,7 +172,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 ## First Things First
 
-<font><p style="text-align: center">**Tabela 6:** Checklist para a verificação do First Things First.</p></font>
+<font><p style="text-align: center">**Tabela 5:** Checklist para a verificação do First Things First.</p></font>
 
 | ID  | Descrição | Avaliação | Referência |
 | --- | --------- | --------- | ----------|
@@ -218,7 +202,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 ## Perfil de Usuário
 
-**Tabela 7** - Checklist para a verificação do Perfil de Usuário
+<font><p style="text-align: center">**Tabela 6** - Checklist para a verificação do Perfil de Usuário.</p></font>
 
 | Número | Ponto | Rastreabilidade |
 | ------ | ------ | --------- |
@@ -237,7 +221,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 ## Avaliação de Interface
 
-**Tabela 8** - Checklist para a verificação da Avaliação de Interface
+<font><p style="text-align: center">**Tabela 7** - Checklist para a verificação do Perfil de Usuário.</p></font>
 
 | Número | Ponto                                                                                                                                     | Rastreabilidade |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------- | --------- |
