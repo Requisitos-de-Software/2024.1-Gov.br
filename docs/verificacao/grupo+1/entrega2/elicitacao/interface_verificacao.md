@@ -25,6 +25,10 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 <div align="center">Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas </a> </div>
 
+A gravação foi realizada no dia 10/06/2024 com inicio às 21h11. Pelo integrante <a href="https://github.com/thiagorfreitas">Thiago Freitas</a>.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4vcD7afqDzE?si=H1nwbnwPFynGeyHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Problemas Encontrados
 
 - **4:** Um problema encontrado foi em relação a especificação da data, horário e local da realização da técnica, que não está bem definido dentro do documento, apesar de ser possível identificar horário e data pelo vídeo da gravação.
