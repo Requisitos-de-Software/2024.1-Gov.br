@@ -127,6 +127,8 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 | 19  | Os requisitos especificam ou restringem o design do sistema?                       | [4](#ref4)      |
 | 20  | O artefato possui um tópico de Requisitos de Implementação com requisitos testáveis?| [4](#ref4)      |
 
+Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas), 2024.
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
