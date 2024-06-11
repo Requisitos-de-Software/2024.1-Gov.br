@@ -12,77 +12,21 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 ## Checklist
 
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Os títulos das histórias de usuário são auto-explicativos?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>O "quem", "o que" e o "por que" estão definidos na história de usuário?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>A história possui critérios de aceitação?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Os critérios de aceitação das histórias foram definidos?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Houve a participação do cliente e/ou persona na elicitação de requisitos?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Todas as histórias de usuário podem ser testadas?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Há uma fonte de onde foram retiradas as histórias?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>As histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>As histórias de usuário estão divididas em tarefas menores ou subtarefas?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>As histórias de usuário possuem estimativas de esforço ou pontos de história?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros?</td>
-      <td>Sim</td>
-    </tr>
-  </tbody>
-</table>
+| ID  | Descrição                                                                                  | Avaliação |
+|-----|--------------------------------------------------------------------------------------------|-----------|
+| 1   | Os títulos das histórias de usuário são auto-explicativos?                                 | Sim       |
+| 2   | O "quem", "o que" e o "por que" estão definidos na história de usuário?                    | Sim       |
+| 3   | A história possui critérios de aceitação?                                                  | Sim       |
+| 4   | Os critérios de aceitação das histórias foram definidos?                                   | Sim       |
+| 5   | Houve a participação do cliente e/ou persona na elicitação de requisitos?                  | Sim       |
+| 6   | Todas as histórias de usuário podem ser testadas?                                          | Sim       |
+| 7   | Há uma fonte de onde foram retiradas as histórias?                                         | Sim       |
+| 8   | As histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades?        | Sim       |
+| 9   | As histórias de usuário estão divididas em tarefas menores ou subtarefas?                  | Sim       |
+| 10  | As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema?| Sim |
+| 11  | As histórias de usuário possuem estimativas de esforço ou pontos de história?              | Sim       |
+| 12  | As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros?| Sim |
+
 
 Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas), 2024.
 

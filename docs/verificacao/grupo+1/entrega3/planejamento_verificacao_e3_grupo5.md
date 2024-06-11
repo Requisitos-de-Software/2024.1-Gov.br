@@ -85,7 +85,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 </center>
 
-## ALéxicos
+## Léxicos
 
 <font><p style="text-align: center">**Tabela 2:** Checklist para a verificação dos Léxicos.</p></font>
 
@@ -100,6 +100,33 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 <div align="center">Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a></div>
 
+## Especificação Suplementar
+
+<font><p style="text-align: center">**Tabela 3:** Checklist para a verificação da Especificação Suplementar.</p></font>
+
+| ID  | Descrição                                                                         | Rastreabilidade |
+|-----|-----------------------------------------------------------------------------------|-----------------|
+| 1   | O artefato contém a especificação suplementar completa?                           | [4](#ref4)      |
+| 2   | A especificação suplementar segue o modelo FURPS+?                                | [4](#ref4)      |
+| 3   | O artefato possui um tópico de Funcionalidade com requisitos testáveis?            | [4](#ref4)      |
+| 4   | O artefato possui um tópico de Usabilidade com requisitos testáveis?               | [4](#ref4)      |
+| 5   | Os requisitos facilitam as tarefas realizadas pelos usuários?                      | [4](#ref4)      |
+| 6   | O artefato possui um tópico de Confiabilidade?                                     | [4](#ref4)      |
+| 7   | Os requisitos aumentam a confiabilidade do sistema?                                | [4](#ref4)      |
+| 8   | O artefato especifica o Tempo Médio entre Falhas (MTBF)?                           | [4](#ref4)      |
+| 9   | O artefato especifica o Tempo Médio para Reparos (MTTR)?                           | [4](#ref4)      |
+| 10  | Os requisitos relacionados à segurança são apresentados?                          | [4](#ref4)      |
+| 11  | O artefato possui um tópico de Desempenho com requisitos testáveis?                | [4](#ref4)      |
+| 12  | Os requisitos sobre tempos de resposta são apresentados com tempos especificados?  | [4](#ref4)      |
+| 13  | O artefato especifica tempo de resposta de transação (médio, máximo)?              | [4](#ref4)      |
+| 14  | O artefato especifica taxa de transferência (ex: transações por segundo)?          | [4](#ref4)      |
+| 15  | Os requisitos sobre a disponibilidade são apresentados?                           | [4](#ref4)      |
+| 16  | O artefato possui um tópico de Suportabilidade com requisitos testáveis?           | [4](#ref4)      |
+| 17  | Os sistemas operacionais suportados pelo sistema são apresentados?                 | [4](#ref4)      |
+| 18  | O artefato possui um tópico de Restrições de Design com requisitos testáveis?      | [4](#ref4)      |
+| 19  | Os requisitos especificam ou restringem o design do sistema?                       | [4](#ref4)      |
+| 20  | O artefato possui um tópico de Requisitos de Implementação com requisitos testáveis?| [4](#ref4)      |
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
@@ -110,6 +137,12 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 <a id="ref3"></a>
 3. Sayão, M.; Carvalho, G. R. de. Construção do léxico de aplicações. In: INTERNATIONAL JOINT CONFERENCE IBERAMIA/SBIA/SBRN, 4., 2006, Ribeirão Preto. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop in Information and Human Language Technology (TIL’2006). Ribeirão Preto: 2006. p. 1-12.
+   
+<a id="ref4"></a>
+4. SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 13. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 10 de junho de 2024.
+
+<a id="ref5"></a>
+5. SINESP. [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/especificacao_suplementar/), FGA, GAMA, 2024. Acesso em: 10 de junho de 2024.
 
 ## Histórico de versão
 

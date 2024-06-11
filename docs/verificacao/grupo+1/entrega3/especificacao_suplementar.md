@@ -12,117 +12,30 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 ## Checklist
 
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>O artefato contém a especificação suplementar completa?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>A especificação suplementar segue o modelo FURPS+?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>O artefato possui um tópico de Funcionalidade com requisitos testáveis?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>O artefato possui um tópico de Usabilidade com requisitos testáveis?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Os requisitos facilitam as tarefas realizadas pelos usuários?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>O artefato possui um tópico de Confiabilidade?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Os requisitos aumentam a confiabilidade do sistema?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>O artefato especifica o Tempo Médio entre Falhas (MTBF)?</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>O artefato especifica o Tempo Médio para Reparos (MTTR)?</td>
-      <td>Não</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Os requisitos relacionados à segurança são apresentados?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>O artefato possui um tópico de Desempenho com requisitos testáveis?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Os requisitos sobre tempos de resposta são apresentados com tempos especificados?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>O artefato especifica tempo de resposta de transação (médio, máximo)?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>O artefato especifica taxa de transferência (ex: transações por segundo)?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>Os requisitos sobre a disponibilidade são apresentados?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>O artefato possui um tópico de Suportabilidade com requisitos testáveis?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>Os sistemas operacionais suportados pelo sistema são apresentados?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>O artefato possui um tópico de Restrições de Design com requisitos testáveis?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>Os requisitos especificam ou restringem o design do sistema?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>O artefato possui um tópico de Requisitos de Implementação com requisitos testáveis?</td>
-      <td>Sim</td>
-    </tr>
-  </tbody>
-</table>
+Aqui está a tabela convertida para markdown:
+
+| ID  | Descrição                                                                         | Avaliação |
+|-----|-----------------------------------------------------------------------------------|-----------|
+| 1   | O artefato contém a especificação suplementar completa?                           | Sim       |
+| 2   | A especificação suplementar segue o modelo FURPS+?                                | Sim       |
+| 3   | O artefato possui um tópico de Funcionalidade com requisitos testáveis?           | Sim       |
+| 4   | O artefato possui um tópico de Usabilidade com requisitos testáveis?              | Sim       |
+| 5   | Os requisitos facilitam as tarefas realizadas pelos usuários?                     | Sim       |
+| 6   | O artefato possui um tópico de Confiabilidade?                                    | Sim       |
+| 7   | Os requisitos aumentam a confiabilidade do sistema?                               | Sim       |
+| 8   | O artefato especifica o Tempo Médio entre Falhas (MTBF)?                          | Não       |
+| 9   | O artefato especifica o Tempo Médio para Reparos (MTTR)?                          | Não       |
+| 10  | Os requisitos relacionados à segurança são apresentados?                          | Sim       |
+| 11  | O artefato possui um tópico de Desempenho com requisitos testáveis?               | Sim       |
+| 12  | Os requisitos sobre tempos de resposta são apresentados com tempos especificados? | Sim       |
+| 13  | O artefato especifica tempo de resposta de transação (médio, máximo)?             | Sim       |
+| 14  | O artefato especifica taxa de transferência (ex: transações por segundo)?         | Sim       |
+| 15  | Os requisitos sobre a disponibilidade são apresentados?                           | Sim       |
+| 16  | O artefato possui um tópico de Suportabilidade com requisitos testáveis?          | Sim       |
+| 17  | Os sistemas operacionais suportados pelo sistema são apresentados?                | Sim       |
+| 18  | O artefato possui um tópico de Restrições de Design com requisitos testáveis?     | Sim       |
+| 19  | Os requisitos especificam ou restringem o design do sistema?                      | Sim       |
+| 20  | O artefato possui um tópico de Requisitos de Implementação com requisitos testáveis?| Sim     |
 
 Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas), 2024.
 
