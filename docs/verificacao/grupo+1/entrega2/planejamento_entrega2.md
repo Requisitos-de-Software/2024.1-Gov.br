@@ -255,6 +255,26 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 </center>
 
+<center>
+
+## Questionário
+
+| ID  | Descrição                                                                                                               | Rastreabilidade |
+| --- | ----------------------------------------------------------------------------------------------------------------------- | --------- |
+| 1   | Foi informado o motivo da escolha do questionário?                                                                      |    [08](#ref8)    |
+| 2   | Antes da elaboração do questionário, foi feito um estudo para decidir as perguntas?                                     |    [08](#ref8)    |
+| 3   | O questionário apresenta um termo de consentimento onde a pessoa permite a utilização das informações que irá fornecer? |    [08](#ref8)    |
+| 4   | Os resultados foram tratados e apresentados?                                                                            |    [08](#ref8)    |
+| 6   | É explicado no artefato como o questionário será utilizado?                                                             |    [08](#ref8)    |
+| 7   | As perguntas apresentam alguma ordem ou padrão estratégico?                                                             |    [08](#ref8)    |
+| 8   | Apresenta no texto os locais onde o questionário foi distribuído?                                                       |    [08](#ref8)    |
+| 9   | Apresenta no texto o prazo em que ficou aberto?                                                                         |    [08](#ref8)    |
+| 10  | Houve o cuidado para não haver perguntas pessoais ou evasivas?                                                          |    [08](#ref8)    |
+
+Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
+
+</center>
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a> 
@@ -282,7 +302,13 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 6.  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2844974/mod_resource/content/2/ihc-ux-%20Personas.pdf">https://aprender3.unb.br/pluginfile.php/2844974/mod_resource/content/2/ihc-ux-%20Personas.pdf</a>. Acesso em: 10 de Junho de 2024.
    
 <a id="ref7"></a>
+
 7.  Nielsen, J. (1994). Usability Engineering. Morgan Kaufmann. Disponível em: <a href="https://www.elsevier.com/books/usability-engineering/nielsen/978-0-12-518406-9">https://www.elsevier.com/books/usability-engineering/nielsen/978-0-12-518406-9</a>. Acesso em: 10 de Junho de 2024.
+
+<a id="ref8"></a>
+
+8. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010  
+
 
 ## Histórico de versão
 

@@ -43,6 +43,10 @@ O vídeo da verificação foi realizado no dia 10/06/2024, pelo integrante [Arth
 
 2. SINESP. [Questionário](hhttps://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/questionario/), FGA, GAMA, 2024. Acesso em: 10 de junho de 2024.
 
+## Referências Bibliográficas
+
+SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição          | Autor(es)                                                                                                 | Revisor(es)                                                                                                                                                                                                                                                                                                                           |
