@@ -85,15 +85,36 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 </center>
 
+## ALéxicos
+
+<font><p style="text-align: center">**Tabela 2:** Checklist para a verificação dos Léxicos.</p></font>
+
+| Número | Ponto | Rastreabilidade |
+| :----: | :---: | :-------------: |
+| 1 | Os léxicos definem os usuários da aplicação? | [3](#ref3) |
+| 2 | Os léxicos utilizam a estrutura verbo, objeto, estado e/ou sujeito? | [3](#ref3) |
+| 3 | Existem ligações entre os léxicos, atravpes de hiperlinks?| [3](#ref3) |
+| 4 | Cada léxico contém classificação, noção, impacto e sinônimos? | [3](#ref3) |
+| 5 | A noção e o impacto de cada léxico estão corretos? | [3](#ref3) |
+| 5 | A classificação de cada léxico está correta? | [3](#ref3) |
+
+<div align="center">Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a></div>
+
 ## Referências Bibliográficas
 
-> [1] Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 09 de Junho de 2024.
+<a id="ref1"></a>
+1. Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 09 de Junho de 2024.
 
-> [2] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+<a id="ref2"></a>
+2. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+
+<a id="ref3"></a>
+3. Sayão, M.; Carvalho, G. R. de. Construção do léxico de aplicações. In: INTERNATIONAL JOINT CONFERENCE IBERAMIA/SBIA/SBRN, 4., 2006, Ribeirão Preto. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop in Information and Human Language Technology (TIL’2006). Ribeirão Preto: 2006. p. 1-12.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 09/06/2024 | Versão inicial do documento  | [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
+|  1.1  | 10/06/2024 | Checklist de Léxicos  | [Ester Lino](https://github.com/esteerlino) | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
 
