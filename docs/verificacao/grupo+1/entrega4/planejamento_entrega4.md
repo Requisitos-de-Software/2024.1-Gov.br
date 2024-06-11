@@ -40,8 +40,6 @@ Os artefatos alvo dessa verificação são:
 
 [NFR Framework](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/Agil/NFR/) 
 
-
-
 <center>
 
 **Tabela 1** - Cronograma do planejamento da verificação dos artefatos.
@@ -77,16 +75,40 @@ As checklists foram construídas levando em conta os padrões esperados para os 
 
 <div align="center">Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a></div>
 
+## Histórias de Usuário
+
+| Número  | Ponto                                                                                                      | Rastreabilidade |
+| --- | -------------------------------------------------------------------------------------------------------------- | --------- |
+| 1   | Os títulos das histórias de usuário são auto-explicativos?                                                     | [04](#ref4)       |
+| 2   | O "quem", "o que" e o "por que" estão definidos na história de usuário?                                        | [04](#ref4)       |
+| 3   | A história possui critérios de aceitação?                                                                      | [04](#ref4)       |
+| 4   | Os critérios de aceitação das histórias foram definidos?                                                       | [04](#ref4)       |
+| 5   | Houve a participação do cliente e/ou persona na elicitação de requisitos?                                      | [04](#ref4)       |
+| 6   | Todas as histórias de usuário podem ser testadas?                                                              | [04](#ref4)       |
+| 7   | Há uma fonte de onde foram retiradas as histórias?                                                             | [04](#ref4)       |
+| 8   | As histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades?                            | [04](#ref4)       |
+| 9   | As histórias de usuário estão divididas em tarefas menores ou subtarefas?                                      | [04](#ref4)       |
+| 10  | As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema?              | [04](#ref4)       |
+| 11  | As histórias de usuário possuem estimativas de esforço ou pontos de história?                                  | [04](#ref4)       |
+| 12  | As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros? | [04](#ref4)       |
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
+
 1. Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 09 de Junho de 2024.
 
 <a id="ref2"></a>
+
 2. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
 <a id="ref3"></a>
+
 3. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf Acessado em: 10 de junho de 2024
+
+<a id="ref4"></a>
+
+4. SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 13. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 10 de junho de 2024.
 
 ## Histórico de versão
 
