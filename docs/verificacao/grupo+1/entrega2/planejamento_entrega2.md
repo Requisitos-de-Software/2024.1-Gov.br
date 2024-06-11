@@ -136,7 +136,7 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 ## Storytelling
 
-**Tabela 3** - Checklist para a verificação do Strorytelling
+<font><p style="text-align: center">**Tabela 3:** Checklist para a verificação do Storytelling.</p></font>
 | ID  | Descrição  | Avaliação  | Observação                   | Referência |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------|------------|
 | 1   | O artefato possui Introdução?               |   -        | -                            |-
@@ -154,11 +154,8 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 | 13  | As personas ou personagens foram desenvolvidos de maneira que representem os usuários do aplicativo?                                                   |   -        | -                            |-
 | 14  | Possui links para os outros artefatos?                                                                                                                 |   -        | -                            |-          |
 
-                                                                                             
+<div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>
 
-_Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
-
-</center>
 
 ## Análise de Protocolo
 
@@ -192,6 +189,40 @@ _Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
 | 7 | Houve a participação do usuário ou persona para a realização da técnica? | [05](#ref5) | 
 <div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a> e <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div>
 
+
+## First Things First
+
+<font><p style="text-align: center">**Tabela 6:** Checklist para a verificação do First Things First.</p></font>
+
+| ID  | Descrição | Avaliação | Observação | Referência |
+| --- | ------- | -------- | ---------- | ----------- |
+| 1 | O artefato possui introdução? | - | - | - |
+| 2 | O artefato possui referência bibliográfica? | - | - | - |
+| 3 | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | - | - | - |
+| 4 | Todas as tabelas e imagens possuem legendas e fontes? | - | - | - |
+| 5 | As tabelas são referenciadas no texto? | - | - | - |
+| 6 | Os revisores são pessoas diferentes dos autores? | - | - | - |
+| 7 | Foram listados todos os requisitos a serem priorizados? | - | - | - |
+| 8 | Os requisitos não se repetem? | - | - | - |
+| 9 | Os benefícios relativos são estimados em uma escala de 1 a 9? | - | - | - |
+| 10 | As penalidades relativas são estimadas em uma escala de 1 a 9? | - | - | - |
+| 11 | O valor total é calculado? | - | - | - |
+| 12 | Há a porcentagem dos valores dos requisitos em relação ao valor total? | - | - | - |
+| 13 | Há o resultado do custo relativo e estão estimados de 1 a 9? | - | - | - |
+| 14 | Há o calculo da porcentagem dos custos dos requisitos? | - | - | - |
+| 15 | O valor dos riscos relativos foram estimados em uma escala de 1 a 9? | - | - | - |
+| 16 | O percentual dos riscos dos requisitos em relação ao risco relativo total são apresentados? | - | - | - |
+| 17 | É calculada a prioridade para cada requisito? | - | - | - |
+| 18 | A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)? | - | - | - |
+| 19 | A fórmula utilizada é (Valor%)/[(Custo%)x(Peso Custo) + (Risco%)x(Peso Risco)]? | - | - | - |
+| 20 | A lista de requisitos foi ordenada de forma decrescente em relação à prioridade? | - | - | - |
+| 21 | Há mediador? | - | - | - |
+| 22 | Há o representante dos usuários? | - | - | - |
+| 23 | Há desenvolvedor? | - | - | - |
+| 24 | A reunião com os participantes foi documentada? | - | - | - |
+| 25 | Há gravação? | - | - | - |
+<div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a> 
@@ -221,3 +252,4 @@ _Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
 |  1.0   | 10/06/2024 | Criação da página | [Thiago Freitas](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
 |  1.1   | 10/06/2024 | Adição da tabela do checklist do Storytelling |  [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
 |  1.2   | 10/06/2024 | Adição da tabela do checklist da Análise de Protocolo |  [Ester Lino](https://github.com/esteerlino) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.3   | 10/06/2024 | Adição da tabela do checklist do First Things First |  [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
