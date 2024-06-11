@@ -276,7 +276,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 <div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></div>
 
 ## Requisitos Elicitados
-<font><p style="text-align: center">**Tabela 10:** Checklist de Avaliação.</p></font>
+<font><p style="text-align: center">**Tabela 1:** Checklist de Avaliação.</p></font>
 
 | Número | Ponto                                                                                                                      | Rastreabilidade    |
 |--------|----------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -293,6 +293,43 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 
 <div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></div>
 
+## Entrevista 
+
+<font><p style="text-align: center">**Tabela 11:** Checklist para a verificação de Entrevista.</p></font>
+
+| Número | Ponto | Referência |
+| ------------- | ------------- | ------------- |
+| 1 | O entrevistado consentiu com o uso de sua imagem?| [4](#ref4)  |
+| 2 | O entrevistado é um stakeholder do aplicativo? | [4](#ref4) |
+| 3 | As diretrizes para um bom entrevistador foram seguidas? | [4](#ref4) |
+| 4 | A data, horário e local da entrevista foram especificados? | [4](#ref4) |
+| 5 | Foi preparado e apresentado um roteiro da entrevista? | [4](#ref4)|
+| 6 | As perguntas foram previamente preparadas? |[4](#ref4) |
+| 7 | As respostas do entrevistado foram devidamente registradas? |[4](#ref4) |
+| 8 | As perguntas apresentadas são de fácil entendimento e objetivas? | [4](#ref4) |
+| 9 | A entrevista seguiu um padrão de estrutura definido? | [4](#ref4) |
+| 10 | Houve a participação de um secretário ou auxiliador para o entrevistador? | [4](#ref4)  |
+| 11 | Após o fim da entrevista, houve um resumo das informações mais importantes coletadas? | [4](#ref4) |
+<div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
+
+### Personas:
+
+<font><p style="text-align: center">**Tabela 12:** Checklist para a verificação de Personas.</p></font>
+
+| Número | Ponto | Referência |
+| ------------- | ------------- | ------------- |
+| 1 | Todas as personas possuem os mesmos tópicos? Seguem o mesmo padrão? | [6](#ref6) |
+| 2 | As personas possuem nome, foto, gênero e idade? | [6](#ref6) |
+| 3 | As personas possuem habilidades? | [6](#ref6) |
+| 4 | É especificado o motivo do número de personas utilizado? | [6](#ref6) |
+| 5 | As personas possuem relacionamentos? | [6](#ref6) |
+| 6 | As personas possuem objetivos? | [6](#ref6) |
+| 7 | As personas possuem detalhes sobre hábitos, comportamentos, preferências ou rotina diária? | [6](#ref6) |
+| 8 | As personas possuem status/tipo? (primária, secundária ou antipersona). | [6](#ref6) |
+| 9 | As personas são pessoas fictícias? | Sim |
+| 10 | As personas estão condizentes com o perfil do usuário? | [6](#ref6) |
+| 11 | É explicado a metodologia utilizada para a criação das personas? | [6](#ref6) |
+<div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
 ## Referências Bibliográficas
 
@@ -342,3 +379,4 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 |  1.1   | 10/06/2024 | Adição da tabela do checklist do Storytelling |  [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
 |  1.2   | 10/06/2024 | Adição da tabela do checklist da Análise de Protocolo |  [Ester Lino](https://github.com/esteerlino) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
 |  1.3   | 10/06/2024 | Adição da tabela do checklist do First Things First |  [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.4   | 10/06/2024 | Adição da tabela do checklist Personas e Entrevista | [Henrique Batalha](https://github.com/HeBatalha)|  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
