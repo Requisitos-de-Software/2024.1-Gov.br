@@ -162,7 +162,7 @@ _Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
 
 ## Análise de Protocolo
 
-<font><p style="text-align: center">**Tabela 2:** Checklist para a verificação da Análise de Protocolo.</p></font>
+<font><p style="text-align: center">**Tabela 4:** Checklist para a verificação da Análise de Protocolo.</p></font>
 
 | Número | Ponto | Rastreabilidade |
 | :----: | :---: | :-------------: |
@@ -177,6 +177,20 @@ _Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
 |  9 | Foi elaborada uma tabela resumo com todos os requisitos elicitados após a sessão? | [03](#ref3) |
 
 <div align="center">Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a></div>
+
+
+<font><p style="text-align: center">**Tabela 5:** Checklist de Avaliação.</p></font>
+
+| Número | Ponto | Rastreabilidade |
+| ------------- | ------------- | ------------- |
+| 1 | Os requisitos possuem IDs?  | [05](#ref5) |
+| 2 | Os requisitos possuem rastreabilidade?  | [05](#ref5) |
+| 3 | A metodologia utilizada para a elicitação está bem detalhada?                       |    [05](#ref5)       |
+| 4 | Os requisitos estão separados em funcionais e não funcionais? | [05](#ref5) |
+| 5 | Os requisitos possuem status? (implementado ou não implementado). | [05](#ref5) |
+| 6 | A prioridade dos requisitos foi definida de acordo com a precificação ($)? | [05](#ref5) |
+| 7 | Houve a participação do usuário ou persona para a realização da técnica? | [05](#ref5) | 
+<div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a> e <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div>
 
 ## Referências Bibliográficas
 
@@ -195,6 +209,10 @@ _Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)._
 <a id="ref4"></a> 
 
 4. Vazquez, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016. Acesso em: 10 de Junho de 2024.
+
+<a id="ref5"></a> 
+
+5. WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013. Acesso em: 8 de Junho de 2024.
 
 ## Histórico de versão
 
