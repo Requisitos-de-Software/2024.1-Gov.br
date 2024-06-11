@@ -245,6 +245,26 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 
 </center>
 
+## Avaliação de Interface
+
+**Tabela 8** - Checklist para a verificação da Avaliação de Interface
+
+| Número | Ponto                                                                                                                                     | Rastreabilidade |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 1      | O objetivo da avaliação de interface está claramente definido?                                                                           |     [06](#ref6)      |
+| 2      | Os requisitos foram divididos como funcionais e não funcionais?                                             |      [06](#ref6)     |
+| 3      | A metodologia utilizada para a elicitação está bem detalhada?                       |    [06](#ref6)       |
+| 4      | A data, horário e local da técnica foram inseridos dentro do artefato?                                                    |         [06](#ref6)  | 
+| 5      | Os requisitos possuem status?(implementado ou não implementado).                                                                                            |      [06](#ref6)     |
+| 6      | Gravação da técnica de elicitação?                                    |      [07](#ref7)     |
+| 7      | Os requisitos utilizados foram identificados por meio de IDs?                           |      [07](#ref7)      |
+| 8      | As conclusões do documento de verificação são claras?                                                                                     |     [07](#ref7)       |
+| 9      | O documento foi revisado por outros membros da equipe ou partes interessadas para garantir a precisão e completude?                      |     [06](#ref6)      |
+
+<div align="center">Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div>
+
+</center>
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a> 
@@ -270,6 +290,9 @@ Fonte: [Carlos Gabriel](https://github.com/TheCarlosRamos)
 <a id="ref6"></a>
 
 6.  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2844974/mod_resource/content/2/ihc-ux-%20Personas.pdf">https://aprender3.unb.br/pluginfile.php/2844974/mod_resource/content/2/ihc-ux-%20Personas.pdf</a>. Acesso em: 10 de Junho de 2024.
+   
+<a id="ref7"></a>
+7.  Nielsen, J. (1994). Usability Engineering. Morgan Kaufmann. Disponível em: <a href="https://www.elsevier.com/books/usability-engineering/nielsen/978-0-12-518406-9">https://www.elsevier.com/books/usability-engineering/nielsen/978-0-12-518406-9</a>. Acesso em: 10 de Junho de 2024.
 
 ## Histórico de versão
 
