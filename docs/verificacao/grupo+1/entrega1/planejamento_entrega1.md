@@ -57,7 +57,7 @@ A tabela 1 apresenta o cronograma para a realização dessa verificação.
 
 A tabela 2 contém a checklist usada para verificar o artefato produzido.
 
-<font><p style="text-align: center">**Tabela 2:** Checklist - Rich Picture</p></font>
+<p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>**Tabela 1**</b> - Checklist - Rich Picture</p>
 
 | Número | Ponto | Rastreabilidade |
 | :----: | :---: | :-------------: |
@@ -69,7 +69,7 @@ A tabela 2 contém a checklist usada para verificar o artefato produzido.
 | 6 | O Rich Picture possui mais elementos visuais do que texto? | [01](#ref1) |
 | 7 | O Rich Picture conta uma história? | [01](#ref1) |
 
-<div align="center">Fonte: <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/HeBatalha">Henrique Batalha</a></p></font>
 
 ## Referências Bibliográficas
 
