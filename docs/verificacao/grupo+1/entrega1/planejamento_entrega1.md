@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A verificação desempenha um papel crucial para garantir a qualidade, confiabilidade e robustez no processo de desenvolvimento de software. Através da verificação, é possível identificar e corrigir falhas, erros e inconsistências desde as etapas iniciais do desenvolvimento, prevenindo problemas mais sérios que podem surgir posteriormente e gerar custos adicionais. Dessa forma, este documento apresenta o planejamento da verificação do seguinte artefato produzido na entrega 1 pelo [Grupo 5](https://requisitos-de-software.github.io/2024.): Rich Picture.
+A verificação desempenha um papel crucial para garantir a qualidade, confiabilidade e robustez no processo de desenvolvimento de software. Através da verificação, é possível identificar e corrigir falhas, erros e inconsistências desde as etapas iniciais do desenvolvimento, prevenindo problemas mais sérios que podem surgir posteriormente e gerar custos adicionais. Dessa forma, este documento apresenta o planejamento da verificação do seguinte artefato produzido na entrega 1 pelo [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/): Rich Picture.
 
 ## Objetivo
 
@@ -10,7 +10,7 @@ O objetivo deste documento é realizar a verificação dos artefatos desenvolvid
 
 ## Metodologia
 
-Para garantir a qualidade dos artefatos do Grupo 5, empregaremos a metodologia de Inspeção idealizada por [Fagan](#ancora2). Essa técnica estruturada, aclamada por sua meticulosidade, visa a revisão profunda de códigos e demais elementos do software. Com a Inspeção de Fagan, o foco principal reside na identificação e correção minuciosa de falhas durante as etapas iniciais do desenvolvimento. Essa abordagem proativa contribui significativamente para a redução de custos e otimização do tempo, além de elevar a confiabilidade e robustez do software final.
+Para garantir a qualidade dos artefatos do Grupo 5, empregaremos a metodologia de Inspeção idealizada por [Fagan](#ref2). Essa técnica estruturada, aclamada por sua meticulosidade, visa a revisão profunda de códigos e demais elementos do software. Com a Inspeção de Fagan, o foco principal reside na identificação e correção minuciosa de falhas durante as etapas iniciais do desenvolvimento. Essa abordagem proativa contribui significativamente para a redução de custos e otimização do tempo, além de elevar a confiabilidade e robustez do software final.
 
 A metodologia se destaca por seus pilares fundamentais:
 
@@ -74,8 +74,10 @@ A tabela 2 contém a checklist usada para verificar o artefato produzido.
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
-
 1. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf Acessado em: 10 de junho de 2024
+
+<a id="ref2"></a>
+2.FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
 ## Histórico de versão
 

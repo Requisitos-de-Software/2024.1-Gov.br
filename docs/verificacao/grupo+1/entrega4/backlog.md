@@ -1,23 +1,24 @@
-# Verificação - Léxicos
+# Verificação - Backlog
 
 ## Introdução
 
-Nesse documento será relatado a inspeção feita no artefato [Léxicos](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/Lexico/) realizado pelos integrantes [Christian](https://github.com/crstyhs) e [Italo Bruno](https://github.com/ItaloBrunoM) do [Grupo 5](https://github.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao) da disciplina de Requisitos de Software.
+Nesse documento será relatado a inspeção feita no artefato [Backlog](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/Agil/backlog/) realizado pelos integrantes [Christian](https://github.com/crstyhs) e [Flávio Melo](https://github.com/flavioovatsug) do [Grupo 5](https://github.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao) da disciplina de Requisitos de Software.
 
 ## Metodologia
 
 Para a realização da verificação, será utilizada a metodologia de inspeção por checklist, dessa forma, relatando e demonstrando os possíveis problemas e erros encontrados dentro do artefato do grupo, e também conferir se o mesmo atende aos critérios estabelecidos dentro da checklist.
 
-<font><p style="text-align: center">**Tabela 1:** Checklist - Léxicos.</p></font>
+<font><p style="text-align: center">**Tabela 1:** Checklist - Backlog.</p></font>
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | Os léxicos definem os usuários da aplicação?[¹](#ref1) | Sim |
-| 2 | Os léxicos utilizam a estrutura verbo, objeto, estado e/ou sujeito?[¹](#ref1) | Sim |
-| 3 | Existem ligações entre os léxicos, atravpes de hiperlinks?[¹](#ref1)| Sim |
-| 4 | Cada léxico contém classificação, noção, impacto e sinônimos?[¹](#ref1) | Sim |
-| 5 | A noção e o impacto de cada léxico estão corretos?[¹](#ref1) | Sim |
-| 6 | A classificação de cada léxico está correta?[¹](#ref1) | Sim |
+| 1 | O backlog está bem detahado, apresentando oq ue deve ser feito de imediato?[¹](#ref1) | Sim |
+| 2 | O backlog apresenta as prioridades das tarefas?[¹](#ref1) | Sim |
+| 3 | O backlog está organizado em temas e épicos bem definidos?[¹](#ref1) | Sim |
+| 4 | O documento define de maneira clara quais são os temas? | Sim |
+| 5 | O backlog apresenta as histórias de usuário? | Sim |
+| 6 | As histórias de usuário estão relacionadas aos temas e épicos definidos? | Sim |
+| 7 | O backlog foi elaborado juntamente com o PO?[¹](#ref1) | Sim |
 
 <div align="center">Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a></div>
 
@@ -28,8 +29,7 @@ Nenhum problema foi encontrado na verificação do artefato, visto que atende to
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
-
-1. Sayão, M.; Carvalho, G. R. de. Construção do léxico de aplicações. In: INTERNATIONAL JOINT CONFERENCE IBERAMIA/SBIA/SBRN, 4., 2006, Ribeirão Preto. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop in Information and Human Language Technology (TIL’2006). Ribeirão Preto: 2006. p. 1-12.
+1. FÁBIO, Lima. Product Backlog - Introdução. 2023. Disponível em: https://www.youtube.com/watch?v=z4ubaBwjCsU. Acesso em: 10 junho 2024.
 
 ## Histórico de Versão
 
