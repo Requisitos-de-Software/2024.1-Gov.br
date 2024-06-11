@@ -122,6 +122,12 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 ### Checklist Específico
 - Não foi explicado no artefato como o questionário será utilizado, o que pode gerar dúvidas sobre a sua aplicação.
 
+## Vídeo da Verificação
+
+O vídeo da verificação foi realizado no dia 10/06/2024, pelo integrante [Arthur Gabriel](https://github.com/ArthurGabrieel), no qual é apresentado o artefato e os resultados da verificação.
+
+<iframe width="560" height="315" src="https://youtu.be/oJkqABWW4lA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Bibliografia
 
 1. FREITAS, Thiago. [Planejamento de Verificação da Entrega 2](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo+1/entrega2/planejamento_entrega2), GAMA, FGA, 2024. Acesso em: 10 de junho de 2024.
