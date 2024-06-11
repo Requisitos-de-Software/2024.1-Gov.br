@@ -12,14 +12,19 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | Os requisitos usados possuem IDs? |  |
-| 2 | Os requisitos possuem rastreabilidade?[¹](#ref1) |  |
-| 3 | Os requisitos estão separados em funcionais e não funcionais?[¹](#ref1) |  |
-| 4 | Os requisitos estão divididos nas classes da metodologia MoSCoW? (must have, could have, should have, won’t have).[²](#ref2) |  |
-| 5 |  Houve a participação do usuário ou persona para a realização da técnica?[²](#ref2) |    |
+| 1 | Os requisitos usados possuem IDs? | Não |
+| 2 | Os requisitos possuem rastreabilidade?[¹](#ref1) | Não |
+| 3 | Os requisitos estão separados em funcionais e não funcionais?[¹](#ref1) | Sim* |
+| 4 | Os requisitos estão divididos nas classes da metodologia MoSCoW? (must have, could have, should have, won’t have).[²](#ref2) | Sim |
+| 5 |  Houve a participação do usuário ou persona para a realização da técnica?[²](#ref2) | Não |
 <div align="center">Autor(a): <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
 ## Problemas Encontrados
+
+- **1:** Os requisitos não possuem IDs e são indentificados apenas por nome.
+- **2:** Os requisitos não possuem rastreabilidade.
+- **3:** São separados em funcionais e não funcionais, porém não foram bem organizados e explicativos para quem visualiza o artefato.
+- **5:** Não foi especificado a utilização de persona ou usuário.
 
 ## Referências Bibliográficas
 
@@ -36,4 +41,5 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 09/06/2024 | Versão Inicial | [Isaque Santos](https://github.com)|  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 10/06/2024 | Adicionando resultados da verificação | [Isaque Santos](https://github.com)|  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
 
