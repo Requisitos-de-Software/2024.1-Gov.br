@@ -60,7 +60,7 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 </table>
 
 
-Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
+Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas), 2024.
 
 ## Checklist Específico da Verificação
 
@@ -176,7 +176,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
   </tbody>
 </table>
 
-Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
+Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas), 2024.
 
 ## Problemas Encontrados
 ### Lista de Problemas e Análise
