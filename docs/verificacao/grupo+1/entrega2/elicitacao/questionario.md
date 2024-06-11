@@ -117,7 +117,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
 
 ## Problemas Encontrados
 ### Checklist Geral
-- É importante informar o motivo da escolha dessa técnica de elicitação, para que o leitor compreenda a razão de sua utilização.
+- Não foi avaliado o item 5 do checklist geral, pois não há tabelas no artefato.
 
 ### Checklist Específico
 - Não foi explicado no artefato como o questionário será utilizado, o que pode gerar dúvidas sobre a sua aplicação.
