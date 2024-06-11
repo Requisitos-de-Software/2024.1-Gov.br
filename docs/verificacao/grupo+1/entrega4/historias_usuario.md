@@ -10,7 +10,7 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 ## Resultados
 
-### Checklist para os Itens Gerais
+## Checklist
 
 <table>
   <thead>
@@ -23,113 +23,61 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
   <tbody>
     <tr>
       <td>1</td>
-      <td>O artefato possui um histórico de versão padronizado, incluindo data, descrição, autores e revisores?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>O artefato inclui bibliografia ou referências bibliográficas?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>As referências bibliográficas seguem a ordem de citação no texto?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Todas as referências bibliográficas são citadas no texto?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>O artefato possui uma introdução clara e completa?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Todas as tabelas são referenciadas no texto?</td>
-      <td>Sim</td>
-    </tr>
-  </tbody>
-</table>
-
-
-Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas), 2024.
-
-## Checklist Específico da Verificação
-
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>8</td>
       <td>Os títulos das histórias de usuário são auto-explicativos?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>2</td>
       <td>O "quem", "o que" e o "por que" estão definidos na história de usuário?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>3</td>
       <td>A história possui critérios de aceitação?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>4</td>
       <td>Os critérios de aceitação das histórias foram definidos?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>5</td>
       <td>Houve a participação do cliente e/ou persona na elicitação de requisitos?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>6</td>
       <td>Todas as histórias de usuário podem ser testadas?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>7</td>
       <td>Há uma fonte de onde foram retiradas as histórias?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>8</td>
       <td>As histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>9</td>
       <td>As histórias de usuário estão divididas em tarefas menores ou subtarefas?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>10</td>
       <td>As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>11</td>
       <td>As histórias de usuário possuem estimativas de esforço ou pontos de história?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>12</td>
       <td>As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros?</td>
       <td>Sim</td>
     </tr>
@@ -140,10 +88,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](ht
 
 ## Problemas Encontrados
 ### Lista de Problemas e Análise
-- Nenhum problema foi encontrado no checklist geral ou específico.
-
-### Solução
-- Não há problemas a resolver.
+- Nenhum problema foi encontrado no checklist.
 
 ## Referências Bibliográficas
 

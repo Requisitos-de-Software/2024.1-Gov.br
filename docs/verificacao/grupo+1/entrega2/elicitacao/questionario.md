@@ -42,11 +42,6 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
       <td align="center">Sim</td>
     </tr>
     <tr>
-      <td align="center">5</td>
-      <td>O perfil de usuário apresenta os pontos principais requisitados?</td>
-      <td align="center">Sim</td>
-    </tr>
-    <tr>
       <td align="center">6</td>
       <td>É explicado no artefato como o questionário será utilizado?</td>
       <td align="center">Não</td>

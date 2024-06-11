@@ -10,7 +10,7 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 ## Resultados
 
-### Checklist para os Itens Gerais
+## Checklist
 
 <table>
   <thead>
@@ -23,153 +23,101 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
   <tbody>
     <tr>
       <td>1</td>
-      <td>O artefato possui um histórico de versão padronizado, incluindo data, descrição, autores e revisores?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>O artefato inclui bibliografia ou referências bibliográficas?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>As referências bibliográficas seguem a ordem de citação no texto?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Todas as referências bibliográficas são citadas no texto?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>O artefato possui uma introdução clara e completa?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Todas as tabelas possuem legendas e fontes padronizadas?</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Todas as tabelas são referenciadas no texto?</td>
-      <td>Sim</td>
-    </tr>
-  </tbody>
-</table>
-
-
-Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas), 2024.
-
-## Checklist Específico da Verificação
-
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Avaliação</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>9</td>
       <td>O artefato contém a especificação suplementar completa?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>2</td>
       <td>A especificação suplementar segue o modelo FURPS+?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>3</td>
       <td>O artefato possui um tópico de Funcionalidade com requisitos testáveis?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>4</td>
       <td>O artefato possui um tópico de Usabilidade com requisitos testáveis?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>5</td>
       <td>Os requisitos facilitam as tarefas realizadas pelos usuários?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>6</td>
       <td>O artefato possui um tópico de Confiabilidade?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>7</td>
       <td>Os requisitos aumentam a confiabilidade do sistema?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>8</td>
       <td>O artefato especifica o Tempo Médio entre Falhas (MTBF)?</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>9</td>
       <td>O artefato especifica o Tempo Médio para Reparos (MTTR)?</td>
       <td>Não</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>10</td>
       <td>Os requisitos relacionados à segurança são apresentados?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>11</td>
       <td>O artefato possui um tópico de Desempenho com requisitos testáveis?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>12</td>
       <td>Os requisitos sobre tempos de resposta são apresentados com tempos especificados?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>13</td>
       <td>O artefato especifica tempo de resposta de transação (médio, máximo)?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>14</td>
       <td>O artefato especifica taxa de transferência (ex: transações por segundo)?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>15</td>
       <td>Os requisitos sobre a disponibilidade são apresentados?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>16</td>
       <td>O artefato possui um tópico de Suportabilidade com requisitos testáveis?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>17</td>
       <td>Os sistemas operacionais suportados pelo sistema são apresentados?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>18</td>
       <td>O artefato possui um tópico de Restrições de Design com requisitos testáveis?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>19</td>
       <td>Os requisitos especificam ou restringem o design do sistema?</td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>20</td>
       <td>O artefato possui um tópico de Requisitos de Implementação com requisitos testáveis?</td>
       <td>Sim</td>
     </tr>
@@ -181,13 +129,13 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](ht
 ## Problemas Encontrados
 ### Lista de Problemas e Análise
 
-- ID 16: O artefato não especifica o Tempo Médio entre Falhas (MTBF).
-- ID 17: O artefato não define o Tempo Médio para Reparos (MTTR).
+- ID 08: O artefato não especifica o Tempo Médio entre Falhas (MTBF).
+- ID 09: O artefato não define o Tempo Médio para Reparos (MTTR).
 
 ### Solução
 
-- ID 16: Recomenda-se adicionar a métrica MTBF como um Requisito de Confiabilidade.
-- ID 17: Recomenda-se incluir o MTTR como um Requisito de Confiabilidade.
+- ID 08: Recomenda-se adicionar a métrica MTBF como um Requisito de Confiabilidade.
+- ID 09: Recomenda-se incluir o MTTR como um Requisito de Confiabilidade.
 
 ## Referências Bibliográficas
 
