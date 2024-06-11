@@ -63,7 +63,7 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel), 2024.
     <tr>
       <td align="center">6</td>
       <td>Foi informado o motivo da escolha do questionário?</td>
-      <td align="center">Não</td>
+      <td align="center">Sim</td>
     </tr>
     <tr>
       <td align="center">7</td>
