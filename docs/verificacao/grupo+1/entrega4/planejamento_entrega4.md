@@ -60,15 +60,36 @@ Fonte: [Caio Berg](https://github.com/Caio-bergbjj)
 
 As checklists foram construídas levando em conta os padrões esperados para os artefatos que estão disponíveis nas referências bibliográficas.
 
+## Backlog
+
+<font><p style="text-align: center">**Tabela 1:** Checklist - Backlog.</p></font>
+
+| Número | Ponto | Rastreabilidade |
+| :----: | :---: | :-------------: |
+| 1 | O backlog está bem detahado, apresentando oq ue deve ser feito de imediato? | [3](#ref3) |
+| 2 | O backlog apresenta as prioridades das tarefas? | [3](#ref3) |
+| 3 | O backlog está organizado em temas e épicos bem definidos? | [3](#ref3) |
+| 4 | O documento define de maneira clara quais são os temas? | [3](#ref3) |
+| 5 | O backlog apresenta as histórias de usuário? | [3](#ref3) |
+| 6 | As histórias de usuário estão relacionadas aos temas e épicos definidos? | [3](#ref3) |
+| 7 | O backlog foi elaborado juntamente com o PO? | [3](#ref3) |
+
+<div align="center">Autor(a): <a href="https://github.com/esteerlino">Ester Lino</a></div>
+
 ## Referências Bibliográficas
 
-> [1] Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 09 de Junho de 2024.
+<a id="ref1"></a>
+1. Normas ABNT: 2023. Disponível em: <a href="https://www.normasabnt.org/normas-abnt-2023/">https://www.normasabnt.org/normas-abnt-2023/</a>. Acesso em: 09 de Junho de 2024.
 
-> [2] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+<a id="ref2"></a>
+2. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+
+<a id="ref3"></a>
+3. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf Acessado em: 10 de junho de 2024
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 09/06/2024 | Versão inicial do documento  | [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
-
+|  1.1   | 10/06/2024 | Checklist de Backlog | [Ester Lino](https://github.com/esteerlino) | [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
