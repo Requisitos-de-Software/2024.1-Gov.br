@@ -28,7 +28,7 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 | 8      | As informações no diagrama são consistentes com outras documentações de requisitos ou especificações fornecidas?[¹](#ref1)           | Sim       |
 | 9      | O diagrama utiliza a notação UML de maneira correta e precisa conforme as práticas padrão?[¹](#ref1)                                  | Sim       |
 
-<div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></div>
+<div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
 ## Problemas Encontrados
 
@@ -41,4 +41,4 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 10/06/2024 | Criação da página  | [Caio Berg](https://github.com/Caio-bergbjj) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.0   | 10/06/2024 | Criação da página  | [Caio Berg](https://github.com/Caio-bergbjj) e  [Isaque Santos](https://github.com/IsaqueSH) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
