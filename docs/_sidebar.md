@@ -71,6 +71,7 @@
       - [Entrevista](verificacao/grupo+1/entrega2/elicitacao/entrevista_verificacao.md)
       - [Questionário](verificacao/grupo+1/entrega2/elicitacao/questionario.md)
     - [Priorização](verificacao/grupo+1/entrega2/priorizacao/priorizacao.md)
+      - [100$](verificacao/grupo+1/entrega2/priorizacao/100_verificacao.md)
       - [MoSCoW](verificacao/grupo+1/entrega2/priorizacao/moscow_verificacao.md)
       - [Three Levels Scale](verificacao/grupo+1/entrega2/priorizacao/three_levels_scale_verificacao.md)
   - [Entrega 3](verificacao/grupo+1/entrega3/planejamento_verificacao_e3_grupo5.md)
