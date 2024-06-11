@@ -142,14 +142,13 @@ Autor: [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](ht
 ### Lista de Problemas e Análise
 - Nenhum problema foi encontrado no checklist geral ou específico.
 
-
 ### Solução
 - Não há problemas a resolver.
 
 ## Referências Bibliográficas
 
 1. SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 13. Apresentação Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 10 de junho de 2024.
-2. SINESP. [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/especificacao_suplementar/), FGA, GAMA, 2024. Acesso em: 10 de junho de 2024.
+2. SINESP. [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Modelagem/Agil/Historias_de_Usuario/), FGA, GAMA, 2024. Acesso em: 10 de junho de 2024.
 
 ## Histórico de Versões
 
