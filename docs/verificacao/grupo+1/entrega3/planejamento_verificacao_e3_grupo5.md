@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Especificação Suplementar do Grupo 5
+# Planejamento da Verificação da Entrega 3 do Grupo 5
 
 ## Introdução
 

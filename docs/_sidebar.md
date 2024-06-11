@@ -65,6 +65,7 @@
     - [Perfil de Usuário](verificacao/grupo+1/entrega2/perfil_de_usuario_verificacao.md)
     - [Personas](verificacao/grupo+1/entrega2/personas_verificacao.md)
     - [Elicitação](verificacao/grupo+1/entrega2/elicitacao/elicitacao.md)
+      - [Storytelling](verificacao/grupo+1/entrega2/elicitacao/storytelling.md)
       - [Análise de Protocolo](verificacao/grupo+1/entrega2/elicitacao/analise_protocolo.md)
       - [Análise de Interface](verificacao/grupo+1/entrega2/elicitacao/interface_verificacao.md)
       - [Introspecção](verificacao/grupo+1/entrega2/elicitacao/introspeccao_verificacao.md)
