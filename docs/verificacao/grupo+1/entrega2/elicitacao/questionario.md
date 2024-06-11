@@ -42,7 +42,7 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
     <tr>
       <td>5</td>
       <td>As tabelas são referenciadas no texto?</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
   </tbody>
 </table>
