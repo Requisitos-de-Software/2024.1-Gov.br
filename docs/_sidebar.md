@@ -15,6 +15,8 @@
 - [Reunião 03](atas/reuniao_03.md)
 - [Reunião 04](atas/reuniao_04.md)
 - [Reunião 05](atas/reuniao_05.md)
+- [Reunião 06](atas/reuniao_06.md)
+- [Reunião 07](atas/reuniao_07.md)
 
 **Pré-Rastreabilidade**
 
