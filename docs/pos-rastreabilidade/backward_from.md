@@ -12,7 +12,7 @@ Ao aliar a rastreabilidade à metodologia Backward-From, as equipes de desenvolv
 
 ## Metodologia
 
-A metodologia de rastreabilidade de requisitos proposta por Maria Toranzo, é uma abordagem abrangente para mapear e documentar as relações entre requisitos, casos de uso, testes e outros elementos de um projeto de software.
+A metodologia de rastreabilidade de requisitos proposta por Toranzo, é uma abordagem abrangente para mapear e documentar as relações entre requisitos, casos de uso, testes e outros elementos de um projeto de software.
 Seu principal objetivo é garantir que cada requisito seja implementado e testado corretamente.
 
 Tipos de Elos da Rastreabilidade
