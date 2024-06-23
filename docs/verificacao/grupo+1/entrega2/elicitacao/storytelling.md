@@ -66,7 +66,7 @@ A documentação poderia ser aprimorada com a inclusão de:
 
 ## Histórico de Versão
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
+|Versão  | Data | Descrição | Autor(es) | Revisor(es) |
+| -------- | ------ | ------ | ---------- | ---------- |
 |1.0 | 09/06/2024 | Criação do Documento | [Carlos Gabriel](https://github.com/TheCarlosRamos) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |
 |1.1 | 10/06/2024 | Adição do vídeo da Verificação | [Carlos Gabriel](https://github.com/TheCarlosRamos) |  [Arthur Gabriel](ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas)  |

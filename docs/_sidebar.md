@@ -94,3 +94,4 @@
    
 **Pós-rastreabilidade**
 - [Backward-From](pos-rastreabilidade/backward_from.md)
+- [Requisitos Revisados](pos-rastreabilidade/requisitos_revisados.md)

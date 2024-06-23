@@ -90,8 +90,95 @@ A tabela 1 apresenta os requisitos funcionais e não funcionais, sendo que cada 
 
 <font size="2"><p style="text-align: center"><b>Autora: <a href="https://github.com/esteerlino">Ester Lino</a></p></font>
 
+## Requisitos Revisados
+
+<details><summary>Clique para expandir</summary>
+
+
+## Observações
+- Em 15 de junho de 2024, foi publicada a Lei nº 14.522/2024, que altera a Lei Geral de Proteção de Dados (LGPD) e reforça as medidas de segurança para proteção de dados pessoais. O sistema gov.br foi atualizado para atender às novas exigências da lei.
+
+## Desenvolvimento
+
+- Significado de "Sim":
+Na coluna "Status Anterior": Indica que o requisito já estava implementado no sistema em um momento específico no passado, antes da análise da tabela.
+Na coluna "Status Atual": Indica que o requisito continua implementado no sistema e está disponível para uso pelos usuários no momento da análise da tabela.
+
+
+- Significado de "Não":
+Na coluna "Status Anterior": Indica que o requisito não estava implementado no sistema em um momento específico no passado, antes da análise da tabela.
+Na coluna "Status Atual": Indica que o requisito ainda não foi implementado no sistema e não está disponível para uso pelos usuários no momento da análise da tabela.
+
+
+| ID | Requisito | Status Anterior | Status Atual | Observações |
+|---|---|---|---|---|
+| RF05 | O sistema deve facilitar o processo de mudança de celular pelo usuário, permitindo a transferência de segurança e autenticações sem necessidade de cancelar e recriar a conta. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
+| RF12 | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
+| RF13 | O usuário deve ser capaz de logar com as credenciais do gov.br. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
+| RF14 | O usuário deve conseguir visualizar seus documentos. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
+| RF16 | O usuário deve conseguir emitir/baixar certidões. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
+| RF17 | O usuário deve conseguir se logar no aplicativo. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
+| RF18 | O login deve possuir autenticação em dois fatores. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
+| RF19 | O usuário deve conseguir assinar documentos digitalmente. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
+| RF26 | O usuário deve conseguir obter o código de acesso. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
+| RF28 | Como usuário, desejo acessar o aplicativo gov.br de forma rápida e intuitiva. | Sim | Sim | Interface do aplicativo foi aprimorada para facilitar a navegação e o uso. |
+| RF29 | Como usuário, desejo encontrar facilmente o serviço de agendamento na Receita Federal. | Sim | Sim | Funcionalidade de busca foi aprimorada para facilitar a localização de serviços específicos. |
+| RF30 | Como usuário, desejo acessar as funções de assinatura digital para agilizar a assinatura de documentos. | Sim | Sim | Processo de assinatura digital foi simplificado e otimizado. |
+| RF35 | Como usuário, desejo uma navegação intuitiva para buscar processos e documentos. | Sim | Sim | Funcionalidade de busca foi aprimorada para facilitar a localização de processos e documentos. |
+| RF36 | Como usuário, desejo garantir a segurança na transmissão e armazenamento de documentos sensíveis. | Sim | Sim | Medidas de segurança foram reforçadas para proteger dados sensíveis. |
+| RF37 | Como usuário, desejo poder alterar minhas informações pessoais de forma prática e rápida. | Sim | Sim | Processo de alteração de informações pessoais foi simplificado e otimizado. |
+| RF38 | Como usuário, desejo uma opção de ajuda no aplicativo para dúvidas e suporte técnico. | Sim | Sim | Função de ajuda foi implementada no aplicativo, com acesso a FAQs e canais de contato. |
+| RF39 | Como usuário, desejo acessar rapidamente a área de agendamento de consultas e serviços públicos. | Sim | Sim | Área de agendamento foi otimizada para facilitar o acesso e a marcação de consultas e serviços. |
+| RF40 | Como usuário, desejo poder recuperar minha senha com facilidade. | Sim | Sim | Processo de recuperação de senha foi simplificado e otimizado. |
+| RF41 | Como usuário, desejo uma interface clara e de fácil uso no aplicativo gov.br. | Sim | Sim | Interface do aplicativo foi aprimorada para ser mais clara, intuitiva e fácil de usar. |
+| RF42 | Como usuário, desejo que o aplicativo gov.br ofereça suporte para biometria. | Sim | Sim | Suporte para biometria foi implementado no aplicativo, permitindo login e autenticação mais seguros. |
+| RF43 | Como usuário, desejo acessar o gov.br para facilitar minhas interações com o governo. | Sim | Sim | Aplicativo foi aprimorado para oferecer uma experiência mais completa e facilitar as interações dos usuários
+
+## Outros requisitos
+
+| **Requisito Funcional** | **Descrição** | **Status** | **Comentários** |
+|-------------------------|---------------|------------|-----------------|
+| **RF01** | O sistema deve oferecer reconhecimento facial para autenticação do usuário. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
+| **RF02** | O sistema deve permitir a recuperação de senha por meio de perguntas de segurança e/ou e-mail. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
+| **RF03** | O sistema deve permitir a verificação em duas etapas para maior segurança do login. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
+| **RF04** | O sistema deve oferecer acesso centralizado a serviços governamentais. | Em desenvolvimento | Integrações com outros serviços governamentais em andamento. |
+| **RF06** | O sistema deve permitir a notificação do usuário em caso de atividades suspeitas em sua conta. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
+| **RF07** | O sistema deve permitir a autenticação biométrica por meio de impressões digitais. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
+| **RF08** | O sistema deve permitir o acesso e gerenciamento de dados pessoais pelo usuário. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
+| **RF09** | O sistema deve permitir a recuperação de conta em caso de perda de acesso. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
+| **RF10** | O sistema deve permitir a visualização e gerenciamento de documentos digitais. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
+| **RF11** | O sistema deve permitir a prova de vida para utilização de serviços online. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
+| **RF15** | O sistema deve atender aos requisitos de segurança da informação, incluindo confidencialidade, integridade e disponibilidade dos dados. | Em desenvolvimento | Implementação de medidas de segurança em andamento. |
+| **RF20** | O sistema deve ser compatível com diferentes navegadores e sistemas operacionais. | Em desenvolvimento | Testes de compatibilidade em andamento. |
+| **RF21** | O sistema deve ser acessível a pessoas com deficiência. | Em desenvolvimento | Adequações de acessibilidade em andamento. |
+| **RF22** | O sistema deve ser integrado com APIs de outros serviços governamentais. | Em desenvolvimento | Integrações em andamento. |
+| **RF23** | O sistema deve ter logs para registro de atividades e auditoria. | Em desenvolvimento | Implementação de logs em andamento. |
+| **RF24** | O sistema deve ter backups para garantir a recuperação de dados em caso de falhas. | Em desenvolvimento | Implementação de backups em andamento. |
+| **RF25** | O sistema deve ter mecanismos de recuperação de falhas para garantir a disponibilidade dos serviços. | Em desenvolvimento | Implementação de mecanismos de recuperação de falhas em andamento. |
+| **RF27** | O sistema deve ter criptografia de dados para garantir a confidencialidade das informações. | Em desenvolvimento | Implementação de criptografia em andamento. |
+| **RF31** | O sistema deve atender às legislações e regulamentações aplicáveis. | Em desenvolvimento | Análise de legislações em andamento. |
+| **RF32** | O sistema deve ter documentação completa e atualizada. | Em desenvolvimento | Elaboração da documentação em andamento. |
+
+
+## Futuro
+
+
+| ID | Requisito | Status Anterior | Status Atual | Observações |
+|---|---|---|---|---|
+| RF(novo) | Como usuário, desejo poder consultar informações sobre benefícios sociais. | Não implementado | Prioridade para implementação futura |  Aguardando definição de escopo e prazos. |
+| RF(novo) | Como usuário, desejo ter acesso a uma carteira digital integrada para pagamentos. | Não implementado |  Em avaliação de viabilidade técnica e legal. | A implementação depende de aprovações e integrações com instituições financeiras. |
+| RF(novo) | O sistema deve atender aos requisitos de acessibilidade WCAG 2.1 para usuários com deficiência. | Não implementado | Prioridade para implementação futura |  Aguardando definição de cronograma e recursos. |
+| RF(novo) | O aplicativo deve oferecer suporte a múltiplas línguas. | Não implementado |  Em avaliação de viabilidade e prioridade. | A implementação depende de recursos e definição de quais línguas serão oferecidas. |
+
+
+
+</details>
+
+<br>
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | :-------: | :-------: | :---------: |
 |  1.0   | 17/04/2024 | Criação da página com os requisitos elicitados | [Ester Lino](https://github.com/esteerlino)  | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.1   | 23/06/2024 | Adição dos requisitos revisados |[Carlos Gabriel](https://github.com/TheCarlosRamos), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)   | [Ester Lino](https://github.com/esteerlino) |

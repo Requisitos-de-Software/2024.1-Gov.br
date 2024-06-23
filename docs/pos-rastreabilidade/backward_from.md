@@ -207,6 +207,6 @@ Consequentemente, foi criada uma tabela com os requisitos destacando o tipo de e
 
 ## Histórico de Versão
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
+| Versão  | Data | Descrição | Autor(es) | Revisor(es) |
+| -------- | ------ | ------ | ---------- | ---------- |
 |1.0 | 21/06/2024 | Criação do Documento | [Carlos Gabriel](https://github.com/TheCarlosRamos) , [Thiago Freitas](https://github.com/thiagorfreitas) |[Caio Berg](https://github.com/Caio-bergbjj)|
