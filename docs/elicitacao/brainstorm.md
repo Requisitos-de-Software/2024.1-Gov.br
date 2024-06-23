@@ -147,7 +147,7 @@ Na elicitação de requisitos para o aplicativo Gov.br, utilizaremos abreviaçõ
 
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 15/04/2024 | Criação da página  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/ArthurGabrieel) |
-|  1.1   | 16/04/2024 | Adicionando tabelas de requisitos  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/ArthurGabrieel) |
-|  1.2   | 17/04/2024 | Atualizando as informações da página  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/ArthurGabrieel) |
-|  1.3   | 21/04/2024 | Inclusão da gravação do Brainstorm  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/ArthurGabrieel) |
+|  1.0   | 15/04/2024 | Criação da página  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/thiagorfreitas) |
+|  1.1   | 16/04/2024 | Adicionando tabelas de requisitos  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/thiagorfreitas) |
+|  1.2   | 17/04/2024 | Atualizando as informações da página  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/thiagorfreitas) |
+|  1.3   | 21/04/2024 | Inclusão da gravação do Brainstorm  | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Ester Lino](https://github.com/esteerlino) | [Thiago Ribeiro](https://github.com/thiagorfreitas) |

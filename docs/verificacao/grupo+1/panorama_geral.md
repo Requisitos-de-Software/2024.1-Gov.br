@@ -17,9 +17,9 @@ A tabela 1 apresenta a organização do [Grupo 4](https://requisitos-de-software
 |  Entrega  | Artefato | Versão | Data da versão | Autor(es) | Verificado por |
 |:---------:|:--------:|:------:|:--------------:|:---------:|:--------------:|
 | 1 | Rich Pictures | 1.0 | 30/04/2024 | [Harryson C. Martins](https://github.com/harry-cmartin) | [Henrique Batalha](https://github.com/HeBatalha) |
-| 2 | Perfil de Usuário | 1.1 | 15/04/2024 | [Harryson C. Martins](https://github.com/harry-cmartin) | [Arthur Gabriel](ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 2 | Perfil de Usuário | 1.1 | 15/04/2024 | [Harryson C. Martins](https://github.com/harry-cmartin) | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas) |
 | 2 | Personas | 1.6 | 03/05/2024 | [Marcos Bittar](https://github.com/Bittarx) | [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com/IsaqueSH)  |
-| 2 | Elicitação: Questionário | 1.1 | 16/04/2024 | [Harryson C. Martins](https://github.com/harry-cmartin) | [Arthur Gabriel](ArthurGabrieel) |
+| 2 | Elicitação: Questionário | 1.1 | 16/04/2024 | [Harryson C. Martins](https://github.com/harry-cmartin) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 | 2 | Elicitação: Análise de Interface | 1.2 | 20/05/2024 | [Christian Santos](https://github.com/crstyhs) | [Thiago Freitas](https://github.com/thiagorfreitas) |
 | 2 | Elicitação: Análise de Documentos | 1.2 | 20/05/2024 | [Christian Santos](https://github.com/crstyhs) | [Caio Berg](https://github.com/Caio-bergbjj) |
 | 2 | Elicitação: Análise de Protocolo | 1.2 | 17/04/2024 | [Christian Santos](https://github.com/crstyhs) | [Ester Lino](https://github.com/esteerlino) |
@@ -27,15 +27,15 @@ A tabela 1 apresenta a organização do [Grupo 4](https://requisitos-de-software
 | 2 | Elicitação: Introspecção | 1.2 | 20/05/2024 | [Christian Santos](https://github.com/crstyhs) | [Isaque Santos](https://github.com/IsaqueSH) |
 | 2 | Elicitação: Storytelling | 1.1 | 17/04/2024 | [Christian Santos](https://github.com/crstyhs) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 | 2 | Requisitos Elicitados | 1.1 | 17/04/2024 | [Marcos Bittar](https://github.com/Bittarx) | [Caio Berg](https://github.com/Caio-bergbjj) |
-| 2 | Priorização: MoSCoW | 1.1 | 16/05/2024 | [Flávio Melo](https://github.com/flavioovatsug) | [Arthur Gabriel](ArthurGabrieel) e [Isaque Santos](https://github.com/IsaqueSH) |
+| 2 | Priorização: MoSCoW | 1.1 | 16/05/2024 | [Flávio Melo](https://github.com/flavioovatsug) | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Isaque Santos](https://github.com/IsaqueSH) |
 | 2 | Priorização: 100$ | 1.1 | 19/05/2024 | [Flávio Melo](https://github.com/flavioovatsug) | [Caio Berg](https://github.com/Caio-bergbjj) e [Thiago Freitas](https://github.com/thiagorfreitas) |
 | 2 | Priorização: First Things First | 1.0 | 19/05/2024 | [Italo Bruno](https://github.com/ItaloBrunoM) | [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Henrique Batalha](https://github.com/HeBatalha) |
 | 2 | Priorização: Theree Level Scale | 1.0 | 20/04/2024 | [Ian Lucas](https://github.com/IanLucca12) | [Ester Lino](https://github.com/esteerlino) e [Henrique Batalha](https://github.com/HeBatalha) |
 | 3 | Modelagem: Casos de Uso | 1.1 | 24/05/2024 | [Italo Bruno](https://github.com/ItaloBrunoM) | [Caio Berg](https://github.com/Caio-bergbjj) e [Isaque Santos](https://github.com/IsaqueSH) |
 | 3 | Modelagem: Léxicos | 1.1 | 24/05/2024 | [Italo Bruno](https://github.com/ItaloBrunoM) | [Ester Lino](https://github.com/esteerlino) |
-| 3 | Modelagem: Especificação Suplementar | 1.3 | 20/05/2024 |  [Christian Santos](https://github.com/crstyhs) | [Arthur Gabriel](ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 3 | Modelagem: Especificação Suplementar | 1.3 | 20/05/2024 |  [Christian Santos](https://github.com/crstyhs) | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas) |
 | 3 | Modelagem: Cenários | 1.1 | 19/05/2024 | [Christian Santos](https://github.com/crstyhs) | [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Henrique Batalha](https://github.com/HeBatalha) |
-| 4 | Modelagem Ágil: Histórias de Usuário | 1.2 | 27/05/2024 | [Marcos Bittar](https://github.com/Bittarx) | [Arthur Gabriel](ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 4 | Modelagem Ágil: Histórias de Usuário | 1.2 | 27/05/2024 | [Marcos Bittar](https://github.com/Bittarx) | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas) |
 | 4 | Modelagem Ágil: Backlog | 1.1 | 27/05/2024 | [Harryson C. Martins](https://github.com/harry-cmartin) | [Caio Berg](https://github.com/Caio-bergbjj) e [Ester Lino](https://github.com/esteerlino) |
 | 4 | Modelagem Ágil: NFR Framework | 1.2 | 27/05/2024 | [Italo Bruno](https://github.com/ItaloBrunoM) | [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Isaque Santos](https://github.com/IsaqueSH) |
 

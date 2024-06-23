@@ -91,7 +91,7 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 | RF44 |  |  |  |  |  |  |  |  |  |
 | RF45 |  |  |  |  |  |  |  |  |  |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
 ### Requisitos Não Funcionais (RNF)
 
@@ -122,7 +122,7 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 | RNF21 |  |  |  |  |  |  |  |  |  |
 | RNF22 |  |  |  |  |  |  |  |  |  |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
 </details>
 
@@ -178,7 +178,7 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 |   ELO44   |           |            |         |               |          |           |
 |   ELO45   |           |            |         |               |          |           |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
 ## Elos - Requisitos Não Funcionais
 
@@ -209,7 +209,7 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 |   ELO21   |           |            |         |               |          |           |
 |   ELO22   |           |            |         |               |          |           |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
 ## Referência Bibliografia
 
