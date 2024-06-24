@@ -47,25 +47,25 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 |:----:|:-------:|:-----------:|:-------------------------:|:------:|:-----:|:----:|:-------------------:|:-------------:|:-------------:|
 | RF01 | [Cenário 3](modelagem/cenarios.md#cenário-3-redefinição-de-senha-no-aplicativo-govbr) | - | [DES01*](modelagem/especificacao_suplementar.md#p-desempenho-performance) | [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) | [EP04](modelagem/agil/backlog.md#Épicos) | [T04](modelagem/agil/backlog.md#temas) | [HSU14](modelagem/agil/backlog.md#histórias-de-usuário) | [NFR03*](modelagem/agil/nfr_framework.md#nfr03-portabilidade) | Em desenvolvimento |
 | RF02 | [Cenário 3](modelagem/cenarios.md#cenário-3-redefinição-de-senha-no-aplicativo-govbr) | [UC02](modelagem/casos_de_uso.md#uc02-validar-credenciais) | - | - | [EP04](modelagem/agil/backlog.md#Épicos) | [T04](modelagem/agil/backlog.md#temas) | [HSU15](modelagem/agil/backlog.md#histórias-de-usuário) | - | Em desenvolvimento |
-| RF03 | - | - | - | [L01](modelagem/lexicos.md#léxicos-do-tipo-verbo) | [EP04](modelagem/agil/backlog.md#Épicos) | [T04](modelagem/agil/backlog.md#temas) | [HSU14](modelagem/agil/backlog.md#histórias-de-usuário) | - | Em desenvolvimento |
-| RF04 | - | [UC01] | - | [L01] | [EP04] | [T05] | [HSU14] | - | Em desenvolvimento |
+| RF03 | Não utilizado | - | - | - | - | - | - | - | Em desenvolvimento |
+| RF04 | [Cenário 2] [Cenário 4] [Cenário 5] | [UC02] [UC05] [UC07] [UC10] | - | [L15] | [EP02] | [T02] | [HSU04] [HSU08] | - | Em desenvolvimento  |
 | RF05 | [Cenário 6] | - | [CON04*] | - | - | - | - | [NFR1*] | Em desenvolvimento |
 | RF06 | - | [UC06] | [RD01*] | [L08] | - | - | - | [NFR06*] | Em desenvolvimento |
 | RF07 | - | [UC04] | - | [L03] | [EP03] | [T03] | [HSU07] [HSU09] | - | Em desenvolvimento |
-| RF08 | [Cenário 3] | - | - | - | [EP04] | [T04] | [HSU14] [HSU15] | - | Sim |
+| RF08 | - | - | - | - | - | - | - | - | - |
 | RF09 | [Cenário 1] | [UC07] [UC08] [UC09] | - | [L02] [L04] [L06] [L10] [L14] | [EP01] | [T01] | [HSU01] [HSU02] [HSU03] [HSU05] [HSU06] [HSU10] | - | Em desenvolvimento |
 | RF10 | - | [UC11] [UC12] | - | - | - | - | - | - | Em desenvolvimento |
 | RF11 | - | [UC01] [UC02] [UC03] | - | [L01] [L05] | [EP04] | [T04] | [HSU14] | - | Sim |
 | RF12 | - | - | - | - | - | - | - | - | - |
-| RF13 | - | - | - | - | - | - | - | - | - |
-| RF14 |  |  |  |  |  |  |  |  |  |
-| RF15 | - | [UC08] [UC09] [UC13] | - |  |  |  |  |  |  | 
+| RF13 | - | [UC07] | - | [L04] [L10] | [EP01] | [T01] | [HSU01] [HSU06] | - | - |
+| RF14 | [Cenário 5] | [UC10] | [USA05] [DES03] [SUP04] | [L15] | [EP02] |[T02] | [HSU08] | [NFR03] [NFR04] [NFR05] | Em desenvolvimento |
+| RF15 | - | [UC13] | - | [L10] | [EP01] | [T01] | [HSU10] | - |  | 
 | RF16 | - | - | - | - | - | - | - | - | - |
 | RF17 | - | - | - | - | - | - | - | - | - |
 | RF18 | - | [UC14] | [USA06] | [L06] | [EP01] | [T01] | [HSU03] | [NFR05] | Sim |
-| RF19 |  |  |  |  |  |  |  |  |  |
-| RF20 |  |  |  |  |  |  |  |  |  |
-| RF21 | [Cenário 2] [Cenário 4] [Cenário 5] | [UC02] [UC05] [UC07] [UC10] | - | [L15] | [EP02] | [T02] | [HSU04] [HSU08] | - | Em desenvolvimento  |
+| RF19 | Não utilizado | - | - | - | - | - | - | - | - |
+| RF20 | - | [UC05] | - | - | - | - | - | - | - |
+| RF21 | - | [UC13] | - | - | - | - | - | - | Em desenvolvimento  |
 | RF22 | * |  |  |  |  |  |  |  |  |
 | RF23 | * |  |  |  |  |  |  |  |  |
 | RF24 |  |  |  |  |  |  |  |  |  |
