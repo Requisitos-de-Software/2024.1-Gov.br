@@ -48,28 +48,28 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 | RF01 | [Cenário 3](modelagem/cenarios.md#cenário-3-redefinição-de-senha-no-aplicativo-govbr) | - | [DES01*](modelagem/especificacao_suplementar.md#p-desempenho-performance) | [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) | [EP04](modelagem/agil/backlog.md#Épicos) | [T04](modelagem/agil/backlog.md#temas) | [HSU14](modelagem/agil/backlog.md#histórias-de-usuário) | [NFR03*](modelagem/agil/nfr_framework.md#nfr03-portabilidade) | Em desenvolvimento |
 | RF02 | [Cenário 3](modelagem/cenarios.md#cenário-3-redefinição-de-senha-no-aplicativo-govbr) | [UC02](modelagem/casos_de_uso.md#uc02-validar-credenciais) | - | - | [EP04](modelagem/agil/backlog.md#Épicos) | [T04](modelagem/agil/backlog.md#temas) | [HSU15](modelagem/agil/backlog.md#histórias-de-usuário) | - | Em desenvolvimento |
 | RF03 | Não utilizado | - | - | - | - | - | - | - | Em desenvolvimento |
-| RF04 | [Cenário 2] [Cenário 4] [Cenário 5] | [UC02] [UC05] [UC07] [UC10] | - | [L15] | [EP02] | [T02] | [HSU04] [HSU08] | - | Em desenvolvimento  |
-| RF05 | [Cenário 6] | - | [CON04*] | - | - | - | - | [NFR1*] | Em desenvolvimento |
-| RF06 | - | [UC06] | [RD01*] | [L08] | - | - | - | [NFR06*] | Em desenvolvimento |
-| RF07 | - | [UC04] | - | [L03] | [EP03] | [T03] | [HSU07] [HSU09] | - | Em desenvolvimento |
+| RF04 | [Cenário 2](modelagem/cenarios.md#cenário-2-simulação-de-aposentadoria-govbr) [Cenário 4](modelagem/cenarios.md#cenário-4-consulta-de-cnpj-govbr) [Cenário 5](modelagem/cenarios.md#cenário-5-agendamento-de-visita-ao-palácio-do-planalto-govbr) | [UC02](modelagem/casos_de_uso.md#uc02-validar-credenciais) [UC05](modelagem/casos_de_uso.md#uc05-consultar-benefícios) [UC07](modelagem/casos_de_uso.md#uc07-visualizar-documentos) [UC10](modelagem/casos_de_uso.md#uc10-agendar-atendimento) | - | [L15](modelagem/lexicos.md#léxicos-do-tipo-objeto) | [EP02](modelagem/agil/backlog.md#Épicos) | [T02](modelagem/agil/backlog.md#temas) | [HSU04](modelagem/agil/backlog.md#histórias-de-usuário) [HSU08](modelagem/agil/backlog.md#histórias-de-usuário) | - | Em desenvolvimento  |
+| RF05 | [Cenário 6](modelagem/cenarios.md#cenário-6-consulta-do-histórico-de-login-no-aplicativo-govbr) | - | [CON04*](modelagem/especificacao_suplementar.md#r-confiabilidade-reliability) | - | - | - | - | [NFR1*](modelagem/agil/nfr_framework.md#nfr1-confiabilidade) | Em desenvolvimento |
+| RF06 | - | [UC06](modelagem/casos_de_uso.md#uc06-aumentar-nível-da-conta) | [RD01*](modelagem/especificacao_suplementar.md#-restrições-de-design) | [L08](modelagem/lexicos.md#léxicos-do-tipo-verbo) | - | - | - | [NFR06*](modelagem/agil/nfr_framework.md#nfr06-restrição-de-design) | Em desenvolvimento |
+| RF07 | - | [UC04](modelagem/casos_de_uso.md#uc04-atualizar-dados-pessoais) | - | [L03](modelagem/lexicos.md#léxicos-do-tipo-verbo) | [EP03](modelagem/agil/backlog.md#Épicos) | [T03](modelagem/agil/backlog.md#temas) | [HSU07](modelagem/agil/backlog.md#histórias-de-usuário) [HSU09](modelagem/agil/backlog.md#histórias-de-usuário) | - | Em desenvolvimento |
 | RF08 | - | - | - | - | - | - | - | - | - |
-| RF09 | [Cenário 1] | [UC07] [UC08] [UC09] | - | [L02] [L04] [L06] [L10] [L14] | [EP01] | [T01] | [HSU01] [HSU02] [HSU03] [HSU05] [HSU06] [HSU10] | - | Em desenvolvimento |
-| RF10 | - | [UC11] [UC12] | - | - | - | - | - | - | Em desenvolvimento |
-| RF11 | - | [UC01] [UC02] [UC03] | - | [L01] [L05] | [EP04] | [T04] | [HSU14] | - | Sim |
+| RF09 | [Cenário 1](modelagem/cenarios.md#cenário-1-consulta-de-cpf-govbr) | [UC07](modelagem/casos_de_uso.md#uc07-visualizar-documentos) [UC08](modelagem/casos_de_uso.md#uc08-baixar-documentos) [UC09](modelagem/casos_de_uso.md#uc09-emitir-2ª-via) | - | [L02](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L04](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L06](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L10](modelagem/lexicos.md#léxicos-do-tipo-objeto) [L14](modelagem/lexicos.md#léxicos-do-tipo-objeto) | [EP01](modelagem/agil/backlog.md#Épicos) | [T01](modelagem/agil/backlog.md#temas) | [HSU01](modelagem/agil/backlog.md#histórias-de-usuário) [HSU02](modelagem/agil/backlog.md#histórias-de-usuário) [HSU03](modelagem/agil/backlog.md#histórias-de-usuário) [HSU05](modelagem/agil/backlog.md#histórias-de-usuário) [HSU06](modelagem/agil/backlog.md#histórias-de-usuário) [HSU10](modelagem/agil/backlog.md#histórias-de-usuário) | - | Em desenvolvimento |
+| RF10 | - | [UC11](modelagem/casos_de_uso.md#uc11-solicitar-prova-de-vida) [UC12](modelagem/casos_de_uso.md#uc12-ver-histórico-de-prova-de-vida) | - | - | - | - | - | - | Em desenvolvimento |
+| RF11 | - | [UC01](modelagem/casos_de_uso.md#uc01-fazer-login) [UC02](modelagem/casos_de_uso.md#uc02-validar-credenciais) [UC03](modelagem/casos_de_uso.md#uc03-emitir-erro-de-login) | - | [L01](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) | [EP04](modelagem/agil/backlog.md#Épicos) | [T04](modelagem/agil/backlog.md#temas) | [HSU14](modelagem/agil/backlog.md#histórias-de-usuário) | - | Sim |
 | RF12 | - | - | - | - | - | - | - | - | - |
-| RF13 | - | [UC07] | - | [L04] [L10] | [EP01] | [T01] | [HSU01] [HSU06] | - | - |
-| RF14 | [Cenário 5] | [UC10] | [USA05] [DES03] [SUP04] | [L15] | [EP02] |[T02] | [HSU08] | [NFR03] [NFR04] [NFR05] | Em desenvolvimento |
-| RF15 | - | [UC13] | - | [L10] | [EP01] | [T01] | [HSU10] | - |  | 
+| RF13 | - | [UC07](modelagem/casos_de_uso.md#uc07-visualizar-documentos) | - | [L04](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L10](modelagem/lexicos.md#léxicos-do-tipo-objeto) | [EP01](modelagem/agil/backlog.md#Épicos) | [T01](modelagem/agil/backlog.md#temas) | [HSU01](modelagem/agil/backlog.md#histórias-de-usuário) [HSU06](modelagem/agil/backlog.md#histórias-de-usuário) | - | - |
+| RF14 | [Cenário 5](modelagem/cenarios.md#cenário-5-agendamento-de-visita-ao-palácio-do-planalto-govbr) | [UC10](modelagem/casos_de_uso.md#uc10-agendar-atendimento) | [USA05](modelagem/especificacao_suplementar.md#u-usabilidade-usability) [DES03](modelagem/especificacao_suplementar.md#p-desempenho-performance) [SUP04](modelagem/especificacao_suplementar.md#s-suporte-supportability) | [L15](modelagem/lexicos.md#léxicos-do-tipo-objeto) | [EP02](modelagem/agil/backlog.md#Épicos) |[T02](modelagem/agil/backlog.md#temas) | [HSU08](modelagem/agil/backlog.md#histórias-de-usuário) | [NFR03](modelagem/agil/nfr_framework.md#nfr03-portabilidade) [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | Em desenvolvimento |
+| RF15 | - | [UC13](modelagem/casos_de_uso.md#uc13-baixar-certidões) | - | [L10](modelagem/lexicos.md#léxicos-do-tipo-objeto) | [EP01](modelagem/agil/backlog.md#Épicos) | [T01](modelagem/agil/backlog.md#temas) | [HSU10](modelagem/agil/backlog.md#histórias-de-usuário) | - |  | 
 | RF16 | - | - | - | - | - | - | - | - | - |
 | RF17 | - | - | - | - | - | - | - | - | - |
-| RF18 | - | [UC14] | [USA06] | [L06] | [EP01] | [T01] | [HSU03] | [NFR05] | Sim |
+| RF18 | - | [UC14](modelagem/casos_de_uso.md#uc14-assinar-documentos-digitalmente) | [USA06](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | [L06](modelagem/lexicos.md#léxicos-do-tipo-verbo) | [EP01](modelagem/agil/backlog.md#Épicos) | [T01](modelagem/agil/backlog.md#temas) | [HSU03](modelagem/agil/backlog.md#histórias-de-usuário) | [NFR05](modelagem/agil/backlog.md#histórias-de-usuário) | Sim |
 | RF19 | Não utilizado | - | - | - | - | - | - | - | - |
-| RF20 | - | [UC05] | - | - | - | - | - | - | - |
-| RF21 | - | [UC13] | - | - | - | - | - | - | Em desenvolvimento  |
-| RF22 | * |  |  |  |  |  |  |  |  |
-| RF23 | * |  |  |  |  |  |  |  |  |
-| RF24 |  |  |  |  |  |  |  |  |  |
-| RF25 | * |  |  |  |  |  |  |  |  |
+| RF20 | - | [UC05](modelagem/casos_de_uso.md#uc05-consultar-benefícios) | - | - | - | - | - | - | - |
+| RF21 | - | [UC13](modelagem/casos_de_uso.md#uc13-baixar-certidões) | - | - | - | - | - | - | Em desenvolvimento  |
+| RF22 | - | [UC13](modelagem/casos_de_uso.md#uc13-baixar-certidões) | - | - | - | - | - | - | - |
+| RF23 | Não utilizado | - | - | - | - | - | - | - | - |
+| RF24 | Não utilizado | - | - | - | - | - | - | - | - |
+| RF25 | - | - | - | [L07](modelagem/lexicos.md#léxicos-do-tipo-verbo) | - | - | - | - | - |
 | RF26 |  |  |  |  |  |  |  |  |  |
 | RF27 | * |  |  |  |  |  |  |  |  |
 | RF28 | * |  |  |  |  |  |  |  |  |
