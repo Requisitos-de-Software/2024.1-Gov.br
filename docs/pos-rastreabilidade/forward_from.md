@@ -139,42 +139,40 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 |   ELO06   |   RF06    |   HSU10    |  UC02   |               |  NFR01   |   RF42    |
 |   ELO07   |   RF07    |            |  UC01   |               |  NFR01   |   RF01    |
 |   ELO08   |   RF08    |            |  UC04   |               |  NFR02   |   RF04    |
-|   ELO09   |   RF09    |   HS015    |  UC02   |               |  NFR06   |   RF02    |
-|   ELO10   |   RF10    |HS01, HS02, HS03, HSU06|  UC07   |    |  NFR02   |   RF14    |
+|   ELO09   |   RF09    |   HSU15    |  UC02   |               |  NFR06   |   RF02    |
+|   ELO10   |   RF10    |HSU01, HSU02, HSU03, HSU06|  UC07   |    |  NFR02   |   RF14    |
 |   ELO11   |   RF11    |            |  UC11   |               |  NFR01   |           |
 |   ELO12   |   RF12    |            |  UC01   |               |  NFR03   |           |
 |   ELO13   |   RF13    |   HSU14    |  UC01   |               |  NFR03   |   RF01    |
-|   ELO14   |   RF14    |   HS01     |  UC07   |               |  NFR02   |   RF10    |
+|   ELO14   |   RF14    |   HSU01     |  UC07   |               |  NFR02   |   RF10    |
 |   ELO15   |   RF15    |            |  UC10   |               |  NFR03   |           |
 |   ELO16   |   RF16    |   HSU10    |  UC07   |               |  NFR01   |           |
 |   ELO17   |   RF17    |            |  UC01   |               |  NFR03   | RF01, RF13|
 |   ELO18   |   RF18    |            |  UC13   |               |  NFR06   |   RF03    |
-|   ELO19   |   RF19    |            |  UC14   |               |  NFR03   |           |
+|   ELO19   |   RF19    |            |  UC14   |               |  NFR03   |   RF30       |
 |   ELO20   |   RF20    |            |         |               |  NFR01   |           |
 |   ELO21   |   RF21    |            |         |               |  NFR02   |           |
 |   ELO22   |   RF22    |            |         |               |  NFR02   |           |
 |   ELO23   |   RF23    |            |         |               |  NFR02   |           |
 |   ELO24   |   RF24    |            |         |               |  NFR02   |           |
 |   ELO25   |   RF25    |            |         |               |  NFR01   |           |
-|   ELO26   |   RF26    |            |         |               |  NFR01   |           |
+|   ELO26   |   RF26    |   HSU14    |  UC01   |               |  NFR01   |           |
 |   ELO27   |   RF27    |            |         |               |  NFR02   |           |
 |   ELO28   |   RF28    |            |         |               |  NFR03   |           |
 |   ELO29   |   RF29    |            |         |               |  NFR03   |           |
-|   ELO30   |   RF30    |            |         |               |  NFR03   |           |
-|   ELO31   |   RF31    |            |         |               |  NFR03   |           |
-|   ELO32   |   RF32    |            |         |               |  NFR03   |           |
+|   ELO30   |   RF30    |            |  UC14   |               |  NFR03   |    RF19   |
+|   ELO31   |   RF31    |            |         |               |  NFR03   |   RF30    |
+|   ELO32   |   RF32    |            |   UC10  |               |  NFR03   |RF37       |
 |   ELO33   |   RF33    |            |         |               |  NFR03   |           |
 |   ELO34   |   RF34    |            |         |               |  NFR03   |           |
 |   ELO35   |   RF35    |            |         |               |  NFR02   |           |
 |   ELO36   |   RF36    |            |         |               |  NFR01   |           |
-|   ELO37   |   RF37    |            |         |               |  NFR02   |           |
-|   ELO38   |   RF38    |            |         |               |  NFR01   |           |
-|   ELO39   |   RF39    |            |         |               |  NFR02   |           |
+|   ELO37   |   RF37    |            |  UC10   |               |  NFR02   |    RF32   |
+|   ELO38   |   RF38    |            |  UC07   |               |  NFR01   |           |
+|   ELO39   |   RF39    |            |  UC07   |               |  NFR02   |           |
 |   ELO40   |   RF40    |            |         |               |  NFR01   |           |
 |   ELO41   |   RF41    |            |         |               |  NFR01   |           |
 |   ELO42   |   RF42    |            |         |               |  NFR02   |           |
-|   ELO43   |   RF43    |            |         |               |  NFR02   |           |
-|   ELO44   |   RF44    |            |         |               |  NFR01   |           |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
