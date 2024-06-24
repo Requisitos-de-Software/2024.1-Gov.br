@@ -140,16 +140,16 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 |   ELO07   |   RF07    |            |  UC01   |               |  NFR01   |   RF01    |
 |   ELO08   |   RF08    |            |  UC04   |               |  NFR02   |   RF04    |
 |   ELO09   |   RF09    |   HSU15    |  UC02   |               |  NFR06   |   RF02    |
-|   ELO10   |   RF10    |HSU01, HSU02, HSU03, HSU06|  UC07   |    |  NFR02   |   RF14    |
+|   ELO10   |   RF10    |HSU01, HSU02, HSU03, HSU06|  UC07 |   |  NFR02   |   RF14    |
 |   ELO11   |   RF11    |            |  UC11   |               |  NFR01   |           |
 |   ELO12   |   RF12    |            |  UC01   |               |  NFR03   |           |
 |   ELO13   |   RF13    |   HSU14    |  UC01   |               |  NFR03   |   RF01    |
-|   ELO14   |   RF14    |   HSU01     |  UC07   |               |  NFR02   |   RF10    |
+|   ELO14   |   RF14    |   HSU01    |  UC07   |               |  NFR02   |   RF10    |
 |   ELO15   |   RF15    |            |  UC10   |               |  NFR03   |           |
 |   ELO16   |   RF16    |   HSU10    |  UC07   |               |  NFR01   |           |
 |   ELO17   |   RF17    |            |  UC01   |               |  NFR03   | RF01, RF13|
 |   ELO18   |   RF18    |            |  UC13   |               |  NFR06   |   RF03    |
-|   ELO19   |   RF19    |            |  UC14   |               |  NFR03   |   RF30       |
+|   ELO19   |   RF19    |            |  UC14   |               |  NFR03   |   RF30    |
 |   ELO20   |   RF20    |            |         |               |  NFR01   |           |
 |   ELO21   |   RF21    |            |         |               |  NFR02   |           |
 |   ELO22   |   RF22    |            |         |               |  NFR02   |           |
@@ -160,9 +160,9 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 |   ELO27   |   RF27    |            |         |               |  NFR02   |           |
 |   ELO28   |   RF28    |            |         |               |  NFR03   |           |
 |   ELO29   |   RF29    |            |         |               |  NFR03   |           |
-|   ELO30   |   RF30    |            |  UC14   |               |  NFR03   |    RF19   |
+|   ELO30   |   RF30    |            |  UC14   |               |  NFR03   |   RF19    |
 |   ELO31   |   RF31    |            |         |               |  NFR03   |   RF30    |
-|   ELO32   |   RF32    |            |   UC10  |               |  NFR03   |RF37       |
+|   ELO32   |   RF32    |            |   UC10  |               |  NFR03   |   RF37    |
 |   ELO33   |   RF33    |            |         |               |  NFR03   |           |
 |   ELO34   |   RF34    |            |         |               |  NFR03   |           |
 |   ELO35   |   RF35    |            |         |               |  NFR02   |           |
@@ -181,29 +181,29 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 <font><p style="text-align: center">**Tabela 4:** Elos dos requisitos não funcionais</p></font>
 
 | Nº do Elo | Requisito | Satisfação | Recurso | Representação | Alocação | Agregação |
-|:---------:|:---------:|:----------:|:-------:|:-------------:|:--------:|:---------:|
-|   ELO47   |   RNF01   |            |         |               |          |           |
-|   ELO48   |   RNF02   |            |         |               |          |           |
-|   ELO49   |   RNF03   |            |         |               |          |           |
-|   ELO50   |   RNF04   |            |         |               |          |           |
-|   ELO51   |   RNF05   |            |         |               |          |           |
-|   ELO52   |   RNF06   |            |         |               |          |           |
-|   ELO53   |   RNF07   |            |         |               |          |           |
-|   ELO54   |   RNF08   |            |         |               |          |           |
-|   ELO55   |   RNF09   |            |         |               |          |           |
-|   ELO56   |   RNF10   |            |         |               |          |           |
-|   ELO57   |   RNF11   |            |         |               |          |           |
-|   ELO58   |   RNF12   |            |         |               |          |           |
-|   ELO59   |   RNF13   |            |         |               |          |           |
-|   ELO60   |   RNF14   |            |         |               |          |           |
-|   ELO61   |   RNF15   |            |         |               |          |           |
-|   ELO62   |   RNF16   |            |         |               |          |           |
-|   ELO63   |   RNF17   |            |         |               |          |           |
-|   ELO64   |   RNF18   |            |         |               |          |           |
-|   ELO65   |   RNF19   |            |         |               |          |           |
-|   ELO66   |   RNF20   |            |         |               |          |           |
-|   ELO67   |   RNF21   |            |         |               |          |           |
-|   ELO68   |   RNF22   |            |         |               |          |           |
+| :-------: | :-------: | :--------: | :-----: | :-----------: | :------: | :-------: |
+|   ELO47   |   RNF01   |            |  UC03   |               |  CON01   |   RF01    |
+|   ELO48   |   RNF02   |            |         |               |  USA01   |   RF02    |
+|   ELO49   |   RNF03   |            |         |               |  DES01   |   RF07    |
+|   ELO50   |   RNF04   |            |         |               |  CON04   |   RF06    |
+|   ELO51   |   RNF05   |            |         |               |  CON05   |   RF08    |
+|   ELO52   |   RNF06   |            |         |               |  PORT02  |   RF09    |
+|   ELO53   |   RNF07   |            |  UC06   |               |   RD01   |   RF10    |
+|   ELO54   |   RNF08   |            |         |               |  PORT01  |   RF11    |
+|   ELO55   |   RNF09   |            |         |               |  CON03   |   RF12    |
+|   ELO56   |   RNF10   |            |         |               |  DES03   |   RF13    |
+|   ELO57   |   RNF11   |            |         |               |  PORT01  |   RF27    |
+|   ELO58   |   RNF12   |            |         |               |   RD02   |   RF14    |
+|   ELO59   |   RNF13   |            |         |               |  USA03   |   RF28    |
+|   ELO60   |   RNF14   |            |         |               |  DES02   |   RF15    |
+|   ELO61   |   RNF15   |            |         |               |  SUP02   |   RF29    |
+|   ELO62   |   RNF16   |            |         |               |  CON02   |   RF30    |
+|   ELO63   |   RNF17   |            |         |               |  USA02   |   RF31    |
+|   ELO64   |   RNF18   |            |         |               |  DES03   |   RF32    |
+|   ELO65   |   RNF19   |            |         |               |  PORT01  |   RF41    |
+|   ELO66   |   RNF20   |            |         |               |  CON02   |   RF42    |
+|   ELO67   |   RNF21   |            |         |               |   AD01   |   RF38    |
+|   ELO68   |   RNF22   |            |         |               |   AD02   |   RF36    |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
