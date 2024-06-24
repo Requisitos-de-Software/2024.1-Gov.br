@@ -45,51 +45,50 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 
 |  ID  | Cenário | Caso de Uso | Especificação Suplementar | Léxico | Épico | Tema | História de Usuário | NFR Framework | Implementação |
 |:----:|:-------:|:-----------:|:-------------------------:|:------:|:-----:|:----:|:-------------------:|:-------------:|:-------------:|
-| RF01 |  |  |  |  |  |  |  |  |  |
-| RF02 |  |  |  |  |  |  |  |  |  |
-| RF03 |  |  |  |  |  |  |  |  |  |
-| RF04 |  |  |  |  |  |  |  |  |  |
-| RF05 |  |  |  |  |  |  |  |  |  |
-| RF06 |  |  |  |  |  |  |  |  |  |
-| RF07 |  |  |  |  |  |  |  |  |  |
-| RF08 |  |  |  |  |  |  |  |  |  |
-| RF09 |  |  |  |  |  |  |  |  |  |
-| RF10 |  |  |  |  |  |  |  |  |  |
-| RF11 |  |  |  |  |  |  |  |  |  |
-| RF12 |  |  |  |  |  |  |  |  |  |
-| RF13 |  |  |  |  |  |  |  |  |  |
+| RF01 | [Cenário 3](modelagem/cenarios.md#cenário-3-redefinição-de-senha-no-aplicativo-govbr) | - | [DES01*](modelagem/especificacao_suplementar.md#p-desempenho-performance) | [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) | [EP04](modelagem/agil/backlog.md#Épicos) | [T04](modelagem/agil/backlog.md#temas) | [HSU14](modelagem/agil/backlog.md#histórias-de-usuário) | [NFR03*](modelagem/agil/nfr_framework.md#nfr03-portabilidade) | Em desenvolvimento |
+| RF02 | [Cenário 3](modelagem/cenarios.md#cenário-3-redefinição-de-senha-no-aplicativo-govbr) | [UC02](modelagem/casos_de_uso.md#uc02-validar-credenciais) | - | - | [EP04](modelagem/agil/backlog.md#Épicos) | [T04](modelagem/agil/backlog.md#temas) | [HSU15](modelagem/agil/backlog.md#histórias-de-usuário) | - | Em desenvolvimento |
+| RF03 | - | - | - | [L01](modelagem/lexicos.md#léxicos-do-tipo-verbo) | [EP04](modelagem/agil/backlog.md#Épicos) | [T04](modelagem/agil/backlog.md#temas) | [HSU14](modelagem/agil/backlog.md#histórias-de-usuário) | - | Em desenvolvimento |
+| RF04 | - | [UC01] | - | [L01] | [EP04] | [T05] | [HSU14] | - | Em desenvolvimento |
+| RF05 | [Cenário 6] | - | [CON04*] | - | - | - | - | [NFR1*] | Em desenvolvimento |
+| RF06 | - | [UC06] | [RD01*] | [L08] | - | - | - | [NFR06*] | Em desenvolvimento |
+| RF07 | - | [UC04] | - | [L03] | [EP03] | [T03] | [HSU07] [HSU09] | - | Em desenvolvimento |
+| RF08 | [Cenário 3] | - | - | - | [EP04] | [T04] | [HSU14] [HSU15] | - | Sim |
+| RF09 | [Cenário 1] | [UC07] [UC08] [UC09] | - | [L02] [L04] [L06] [L10] [L14] | [EP01] | [T01] | [HSU01] [HSU02] [HSU03] [HSU05] [HSU06] [HSU10] | - | Em desenvolvimento |
+| RF10 | - | [UC11] [UC12] | - | - | - | - | - | - | Em desenvolvimento |
+| RF11 | - | [UC01] [UC02] [UC03] | - | [L01] [L05] | [EP04] | [T04] | [HSU14] | - | Sim |
+| RF12 | - | - | - | - | - | - | - | - | - |
+| RF13 | - | - | - | - | - | - | - | - | - |
 | RF14 |  |  |  |  |  |  |  |  |  |
-| RF15 |  |  |  |  |  |  |  |  |  |
-| RF16 |  |  |  |  |  |  |  |  |  |
-| RF17 |  |  |  |  |  |  |  |  |  |
-| RF18 |  |  |  |  |  |  |  |  |  |
+| RF15 | - | [UC08] [UC09] [UC13] | - |  |  |  |  |  |  | 
+| RF16 | - | - | - | - | - | - | - | - | - |
+| RF17 | - | - | - | - | - | - | - | - | - |
+| RF18 | - | [UC14] | [USA06] | [L06] | [EP01] | [T01] | [HSU03] | [NFR05] | Sim |
 | RF19 |  |  |  |  |  |  |  |  |  |
 | RF20 |  |  |  |  |  |  |  |  |  |
-| RF21 |  |  |  |  |  |  |  |  |  |
-| RF22 |  |  |  |  |  |  |  |  |  |
-| RF23 |  |  |  |  |  |  |  |  |  |
+| RF21 | [Cenário 2] [Cenário 4] [Cenário 5] | [UC02] [UC05] [UC07] [UC10] | - | [L15] | [EP02] | [T02] | [HSU04] [HSU08] | - | Em desenvolvimento  |
+| RF22 | * |  |  |  |  |  |  |  |  |
+| RF23 | * |  |  |  |  |  |  |  |  |
 | RF24 |  |  |  |  |  |  |  |  |  |
-| RF25 |  |  |  |  |  |  |  |  |  |
+| RF25 | * |  |  |  |  |  |  |  |  |
 | RF26 |  |  |  |  |  |  |  |  |  |
-| RF27 |  |  |  |  |  |  |  |  |  |
-| RF28 |  |  |  |  |  |  |  |  |  |
-| RF29 |  |  |  |  |  |  |  |  |  |
+| RF27 | * |  |  |  |  |  |  |  |  |
+| RF28 | * |  |  |  |  |  |  |  |  |
+| RF29 | * |  |  |  |  |  |  |  |  |
 | RF30 |  |  |  |  |  |  |  |  |  |
 | RF31 |  |  |  |  |  |  |  |  |  |
-| RF32 |  |  |  |  |  |  |  |  |  |
-| RF33 |  |  |  |  |  |  |  |  |  |
-| RF34 |  |  |  |  |  |  |  |  |  |
-| RF35 |  |  |  |  |  |  |  |  |  |
-| RF36 |  |  |  |  |  |  |  |  |  |
-| RF37 |  |  |  |  |  |  |  |  |  |
+| RF32 | * |  |  |  |  |  |  |  |  |
+| RF33 | * |  |  |  |  |  |  |  |  |
+| RF34 | * |  |  |  |  |  |  |  |  |
+| RF35 | * |  |  |  |  |  |  |  |  |
+| RF36 | * |  |  |  |  |  |  |  |  |
+| RF37 | - | - | - | - | - | - | - | - | - |
 | RF38 |  |  |  |  |  |  |  |  |  |
-| RF39 |  |  |  |  |  |  |  |  |  |
-| RF40 |  |  |  |  |  |  |  |  |  |
+| RF39 | - | - | - | - | - | - | - | - | - |
+| RF40 | * |  |  |  |  |  |  |  |  |
 | RF41 |  |  |  |  |  |  |  |  |  |
 | RF42 |  |  |  |  |  |  |  |  |  |
 | RF43 |  |  |  |  |  |  |  |  |  |
 | RF44 |  |  |  |  |  |  |  |  |  |
-| RF45 |  |  |  |  |  |  |  |  |  |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
@@ -99,28 +98,28 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 
 |  ID  | Cenário | Caso de Uso | Especificação Suplementar | Léxico | Épico | Tema | História de Usuário | NFR Framework | Implementação |
 |:----:|:-------:|:-----------:|:-------------------------:|:------:|:-----:|:----:|:-------------------:|:-------------:|:-------------:|
-| RNF01 |  |  |  |  |  |  |  |  |  |
-| RNF02 |  |  |  |  |  |  |  |  |  |
-| RNF03 |  |  |  |  |  |  |  |  |  |
-| RNF04 |  |  |  |  |  |  |  |  |  |
-| RNF05 |  |  |  |  |  |  |  |  |  |
-| RNF06 |  |  |  |  |  |  |  |  |  |
-| RNF07 |  |  |  |  |  |  |  |  |  |
-| RNF08 |  |  |  |  |  |  |  |  |  |
-| RNF09 |  |  |  |  |  |  |  |  |  |
-| RNF10 |  |  |  |  |  |  |  |  |  |
-| RNF11 |  |  |  |  |  |  |  |  |  |
-| RNF12 |  |  |  |  |  |  |  |  |  |
-| RNF13 |  |  |  |  |  |  |  |  |  |
-| RNF14 |  |  |  |  |  |  |  |  |  |
-| RNF15 |  |  |  |  |  |  |  |  |  |
-| RNF16 |  |  |  |  |  |  |  |  |  |
-| RNF17 |  |  |  |  |  |  |  |  |  |
-| RNF18 |  |  |  |  |  |  |  |  |  |
-| RNF19 |  |  |  |  |  |  |  |  |  |
-| RNF20 |  |  |  |  |  |  |  |  |  |
-| RNF21 |  |  |  |  |  |  |  |  |  |
-| RNF22 |  |  |  |  |  |  |  |  |  |
+| RNF01 | - | - | [CON01] | - | - | - | - | [NFR01] | Sim |
+| RNF02 | - | - | [USA01] | - | - | - | - | [NFR05] | Sim |
+| RNF03 | - | - | [DES01] | - | - | - | - | [NFR03] | Sim |
+| RNF04 | - | - | [INT01] | - | - | - | - | - | Sim |
+| RNF05 | - | - | [INT02] | - | - | - | - | - | Sim |
+| RNF06 | - | - | [INT03] | - | - | - | - | - | Sim |
+| RNF07 | - | - | [RD01 ] | - | - | - | - | [NFR06] | Sim |
+| RNF08 | - | - | [SUP01] | - | - | - | - | [NFR04] | Sim |
+| RNF09 | - | - | [CON03] | - | - | - | - | [NFR05] | Sim |
+| RNF10 | NÃO UTILIZADO |  |  |  |  |  |  |  |  |
+| RNF11 | - | - | - | - | - | - | - | - | - |
+| RNF12 | - | - | [RD02 ] | - | - | - | - | [NFR06] | Não |
+| RNF13 | - | - | [USA03] | - | - | - | - | [NFR05] | Não |
+| RNF14 | - | - | [DES02] | - | - | - | - | [NFR03] | Não |
+| RNF15 | - | - | [SUP02] | - | - | - | - | [NFR04] | Não |
+| RNF16 | - | - | - | - | - | - | - | - | - |
+| RNF17 | - | - | [USA02] | - | - | - | - | [NFR05] | Sim |
+| RNF18 | - | - | [DES03] | - | - | - | - | [NFR03] | Sim |
+| RNF19 | NÃO UTILIZADO |  |  |  |  |  |  |  |  |
+| RNF20 | - | - | [CON02] | - | - | - | - | [NFR01] | Sim |
+| RNF21 | - | - | [AD01 ] | - | - | - | - | [NFR02] | Sim |
+| RNF22 | - | - | [AD02 ] | - | - | - | - | [NFR02] | Sim |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
@@ -132,51 +131,50 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 
 | Nº do Elo | Requisito | Satisfação | Recurso | Representação | Alocação | Agregação |
 |:---------:|:---------:|:----------:|:-------:|:-------------:|:--------:|:---------:|
-|   ELO01   |           |            |         |               |          |           |
-|   ELO02   |           |            |         |               |          |           |
-|   ELO03   |           |            |         |               |          |           |
-|   ELO04   |           |            |         |               |          |           |
-|   ELO05   |           |            |         |               |          |           |
-|   ELO06   |           |            |         |               |          |           |
-|   ELO07   |           |            |         |               |          |           |
-|   ELO08   |           |            |         |               |          |           |
-|   ELO09   |           |            |         |               |          |           |
-|   ELO10   |           |            |         |               |          |           |
-|   ELO11   |           |            |         |               |          |           |
-|   ELO12   |           |            |         |               |          |           |
-|   ELO13   |           |            |         |               |          |           |
-|   ELO14   |           |            |         |               |          |           |
-|   ELO15   |           |            |         |               |          |           |
-|   ELO16   |           |            |         |               |          |           |
-|   ELO17   |           |            |         |               |          |           |
-|   ELO18   |           |            |         |               |          |           |
-|   ELO19   |           |            |         |               |          |           |
-|   ELO20   |           |            |         |               |          |           |
-|   ELO21   |           |            |         |               |          |           |
-|   ELO22   |           |            |         |               |          |           |
-|   ELO23   |           |            |         |               |          |           |
-|   ELO24   |           |            |         |               |          |           |
-|   ELO25   |           |            |         |               |          |           |
-|   ELO26   |           |            |         |               |          |           |
-|   ELO27   |           |            |         |               |          |           |
-|   ELO28   |           |            |         |               |          |           |
-|   ELO29   |           |            |         |               |          |           |
-|   ELO30   |           |            |         |               |          |           |
-|   ELO31   |           |            |         |               |          |           |
-|   ELO32   |           |            |         |               |          |           |
-|   ELO33   |           |            |         |               |          |           |
-|   ELO34   |           |            |         |               |          |           |
-|   ELO35   |           |            |         |               |          |           |
-|   ELO36   |           |            |         |               |          |           |
-|   ELO37   |           |            |         |               |          |           |
-|   ELO38   |           |            |         |               |          |           |
-|   ELO39   |           |            |         |               |          |           |
-|   ELO40   |           |            |         |               |          |           |
-|   ELO41   |           |            |         |               |          |           |
-|   ELO42   |           |            |         |               |          |           |
-|   ELO43   |           |            |         |               |          |           |
-|   ELO44   |           |            |         |               |          |           |
-|   ELO45   |           |            |         |               |          |           |
+|   ELO01   |   RF01    |            |         |               |          |           |
+|   ELO02   |   RF02    |            |         |               |          |           |
+|   ELO03   |   RF03    |            |         |               |          |           |
+|   ELO04   |   RF04    |            |         |               |          |           |
+|   ELO05   |   RF05    |            |         |               |          |           |
+|   ELO06   |   RF06    |            |         |               |          |           |
+|   ELO07   |   RF07    |            |         |               |          |           |
+|   ELO08   |   RF08    |            |         |               |          |           |
+|   ELO09   |   RF09    |            |         |               |          |           |
+|   ELO10   |   RF10    |            |         |               |          |           |
+|   ELO11   |   RF11    |            |         |               |          |           |
+|   ELO12   |   RF12    |            |         |               |          |           |
+|   ELO13   |   RF13    |            |         |               |          |           |
+|   ELO14   |   RF14    |            |         |               |          |           |
+|   ELO15   |   RF15    |            |         |               |          |           |
+|   ELO16   |   RF16    |            |         |               |          |           |
+|   ELO17   |   RF17    |            |         |               |          |           |
+|   ELO18   |   RF18    |            |         |               |          |           |
+|   ELO19   |   RF19    |            |         |               |          |           |
+|   ELO20   |   RF20    |            |         |               |          |           |
+|   ELO21   |   RF21    |            |         |               |          |           |
+|   ELO22   |   RF22    |            |         |               |          |           |
+|   ELO23   |   RF23    |            |         |               |          |           |
+|   ELO24   |   RF24    |            |         |               |          |           |
+|   ELO25   |   RF25    |            |         |               |          |           |
+|   ELO26   |   RF26    |            |         |               |          |           |
+|   ELO27   |   RF27    |            |         |               |          |           |
+|   ELO28   |   RF28    |            |         |               |          |           |
+|   ELO29   |   RF29    |            |         |               |          |           |
+|   ELO30   |   RF30    |            |         |               |          |           |
+|   ELO31   |   RF31    |            |         |               |          |           |
+|   ELO32   |   RF32    |            |         |               |          |           |
+|   ELO33   |   RF33    |            |         |               |          |           |
+|   ELO34   |   RF34    |            |         |               |          |           |
+|   ELO35   |   RF35    |            |         |               |          |           |
+|   ELO36   |   RF36    |            |         |               |          |           |
+|   ELO37   |   RF37    |            |         |               |          |           |
+|   ELO38   |   RF38    |            |         |               |          |           |
+|   ELO39   |   RF39    |            |         |               |          |           |
+|   ELO40   |   RF40    |            |         |               |          |           |
+|   ELO41   |   RF41    |            |         |               |          |           |
+|   ELO42   |   RF42    |            |         |               |          |           |
+|   ELO43   |   RF43    |            |         |               |          |           |
+|   ELO44   |   RF44    |            |         |               |          |           |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
@@ -186,28 +184,28 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 
 | Nº do Elo | Requisito | Satisfação | Recurso | Representação | Alocação | Agregação |
 |:---------:|:---------:|:----------:|:-------:|:-------------:|:--------:|:---------:|
-|   ELO01   |           |            |         |               |          |           |
-|   ELO02   |           |            |         |               |          |           |
-|   ELO03   |           |            |         |               |          |           |
-|   ELO04   |           |            |         |               |          |           |
-|   ELO05   |           |            |         |               |          |           |
-|   ELO06   |           |            |         |               |          |           |
-|   ELO07   |           |            |         |               |          |           |
-|   ELO08   |           |            |         |               |          |           |
-|   ELO09   |           |            |         |               |          |           |
-|   ELO10   |           |            |         |               |          |           |
-|   ELO11   |           |            |         |               |          |           |
-|   ELO12   |           |            |         |               |          |           |
-|   ELO13   |           |            |         |               |          |           |
-|   ELO14   |           |            |         |               |          |           |
-|   ELO15   |           |            |         |               |          |           |
-|   ELO16   |           |            |         |               |          |           |
-|   ELO17   |           |            |         |               |          |           |
-|   ELO18   |           |            |         |               |          |           |
-|   ELO19   |           |            |         |               |          |           |
-|   ELO20   |           |            |         |               |          |           |
-|   ELO21   |           |            |         |               |          |           |
-|   ELO22   |           |            |         |               |          |           |
+|   ELO47   |   RNF01   |            |         |               |          |           |
+|   ELO48   |   RNF02   |            |         |               |          |           |
+|   ELO49   |   RNF03   |            |         |               |          |           |
+|   ELO50   |   RNF04   |            |         |               |          |           |
+|   ELO51   |   RNF05   |            |         |               |          |           |
+|   ELO52   |   RNF06   |            |         |               |          |           |
+|   ELO53   |   RNF07   |            |         |               |          |           |
+|   ELO54   |   RNF08   |            |         |               |          |           |
+|   ELO55   |   RNF09   |            |         |               |          |           |
+|   ELO56   |   RNF10   |            |         |               |          |           |
+|   ELO57   |   RNF11   |            |         |               |          |           |
+|   ELO58   |   RNF12   |            |         |               |          |           |
+|   ELO59   |   RNF13   |            |         |               |          |           |
+|   ELO60   |   RNF14   |            |         |               |          |           |
+|   ELO61   |   RNF15   |            |         |               |          |           |
+|   ELO62   |   RNF16   |            |         |               |          |           |
+|   ELO63   |   RNF17   |            |         |               |          |           |
+|   ELO64   |   RNF18   |            |         |               |          |           |
+|   ELO65   |   RNF19   |            |         |               |          |           |
+|   ELO66   |   RNF20   |            |         |               |          |           |
+|   ELO67   |   RNF21   |            |         |               |          |           |
+|   ELO68   |   RNF22   |            |         |               |          |           |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 

@@ -129,29 +129,28 @@ Na coluna "Status Atual": Indica que o requisito ainda não foi implementado no 
 
 <p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 3</b> - Requisitos funcionais</p>
 
-| ID | Requisito | Status Anterior | Status Atual | Observações |
-|---|---|---|---|---|
-| RF05 | O sistema deve facilitar o processo de mudança de celular pelo usuário, permitindo a transferência de segurança e autenticações sem necessidade de cancelar e recriar a conta. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
-| RF12 | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
-| RF13 | O usuário deve ser capaz de logar com as credenciais do gov.br. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
-| RF14 | O usuário deve conseguir visualizar seus documentos. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
-| RF16 | O usuário deve conseguir emitir/baixar certidões. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
-| RF17 | O usuário deve conseguir se logar no aplicativo. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
-| RF18 | O login deve possuir autenticação em dois fatores. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
-| RF19 | O usuário deve conseguir assinar documentos digitalmente. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
-| RF26 | O usuário deve conseguir obter o código de acesso. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |
-| RF28 | Como usuário, desejo acessar o aplicativo gov.br de forma rápida e intuitiva. | Sim | Sim | Interface do aplicativo foi aprimorada para facilitar a navegação e o uso. |
-| RF29 | Como usuário, desejo encontrar facilmente o serviço de agendamento na Receita Federal. | Sim | Sim | Funcionalidade de busca foi aprimorada para facilitar a localização de serviços específicos. |
-| RF30 | Como usuário, desejo acessar as funções de assinatura digital para agilizar a assinatura de documentos. | Sim | Sim | Processo de assinatura digital foi simplificado e otimizado. |
-| RF33 | Como usuário, desejo uma navegação intuitiva para buscar processos e documentos. | Sim | Sim | Funcionalidade de busca foi aprimorada para facilitar a localização de processos e documentos. |
-| RF34 | Como usuário, desejo garantir a segurança na transmissão e armazenamento de documentos sensíveis. | Sim | Sim | Medidas de segurança foram reforçadas para proteger dados sensíveis. |
-| RF35 | Como usuário, desejo poder alterar minhas informações pessoais de forma prática e rápida. | Sim | Sim | Processo de alteração de informações pessoais foi simplificado e otimizado. |
-| RF36 | Como usuário, desejo uma opção de ajuda no aplicativo para dúvidas e suporte técnico. | Sim | Sim | Função de ajuda foi implementada no aplicativo, com acesso a FAQs e canais de contato. |
-| RF37 | Como usuário, desejo acessar rapidamente a área de agendamento de consultas e serviços públicos. | Sim | Sim | Área de agendamento foi otimizada para facilitar o acesso e a marcação de consultas e serviços. |
-| RF38 | Como usuário, desejo poder recuperar minha senha com facilidade. | Sim | Sim | Processo de recuperação de senha foi simplificado e otimizado. |
-| RF39 | Como usuário, desejo uma interface clara e de fácil uso no aplicativo gov.br. | Sim | Sim | Interface do aplicativo foi aprimorada para ser mais clara, intuitiva e fácil de usar. |
-| RF40 | Como usuário, desejo que o aplicativo gov.br ofereça suporte para biometria. | Sim | Sim | Suporte para biometria foi implementado no aplicativo, permitindo login e autenticação mais seguros. |
-| RF41 | Como usuário, desejo acessar o gov.br para facilitar minhas interações com o governo. | Sim | Sim | Aplicativo foi aprimorado para oferecer uma experiência mais completa e facilitar as interações dos usuários. |
+| ID | Requisito | Status Anterior | Status Atual | Observações | Rastreabilidade |
+|---|---|---|---|---|---|
+| RF11 | O aplicativo deve permitir que os usuários se autentiquem de forma segura, usando credenciais únicas, como CPF e senha. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. | [BS01](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF12 | O usuário deve ser capaz de logar com as credenciais do gov.br. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. | [BS02](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF13 | O usuário deve conseguir visualizar seus documentos. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. |  [BS03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF15 | O usuário deve conseguir emitir/baixar certidões. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. | [BS05](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF16 | O usuário deve conseguir se logar no aplicativo. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. | [BS06](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF17 | O login deve possuir autenticação em dois fatores. | IGUAL AO REQ RF03 | 
+| RF18 | O usuário deve conseguir assinar documentos digitalmente. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. | [BS08](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF25 | O usuário deve conseguir obter o código de acesso. | Sim | Sim | Funcionalidade já implementada na versão atual do aplicativo. | [BS15](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF27 | Como usuário, desejo acessar o aplicativo gov.br de forma rápida e intuitiva. | Sim | Sim | Interface do aplicativo foi aprimorada para facilitar a navegação e o uso. | [ST01](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF28 | Como usuário, desejo encontrar facilmente o serviço de agendamento na Receita Federal. | Sim | Sim | Funcionalidade de busca foi aprimorada para facilitar a localização de serviços específicos. | [ST02](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF29 | Como usuário, desejo acessar as funções de assinatura digital para agilizar a assinatura de documentos. | Sim | Sim | Processo de assinatura digital foi simplificado e otimizado. | [ST03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF32 | Como usuário, desejo acessar a função de carteira digital no aplicativo. | Sim | Sim | Funcionalidade de busca foi aprimorada para facilitar a localização de processos e documentos. | [ST06](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF33 | Como usuário, desejo continuar recebendo minha aposentadoria através da função de prova de vida. | Sim | Sim | Medidas de segurança foram reforçadas para proteger dados sensíveis. | [ST07](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF34 | Como usuário, desejo uma navegação intuitiva para buscar processos e documentos. | Sim | Sim | Processo de alteração de informações pessoais foi simplificado e otimizado. | [ST08](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF35 | Como usuário, desejo garantir a segurança na transmissão e armazenamento de documentos sensíveis. | Sim | Sim | Função de ajuda foi implementada no aplicativo, com acesso a FAQs e canais de contato. | [ST09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF36 | Como usuário, desejo eficiência no agendamento e acompanhamento de processos. | Sim | Sim | Área de agendamento foi otimizada para facilitar o acesso e a marcação de consultas e serviços. | [ST10](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF37 | Como usuário, desejo receber atualizações relevantes sobre processos e benefícios sociais.  | Sim | Sim | Processo de recuperação de senha foi simplificado e otimizado. | [ST11](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF38 | Como usuário, desejo substituir minha carteira física por uma versão digital no aplicativo.| Sim | Sim | Interface do aplicativo foi aprimorada para ser mais clara, intuitiva e fácil de usar. | [ST12](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF39 | Como usuário, desejo acesso rápido aos meus documentos no celular, sem a necessidade de documentos físicos. | Sim | Sim | Suporte para biometria foi implementado no aplicativo, permitindo login e autenticação mais seguros. | [ST13](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF40 | Como usuário, desejo poder acessar meus documentos mesmo sem conexão com a internet.   | Sim | Sim | Aplicativo foi aprimorado para oferecer uma experiência mais completa e facilitar as interações dos usuários. | [ST14](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
@@ -161,28 +160,28 @@ A tabela 4 apresenta os requisitos funcionais que ainda estão em processo de im
 
 <p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 4</b> - Requisitos funcionais não implementados</p>
 
-| Requisito Funcional | Descrição | Status | Comentários |
-|-------------------------|---------------|------------|-----------------|
-| RF01 | O sistema deve oferecer reconhecimento facial para autenticação do usuário. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
-| RF02 | O sistema deve permitir a recuperação de senha por meio de perguntas de segurança e/ou e-mail. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
-| RF03 | O sistema deve permitir a verificação em duas etapas para maior segurança do login. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
-| RF04 | O sistema deve oferecer acesso centralizado a serviços governamentais. | Em desenvolvimento | Integrações com outros serviços governamentais em andamento. |
-| RF06 | O sistema deve permitir a notificação do usuário em caso de atividades suspeitas em sua conta. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
-| RF07 | O sistema deve permitir a autenticação biométrica por meio de impressões digitais. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
-| RF08 | O sistema deve permitir o acesso e gerenciamento de dados pessoais pelo usuário. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
-| RF09 | O sistema deve permitir a recuperação de conta em caso de perda de acesso. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
-| RF10 | O sistema deve permitir a visualização e gerenciamento de documentos digitais. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
-| RF11 | O sistema deve permitir a prova de vida para utilização de serviços online. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. |
-| RF15 | O sistema deve atender aos requisitos de segurança da informação, incluindo confidencialidade, integridade e disponibilidade dos dados. | Em desenvolvimento | Implementação de medidas de segurança em andamento. |
-| RF20 | O sistema deve ser compatível com diferentes navegadores e sistemas operacionais. | Em desenvolvimento | Testes de compatibilidade em andamento. |
-| RF21 | O sistema deve ser acessível a pessoas com deficiência. | Em desenvolvimento | Adequações de acessibilidade em andamento. |
-| RF22 | O sistema deve ser integrado com APIs de outros serviços governamentais. | Em desenvolvimento | Integrações em andamento. |
-| RF23 | O sistema deve ter logs para registro de atividades e auditoria. | Em desenvolvimento | Implementação de logs em andamento. |
-| RF24 | O sistema deve ter backups para garantir a recuperação de dados em caso de falhas. | Em desenvolvimento | Implementação de backups em andamento. |
-| RF25 | O sistema deve ter mecanismos de recuperação de falhas para garantir a disponibilidade dos serviços. | Em desenvolvimento | Implementação de mecanismos de recuperação de falhas em andamento. |
-| RF27 | O sistema deve ter criptografia de dados para garantir a confidencialidade das informações. | Em desenvolvimento | Implementação de criptografia em andamento. |
-| RF31 | O sistema deve atender às legislações e regulamentações aplicáveis. | Em desenvolvimento | Análise de legislações em andamento. |
-| RF32 | O sistema deve ter documentação completa e atualizada. | Em desenvolvimento | Elaboração da documentação em andamento. |
+| Requisito Funcional | Descrição | Status | Comentários | Rastreabilidade |
+|-------------------------|---------------|------------|-----------------|---|
+| RF01 | O sistema deve oferecer reconhecimento facial para autenticação do usuário. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. | [ADFU01](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) | 
+| RF02 | O sistema deve permitir a recuperação de senha por meio de perguntas de segurança e/ou e-mail. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. | [ADFU02](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
+| RF03 | O sistema deve permitir a verificação em duas etapas para maior segurança do login. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. | [ADFU03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) [BS03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF04 | O sistema deve oferecer acesso centralizado a serviços governamentais. | Em desenvolvimento | Integrações com outros serviços governamentais em andamento. | [ADFU04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
+| RF05 | O sistema deve permitir a notificação do usuário em caso de atividades suspeitas em sua conta. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. | [ADFU06](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
+| RF06 | O sistema deve permitir a autenticação biométrica por meio de impressões digitais. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. | [ADTU01](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
+| RF07 | O sistema deve permitir o acesso e gerenciamento de dados pessoais pelo usuário. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. | [ADTU02](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
+| RF08 | O sistema deve oferecer funcionalidades para recuperação de conta através de SMS, e-mail ou suporte direto.  | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. | [ADTU03](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
+| RF09 | O sistema deve permitir a visualização e gerenciamento de documentos digitais. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. | [ADTU04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
+| RF10 | O sistema deve permitir a prova de vida para utilização de serviços online. | Em desenvolvimento | Funcionalidade em fase de testes e aprimoramento. | [ADTU05](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) |
+| RF14 | O usuário deve conseguir agendar serviços específicos. | Em desenvolvimento | Implementação de medidas de segurança em andamento. | [BS04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF19 | O usuário deve conseguir se inscrever em concursos públicos| Em desenvolvimento | Testes de compatibilidade em andamento. | [BS09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF20 | O usuário deve conseguir consultar programas do governo  | Em desenvolvimento | Adequações de acessibilidade em andamento. | [BS10](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF21 | O usuário deve conseguir se conectar com o Detran. | Em desenvolvimento | Integrações em andamento. | [BS11](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF22 | O usuário deve conseguir se conectar com o NIS. | Em desenvolvimento | Implementação de logs em andamento. | [BS12](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF23 | O usuário deve conseguir se conectar com o ID Jovem. | Em desenvolvimento | Implementação de backups em andamento. | [BS13](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF24 | O usuário deve conseguir usar o aplicativo para pagar impostos trabalhistas | Em desenvolvimento | Implementação de mecanismos de recuperação de falhas em andamento. | [BS14](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF26 | O aplicativo deve possuir ferramentas de acessibilidade (Alto contraste, aumentar a fonte, audiodescrição) | Em desenvolvimento | Implementação de criptografia em andamento. | [BS15](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/brainstorm) |
+| RF30 | Como usuário, desejo agendar atendimentos em órgãos públicos através do aplicativo. | Em desenvolvimento | Análise de legislações em andamento. | [ST04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
+| RF31 | Como usuário, desejo consultar informações sobre benefícios sociais através do aplicativo.| Em desenvolvimento | Elaboração da documentação em andamento. | [ST05](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
