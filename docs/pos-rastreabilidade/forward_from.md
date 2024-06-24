@@ -182,28 +182,28 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 
 | Nº do Elo | Requisito |                  Satisfação                  |              Recurso               | Representação |                  Alocação                  | Agregação |
 | :-------: | :-------: | :------------------------------------------: | :--------------------------------: | :-----------: | :----------------------------------------: | :-------: |
-|   ELO47   |   RNF01   | [HSU14](/modelagem/agil/historia_usuario.md) | [UC03](/modelagem/casos_de_uso.md) |       -       | [CON01](/modelagem/agil/nfr_framework.md)  |   RF01    |
-|   ELO48   |   RNF02   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [USA01](/modelagem/agil/nfr_framework.md)  |   RF02    |
+|   ELO47   |   RNF01   |                    -                         | [UC03](/modelagem/casos_de_uso.md) |       -       | [CON01](/modelagem/agil/nfr_framework.md)  |   RF01    |
+|   ELO48   |   RNF02   |                    -                         |                 -                  |       -       | [USA01](/modelagem/agil/nfr_framework.md)  |   RF02    |
 |   ELO49   |   RNF03   | [HSU14](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [DES01](/modelagem/agil/nfr_framework.md)  |   RF07    |
-|   ELO50   |   RNF04   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON04](/modelagem/agil/nfr_framework.md)  |   RF06    |
-|   ELO51   |   RNF05   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON05](/modelagem/agil/nfr_framework.md)  |   RF08    |
-|   ELO52   |   RNF06   | [HSU07](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [PORT02](/modelagem/agil/nfr_framework.md) |   RF09    |
-|   ELO53   |   RNF07   | [HSU14](/modelagem/agil/historia_usuario.md) | [UC06](/modelagem/casos_de_uso.md) |       -       |  [RD01](/modelagem/agil/nfr_framework.md)  |   RF10    |
-|   ELO54   |   RNF08   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [PORT01](/modelagem/agil/nfr_framework.md) |   RF11    |
-|   ELO55   |   RNF09   | [HSU14](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON03](/modelagem/agil/nfr_framework.md)  |   RF12    |
+|   ELO50   |   RNF04   |                    -                         |                 -                  |       -       | [CON04](/modelagem/agil/nfr_framework.md)  |   RF06    |
+|   ELO51   |   RNF05   |                    -                         |                 -                  |       -       | [CON05](/modelagem/agil/nfr_framework.md)  |   RF08    |
+|   ELO52   |   RNF06   |                       -                      |                 -                  |       -       | [PORT02](/modelagem/agil/nfr_framework.md) |   RF09    |
+|   ELO53   |   RNF07   |                     -                        | [UC06](/modelagem/casos_de_uso.md) |       -       |  [RD01](/modelagem/agil/nfr_framework.md)  |   RF10    |
+|   ELO54   |   RNF08   |                    -                         |                 -                  |       -       | [PORT01](/modelagem/agil/nfr_framework.md) |   RF11    |
+|   ELO55   |   RNF09   |                      -                       |                 -                  |       -       | [CON03](/modelagem/agil/nfr_framework.md)  |   RF12    |
 |   ELO56   |   RNF10   | [HSU14](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [DES03](/modelagem/agil/nfr_framework.md)  |   RF13    |
-|   ELO57   |   RNF11   | [HSU07](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [PORT01](/modelagem/agil/nfr_framework.md) |   RF27    |
+|   ELO57   |   RNF11   |                       -                      |                 -                  |       -       | [PORT01](/modelagem/agil/nfr_framework.md) |   RF27    |
 |   ELO58   |   RNF12   | [HSU09](/modelagem/agil/historia_usuario.md) |                 -                  |       -       |  [RD02](/modelagem/agil/nfr_framework.md)  |   RF14    |
-|   ELO59   |   RNF13   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [USA03](/modelagem/agil/nfr_framework.md)  |   RF28    |
-|   ELO60   |   RNF14   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [DES02](/modelagem/agil/nfr_framework.md)  |   RF15    |
-|   ELO61   |   RNF15   | [HSU07](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [SUP02](/modelagem/agil/nfr_framework.md)  |   RF29    |
-|   ELO62   |   RNF16   | [HSU09](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON02](/modelagem/agil/nfr_framework.md)  |   RF30    |
-|   ELO63   |   RNF17   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [USA02](/modelagem/agil/nfr_framework.md)  |   RF31    |
-|   ELO64   |   RNF18   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [DES03](/modelagem/agil/nfr_framework.md)  |   RF32    |
-|   ELO65   |   RNF19   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [PORT01](/modelagem/agil/nfr_framework.md) |   RF41    |
-|   ELO66   |   RNF20   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON02](/modelagem/agil/nfr_framework.md)  |   RF42    |
-|   ELO67   |   RNF21   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       |  [AD01](/modelagem/agil/nfr_framework.md)  |   RF38    |
-|   ELO68   |   RNF22   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       |  [AD02](/modelagem/agil/nfr_framework.md)  |   RF36    |
+|   ELO59   |   RNF13   |                    -                         |                 -                  |       -       | [USA03](/modelagem/agil/nfr_framework.md)  |   RF28    |
+|   ELO60   |   RNF14   |                  -                           |                 -                  |       -       | [DES02](/modelagem/agil/nfr_framework.md)  |   RF15    |
+|   ELO61   |   RNF15   |                       -                      |                 -                  |       -       | [SUP02](/modelagem/agil/nfr_framework.md)  |   RF29    |
+|   ELO62   |   RNF16   |                       -                      |                 -                  |       -       | [CON02](/modelagem/agil/nfr_framework.md)  |   RF30    |
+|   ELO63   |   RNF17   |                       -                      |                 -                  |       -       | [USA02](/modelagem/agil/nfr_framework.md)  |   RF31    |
+|   ELO64   |   RNF18   |                       -                      |                 -                  |       -       | [DES03](/modelagem/agil/nfr_framework.md)  |   RF32    |
+|   ELO65   |   RNF19   |                       -                      |                 -                  |       -       | [PORT01](/modelagem/agil/nfr_framework.md) |   RF41    |
+|   ELO66   |   RNF20   |                       -                      |                 -                  |       -       | [CON02](/modelagem/agil/nfr_framework.md)  |   RF42    |
+|   ELO67   |   RNF21   |                       -                      |                 -                  |       -       |  [AD01](/modelagem/agil/nfr_framework.md)  |   RF38    |
+|   ELO68   |   RNF22   |                       -                      |                 -                  |       -       |  [AD02](/modelagem/agil/nfr_framework.md)  |   RF36    |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
