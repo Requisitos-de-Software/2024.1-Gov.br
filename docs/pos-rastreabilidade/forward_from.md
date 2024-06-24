@@ -129,50 +129,50 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 
 <font><p style="text-align: center">**Tabela 3:** Elos dos requisitos funcionais</p></font>
 
-| Nº do Elo | Requisito |         Satisfação         | Recurso | Representação | Alocação | Agregação  |
-| :-------: | :-------: | :------------------------: | :-----: | :-----------: | :------: | :--------: |
-|   ELO01   |   RF01    |           HSU14            |  UC01   |       -       |  NFR03   |    RF07    |
-|   ELO02   |   RF02    |           HSU15            |  UC02   |       -       |  NFR06   |    RF09    |
-|   ELO03   |   RF03    |             -              |  UC02   |       -       |  NFR01   |    RF18    |
-|   ELO04   |   RF04    |             -              |    -    |       -       |  NFR01   |     -      |
-|   ELO05   |   RF05    |             -              |    -    |       -       |  NFR01   |    RF08    |
-|   ELO06   |   RF06    |           HSU10            |  UC02   |       -       |  NFR01   |    RF42    |
-|   ELO07   |   RF07    |             -              |  UC01   |       -       |  NFR01   |    RF01    |
-|   ELO08   |   RF08    |             -              |  UC04   |       -       |  NFR02   |    RF04    |
-|   ELO09   |   RF09    |           HSU15            |  UC02   |       -       |  NFR06   |    RF02    |
-|   ELO10   |   RF10    | HSU01, HSU02, HSU03, HSU06 |  UC07   |       -       |  NFR02   |    RF14    |
-|   ELO11   |   RF11    |             -              |  UC11   |       -       |  NFR01   |     -      |
-|   ELO12   |   RF12    |             -              |  UC01   |       -       |  NFR03   |     -      |
-|   ELO13   |   RF13    |           HSU14            |  UC01   |       -       |  NFR03   |    RF01    |
-|   ELO14   |   RF14    |           HSU01            |  UC07   |       -       |  NFR02   |    RF10    |
-|   ELO15   |   RF15    |             -              |  UC10   |       -       |  NFR03   |     -      |
-|   ELO16   |   RF16    |           HSU10            |  UC07   |       -       |  NFR01   |     -      |
-|   ELO17   |   RF17    |             -              |  UC01   |       -       |  NFR03   | RF01, RF13 |
-|   ELO18   |   RF18    |             -              |  UC13   |       -       |  NFR06   |    RF03    |
-|   ELO19   |   RF19    |             -              |  UC14   |       -       |  NFR03   |    RF30    |
-|   ELO20   |   RF20    |             -              |    -    |       -       |  NFR01   |     -      |
-|   ELO21   |   RF21    |             -              |    -    |       -       |  NFR02   |     -      |
-|   ELO22   |   RF22    |             -              |    -    |       -       |  NFR02   |     -      |
-|   ELO23   |   RF23    |             -              |    -    |       -       |  NFR02   |     -      |
-|   ELO24   |   RF24    |             -              |    -    |       -       |  NFR02   |     -      |
-|   ELO25   |   RF25    |             -              |    -    |       -       |  NFR01   |     -      |
-|   ELO26   |   RF26    |           HSU14            |  UC01   |       -       |  NFR01   |     -      |
-|   ELO27   |   RF27    |             -              |    -    |       -       |  NFR02   |     -      |
-|   ELO28   |   RF28    |             -              |    -    |       -       |  NFR03   |     -      |
-|   ELO29   |   RF29    |             -              |    -    |       -       |  NFR03   |     -      |
-|   ELO30   |   RF30    |             -              |  UC14   |       -       |  NFR03   |    RF19    |
-|   ELO31   |   RF31    |             -              |    -    |       -       |  NFR03   |    RF30    |
-|   ELO32   |   RF32    |             -              |  UC10   |       -       |  NFR03   |    RF37    |
-|   ELO33   |   RF33    |             -              |    -    |       -       |  NFR03   |     -      |
-|   ELO34   |   RF34    |             -              |    -    |       -       |  NFR03   |     -      |
-|   ELO35   |   RF35    |             -              |    -    |       -       |  NFR02   |     -      |
-|   ELO36   |   RF36    |             -              |    -    |       -       |  NFR01   |     -      |
-|   ELO37   |   RF37    |             -              |  UC10   |       -       |  NFR02   |    RF32    |
-|   ELO38   |   RF38    |             -              |  UC07   |       -       |  NFR01   |     -      |
-|   ELO39   |   RF39    |             -              |  UC07   |       -       |  NFR02   |     -      |
-|   ELO40   |   RF40    |             -              |    -    |       -       |  NFR01   |     -      |
-|   ELO41   |   RF41    |             -              |    -    |       -       |  NFR01   |     -      |
-|   ELO42   |   RF42    |             -              |    -    |       -       |  NFR02   |     -      |
+| Nº do Elo | Requisito |                                                                                       Satisfação                                                                                       |              Recurso               | Representação |                     Alocação                     | Agregação |
+| :-------: | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :-----------: | :----------------------------------------------: | :-------: |
+|   ELO01   |   RF01    |                                                                      [HSU14](/modelagem/agil/historia_usuario.md)                                                                      | [UC01](/modelagem/casos_de_uso.md) |       -       |    [CON01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO02   |   RF02    |                                                                      [HSU15](/modelagem/agil/historia_usuario.md)                                                                      | [UC02](/modelagem/casos_de_uso.md) |       -       |    [CON02](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO03   |   RF03    |                                                                                           -                                                                                            | [UC02](/modelagem/casos_de_uso.md) |       -       |    [CON03](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO04   |   RF04    |                                                                                           -                                                                                            |                 -                  |       -       |    [CON04](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO05   |   RF05    |                                                                                           -                                                                                            |                 -                  |       -       |    [CON05](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO06   |   RF06    |                                                                      [HSU10](/modelagem/agil/historia_usuario.md)                                                                      | [UC02](/modelagem/casos_de_uso.md) |       -       |    [CON04](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO07   |   RF07    |                                                                                           -                                                                                            | [UC01](/modelagem/casos_de_uso.md) |       -       |    [DES01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO08   |   RF08    |                                                                                           -                                                                                            | [UC04](/modelagem/casos_de_uso.md) |       -       |    [DES02](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO09   |   RF09    |                                                                      [HSU15](/modelagem/agil/historia_usuario.md)                                                                      | [UC02](/modelagem/casos_de_uso.md) |       -       |    [DES03](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO10   |   RF10    | [HSU01](/modelagem/agil/historia_usuario.md), [HSU02](/modelagem/agil/historia_usuario.md), [HSU03](/modelagem/agil/historia_usuario.md), [HSU06](/modelagem/agil/historia_usuario.md) | [UC07](/modelagem/casos_de_uso.md) |       -       |    [DES04](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO11   |   RF11    |                                                                                           -                                                                                            | [UC11](/modelagem/casos_de_uso.md) |       -       |    [DES01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO12   |   RF12    |                                                                                           -                                                                                            | [UC01](/modelagem/casos_de_uso.md) |       -       |     [RD03](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO13   |   RF13    |                                                                      [HSU14](/modelagem/agil/historia_usuario.md)                                                                      | [UC01](/modelagem/casos_de_uso.md) |       -       |     [RD01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO14   |   RF14    |                                                                      [HSU01](/modelagem/agil/historia_usuario.md)                                                                      | [UC07](/modelagem/casos_de_uso.md) |       -       |    [DES03](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO15   |   RF15    |                                                                                           -                                                                                            | [UC10](/modelagem/casos_de_uso.md) |       -       |    [DES04](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO16   |   RF16    |                                                                      [HSU10](/modelagem/agil/historia_usuario.md)                                                                      | [UC07](/modelagem/casos_de_uso.md) |       -       |    [DES01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO17   |   RF17    |                                                                                           -                                                                                            | [UC01](/modelagem/casos_de_uso.md) |       -       | [CON02, DES01](/modelagem/agil/nfr_framework.md) |     -     |
+|   ELO18   |   RF18    |                                                                                           -                                                                                            | [UC13](/modelagem/casos_de_uso.md) |       -       |    [DES01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO19   |   RF19    |                                                                                           -                                                                                            | [UC14](/modelagem/casos_de_uso.md) |       -       |    [USA01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO20   |   RF20    |                                                                                           -                                                                                            |                 -                  |       -       |     [AD01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO21   |   RF21    |                                                                                           -                                                                                            |                 -                  |       -       |     [AD02](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO22   |   RF22    |                                                                                           -                                                                                            |                 -                  |       -       |    [CON03](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO23   |   RF23    |                                                                                           -                                                                                            |                 -                  |       -       |    [CON05](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO24   |   RF24    |                                                                                           -                                                                                            |                 -                  |       -       |    [CON04](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO25   |   RF25    |                                                                                           -                                                                                            |                 -                  |       -       |    [CON05](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO26   |   RF26    |                                                                      [HSU14](/modelagem/agil/historia_usuario.md)                                                                      | [UC01](/modelagem/casos_de_uso.md) |       -       |    [DES03](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO27   |   RF27    |                                                                                           -                                                                                            |                 -                  |       -       |    [USA01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO28   |   RF28    |                                                                                           -                                                                                            |                 -                  |       -       |    [USA02](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO29   |   RF29    |                                                                                           -                                                                                            |                 -                  |       -       |    [USA03](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO30   |   RF30    |                                                                                           -                                                                                            | [UC14](/modelagem/casos_de_uso.md) |       -       |    [USA04](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO31   |   RF31    |                                                                                           -                                                                                            |                 -                  |       -       |    [USA05](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO32   |   RF32    |                                                                                           -                                                                                            | [UC10](/modelagem/casos_de_uso.md) |       -       |    [USA06](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO33   |   RF33    |                                                                                           -                                                                                            |                 -                  |       -       |     [AD01](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO34   |   RF34    |                                                                                           -                                                                                            |                 -                  |       -       |     [AD02](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO35   |   RF35    |                                                                                           -                                                                                            |                 -                  |       -       |    [CON03](/modelagem/agil/nfr_framework.md)     |     -     |
+|   ELO36   |   RF36    |             -              |    -    |       -       | [CON04](/modelagem/agil/nfr_framework.md) |    -      |
+|   ELO37   |   RF37    |             -              |  [UC10](/modelagem/casos_de_uso.md)   |       -       | [DES01](/modelagem/agil/nfr_framework.md) |    -    |
+|   ELO38   |   RF38    |             -              |  [UC07](/modelagem/casos_de_uso.md)   |       -       | [USA06](/modelagem/agil/nfr_framework.md) |    -      |
+|   ELO39   |   RF39    |             -              |  [UC07](/modelagem/casos_de_uso.md)   |       -       | [CON02](/modelagem/agil/nfr_framework.md) |    -      |
+|   ELO40   |   RF40    |             -              |    -    |       -       | [DES01](/modelagem/agil/nfr_framework.md) |    -      |
+|   ELO41   |   RF41    |             -              |    -    |       -       | [DES02](/modelagem/agil/nfr_framework.md) |    -      |
+|   ELO42   |   RF42    |             -              |    -    |       -       | [CON05](/modelagem/agil/nfr_framework.md) |    -      |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
@@ -180,30 +180,30 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 
 <font><p style="text-align: center">**Tabela 4:** Elos dos requisitos não funcionais</p></font>
 
-| Nº do Elo | Requisito | Satisfação | Recurso | Representação | Alocação | Agregação |
-| :-------: | :-------: | :--------: | :-----: | :-----------: | :------: | :-------: |
-|   ELO47   |   RNF01   |   HSU14    |  UC03   |       -       |  CON01   |   RF01    |
-|   ELO48   |   RNF02   |   HSU01    |    -    |       -       |  USA01   |   RF02    |
-|   ELO49   |   RNF03   |   HSU14    |    -    |       -       |  DES01   |   RF07    |
-|   ELO50   |   RNF04   |   HSU01    |    -    |       -       |  CON04   |   RF06    |
-|   ELO51   |   RNF05   |   HSU01    |    -    |       -       |  CON05   |   RF08    |
-|   ELO52   |   RNF06   |   HSU07    |    -    |       -       |  PORT02  |   RF09    |
-|   ELO53   |   RNF07   |   HSU14    |  UC06   |       -       |   RD01   |   RF10    |
-|   ELO54   |   RNF08   |   HSU01    |    -    |       -       |  PORT01  |   RF11    |
-|   ELO55   |   RNF09   |   HSU14    |    -    |       -       |  CON03   |   RF12    |
-|   ELO56   |   RNF10   |   HSU14    |    -    |       -       |  DES03   |   RF13    |
-|   ELO57   |   RNF11   |   HSU07    |    -    |       -       |  PORT01  |   RF27    |
-|   ELO58   |   RNF12   |   HSU09    |    -    |       -       |   RD02   |   RF14    |
-|   ELO59   |   RNF13   |   HSU01    |    -    |       -       |  USA03   |   RF28    |
-|   ELO60   |   RNF14   |   HSU01    |    -    |       -       |  DES02   |   RF15    |
-|   ELO61   |   RNF15   |   HSU07    |    -    |       -       |  SUP02   |   RF29    |
-|   ELO62   |   RNF16   |   HSU09    |    -    |       -       |  CON02   |   RF30    |
-|   ELO63   |   RNF17   |   HSU01    |    -    |       -       |  USA02   |   RF31    |
-|   ELO64   |   RNF18   |   HSU01    |    -    |       -       |  DES03   |   RF32    |
-|   ELO65   |   RNF19   |   HSU01    |    -    |       -       |  PORT01  |   RF41    |
-|   ELO66   |   RNF20   |   HSU01    |    -    |       -       |  CON02   |   RF42    |
-|   ELO67   |   RNF21   |   HSU01    |    -    |       -       |   AD01   |   RF38    |
-|   ELO68   |   RNF22   |   HSU01    |    -    |       -       |   AD02   |   RF36    |
+| Nº do Elo | Requisito |                  Satisfação                  |              Recurso               | Representação |                  Alocação                  | Agregação |
+| :-------: | :-------: | :------------------------------------------: | :--------------------------------: | :-----------: | :----------------------------------------: | :-------: |
+|   ELO47   |   RNF01   | [HSU14](/modelagem/agil/historia_usuario.md) | [UC03](/modelagem/casos_de_uso.md) |       -       | [CON01](/modelagem/agil/nfr_framework.md)  |   RF01    |
+|   ELO48   |   RNF02   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [USA01](/modelagem/agil/nfr_framework.md)  |   RF02    |
+|   ELO49   |   RNF03   | [HSU14](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [DES01](/modelagem/agil/nfr_framework.md)  |   RF07    |
+|   ELO50   |   RNF04   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON04](/modelagem/agil/nfr_framework.md)  |   RF06    |
+|   ELO51   |   RNF05   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON05](/modelagem/agil/nfr_framework.md)  |   RF08    |
+|   ELO52   |   RNF06   | [HSU07](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [PORT02](/modelagem/agil/nfr_framework.md) |   RF09    |
+|   ELO53   |   RNF07   | [HSU14](/modelagem/agil/historia_usuario.md) | [UC06](/modelagem/casos_de_uso.md) |       -       |  [RD01](/modelagem/agil/nfr_framework.md)  |   RF10    |
+|   ELO54   |   RNF08   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [PORT01](/modelagem/agil/nfr_framework.md) |   RF11    |
+|   ELO55   |   RNF09   | [HSU14](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON03](/modelagem/agil/nfr_framework.md)  |   RF12    |
+|   ELO56   |   RNF10   | [HSU14](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [DES03](/modelagem/agil/nfr_framework.md)  |   RF13    |
+|   ELO57   |   RNF11   | [HSU07](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [PORT01](/modelagem/agil/nfr_framework.md) |   RF27    |
+|   ELO58   |   RNF12   | [HSU09](/modelagem/agil/historia_usuario.md) |                 -                  |       -       |  [RD02](/modelagem/agil/nfr_framework.md)  |   RF14    |
+|   ELO59   |   RNF13   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [USA03](/modelagem/agil/nfr_framework.md)  |   RF28    |
+|   ELO60   |   RNF14   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [DES02](/modelagem/agil/nfr_framework.md)  |   RF15    |
+|   ELO61   |   RNF15   | [HSU07](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [SUP02](/modelagem/agil/nfr_framework.md)  |   RF29    |
+|   ELO62   |   RNF16   | [HSU09](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON02](/modelagem/agil/nfr_framework.md)  |   RF30    |
+|   ELO63   |   RNF17   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [USA02](/modelagem/agil/nfr_framework.md)  |   RF31    |
+|   ELO64   |   RNF18   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [DES03](/modelagem/agil/nfr_framework.md)  |   RF32    |
+|   ELO65   |   RNF19   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [PORT01](/modelagem/agil/nfr_framework.md) |   RF41    |
+|   ELO66   |   RNF20   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       | [CON02](/modelagem/agil/nfr_framework.md)  |   RF42    |
+|   ELO67   |   RNF21   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       |  [AD01](/modelagem/agil/nfr_framework.md)  |   RF38    |
+|   ELO68   |   RNF22   | [HSU01](/modelagem/agil/historia_usuario.md) |                 -                  |       -       |  [AD02](/modelagem/agil/nfr_framework.md)  |   RF36    |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
