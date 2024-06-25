@@ -82,13 +82,9 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 | RF35 | - | - | [CON04](modelagem/especificacao_suplementar.md#r-confiabilidade-reliability) [CON05](modelagem/especificacao_suplementar.md#r-confiabilidade-reliability) | [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L07](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L19](modelagem/lexicos.md#léxicos-do-tipo-estado) | - | - | - | [NFR01](modelagem/agil/nfr_framework.md#nfr1-confiabilidade) [NFR06](modelagem/agil/nfr_framework.md#nfr06-restrição-de-design) | - |
 | RF36 | - | [UC10](modelagem/casos_de_uso.md#uc10-agendar-atendimento) | [USA05](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) | - | - | - | [NFR03](modelagem/agil/nfr_framework.md#nfr03-portabilidade) [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | - |
 | RF37 | - | - | - | - | - | - | - | - | - |
-| RF38 |  |  |  |  |  |  |  |  |  |
+| RF38 | - | - | - | - | - | - | - | - | - |
 | RF39 | - | - | - | - | - | - | - | - | - |
 | RF40 | Não utilizado | - | - | - | - | - | - | - | - |
-| RF41 | - | - | - | - | - | - | - | - | - |
-| RF42 | - | - | - | - | - | - | - | - | - |
-| RF43 | - | - | - | - | - | - | - | - | - |
-| RF44 | - | - | - | - | - | - | - | - | - |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
