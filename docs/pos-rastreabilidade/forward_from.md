@@ -30,7 +30,7 @@ Tipos de Elos da Rastreabilidade, segundo o meta-modelo de Toranzo:
 - UCx: Caso de Uso nºx
 - ESx: Especificação Suplementar nºx
 - Lx: Léxico nºx
-- Epx: Épico nºx
+- EPx: Épico nºx
 - Tx: Tema nºx
 - HSx: Histária de Usuário nºx
 - NFRx: NFR Framework nºx
@@ -207,7 +207,7 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
-## Referência Bibliografia
+## Bibliografia
 
 - Monografia - Miriam Sayão e Julio Prado Leite. Disponível em: <https://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf> Acesso em 22 de Junho de 2024
 
