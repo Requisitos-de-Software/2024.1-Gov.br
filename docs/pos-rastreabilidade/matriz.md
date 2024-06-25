@@ -8,12 +8,12 @@ A rastreabilidade de requisitos é essencial na gerência de requisitos e na qua
 
 Para a construção da matriz de rastreabilidade, seguimos uma metodologia estruturada que apresenta o ID, a descrição, a implementação, o backward-from, o forward-from e os elos de cada requisito.
 
-ID: identifica o requisito
-Descrição: descrição do requisito
-Implementação: define se ele já está implementado ou não
-Backward-From: apresenta a origem do requisito (documentos, técnicas, etc)
-Forward-From: apresenta os artefatos associados ao requisito
-Elos: associação entre os requisitos e os artefatos
+- ID: identifica o requisito
+- Descrição: descrição do requisito
+- Implementação: define se ele já está implementado ou não
+- Backward-From: apresenta a origem do requisito (documentos, técnicas, etc)
+- Forward-From: apresenta os artefatos associados ao requisito
+- Elos: associação entre os requisitos e os artefatos
 
 ## Matriz de Rastreabilidade
 
