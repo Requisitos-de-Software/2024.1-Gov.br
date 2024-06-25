@@ -70,17 +70,17 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 | RF23 | Não utilizado | - | - | - | - | - | - | - | - |
 | RF24 | Não utilizado | - | - | - | - | - | - | - | - |
 | RF25 | - | - | - | [L07](modelagem/lexicos.md#léxicos-do-tipo-verbo) | - | - | - | - | - |
-| RF26 | - | - | [SUP01] | - | - | - | - | [NFR04] | Em desenvolvimento |
-| RF27 | - | - | [USA03] [USA04] | - | - | - | - | [NFR03] [NFR04] [NFR05] | - |
-| RF28 | - | [UC10] | [USA05] | [L05] | - | - | - | [NFR03] [NFR04] [NFR05] | - |
-| RF29 | - | [UC14] | [USA06] | [L06] | - | - | - | [NFR05] | - |
-| RF30 | - | [UC10] | [USA05] | [L05] | - | - | - | [NFR03] [NFR04] [NFR05] | - |
-| RF31 | [Cenário 2] | [UC05] | [SUP05] | - | - | - | - | [NFR04] | - |
-| RF32 | - | [UC14] | [USA06] | [L06] [L10] [L14] | - | - | - | [NFR05] | - |
-| RF33 | [Cenário 2] | [UC11] | - | - | - | - | - | - | - |
+| RF26 | - | - | [SUP01](modelagem/especificacao_suplementar.md#s-suporte-supportability) | - | - | - | - | [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) | Em desenvolvimento |
+| RF27 | - | - | [USA03](modelagem/especificacao_suplementar.md#u-usabilidade-usability) [USA04](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | - | - | - | - | [NFR03](modelagem/agil/nfr_framework.md#nfr03-portabilidade) [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | - |
+| RF28 | - | [UC10](modelagem/casos_de_uso.md#uc10-agendar-atendimento) | [USA05](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) | - | - | - | [NFR03](modelagem/agil/nfr_framework.md#nfr03-portabilidade) [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | - |
+| RF29 | - | [UC14](modelagem/casos_de_uso.md#uc14-assinar-documentos-digitalmente) | [USA06](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | [L06](modelagem/lexicos.md#léxicos-do-tipo-verbo) | - | - | - | [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | - |
+| RF30 | - | [UC10](modelagem/casos_de_uso.md#uc10-agendar-atendimento) | [USA05](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) | - | - | - | [NFR03](modelagem/agil/nfr_framework.md#nfr03-portabilidade) [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | - |
+| RF31 | [Cenário 2](modelagem/cenarios.md#cenário-2-simulação-de-aposentadoria-govbr) | [UC05](modelagem/casos_de_uso.md#uc05-consultar-benefícios) | [SUP05](modelagem/especificacao_suplementar.md#s-suporte-supportability) | - | - | - | - | [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) | - |
+| RF32 | - | [UC14](modelagem/casos_de_uso.md#uc14-assinar-documentos-digitalmente) | [USA06](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | [L06](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L10](modelagem/lexicos.md#léxicos-do-tipo-objeto) [L14](modelagem/lexicos.md#léxicos-do-tipo-objeto) | - | - | - | [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | - |
+| RF33 | [Cenário 2](modelagem/cenarios.md#cenário-2-simulação-de-aposentadoria-govbr) | [UC11](modelagem/casos_de_uso.md#uc11-solicitar-prova-de-vida) | - | - | - | - | - | - | - |
 | RF34 | - | - | - | - | - | - | - | - | - |
-| RF35 | - | - | [CON04] [CON05] | [L05] [L07] [L19] | - | - | - | [NFR01] [NFR06] | - |
-| RF36 | - | [UC10] | [USA05] | [L05] | - | - | - | [NFR03] [NFR04] [NFR05] | - |
+| RF35 | - | - | [CON04](modelagem/especificacao_suplementar.md#r-confiabilidade-reliability) [CON05](modelagem/especificacao_suplementar.md#r-confiabilidade-reliability) | [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L07](modelagem/lexicos.md#léxicos-do-tipo-verbo) [L19](modelagem/lexicos.md#léxicos-do-tipo-estado) | - | - | - | [NFR01](modelagem/agil/nfr_framework.md#nfr1-confiabilidade) [NFR06](modelagem/agil/nfr_framework.md#nfr06-restrição-de-design) | - |
+| RF36 | - | [UC10](modelagem/casos_de_uso.md#uc10-agendar-atendimento) | [USA05](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | [L05](modelagem/lexicos.md#léxicos-do-tipo-verbo) | - | - | - | [NFR03](modelagem/agil/nfr_framework.md#nfr03-portabilidade) [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | - |
 | RF37 | - | - | - | - | - | - | - | - | - |
 | RF38 |  |  |  |  |  |  |  |  |  |
 | RF39 | - | - | - | - | - | - | - | - | - |
@@ -98,28 +98,28 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 
 |  ID  | Cenário | Caso de Uso | Especificação Suplementar | Léxico | Épico | Tema | História de Usuário | NFR Framework | Implementação |
 |:----:|:-------:|:-----------:|:-------------------------:|:------:|:-----:|:----:|:-------------------:|:-------------:|:-------------:|
-| RNF01 | - | - | [CON01] | - | - | - | - | [NFR01] | Sim |
-| RNF02 | - | - | [USA01] | - | - | - | - | [NFR05] | Sim |
-| RNF03 | - | - | [DES01] | - | - | - | - | [NFR03] | Sim |
-| RNF04 | - | - | [INT01] | - | - | - | - | - | Sim |
-| RNF05 | - | - | [INT02] | - | - | - | - | - | Sim |
-| RNF06 | - | - | [INT03] | - | - | - | - | - | Sim |
-| RNF07 | - | - | [RD01 ] | - | - | - | - | [NFR06] | Sim |
-| RNF08 | - | - | [SUP01] | - | - | - | - | [NFR04] | Sim |
-| RNF09 | - | - | [CON03] | - | - | - | - | [NFR05] | Sim |
+| RNF01 | - | - | [CON01](modelagem/especificacao_suplementar.md#r-confiabilidade-reliability) | - | - | - | - | [NFR01](modelagem/agil/nfr_framework.md#nfr1-confiabilidade) | Sim |
+| RNF02 | - | - | [USA01](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | - | - | - | - | [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | Sim |
+| RNF03 | - | - | [DES01](modelagem/especificacao_suplementar.md#p-desempenho-performance) | - | - | - | - | [NFR03](modelagem/agil/nfr_framework.md#nfr03-portabilidade) | Sim |
+| RNF04 | - | - | [INT01](modelagem/especificacao_suplementar.md#-interfaces) | - | - | - | - | - | Sim |
+| RNF05 | - | - | [INT02](modelagem/especificacao_suplementar.md#-interfaces)  | - | - | - | - | - | Sim |
+| RNF06 | - | - | [INT03](modelagem/especificacao_suplementar.md#-interfaces)  | - | - | - | - | - | Sim |
+| RNF07 | - | - | [RD01 ](modelagem/especificacao_suplementar.md#-restrições-de-design) | - | - | - | - | [NFR06](modelagem/agil/nfr_framework.md#nfr06-restrição-de-design) | Sim |
+| RNF08 | - | - | [SUP01](modelagem/especificacao_suplementar.md#s-suporte-supportability) | - | - | - | - | [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) | Sim |
+| RNF09 | - | - | [CON03](modelagem/especificacao_suplementar.md#r-confiabilidade-reliability) | - | - | - | - | [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | Sim |
 | RNF10 | NÃO UTILIZADO |  |  |  |  |  |  |  |  |
 | RNF11 | - | - | - | - | - | - | - | - | - |
-| RNF12 | - | - | [RD02 ] | - | - | - | - | [NFR06] | Não |
-| RNF13 | - | - | [USA03] | - | - | - | - | [NFR05] | Não |
-| RNF14 | - | - | [DES02] | - | - | - | - | [NFR03] | Não |
-| RNF15 | - | - | [SUP02] | - | - | - | - | [NFR04] | Não |
+| RNF12 | - | - | [RD02 ](modelagem/especificacao_suplementar.md#-restrições-de-design) | - | - | - | - | [NFR06](modelagem/agil/nfr_framework.md#nfr06-restrição-de-design) | Não |
+| RNF13 | - | - | [USA03](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | - | - | - | - | [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | Não |
+| RNF14 | - | - | [DES02](modelagem/especificacao_suplementar.md#p-desempenho-performance) | - | - | - | - | [NFR03](modelagem/agil/nfr_framework.md#nfr03-portabilidade) | Não |
+| RNF15 | - | - | [SUP02](modelagem/especificacao_suplementar.md#s-suporte-supportability) | - | - | - | - | [NFR04](modelagem/agil/nfr_framework.md#nfr04-desempenho-performance) | Não |
 | RNF16 | - | - | - | - | - | - | - | - | - |
-| RNF17 | - | - | [USA02] | - | - | - | - | [NFR05] | Sim |
-| RNF18 | - | - | [DES03] | - | - | - | - | [NFR03] | Sim |
+| RNF17 | - | - | [USA02](modelagem/especificacao_suplementar.md#u-usabilidade-usability) | - | - | - | - | [NFR05](modelagem/agil/nfr_framework.md#nfr05-usabilidade) | Sim |
+| RNF18 | - | - | [DES03](modelagem/especificacao_suplementar.md#p-desempenho-performance) | - | - | - | - | [NFR03](modelagem/agil/nfr_framework.md#nfr03-portabilidade) | Sim |
 | RNF19 | NÃO UTILIZADO |  |  |  |  |  |  |  |  |
-| RNF20 | - | - | [CON02] | - | - | - | - | [NFR01] | Sim |
-| RNF21 | - | - | [AD01 ] | - | - | - | - | [NFR02] | Sim |
-| RNF22 | - | - | [AD02 ] | - | - | - | - | [NFR02] | Sim |
+| RNF20 | - | - | [CON02](modelagem/especificacao_suplementar.md#r-confiabilidade-reliability) | - | - | - | - | [NFR01](modelagem/agil/nfr_framework.md#nfr1-confiabilidade) | Sim |
+| RNF21 | - | - | [AD01 ](modelagem/especificacao_suplementar.md#-ajuda-e-documentação) | - | - | - | - | [NFR02](modelagem/agil/nfr_framework.md#nfr02-ajuda-e-documentação) | Sim |
+| RNF22 | - | - | [AD02 ](modelagem/especificacao_suplementar.md#-ajuda-e-documentação) | - | - | - | - | [NFR02](modelagem/agil/nfr_framework.md#nfr02-ajuda-e-documentação) | Sim |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
