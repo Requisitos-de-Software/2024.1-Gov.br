@@ -212,3 +212,4 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | 1.0 | 22/06/2024 | Criação do Documento | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH) |
+| 1.1 | 24/06/2024 | Finalização do artefato | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH) | [Ester Lino](https://github.com/esteerlino) |
