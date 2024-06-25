@@ -70,25 +70,25 @@ Nas tabelas 1 e 2 são apresentados os requisitos funcionais e não funcionais e
 | RF23 | Não utilizado | - | - | - | - | - | - | - | - |
 | RF24 | Não utilizado | - | - | - | - | - | - | - | - |
 | RF25 | - | - | - | [L07](modelagem/lexicos.md#léxicos-do-tipo-verbo) | - | - | - | - | - |
-| RF26 |  |  |  |  |  |  |  |  |  |
-| RF27 | * |  |  |  |  |  |  |  |  |
-| RF28 | * |  |  |  |  |  |  |  |  |
-| RF29 | * |  |  |  |  |  |  |  |  |
-| RF30 |  |  |  |  |  |  |  |  |  |
-| RF31 |  |  |  |  |  |  |  |  |  |
-| RF32 | * |  |  |  |  |  |  |  |  |
-| RF33 | * |  |  |  |  |  |  |  |  |
-| RF34 | * |  |  |  |  |  |  |  |  |
-| RF35 | * |  |  |  |  |  |  |  |  |
-| RF36 | * |  |  |  |  |  |  |  |  |
+| RF26 | - | - | [SUP01] | - | - | - | - | [NFR04] | Em desenvolvimento |
+| RF27 | - | - | [USA03] [USA04] | - | - | - | - | [NFR03] [NFR04] [NFR05] | - |
+| RF28 | - | [UC10] | [USA05] | [L05] | - | - | - | [NFR03] [NFR04] [NFR05] | - |
+| RF29 | - | [UC14] | [USA06] | [L06] | - | - | - | [NFR05] | - |
+| RF30 | - | [UC10] | [USA05] | [L05] | - | - | - | [NFR03] [NFR04] [NFR05] | - |
+| RF31 | [Cenário 2] | [UC05] | [SUP05] | - | - | - | - | [NFR04] | - |
+| RF32 | - | [UC14] | [USA06] | [L06] [L10] [L14] | - | - | - | [NFR05] | - |
+| RF33 | [Cenário 2] | [UC11] | - | - | - | - | - | - | - |
+| RF34 | - | - | - | - | - | - | - | - | - |
+| RF35 | - | - | [CON04] [CON05] | [L05] [L07] [L19] | - | - | - | [NFR01] [NFR06] | - |
+| RF36 | - | [UC10] | [USA05] | [L05] | - | - | - | [NFR03] [NFR04] [NFR05] | - |
 | RF37 | - | - | - | - | - | - | - | - | - |
 | RF38 |  |  |  |  |  |  |  |  |  |
 | RF39 | - | - | - | - | - | - | - | - | - |
-| RF40 | * |  |  |  |  |  |  |  |  |
-| RF41 |  |  |  |  |  |  |  |  |  |
-| RF42 |  |  |  |  |  |  |  |  |  |
-| RF43 |  |  |  |  |  |  |  |  |  |
-| RF44 |  |  |  |  |  |  |  |  |  |
+| RF40 | Não utilizado | - | - | - | - | - | - | - | - |
+| RF41 | - | - | - | - | - | - | - | - | - |
+| RF42 | - | - | - | - | - | - | - | - | - |
+| RF43 | - | - | - | - | - | - | - | - | - |
+| RF44 | - | - | - | - | - | - | - | - | - |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a>, <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a> </p></font>
 
