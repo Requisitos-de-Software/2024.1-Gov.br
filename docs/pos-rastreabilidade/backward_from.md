@@ -91,6 +91,8 @@ Consequentemente, foi criada uma tabela para cada tipo de requisito (RF e RNF) d
 | RF41 | Como usuário, desejo poder acessar meus documentos mesmo sem conexão com a internet.          | [ST14](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Não |
 | RF42 | Como usuário, desejo garantir a privacidade das informações pessoais.                         | [ST15](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Sim |
 
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="[https://github.com/thiagorfreitas">Thiago Freitas</a></p></font>
+
 ### Requisitos Não Funcionais (RNF)
 
 <font><p style="text-align: center">**Tabela 2:** Tabela de requisitos não funcionais.</p></font>
@@ -119,7 +121,7 @@ Consequentemente, foi criada uma tabela para cada tipo de requisito (RF e RNF) d
 | RNF20 | Confiabilidade: O aplicativo deve manter a integridade dos documentos e informações consultadas. | [ST20](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Sim |
 | RNF21 | Atualização: O aplicativo deve manter os usuários informados sobre novidades e atualizações importantes. | [ST21](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Sim |
 | RNF22 | Privacidade: Garantir que as informações dos usuários não sejam compartilhadas sem permissão. | [ST22](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Sim |
-
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></p></font>
 
 
 ## Tabela de rastreamento dos requisitos funcionais
@@ -169,6 +171,7 @@ Consequentemente, foi criada uma tabela para cada tipo de requisito (RF e RNF) d
 | ELOB40 |  RF40    | Como usuário, desejo acesso rápido aos meus documentos no celular, sem a necessidade de documentos físicos. | Recurso | Este requisito depende de recursos tecnológicos para implementar o acesso rápido a documentos no celular. |
 | ELOB41 |  RF41    | Como usuário, desejo poder acessar meus documentos mesmo sem conexão com a internet. | Recurso | Este requisito depende de recursos tecnológicos para implementar o acesso offline a documentos. |
 | ELOB42 |  RF42    | Como usuário, desejo garantir a privacidade das informações pessoais. | Responsabilidade | Este requisito envolve a responsabilidade de proteger a privacidade das informações pessoais dos usuários. |
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/Caio-bergbjj">Caio Berg</a></p></font>
 
 ## Tabela de rastreamento dos requisitos não funcionais
 <font><p style="text-align: center">**Tabela 4:** Tabela de rastreamento dos requisitos não funcionais.</p></font>
@@ -197,6 +200,8 @@ Consequentemente, foi criada uma tabela para cada tipo de requisito (RF e RNF) d
 | ELOB62 |  RNF20   | Confiabilidade: O aplicativo deve manter a integridade dos documentos e informações consultadas. | Satisfação | Este requisito visa garantir a satisfação dos usuários com a confiabilidade do aplicativo. |
 | ELOB63 |  RNF21   | Atualização: O aplicativo deve manter os usuários informados sobre novidades e atualizações importantes. | Satisfação | Este requisito garante a satisfação dos usuários com a comunicação de atualizações importantes. |
 | ELOB64 |  RNF22   | Privacidade: Garantir que as informações dos usuários não sejam compartilhadas sem permissão. | Responsabilidade | Este requisito envolve a responsabilidade de proteger a privacidade dos usuários. |
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></p></font>
 
 ## Referência Bibliografia
 
