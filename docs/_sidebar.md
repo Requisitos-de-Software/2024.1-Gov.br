@@ -101,6 +101,7 @@
   - [Entrega 3]()
     - [Especificação Suplementar](verificacao/grupo_4/entrega3/verificação_especificação_suplementar.md)
   - [Entrega 4]()
+    - [Backlog](verificacao/grupo_4/entrega4/verifcacao_backlog.md)
    
 **Pós-rastreabilidade**
 
