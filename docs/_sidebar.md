@@ -1,3 +1,4 @@
+
 - [Home](README.md)
 
 **Apresentações**
@@ -91,7 +92,15 @@
     - [Backlog](verificacao/grupo+1/entrega4/backlog.md)
     - [Histórias de Usuário](verificacao/grupo+1/entrega4/historias_usuario.md)
     - [NFR FRAMEWORK](verificacao/grupo+1/entrega4/nfr_verificacao.md)
-   
+- [Grupo 04]()
+  - [Entrega 1]()
+  - [Entrega 2]()
+    - [Perfil do Usuário](verificacao/grupo_4/entrega2/verificacao_perfil_do_usuario.md)
+    - [Elicitação]()
+      - [Brainstorm](verificacao/grupo_4/entrega2/elicitacao/verficacao_brainstorm.md)
+  - [Entrega 3]()
+    - [Especificação Suplementar](verificacao/grupo_4/entrega3/verificação_especificação_suplementar.md)
+  - [Entrega 4]()
    
 **Pós-rastreabilidade**
 
