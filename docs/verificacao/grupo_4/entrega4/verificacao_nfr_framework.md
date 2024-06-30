@@ -1,8 +1,8 @@
-# Verificação - Backlog 
+# Verificação - NFR Framework
 
 ## Introdução
 
-Nesse documento será relatado a inspeção feita no artefato [Backlog](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/backlog) realizado pelos integrantes do [grupo 4](https://github.com/Requisitos-de-Software/2024.1-Gov.br) da disciplina de Requisitos de Software.
+Nesse documento será relatado a inspeção feita no artefato [NFR Framework](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/nfr_framework) realizado pelo [grupo 4](https://github.com/Requisitos-de-Software/2024.1-Gov.br) da disciplina de Requisitos de Software.
 
 ## Metodologia
 
@@ -29,36 +29,39 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | O backlog contém todas as funcionalidades desejadas?[¹](#ref1) |  |
-| 2 | O backlog foi elaborado juntamente com o PO?[¹](#ref1) |  |
-| 3 | O backlog apresenta as prioridades das tarefas?[¹](#ref1) |  |
-| 4 | O backlog divide os itens em tarefas menores?[¹](#ref1) |  |
-| 5 | A especifição está baseada nas histórias de usuário?[¹](#ref1) |  |
-| 6 | As histórias de usuário estão relacionadas aos temas e épicos definidos?[¹](#ref1) |  |
-
-
+| 1 | Cada NFR possui um cartão de especificação?[¹](#ref1) |  |
+| 2 | Cada NFR possui um gráfico de interdependência de softgoals?[¹](#ref1) |  |
+| 3 | Cada NFR possui um gráfico de propagação de impactos?[¹](#ref1) |  |
+| 4 | Os softgoals possuem relações de interdependência?[¹](#ref1)|  |
+| 5 | Os requisitos analisados são não funcionais?[¹](#ref1)|  |
+| 6 | Os cartões de especificação possuem as características: Descrição; Justificativa; Origem; Critério de aceitação; Dependências; Prioridade; Conflitos e História?[¹](#ref1) |  |
 <div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
 
 ## Fontes das perguntas - Checklist Específica
 
 </details>
-<details><summary>Pergunta 1 e 2</summary>
-<img src="assets/verificacao/backlog1.png" alt="ref" width="700"/>
+<details><summary>Pergunta 1</summary>
+<img src="assets/verificacao/nfr1.png" alt="ref" width="700"/>
 </details>
 
 </details>
-<details><summary>Pergunta 3 e 4</summary>
-<img src="assets/verificacao/backlog2.png" alt="ref" width="700"/>
+<details><summary>Pergunta 2 e 4</summary>
+<img src="assets/verificacao/nfr2.png" alt="ref" width="700"/>
+</details>
+
+</details>
+<details><summary>Pergunta 3</summary>
+<img src="assets/verificacao/nfr3.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 5</summary>
-<img src="assets/verificacao/backlog3.png" alt="ref" width="700"/>
+<img src="assets/verificacao/nfr5.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 6</summary>
-<img src="assets/verificacao/backlog4.png" alt="ref" width="700"/>
+<img src="assets/verificacao/nfr6.png" alt="ref" width="700"/>
 </details>
 
 ## Problemas Encontrados
@@ -74,7 +77,7 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 <a id="ref1"></a>
 
-> [1] SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 15): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>>. Acesso em: 30/06/2024.
+> [1] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, 2019. Disponível em: https://aprender3.unb.br/pluginfile.php/2845051/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf. Acesso em: 8 de junho de 2024.
 
 <a id="ref2"></a>
 
@@ -84,4 +87,4 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
-|  1.0   | 30/06/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha) | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) |
+|  1.0   | 30/06/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha) | [Caio Berg](https://github.com/Caio-bergbjj), [Isaque Santos](https://github.com/IsaqueSH) |
