@@ -90,8 +90,7 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 ### Gravação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h_2K-9yeCwI" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h_2K-9yeCwI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
