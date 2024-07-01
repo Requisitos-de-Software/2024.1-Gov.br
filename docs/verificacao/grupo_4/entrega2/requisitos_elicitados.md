@@ -16,7 +16,7 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
 | 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                       |         Sim         |
-| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |         Sim         |
+| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |         Não se aplica        |
 | 3   | O artefato possui uma introdução?[²](#ref2)                                                                                    |         Sim         |
 | 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                             |         Sim         |
 | 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |         Sim         |
@@ -72,6 +72,10 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 - **Identificação e Gerenciamento de Riscos**: A documentação menciona riscos associados aos requisitos, mas não há uma estratégia detalhada documentada para mitigar esses riscos.
 - **Requisitos de Escalabilidade e Desempenho**: Embora existam requisitos não funcionais que abordam a performance, não há uma definição clara e detalhada dos requisitos de escalabilidade e desempenho.
+
+## Gravação da verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5rm6IF62TE?si=yyMsM24q_Tth1qCp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
