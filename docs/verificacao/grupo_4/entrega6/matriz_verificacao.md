@@ -23,7 +23,7 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
 | 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |       Sim           |
-| 2   | O artefato inclui referências bibliográficas?                                                                        |       Não           |
+| 2   | O artefato inclui referências bibliográficas?                                                                        |       Não se aplica           |
 | 3   | O artefato possui uma introdução?                                                                                   |        Sim          |
 | 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |       Sim           |
 | 5  | A linguagem e a ortografia estão corretas?                                                                           |        Sim          |
@@ -76,7 +76,8 @@ Sim
 
 
 ## Problemas Encontrados
-1. O artefato não possui referências bibliográficas.
+
+- Não foram encontrados problemas na matriz de rastreabilidade.
 
 ## Bibliografia
 
@@ -87,6 +88,10 @@ Sim
 <a id="ref2"></a>
 
 2. Rastreabilidade - Monografia - Miriam Sayão e Julio Prado Leite
+
+## Gravação da Verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/npB8yM1qVsQ?si=KDzgZamIpO9eSnsp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Histórico de versão
