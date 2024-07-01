@@ -98,6 +98,7 @@
     - [Perfil do Usuário](verificacao/grupo_4/entrega2/verificacao_perfil_do_usuario.md)
     - [Elicitação]()
       - [Brainstorm](verificacao/grupo_4/entrega2/elicitacao/verficacao_brainstorm.md)
+      - [Termo de Consentimento](verificacao/grupo_4/entrega2/elicitacao/verificacao_termo_de_consentimento.md)
   - [Entrega 3]()
     - [Especificação Suplementar](verificacao/grupo_4/entrega3/verificação_especificação_suplementar.md)
   - [Entrega 4]()

@@ -29,30 +29,37 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 <font><p style="text-align: center">**Tabela 1:** Checklist de Avaliação.</p></font>
 
-| ID  | Descrição                                                                         | Avaliação |
+| Número  | Ponto                                                                         | Avaliação |
 |-----|-----------------------------------------------------------------------------------|-----------|
-| 1   | O artefato contém a especificação suplementar completa?                           | Sim       |
-| 2   | A especificação suplementar segue o modelo FURPS+?                                | Sim       |
-| 3   | O artefato possui um tópico de Funcionalidade com requisitos testáveis?           | Sim       |
-| 4   | O artefato possui um tópico de Usabilidade com requisitos testáveis?              | Sim       |
-| 5   | Os requisitos facilitam as tarefas realizadas pelos usuários?                     | Sim       |
-| 6   | O artefato possui um tópico de Confiabilidade?                                    | Sim       |
-| 7   | Os requisitos aumentam a confiabilidade do sistema?                               | Sim       |
-| 8   | O artefato especifica o Tempo Médio entre Falhas (MTBF)?                          | Não       |
-| 9   | O artefato especifica o Tempo Médio para Reparos (MTTR)?                          | Não       |
-| 10  | Os requisitos relacionados à segurança são apresentados?                          | Sim       |
-| 11  | O artefato possui um tópico de Desempenho com requisitos testáveis?               | Sim       |
-| 12  | Os requisitos sobre tempos de resposta são apresentados com tempos especificados? | Sim       |
-| 13  | O artefato especifica tempo de resposta de transação (médio, máximo)?             | Sim       |
-| 14  | O artefato especifica taxa de transferência (ex: transações por segundo)?         | Sim       |
-| 15  | Os requisitos sobre a disponibilidade são apresentados?                           | Sim       |
-| 16  | O artefato possui um tópico de Suportabilidade com requisitos testáveis?          | Sim       |
-| 17  | Os sistemas operacionais suportados pelo sistema são apresentados?                | Sim       |
-| 18  | O artefato possui um tópico de Restrições de Design com requisitos testáveis?     | Sim       |
-| 19  | Os requisitos especificam ou restringem o design do sistema?                      | Sim       |
-| 20  | O artefato possui um tópico de Requisitos de Implementação com requisitos testáveis?| Sim     |
+| 1   | A especificação suplementar segue o modelo FURPS+?                                |        |
+| 3   | O artefato possui um tópico de Funcionalidade com requisitos testáveis?           |        |
+| 4   | O artefato possui um tópico de Usabilidade com requisitos testáveis?              |        |
+| 5   | Os requisitos facilitam as tarefas realizadas pelos usuários?                     |        |
+| 6   | O artefato possui um tópico de Confiabilidade?                                    |        |
+| 7   | Os requisitos aumentam a confiabilidade do sistema?                               |        |
+| 8   | O artefato especifica o Tempo Médio entre Falhas (MTBF)?                          |         |
+| 9   | O artefato especifica o Tempo Médio para Reparos (MTTR)?                          |         |
+| 10  | Os requisitos relacionados à segurança são apresentados?                          |        |
+| 11  | O artefato possui um tópico de Desempenho com requisitos testáveis?               |        |
+| 12  | Os requisitos sobre tempos de resposta são apresentados com tempos especificados? |        |
+| 13  | O artefato especifica tempo de resposta de transação (médio, máximo)?             |        |
+| 14  | O artefato especifica taxa de transferência (ex: transações por segundo)?         |        |
+| 15  | Os requisitos sobre a disponibilidade são apresentados?                           |        |
+| 16  | O artefato possui um tópico de Suportabilidade com requisitos testáveis?          |        |
+| 17  | Os sistemas operacionais suportados pelo sistema são apresentados?                |        |
+| 18  | O artefato possui um tópico de Restrições de Design com requisitos testáveis?     |        |
+| 19  | Os requisitos especificam ou restringem o design do sistema?                      |        |
+| 20  | O artefato possui um tópico de Requisitos de Implementação com requisitos testáveis?|      |
 
 <div align="center">Autor(a): <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
+
+## Fontes das perguntas - Checklist Específica
+
+</details>
+<details><summary>Pergunta 1</summary>
+<img src="assets/verificacao/suplementar1.png" alt="ref" width="700"/>
+</details>
+
 
 
 ## Referências Bibliográficas
