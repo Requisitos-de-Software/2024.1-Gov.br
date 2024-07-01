@@ -83,9 +83,7 @@ Consequentemente, foi criada uma tabela para cada tipo de requisito (RF e RNF) d
 | RF33 | Como usuário, desejo continuar recebendo minha aposentadoria através da função de prova de vida. | [ST07](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Sim |
 | RF34 | Como usuário, desejo uma navegação intuitiva para buscar processos e documentos. | [ST08](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Sim |
 | RF35 | Como usuário, desejo garantir a segurança na transmissão e armazenamento de documentos sensíveis. | [ST09](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Sim |
-| RF36 | Como usuário, desejo eficiência no agendamento e acompanhamento de processos. | [ST10](https://requisitos-de-software.github.io/2024.1-Gov.br/#
-
-/elicitacao/storytelling) | Sim |
+| RF36 | Como usuário, desejo eficiência no agendamento e acompanhamento de processos. | [ST10](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Sim |
 | RF37 | Como usuário, desejo receber atualizações relevantes sobre processos e benefícios sociais. | [ST11](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/storytelling) | Sim |
 | RF38 | Como usuário, desejo substituir minha carteira física por uma versão digital no aplicativo. | Igual ao RF32 | Sim |
 | RF39 | Como usuário, desejo acesso rápido aos meus documentos no celular, sem a necessidade de documentos físicos. | Igual ao RF13 | Sim |
