@@ -14,12 +14,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto                                                                                                    | Avaliação |
 | ------ | -------------------------------------------------------------------------------------------------------- | --------- |
-| 1      | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores? |           |
-| 2      | O artefato inclui referências bibliográficas?                                                  |           |
-| 3      | O artefato possui uma introdução?                                                              |           |
-| 4      | Todas as tabelas possuem legendas e fontes padronizadas?                                       |           |
-| 5      | A linguagem e a ortografia estão corretas?                                                     |           |
-| 6      | O artefato contém links para outros artefatos relacionados?                                    |           |
+| 1      | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores? |    Sim    |
+| 2      | O artefato inclui referências bibliográficas?                                                  |    Sim    |
+| 3      | O artefato possui uma introdução?                                                              |    Sim    |
+| 4      | Todas as tabelas possuem legendas e fontes padronizadas?                                       |    Sim    |
+| 5      | A linguagem e a ortografia estão corretas?                                                     |    Sim    |
+| 6      | O artefato contém links para outros artefatos relacionados?                                    |    Sim    |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -29,12 +29,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto                                                                                                                                                                     | Avaliação |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| 1      | Os casos de uso são claramente descritos e fáceis de entender para todas as partes interessadas?[¹](#ref1)                                                                |           |
-| 2      | Há consistência nos casos de uso descritos? Não existem contradições entre os casos de uso que possam causar confusões ou erros durante o desenvolvimento?[¹](#ref1)      |           |
-| 3      | Os casos de uso podem ser rastreados até suas fontes originais para verificar sua validade e relevância?[¹](#ref1)                                                        |           |
-| 4      | Os riscos associados aos casos de uso são identificados e gerenciados? Existem estratégias documentadas para mitigar os riscos identificados?[2](#ref2)                   |           |
-| 5      | Os casos de uso são testáveis? Há critérios claros que permitem verificar se os casos de uso foram atendidos?[³](#ref3)                                                   |           |
-| 6      | Como os casos de uso são gerenciados em caso de mudanças? Existe um processo claro para modificar os casos de uso após eles serem inicialmente definidos?[¹](#ref1)       |           |
+| 1      | Os casos de uso são claramente descritos e fáceis de entender para todas as partes interessadas?[¹](#ref1)                                                                |    Sim    |
+| 2      | Há consistência nos casos de uso descritos? Não existem contradições entre os casos de uso que possam causar confusões ou erros durante o desenvolvimento?[¹](#ref1)      |    Sim    |
+| 3      | Os casos de uso podem ser rastreados até suas fontes originais para verificar sua validade e relevância?[¹](#ref1)                                                        |    Sim    |
+| 4      | Os riscos associados aos casos de uso são identificados e gerenciados? Existem estratégias documentadas para mitigar os riscos identificados?[2](#ref2)                   |    Não    |
+| 5      | Os casos de uso são testáveis? Há critérios claros que permitem verificar se os casos de uso foram atendidos?[³](#ref3)                                                   |    Sim    |
+| 6      | Como os casos de uso são gerenciados em caso de mudanças? Existe um processo claro para modificar os casos de uso após eles serem inicialmente definidos?[¹](#ref1)       |    Não    |
 
 <div align="center">Autor(a): <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></div>
 
@@ -69,7 +69,13 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 <img src="assets/verificacao/usecase_6.png" alt="ref" width="700"/>
 </details>
 
-## Problemas Encontrados
+## Problemas Encontrado
+- O documento não apresenta informações sobre a identificação e gerenciamento de riscos associados aos casos de uso.
+- O documento não apresenta informações sobre o processo de gerenciamento de mudanças nos casos de uso.
+
+## Recomendações
+- Identificar e documentar os riscos associados aos casos de uso, bem como as estratégias para mitigá-los.
+- Definir um processo claro para gerenciar mudanças nos casos de uso após serem inicialmente definidos.
 
 ## Referência Bibliográfica
 
@@ -81,4 +87,5 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Versão | Data       | Descrição         | Responsáveis                                 | Revisor(es)                                                                                                                                                                                                                                                                                                                                              |
 | ------ | ---------- | ----------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0    | 30/06/2024 | Criação da página | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 1.0    | 30/06/2024 | Criação da página | [Arthur Gabriel](https://github.com/ArthurGabrieel) |  [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 1.1    | 30/06/2024 | Realização da verificação | [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
