@@ -19,6 +19,7 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 ### Checklist Geral
 
 <font><p style="text-align: center">**Tabela 1:** Checklist de Avaliação Geral.</p></font>
+
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
 | 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |                  |
