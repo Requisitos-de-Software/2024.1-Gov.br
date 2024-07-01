@@ -15,12 +15,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                       |                  |
-| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |                  |
-| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                    |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                       |         Sim         |
+| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |         Sim         |
+| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                    |         Sim         |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                             |         Sim         |
+| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |         Sim         |
+| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |         Sim         |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -30,14 +30,14 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto                                                                                                                      | Avaliação    |
 |--------|----------------------------------------------------------------------------------------------------------------------------|--------------|
-| 1      | Existe um registro claro das versões do documento de requisitos?[¹](#ref1)                                  |  |
-| 2      | Os requisitos são claramente descritos e fáceis de entender para todas as partes interessadas?[¹](#ref1)                              |           |
-| 3      | Há consistência nos requisitos elicitados? Não existem contradições entre os requisitos que possam causar confusões ou erros durante o desenvolvimento?[¹](#ref1)  |      |
-| 4      | Os requisitos podem ser rastreados até suas fontes originais para verificar sua validade e relevância?[¹](#ref1)                      |           |
-| 5      | Os riscos associados aos requisitos são identificados e gerenciados? Existem estratégias documentadas para mitigar os riscos identificados?[¹](#ref1)         |    |
-| 6      | Os requisitos são testáveis? Há critérios claros que permitem verificar se os requisitos foram atendidos?[¹](#ref1)                   |           |
-| 7      | Como os requisitos são gerenciados em caso de mudanças? Existe um processo claro para modificar os requisitos após eles serem inicialmente definidos?[¹](#ref1)  |        |
-| 8      | Os requisitos de escalabilidade e desempenho são abordados? Eles estão claramente definidos para facilitar o planejamento de capacidade e a gestão de recursos?[¹](#ref1) |  |
+| 1      | Existe um registro claro das versões do documento de requisitos?[¹](#ref1)                                  | Sim  |
+| 2      | Os requisitos são claramente descritos e fáceis de entender para todas as partes interessadas?[¹](#ref1)                              |     Sim      |
+| 3      | Há consistência nos requisitos elicitados? Não existem contradições entre os requisitos que possam causar confusões ou erros durante o desenvolvimento?[¹](#ref1)  |   Sim   |
+| 4      | Os requisitos podem ser rastreados até suas fontes originais para verificar sua validade e relevância?[¹](#ref1)                      |     Sim      |
+| 5      | Os riscos associados aos requisitos são identificados e gerenciados? Existem estratégias documentadas para mitigar os riscos identificados?[¹](#ref1)         |  Parcialmente  |
+| 6      | Os requisitos são testáveis? Há critérios claros que permitem verificar se os requisitos foram atendidos?[¹](#ref1)                   |   Sim        |
+| 7      | Como os requisitos são gerenciados em caso de mudanças? Existe um processo claro para modificar os requisitos após eles serem inicialmente definidos?[¹](#ref1)  |    Sim    |
+| 8      | Os requisitos de escalabilidade e desempenho são abordados? Eles estão claramente definidos para facilitar o planejamento de capacidade e a gestão de recursos?[¹](#ref1) | Parcialmente |
 
 <div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></div>
 
@@ -69,6 +69,9 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 
 ## Problemas Encontrados
+
+- **Identificação e Gerenciamento de Riscos**: A documentação menciona riscos associados aos requisitos, mas não há uma estratégia detalhada documentada para mitigar esses riscos.
+- **Requisitos de Escalabilidade e Desempenho**: Embora existam requisitos não funcionais que abordam a performance, não há uma definição clara e detalhada dos requisitos de escalabilidade e desempenho.
 
 ## Bibliografia
 
