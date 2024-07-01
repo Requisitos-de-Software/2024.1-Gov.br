@@ -8,7 +8,7 @@ Esta página apresenta a estrutura geral para análise dos artefatos desenvolvid
 
 A verificação dos artefatos será feita usando o método de Inspeção desenvolvido por Michael E. Fagan. Cada entrega possui o seu próprio planejamento, que contém todas as checklists necessárias para realizar a inspeção. Além disso, cada membro do grupo ficou responsável por verificar ao menos um artefato e gravar um vídeo individual realizando a inspeção de lagum dos documentos.
 
-## Verificação do grupo 02
+## Verificação do grupo 04
 
 A tabela 1 apresenta a organização do [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/) para verificar os artefatos do [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/). Na tabela é possível visualizar a versão, o autor e o responsável por verificar cada artefato.
 
