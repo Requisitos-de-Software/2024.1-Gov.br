@@ -114,8 +114,9 @@
     - [NFR FRAMEWORK](verificacao/grupo_4/entrega4/verificacao_nfr_framework.md)
     - [Histórias de Usuário](verificacao/grupo_4/entrega4/historias_de_usuario.md)
   - [Entrega 6]()
+    - [Forward-From](verificacao/grupo_4/entrega6/foward.md)
+    - [Backward-From](verificacao/grupo_4/entrega6/backward.md)
     - [Matriz de rastreabilidade](verificacao/grupo_4/entrega6/matriz_verificacao.md)
-    - [Foward-From](verificacao/grupo_4/entrega6/foward.md)
    
 **Pós-rastreabilidade**
 
