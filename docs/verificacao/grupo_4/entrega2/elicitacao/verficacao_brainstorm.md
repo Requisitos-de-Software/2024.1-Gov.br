@@ -88,6 +88,10 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 - Se disponível, forneça uma descrição mais detalhada dos perfis dos participantes para entender melhor o contexto do seu feedback.
 - Elabore a decisão de não incluir uma etapa de priorização e explique como as ideias geradas serão avaliadas posteriormente.
 
+### Gravação
+
+<iframe width="560" height="315" src="https://youtu.be/h_2K-9yeCwI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
