@@ -77,6 +77,11 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 - Identificar e documentar os riscos associados aos casos de uso, bem como as estratégias para mitigá-los.
 - Definir um processo claro para gerenciar mudanças nos casos de uso após serem inicialmente definidos.
 
+## Gravação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3NeIlZ_NtPI" frameborder="0" allowfullscreen></iframe>
+
+
 ## Referência Bibliográfica
 
 1. ISO/IEC/IEEE 29148:2011(E) - Systems and software engineering -- Life cycle processes -- Requirements engineering
