@@ -47,6 +47,28 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div> 
 
+## Fontes das perguntas - Checklist Específica
+
+</details>
+<details><summary>Pergunta 1 e 2</summary>
+<img src="assets/verificacao/AlaniDoc1e2.png" alt="ref" width="700"/>
+</details>
+
+</details>
+<details><summary>Pergunta 3</summary>
+<img src="assets/verificacao/AlaniDoc3.png" alt="ref" width="700"/>
+</details>
+
+</details>
+<details><summary>Pergunta 5</summary>
+<img src="assets/verificacao/AlaniDoc5.png" alt="ref" width="700"/>
+</details>
+
+</details>
+<details><summary>Pergunta 6, 7 e 8</summary>
+<img src="assets/verificacao/AlaniDoc6e7e8.png" alt="ref" width="700"/>
+</details>
+
 ## Problemas Encontrados
 
 

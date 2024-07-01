@@ -35,7 +35,33 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | 5 | Houve a participação do usuário ou persona para a realização da técnica?[¹](#ref1) |  |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div> 
-              
+
+## Fontes das perguntas - Checklist Específica
+
+</details>
+<details><summary>Pergunta 1</summary>
+<img src="assets/verificacao/3lv-1.png" alt="ref" width="700"/>
+</details>
+
+</details>
+<details><summary>Pergunta 2</summary>
+<img src="assets/verificacao/3lv-2.png" alt="ref" width="700"/>
+</details>
+
+</details>
+<details><summary>Pergunta 3</summary>
+<img src="assets/verificacao/3lv-3.png" alt="ref" width="700"/>
+</details>
+
+</details>
+<details><summary>Pergunta 4</summary>
+<img src="assets/verificacao/3lv-4.png" alt="ref" width="700"/>
+</details>
+
+</details>
+<details><summary>Pergunta 5</summary>
+<img src="assets/verificacao/3lv-5.png" alt="ref" width="700"/>
+</details>
 
 ## Problemas Encontrados
 
