@@ -14,12 +14,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                       |                  |
-| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |                  |
-| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                    |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                       |        Sim       |
+| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |        Sim       |
+| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                    |        Sim       |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                             |        Sim       |
+| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |        Sim       |
+| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |        Não       |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -30,14 +30,14 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | Entre 8 e 12 pessoas estiveram presentes durante a sessão?[¹](#ref1) |  |
-| 2 | Os participantes são usuários de perfil semelhante?[¹](#ref1) |  |
-| 3 | A sessão possui um moderador?[¹](#ref1) |  |
-| 4 | A sessão possui um secretário e/ou cinegrafista?[¹](#ref1) |  | 
-| 5 | A sessão começa com um dos três tipos de perguntas recomendadas?[¹](#ref1) |  |
-| 6 | Os participantes foram informados sobre o objetivo da atividade?[¹](#ref1) |  |
-| 7 | A sessão foi dividida em duas etapas: *brainstorming* e priorização das ideias?[¹](#ref1) |  |
-| 8 | Foram fornecidos meios para os participantes registrarem suas ideias?[¹](#ref1) |  |
+| 1 | Entre 8 e 12 pessoas estiveram presentes durante a sessão?[¹](#ref1) | Sim |
+| 2 | Os participantes são usuários de perfil semelhante?[¹](#ref1) | Sim |
+| 3 | A sessão possui um moderador?[¹](#ref1) | Sim |
+| 4 | A sessão possui um secretário e/ou cinegrafista?[¹](#ref1) | Sim | 
+| 5 | A sessão começa com um dos três tipos de perguntas recomendadas?[¹](#ref1) | Sim |
+| 6 | Os participantes foram informados sobre o objetivo da atividade?[¹](#ref1) | Sim |
+| 7 | A sessão foi dividida em duas etapas: *brainstorming* e priorização das ideias?[¹](#ref1) | Não |
+| 8 | Foram fornecidos meios para os participantes registrarem suas ideias?[¹](#ref1) | Sim |
 <div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
 
 ## Fontes das perguntas - Checklist Específica
@@ -77,9 +77,16 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 - Relatar problemas aqui
 
 ### Checklist Geral
+- O artefato não contém links para outros artefatos relacionados.
 
 ### Checklist Específica
+- O artefato não menciona explicitamente uma etapa de priorização. O foco parece está em capturar e documentar as ideias geradas durante a sessão de brainstorming.
 
+### Recomendações
+- Considere adicionar uma seção resumindo os principais resultados e itens de ação da sessão de brainstorming.
+- Inclua links para artefatos relevantes, como o documento de requisitos do aplicativo Gov.br ou personas do usuário.
+- Se disponível, forneça uma descrição mais detalhada dos perfis dos participantes para entender melhor o contexto do seu feedback.
+- Elabore a decisão de não incluir uma etapa de priorização e explique como as ideias geradas serão avaliadas posteriormente.
 
 ## Referências Bibliográficas
 
@@ -97,3 +104,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 30/06/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha) | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) |
+|  1.1   | 01/07/2024 | Realização da verificação | [Carlos Gabriel](https://github.com/TheCarlosRamos)  | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH) |
