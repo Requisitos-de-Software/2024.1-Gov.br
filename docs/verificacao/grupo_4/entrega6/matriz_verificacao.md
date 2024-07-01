@@ -22,13 +22,13 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |                  |
-| 2   | O artefato inclui referências bibliográficas?                                                                        |                  |
-| 3   | O artefato possui uma introdução?                                                                                   |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?                                                                           |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?                                                           |                  |
-
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |       Sim           |
+| 2   | O artefato inclui referências bibliográficas?                                                                        |       Não           |
+| 3   | O artefato possui uma introdução?                                                                                   |        Sim          |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |       Sim           |
+| 5  | A linguagem e a ortografia estão corretas?                                                                           |        Sim          |
+| 6  | O artefato contém links para outros artefatos relacionados?                                                           |       Sim           |
+Sim
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
 ### Checklist Específica
@@ -37,11 +37,11 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 
 | Número | Ponto | Avaliação |
 |--------|-------|-----------|
-| 1      | As linhas da matriz contém os artefatos iniciais e as colunas os artefatos alvo?[¹](#ref1)  |  |
-| 2      | Os rastros foram criados de tal formas que a informação disponível é representada de forma clara?[¹](#ref1)  |  |
-| 3      | Os requisitos foram expressos em linguagem natural e numerados sequencialmente?[²](#ref2)  |  |
-| 4      | Há a representação ou indicação de dependência entre os requisitos?[²](#ref2)  |  |
-| 5      | Foram utilizados elos de hipertexto para indicar relacionamento entre os artefatos?[²](#ref2)  |  |
+| 1      | As linhas da matriz contém os artefatos iniciais e as colunas os artefatos alvo?[¹](#ref1)  | Sim |
+| 2      | Os rastros foram criados de tal formas que a informação disponível é representada de forma clara?[¹](#ref1)  | Sim |
+| 3      | Os requisitos foram expressos em linguagem natural e numerados sequencialmente?[²](#ref2)  | Sim |
+| 4      | Há a representação ou indicação de dependência entre os requisitos?[²](#ref2)  | Sim |
+| 5      | Foram utilizados elos de hipertexto para indicar relacionamento entre os artefatos?[²](#ref2)  | Sim |
 
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div> 
@@ -76,7 +76,7 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 
 
 ## Problemas Encontrados
-
+1. O artefato não possui referências bibliográficas.
 
 ## Bibliografia
 
