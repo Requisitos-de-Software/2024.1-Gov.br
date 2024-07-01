@@ -1,3 +1,4 @@
+
 - [Home](README.md)
 
 **Apresentações**
@@ -7,6 +8,7 @@
 - [Apresentação 03](apresentacoes/apresentacao_03.md)
 - [Apresentação 04](apresentacoes/apresentacao_04.md)
 - [Apresentação 05.1](apresentacoes/apresentacao_05.md)
+- [Apresentação 06](apresentacoes/apresentacao_06.md)
 
 **Atas**
 
@@ -90,7 +92,18 @@
     - [Backlog](verificacao/grupo+1/entrega4/backlog.md)
     - [Histórias de Usuário](verificacao/grupo+1/entrega4/historias_usuario.md)
     - [NFR FRAMEWORK](verificacao/grupo+1/entrega4/nfr_verificacao.md)
-   
+- [Grupo 04](verificacao/grupo_4/verificacao_grupo4.md)
+  - [Entrega 1]()
+  - [Entrega 2]()
+    - [Perfil do Usuário](verificacao/grupo_4/entrega2/verificacao_perfil_do_usuario.md)
+    - [Elicitação]()
+      - [Brainstorm](verificacao/grupo_4/entrega2/elicitacao/verficacao_brainstorm.md)
+      - [Termo de Consentimento](verificacao/grupo_4/entrega2/elicitacao/verificacao_termo_de_consentimento.md)
+  - [Entrega 3]()
+    - [Especificação Suplementar](verificacao/grupo_4/entrega3/verificação_especificação_suplementar.md)
+  - [Entrega 4]()
+    - [Backlog](verificacao/grupo_4/entrega4/verifcacao_backlog.md)
+    - [NFR FRAMEWORK](verificacao/grupo_4/entrega4/verificacao_nfr_framework.md)
    
 **Pós-rastreabilidade**
 
