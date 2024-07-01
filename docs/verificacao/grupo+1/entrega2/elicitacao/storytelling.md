@@ -35,14 +35,12 @@ Para a coluna Referẽncia é mostrado o critério da fonte da qual a avaliaçã
 | 8  | As personas ou personagens foram desenvolvidos de maneira que representem os usuários do aplicativo?                                     | Incompleto | [1](#ancora1) |
 | 9  | Possui links para os outros artefatos?                                                                                                     | Não        |            |
 
-
-<div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>
-
-
+<div align="center">Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a>
 
 ## Observações
 
 A documentação poderia ser aprimorada com a inclusão de:
+
 - Descrição mais detalhada do processo de elicitação, incluindo a participação do cliente ou personas.
 - Classificação dos requisitos em Funcionais e Não Funcionais.
 - Registro da elicitação, como gravações ou transcrições das histórias.
@@ -52,11 +50,9 @@ A documentação poderia ser aprimorada com a inclusão de:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qoxGwBeqdtE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Referências Bibliográficas
 
-## Referências Bibliográficas 
-
-> [1] MENDES, Tamara M. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. SBC OPEN LIB. 
-
+> [1] MENDES, Tamara M. Uso de Storytelling para Apoiar a Gestão de Conhecimento no Desenvolvimento de Software. SBC OPEN LIB.
 
 ## Histórico de Versão
 
