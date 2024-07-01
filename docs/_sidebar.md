@@ -103,14 +103,17 @@
       - [Análise de Documento](verificacao/grupo_4/entrega2/elicitacao/analise_documentos.md)
     - [Priorização]()
       - [Three Levels Scale](verificacao/grupo_4/entrega2/priorizacao/three_levels_scale_verificacao.md) 
+    - [Requisitos Elicitados](verificacao/grupo_4/entrega2/requisitos_elicitados.md)
   - [Entrega 3]()
     - [Especificação Suplementar](verificacao/grupo_4/entrega3/verificação_especificação_suplementar.md)
+    - [Léxicos](verificacao/grupo_4/entrega3/lexicos.md)
   - [Entrega 4]()
     - [Backlog](verificacao/grupo_4/entrega4/verifcacao_backlog.md)
     - [NFR FRAMEWORK](verificacao/grupo_4/entrega4/verificacao_nfr_framework.md)
     - [Histórias de Usuário](verificacao/grupo_4/entrega4/historias_de_usuario.md)
   - [Entrega 6]()
     - [Matriz de rastreabilidade](verificacao/grupo_4/entrega6/matriz_verificacao.md)
+    - [Foward-From](verificacao/grupo_4/entrega6/foward.md)
    
 **Pós-rastreabilidade**
 
