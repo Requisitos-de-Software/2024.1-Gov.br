@@ -64,6 +64,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 ## Problemas Encontrados
 - Não foi encontrado nenhum problema no artefato.
 
+## Gravação da Verificação
+
+A verificação foi realizada no dia 01/07/2024 pelo integrante [Thiago Freitas](https://github.com/thiagorfreitas).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dIYJw5unshU?si=CdVkufgAjXobFXkn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>

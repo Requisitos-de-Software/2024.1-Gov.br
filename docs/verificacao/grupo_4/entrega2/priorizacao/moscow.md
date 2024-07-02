@@ -68,6 +68,12 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 
 - Checklist Geral - Pergunta 6 - Não existem links para outros artefatos relacionados.
 
+## Gravação da Verificação
+
+A verificação foi realizada no dia 01/07/2024 pelo integrante [Thiago Freitas](https://github.com/thiagorfreitas).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9mk11A3pi1Q?si=pbFn8y9XhhtQOa9L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>

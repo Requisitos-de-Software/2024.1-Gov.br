@@ -68,7 +68,13 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 ## Problemas Encontrados
 
-Checklist Geral - Pergunta 6 - Não foram encontradas referências a outros artefatos.
+- Checklist Geral - Pergunta 6 - Não foram encontradas referências a outros artefatos.
+
+## Gravação da Verificação
+
+A verificação foi realizada no dia 01/07/2024 pelo integrante [Thiago Freitas](https://github.com/thiagorfreitas).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YTS4tav6XMk?si=SHgDiD1HCRJI6lqD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
@@ -81,4 +87,4 @@ Checklist Geral - Pergunta 6 - Não foram encontradas referências a outros arte
 | Versão | Data       | Descrição                                   | Responsáveis                                                                               | Revisor                                      |
 | :----: | :--------: | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------: |
 |  1.0	|30/06/2024|	Versão inicial de documento de descrição do projeto	|[Carlos Gabriel](https://github.com/TheCarlosRamos) |[Thiago Freitas](https://github.com/thiagorfreitas) |
-|  2.0	|01/07/2024|	Verificação do Documento	|[Thiago Freitas](https://github.com/thiagorfreitas) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+|  2.0	|01/07/2024|	Verificação do Documento	|[Thiago Freitas](https://github.com/thiagorfreitas) | [Arthur Gabriel](https://github.com/arthurgabrieel) |

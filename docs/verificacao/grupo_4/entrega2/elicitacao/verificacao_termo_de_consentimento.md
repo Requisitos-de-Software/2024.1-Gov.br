@@ -52,6 +52,11 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 - Checklist Geral - Pergunta 6 - Não existem links para outros artefatos relacionados.
 - Checklist Específica - Pergunta 1 - O termo de consentimento não informa claramento ao participante do objetivo do estudo.
 
+## Gravação da Verificação
+
+A verificação foi realizada no dia 01/07/2024 pelo integrante [Thiago Freitas](https://github.com/thiagorfreitas).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCrzxJ3LgvI?si=xcdIIo4-C1ml3PGj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
