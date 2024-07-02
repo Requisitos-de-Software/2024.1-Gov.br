@@ -111,6 +111,7 @@
   - [Entrega 3](verificacao/grupo_4/entrega3/planejamento_entrega03.md)
     - [Especificação Suplementar](verificacao/grupo_4/entrega3/verificação_especificação_suplementar.md)
     - [Léxicos](verificacao/grupo_4/entrega3/lexicos.md)
+    - [Casos de Uso](verificacao/grupo_4/entrega3/casos_de_uso.md)
   - [Entrega 4](verificacao/grupo_4/entrega4/planejamento_entrega04.md)
     - [Backlog](verificacao/grupo_4/entrega4/verifcacao_backlog.md)
     - [Histórias de Usuário](verificacao/grupo_4/entrega4/historias_de_usuario.md)
