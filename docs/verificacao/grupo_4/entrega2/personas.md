@@ -66,7 +66,7 @@ Não foram encontrados problemas no artefato de Personas.
 
 ## Gravação da Verificação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6jZTsXcF0LY?si=BfmCNrNl6fV5ISg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g5dTX9OqyKE?si=W2Ir9SVf8_ujuLjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 

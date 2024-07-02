@@ -14,12 +14,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                       |                  |
-| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |                  |
-| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                    |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)        |         Sim         |
+| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                        |          Sim        |
+| 3   | O artefato possui uma introdução?[²](#ref2)                                                      |           Sim       |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                   |         Sim         |
+| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                  |           Sim      |
+| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                    |      Incompleto            |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -29,12 +29,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | Cada NFR possui um cartão de especificação?[¹](#ref1) |  |
-| 2 | Cada NFR possui um gráfico de interdependência de softgoals?[¹](#ref1) |  |
-| 3 | Cada NFR possui um gráfico de propagação de impactos?[¹](#ref1) |  |
-| 4 | Os softgoals possuem relações de interdependência?[¹](#ref1)|  |
-| 5 | Os requisitos analisados são não funcionais?[¹](#ref1)|  |
-| 6 | Os cartões de especificação possuem as características: Descrição; Justificativa; Origem; Critério de aceitação; Dependências; Prioridade; Conflitos e História?[¹](#ref1) |  |
+| 1 | Cada NFR possui um cartão de especificação?[¹](#ref1) | Sim  |
+| 2 | Cada NFR possui um gráfico de interdependência de softgoals?[¹](#ref1) | Sim  |
+| 3 | Cada NFR possui um gráfico de propagação de impactos?[¹](#ref1) | Sim |
+| 4 | Os softgoals possuem relações de interdependência?[¹](#ref1)| Sim |
+| 5 | Os requisitos analisados são não funcionais?[¹](#ref1)| Sim |
+| 6 | Os cartões de especificação possuem as características: Descrição; Justificativa; Origem; Critério de aceitação; Dependências; Prioridade; Conflitos e História?[¹](#ref1) | Sim |
 <div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
 
 ## Fontes das perguntas - Checklist Específica
@@ -66,12 +66,9 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 ## Problemas Encontrados
 
-- Relatar problemas aqui
+## Gravação da verificação
 
-### Checklist Geral
-
-### Checklist Específica
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Js0oI-eRtt8?si=hGzKYsBbt5DOBBnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 

@@ -12,14 +12,14 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 <font><p style="text-align: center">**Tabela 1:** Checklist de Avaliação Geral.</p></font>
 
-| Número  | Ponto                                                                                                           | Avaliação         |
+| Número  | Ponto                                                                                                            | Avaliação        |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |                  |
-| 2   | O artefato inclui referências bibliográficas?                                                                        |                  |
-| 3   | O artefato possui uma introdução?                                                                                   |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?                                                                           |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |        Sim          |
+| 2   | O artefato inclui referências bibliográficas?                                                                        |        Sim          |
+| 3   | O artefato possui uma introdução?                                                                                    |        Sim          |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |        Sim          |
+| 5  | A linguagem e a ortografia estão corretas?                                                                            |        Sim          |
+| 6  | O artefato contém links para outros artefatos relacionados?                                                           |        Sim          |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -30,10 +30,10 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto                                                                                                  | Avaliação         |
 |--------|--------------------------------------------------------------------------------------------------------|------------------|
-| 1      | 	Os requisitos estão claramente classificados quanto à importância?[¹](#ref1) |                  |
-| 2      | As justificativas para a priorização dos requisitos estão documentadas?[¹](#ref1)                 |                  |
-| 3      | Foram utilizados os níveos de abstração corretos para a priorização (Funcionalidades, Casos de uso, Histórias de Usuários ou Requisitos Funcionais)?[¹](#ref1)                       |                  |
-| 4      | Os stakeholders e papéis exercidos durante a priorização estão claros?[¹](#ref1) |                  |
+| 1      | 	Os requisitos estão claramente classificados quanto à importância?[¹](#ref1) |         Sim         |
+| 2      | As justificativas para a priorização dos requisitos estão documentadas?[¹](#ref1)                 |      Sim            |
+| 3      | Foram utilizados os niveis de abstração corretos para a priorização (Funcionalidades, Casos de uso, Histórias de Usuários ou Requisitos Funcionais)?[¹](#ref1)              |       Sim           |
+| 4      | Os stakeholders e papéis exercidos durante a priorização estão claros?[¹](#ref1) |       Sim         |
 
 <div align="center">Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div> 
 
@@ -63,6 +63,9 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 ## Problemas Encontrados
 
 
+## Gravação da verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zoRPcPH9Hvg?si=pNS3eNO3CK748mDd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
