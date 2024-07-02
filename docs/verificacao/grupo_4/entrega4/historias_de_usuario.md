@@ -15,12 +15,12 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |                  |
-| 2   | O artefato inclui referências bibliográficas?                                                                        |                  |
-| 3   | O artefato possui uma introdução?                                                                                   |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?                                                                           |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |     Sim             |
+| 2   | O artefato inclui referências bibliográficas?                                                                        |  Sim                |
+| 3   | O artefato possui uma introdução?                                                                                   |     Sim             |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |    Sim              |
+| 5  | A linguagem e a ortografia estão corretas?                                                                           |    Sim              |
+| 6  | O artefato contém links para outros artefatos relacionados?                                                           |    Sim              |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -31,11 +31,11 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 | ID  | Descrição                                                                                                    | Avaliação |
 |-----|--------------------------------------------------------------------------------------------------------------|-----------|
-| 1   | Há um conjunto de “histórias” que descreve o resultado, as características e a funcionalidade requisitados para o software a ser construído?[¹](#ref1) |           |
-| 2   | Cada história é escrita pelo cliente e é colocada em uma ficha ou em algo similar?[¹](#ref1)                           |           |
-| 3   | O cliente atribuiu uma prioridade à história baseando-se no valor de negócio global do recurso ou função?[¹](#ref1)    |           |
-| 4   | Os membros da equipe avaliaram a história e foi atribuído um custo?[¹](#ref1)                                          |           |
-| 5   | Foram obtidos os testes de cliente ou testes de aceitação pelo artefato?[¹](#ref1)                                     |           |
+| 1   | Há um conjunto de “histórias” que descreve o resultado, as características e a funcionalidade requisitados para o software a ser construído?[¹](#ref1) |   Sim        |
+| 2   | Cada história é escrita pelo cliente e é colocada em uma ficha ou em algo similar?[¹](#ref1)                           |  Incompleto         |
+| 3   | O cliente atribuiu uma prioridade à história baseando-se no valor de negócio global do recurso ou função?[¹](#ref1)    |   Sim        |
+| 4   | Os membros da equipe avaliaram a história e foi atribuído um custo?[¹](#ref1)                                          |   Não        |
+| 5   | Foram obtidos os testes de cliente ou testes de aceitação pelo artefato?[¹](#ref1)                                     |   Incompleto        |
 
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div> 
@@ -67,10 +67,22 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 <img src="assets/verificacao/HistUsu05.png" alt="ref" width="700"/>
 </details>
 
-### Problemas Encontrados
+## Problemas Encontrados
 
 
-### Lista de Problemas e Análise
+### Checklist Geral
+
+- Não foi encontrado nenhum problema.
+
+### Checklist Específica
+
+- Tópico 2: O documento não indica explicitamente se as histórias foram escritas pelo cliente, mas a validação pelo PO e usuário sugere sua participação.
+- Tópico 4: O documento não apresenta estimativa de custo.
+- Tópico 5: O documento não apresenta testes de aceitação, mas os critérios de aceitação podem ser usados como base para criá-los.
+
+## Vídeo de Verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyJ7k7YXfRg?si=Jp5ssVOjgdry4-gB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Referências Bibliográficas
@@ -85,3 +97,4 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 | Versão | Data       | Descrição          | Autor(es)                                                                                                 | Revisor(es)                                                                                                                                                                                                                                                                                                                           |
 | ------ | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1.0	|30/06/2024|	Versão inicial de documento de descrição do projeto	|[Carlos Gabriel](https://github.com/TheCarlosRamos) |[Isaque Santos](https://github.com/IsaqueSH) |
+|  1.1	|01/07/2024|	Adicionando verificação e vídeo	| [Isaque Santos](https://github.com/IsaqueSH)  |[Carlos Gabriel](https://github.com/TheCarlosRamos)|
