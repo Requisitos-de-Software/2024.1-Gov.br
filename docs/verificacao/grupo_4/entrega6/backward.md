@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nesse documento será relatado a inspeção feita no artefato [Forward-From](https://requisitos-de-software.github.io/2024.1-Gov.br/#/pos-rastreabilidade/forward_from) realizado pela integrante [Caio Berg](https://github.com/Caio-bergbjj) do [grupo 5](https://requisitos-de-software.github.io/2024.1-Gov.br/#/) da disciplina de Requisitos de Software.
+Nesse documento será relatado a inspeção feita no artefato [Backward-From](https://requisitos-de-software.github.io/2024.1-Gov.br/#/pos-rastreabilidade/backward_from) realizado pela integrante [Caio Berg](https://github.com/Caio-bergbjj) do [grupo 5](https://requisitos-de-software.github.io/2024.1-Gov.br/#/) da disciplina de Requisitos de Software.
 
 ## Metodologia
 
@@ -14,12 +14,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | ID  | Descrição | Verificação |
 |-----|-----------|-------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores? |  |
-| 2   | O artefato inclui referências bibliográficas? |                  |
-| 3   | O artefato possui uma introdução? |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas? |                  |
-| 5   | A linguagem e a ortografia estão corretas? |                  |
-| 6   | O artefato contém links para outros artefatos relacionados? |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores? | Sim |
+| 2   | O artefato inclui referências bibliográficas? |    Sim              |
+| 3   | O artefato possui uma introdução? |     Sim             |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas? |      Sim            |
+| 5   | A linguagem e a ortografia estão corretas? |       Sim           |
+| 6   | O artefato contém links para outros artefatos relacionados? |      Sim            |
 
 <div align="center"><b>Fonte: </b><a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
@@ -27,12 +27,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 <font><p style="text-align: center">**Tabela 2:** Checklist - Foward-From.</p></font>
 
-| ID  | Descrição | Avaliação | Referência |
+| ID  | Descrição | Referência | Avaliação |
 |-----|-----------|-----------|------------|
-|  1  | Todos os requisitos identificados estão devidamente ligados aos seus artefatos de origem? |   | [1](#ref1) |
-|  2  | Existe algum requisito que não possui algum artefato de origem? |  | [1](#ref1) |
-|  3  | A documentação dos requisitos inclui o rationale e os artefatos de origem do requisitos?  |  | [1](#ref1) |
-|  4  | O sistema permite fácil identificação de todos os componentes afetados por uma alteração em um requisito? |  | [1](#ref1) |
+|  1  | Todos os requisitos identificados estão devidamente ligados aos seus artefatos de origem?| [1](#ref1) | Sim |
+|  2  | Existe algum requisito que não possui algum artefato de origem? |  [1](#ref1) | Sim   |
+|  3  | A documentação dos requisitos inclui o rationale e os artefatos de origem do requisitos?  |  [1](#ref1) | Sim  |
+|  4  | O sistema permite fácil identificação de todos os componentes afetados por uma alteração em um requisito? | [1](#ref1) | Incompleto |
 
 <div align="center"><b>Fonte: </b><a href="https://github.com/esteerlino">Ester Lino</a> e <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
@@ -55,6 +55,18 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 ## Problemas Encontrados
 
+### Checklist Geral
+
+- Não foi encontrado nenhum problema.
+
+### Checklist Específica
+
+- No tópico 4 a avaliação ficou como incompleta devido ao artefato não deixar muito evidente a identificação dos componentes afetados por uma alteração de requisito.
+
+## Vídeo de Verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hfzr4KLiK64?si=htjFSsDk7oW8GXVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
@@ -66,3 +78,4 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão | Data | Descrição | Responsáveis | Revisor(es) |
 | :----: |:----:|:---------:|:------------:|:-----------:|
 |  1.0   | 01/07/2024 | Criação da página | [Ester Lino](https://github.com/esteerlino) | [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 01/07/2024 | Adicionando verificação e vídeo | [Isaque Santos](https://github.com/IsaqueSH) | [Thiago Freitas](https://github.com/thiagorfreitas) |
