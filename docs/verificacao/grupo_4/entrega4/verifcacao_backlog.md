@@ -14,12 +14,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                       |                  |
-| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |                  |
-| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                    |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                       |     Sim             |
+| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |     Sim             | Sim
+| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                    | Sim                 | 
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                             |     Sim             |
+| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |   Sim               | Sim
+| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |     Sim             |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -29,12 +29,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | O backlog contém todas as funcionalidades desejadas?[¹](#ref1) |  |
-| 2 | O backlog foi elaborado juntamente com o PO?[¹](#ref1) |  |
-| 3 | O backlog apresenta as prioridades das tarefas?[¹](#ref1) |  |
-| 4 | O backlog divide os itens em tarefas menores?[¹](#ref1) |  |
-| 5 | A especifição está baseada nas histórias de usuário?[¹](#ref1) |  |
-| 6 | As histórias de usuário estão relacionadas aos temas e épicos definidos?[¹](#ref1) |  |
+| 1 | O backlog contém todas as funcionalidades desejadas?[¹](#ref1) | Sim |
+| 2 | O backlog foi elaborado juntamente com o PO?[¹](#ref1) | Sim |
+| 3 | O backlog apresenta as prioridades das tarefas?[¹](#ref1) | Sim |
+| 4 | O backlog divide os itens em tarefas menores?[¹](#ref1) | Sim |
+| 5 | A especifição está baseada nas histórias de usuário?[¹](#ref1) | Sim |
+| 6 | As histórias de usuário estão relacionadas aos temas e épicos definidos?[¹](#ref1) | Sim |
 
 
 <div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
@@ -63,11 +63,17 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 ## Problemas Encontrados
 
-- Relatar problemas aqui
-
 ### Checklist Geral
 
+- Nenhum problema foi encontrado na checklist geral.
+
 ### Checklist Específica
+
+- Nenhum problema foi encontrado na checklist específica.
+
+## Gravação da verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LwRYL33494Q?si=xU3pxgH4b5WEXMVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Referências Bibliográficas
@@ -85,3 +91,4 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 30/06/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha) | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) |
+|  1.1   | 01/07/2024 | Adicionando verificação e vídeo | [Isaque Santos](https://github.com/IsaqueSH) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
