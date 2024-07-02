@@ -13,14 +13,14 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                       |                  |
-| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                        |                  |
-| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                    |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2) | Sim |
+| 2   | O artefato inclui referências bibliográficas?[²](#ref2) | Sim |
+| 3   | O artefato possui uma introdução?[²](#ref2) | Sim |
+| 4   | Todas as tabelas e imagens possuem legendas e fontes padronizadas?[²](#ref2)                                                             |       Não           |
+| 5  | A linguagem e a ortografia estão corretas?[²](#ref2)  |  Sim |
+| 6  | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |      Não se aplica            |
 
-<div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
+<div align="center">Fonte: <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
 
 ### Checklist Específica
@@ -29,15 +29,15 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------ | ------ | --------- |
-| 1 | O perfil de usuário é descrito detalhadamente?[¹](#ref1) |  |
-| 2 | As características dos usuários estão claramente identificadas? (e.g., experiência tecnológica, nível de instrução)[¹](#ref1) |  |
-| 3 | O perfil inclui dados demográficos (idade, gênero)?[¹](#ref1) |  |
-| 4 | Há uma descrição das habilidades dos usuários?[¹](#ref1) |  | |  |
-| 5 | Os objetivos dos usuários são claros e específicos?[¹](#ref1) |  |
-| 6 | O perfil inclui informações sobre a relação do usuário com a tecnologia?[¹](#ref1) |  |
-| 7 | Os usuários estão separados em grupos com base em semelhanças?[¹](#ref1) |  |
+| 1 | O perfil de usuário é descrito detalhadamente?[¹](#ref1) | Sim |
+| 2 | As características dos usuários estão claramente identificadas? (e.g., experiência tecnológica, nível de instrução)[¹](#ref1) | Sim |
+| 3 | O perfil inclui dados demográficos (idade, gênero)?[¹](#ref1) | Sim |
+| 4 | Há uma descrição das habilidades dos usuários?[¹](#ref1) | Sim |
+| 5 | Os objetivos dos usuários são claros e específicos?[¹](#ref1) | Sim |
+| 6 | O perfil inclui informações sobre a relação do usuário com a tecnologia?[¹](#ref1) | Sim |
+| 7 | Os usuários estão separados em grupos com base em semelhanças?[¹](#ref1) | Sim  |
 
-<div align="center">Autor(a): <a href="https://github.com/HeBatalha">Henrique Batalha</a></div>
+<div align="center">Fonte: <a href="https://github.com/HeBatalha">Henrique Batalha</a> e <a href="https://github.com/esteerlino">Ester Lino</a></div>
 
 ## Fontes das perguntas - Checklist Específica
 
@@ -66,14 +66,15 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 <img src="assets/verificacao/perfil5.png" alt="ref" width="700"/>
 </details>
 
+## Gravação da Verificação
+
+A verificação foi realizada no dia 01/07/2024 pela integrante [Ester Lino](https://github.com/esteerlino). A gravação está apresentada a seguir.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GQ94boQxqH4?si=x2TQ4xMcf0QrfN9W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Problemas Encontrados
 
-- Relatar problemas aqui
-
-### Checklist Geral
-
-### Checklist Específica
-
+**Pergunta 4 da checklist geral:** É importante identificar as imagens, assim como as fontes de cada uma.
 
 ## Referências Bibliográficas
 
@@ -92,3 +93,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 30/06/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha) | [Ester Lino](https://github.com/esteerlino), [Isaque Santos](https://github.com/IsaqueSH) |
 |  1.1   | 30/06/2024 | Adiciona checklist geral | [Henrique Batalha](https://github.com/HeBatalha) | [Ester Lino](https://github.com/esteerlino), [Isaque Santos](https://github.com/IsaqueSH) |
+|  1.2   | 01/07/2024 | Adiciona vídeo de verificação | [Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |
