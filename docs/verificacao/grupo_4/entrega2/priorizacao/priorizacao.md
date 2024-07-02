@@ -1,0 +1,23 @@
+# Técnicas de Priorização - Gov.br (Grupo 04)
+
+## Introdução
+
+Priorização de requisitos consiste no processo de classificar e ordenar requisitos com base na sua necessidade e importância. A priorização é fundamental para determinar a ordem em que os requisitos serão implementados ou para decidir quais funcionalidades devem ser incluídas em uma versão inicial do produto. Este artefato registra as técnicas utilizadas pelo [grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/) ao priorizar os requisitos elicitados para o aplicativo Gov.br.
+
+## Técnicas utilizadas
+
+O [grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/) decidiu trabalhar com as seguintes técnicas de priorização:
+
+1. [First Things First](https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/FirstThingsFirst)
+2. [Three Level Scale](https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/ThreeLevelScale)
+3.[MoSCoW](https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/moscow)
+
+## Bibliografia
+
+- WIEGERS, Karl; BEATTY, Joy.Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013.
+
+## Histórico de versão
+
+| Versão | Data | Descrição | Responsáveis | Revisor |
+| :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
+|  1.0   | 01/07/2024 | Criação da página  | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH) |
