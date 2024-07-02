@@ -97,6 +97,7 @@
     - [Rich Picture](verificacao/grupo_4/entrega1/rich_picture_verificacao.md)
   - [Entrega 2](verificacao/grupo_4/entrega2/planejamento_entrega2.md)
     - [Perfil do Usuário](verificacao/grupo_4/entrega2/verificacao_perfil_do_usuario.md)
+    - [Personas](verificacao/grupo_4/entrega2/personas.md)
     - [Elicitação]()
       - [Termo de Consentimento](verificacao/grupo_4/entrega2/elicitacao/verificacao_termo_de_consentimento.md)
       - [Análise de Documento](verificacao/grupo_4/entrega2/elicitacao/analise_documentos.md)
