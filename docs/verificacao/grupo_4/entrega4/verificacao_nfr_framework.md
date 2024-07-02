@@ -81,7 +81,7 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 <a id="ref2"></a>
 
-> [2] [Checklist Geral](verificacao/grupo_4/verificacao_grupo4.md#metodologia)
+> [2] [Checklist Geral](verificacao/grupo_4/panorama_geral.md#metodologia)
 
 ## Histórico de Versão
 

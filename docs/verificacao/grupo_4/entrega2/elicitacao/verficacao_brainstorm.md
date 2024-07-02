@@ -101,7 +101,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 <a id="ref2"></a>
 
-> [2] [Checklist Geral](verificacao/grupo_4/verificacao_grupo4.md#metodologia)
+> [2] [Checklist Geral](verificacao/grupo_4/panorama_geral.md#metodologia)
 
 ## Histórico de Versão
 
