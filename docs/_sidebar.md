@@ -107,7 +107,7 @@
     - [Priorização](verificacao/grupo_4/entrega2/priorizacao/priorizacao.md)
       - [Three Levels Scale](verificacao/grupo_4/entrega2/priorizacao/three_levels_scale_verificacao.md)
       - [MoSCoW](verificacao/grupo_4/entrega2/priorizacao/moscow.md)
-  - [Entrega 3]()
+  - [Entrega 3](verificacao/grupo_4/entrega3/planejamento_entrega03.md)
     - [Especificação Suplementar](verificacao/grupo_4/entrega3/verificação_especificação_suplementar.md)
     - [Léxicos](verificacao/grupo_4/entrega3/lexicos.md)
   - [Entrega 4]()
