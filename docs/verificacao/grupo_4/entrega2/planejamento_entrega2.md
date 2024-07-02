@@ -47,16 +47,16 @@ A verificação desta entrega 2 foi realizada por todos os integrantes do grupo.
 
 Os artefatos a serem verificados e os resultados das verificações estão apresentados em páginas separadas e que podem ser acessadas pelos links abaixo:
 
-- [Verificação - Perfil de Usuário]()
-- [Verificação - Personas]()
-- [Verificação - Termo de Consentimento]()
-- [Verificação - Análise de Documentos]()
-- [Verificação - Brainstorm]()
-- [Verificação - Storytelling]()
-- [Verificação - Requisitos Elicitados]()
+- [Verificação - Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/verificacao_perfil_do_usuario)
+- [Verificação - Personas](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/personas)
+- [Verificação - Termo de Consentimento](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/elicitacao/verificacao_termo_de_consentimento)
+- [Verificação - Análise de Documentos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/elicitacao/analise_documentos)
+- [Verificação - Brainstorm](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/elicitacao/verficacao_brainstorm)
+- [Verificação - Storytelling](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/elicitacao/storytelling)
+- [Verificação - Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/requisitos_elicitados)
 - [Verificação - First Things First]()
-- [Verificação - Three Level Scale]()
-- [Verificação - MoSCoW]()
+- [Verificação - Three Level Scale](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/priorizacao/three_levels_scale_verificacao)
+- [Verificação - MoSCoW](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/priorizacao/moscow)
 
 ## Bibliográfia
 

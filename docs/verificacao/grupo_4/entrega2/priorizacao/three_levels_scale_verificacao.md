@@ -11,8 +11,9 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 ### Checklist Geral
 
 <font><p style="text-align: center">**Tabela 1:** Checklist de Avaliação Geral.</p></font>
-| Número  | Ponto                                                                                                           | Avaliação         |
-|-----|----------------------------------------------------------------------------------------------------------------------|------------------|
+
+| Número  | Ponto  | Avaliação  |
+|---------|-----------------|------------------|
 | 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |                  |
 | 2   | O artefato inclui referências bibliográficas?                                                                        |                  |
 | 3   | O artefato possui uma introdução?                                                                                   |                  |
