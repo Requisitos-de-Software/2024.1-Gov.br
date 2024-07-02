@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nesse documento será relatado a inspeção feita no artefato [Personas](docs/Personas/Personas.md) realizado pelos integrantes [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com) do [grupo 4](https://github.com/Requisitos-de-Software/2024.1-Gov.br) da disciplina de Requisitos de Software. da disciplina de Requisitos de Software.
+Nesse documento será relatado a inspeção feita no artefato [Personas](docs/Personas/Personas.md) realizado pelos integrantes [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com/IsaqueSH) do [grupo 4](https://github.com/Requisitos-de-Software/2024.1-Gov.br) da disciplina de Requisitos de Software. da disciplina de Requisitos de Software.
 
 ## Metodologia
 
