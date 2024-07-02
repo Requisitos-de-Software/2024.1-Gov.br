@@ -1,8 +1,8 @@
-# Verificação - Personas
+# Verificação - Cenários
 
 ## Introdução
 
-Nesse documento será relatado a inspeção feita no artefato [Personas](https://github.com/Requisitos-de-Software/2024.1-Gov.br/blob/main/docs/Personas/Personas.md) realizado pelos integrantes [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com/IsaqueSH) do [grupo 4](https://github.com/Requisitos-de-Software/2024.1-Gov.br) da disciplina de Requisitos de Software. da disciplina de Requisitos de Software.
+Nesse documento será relatado a inspeção feita no artefato [Cenarios](https://github.com/Requisitos-de-Software/2024.1-Gov.br/blob/main/docs/modelagem/cenarios.md) realizado pelos integrantes [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH) e [Thiago Freitas](https://github.com/thiagorfreitas) do [grupo 4](https://github.com/Requisitos-de-Software/2024.1-Gov.br) da disciplina de Requisitos de Software. da disciplina de Requisitos de Software.
 
 ## Metodologia
 
@@ -28,12 +28,16 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 <font><p style="text-align: center">**Tabela 1:** Checklist de Avaliação.</p></font>
 
-| Número | Ponto                                                                                                  | Avaliação         |
-|--------|--------------------------------------------------------------------------------------------------------|------------------|
-| 1      | As personas foram baseadas em dados reais de pesquisas com usuários, como entrevistas ou questionários?[¹](#ref1) |                  |
-| 2      | O documento de personas inclui dados demográficos como idade, gênero, educação?[¹](#ref1)                 |                  |
-| 3      | As necessidades e objetivos das personas estão claramente definidos e descritos?[¹](#ref1)                       |                  |
-| 4      | Há cenários específicos que descrevem como as personas interagem com o produto em diferentes contextos?[¹](#ref1) |                  |
+Aqui estão cinco perguntas baseadas na referência fornecida, adaptadas para um documento de cenários:
+
+| Número | Ponto                                                                                                           | Avaliação         |
+|--------|-----------------------------------------------------------------------------------------------------------------|------------------|
+| 1      | Os cenários descrevem situações de uso do sistema pelos usuários?[¹](#ref1)                           |                  |
+| 2      | Cada cenário inclui uma breve descrição do contexto e dos atores envolvidos?[¹](#ref1)           |                  |
+| 3      | Existe uma rastreabilidade clara para os cenários descritos?[¹](#ref1)              |                  |
+| 4      | Os objetivos e as metas de cada cenário são explicitamente delineados?[¹](#ref1)         |                  |
+| 5      | Existem descrições detalhadas das ações realizadas pelos atores dentro de cada cenário?[¹](#ref1)                                  |                  |
+
 
 <div align="center">Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div> 
 
@@ -41,22 +45,25 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 </details>
 <details><summary>Pergunta 1</summary>
-<img src="assets/verificacao/personas_pergunta1_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/cenarios_pergunta1_ref.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 2</summary>
-<img src="assets/verificacao/personas_pergunta2_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/cenarios_pergunta2_ref.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 3</summary>
-<img src="assets/verificacao/personas_pergunta3_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/cenarios_pergunta3_ref.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 4</summary>
-<img src="assets/verificacao/personas_pergunta4_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/cenarios_pergunta2_ref.png" alt="ref" width="700"/>
+</details>
+<details><summary>Pergunta 5</summary>
+<img src="assets/verificacao/cenarios_pergunta2_ref.png" alt="ref" width="700"/>
 </details>
 
 
@@ -71,7 +78,7 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 <a id="ref2"></a>
 
-> [1] UX Magazine. Personas: The Foundation of a Great User Experience. Disponível em: [https://uxmag.com/articles/personas-the-foundation-of-a-great-user-experience](https://uxmag.com/articles/personas-the-foundation-of-a-great-user-experience). Acesso em: 1 julho de 2024.
+> [1] Sayão, M.; Carvalho, G. R. de. Construção do léxico de aplicações. In: INTERNATIONAL JOINT CONFERENCE IBERAMIA/SBIA/SBRN, 4., 2006, Ribeirão Preto. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 - 4th Workshop in Information and Human Language Technology (TIL’2006). Ribeirão Preto: 2006. p. 1-12. Disponível em: <https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 1 jullho de 2024.
 
 > [2] [Checklist Geral](verificacao/grupo_4/verificacao_grupo4.md#metodologia)
 
@@ -81,4 +88,4 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 ## Histórico de Versão
 | Versão | Data       | Descrição                                   | Responsáveis                                                                               | Revisor                                      |
 | :----: | :--------: | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------: |
-|  1.0	|01/07/2024|	Versão inicial de documento	|[Thiago Freitas](https://github.com/thiagorfreitas) |[Arthur Gabriel](https://github.com/Caio-bergbjj) |
+|  1.0	|01/07/2024|	Versão inicial de documento	|[Thiago Freitas](https://github.com/thiagorfreitas) |[Arthur Gabriel](https://github.com/ArthurGabrieel) |
