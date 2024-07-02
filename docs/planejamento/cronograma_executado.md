@@ -168,13 +168,48 @@ A tabela 6 apresenta o cronograma executado para a entrega da etapa 6.
 
 ## Cronograma Executado da Etapa 5.2 - Análise de Requisitos II
 
+<details><summary><b>Etapa 05.2</b></summary>
+
 A tabela 7 apresenta o cronograma executado para a entrega da etapa 5.2.
 
-***EM BREVE...***
+<figcaption align="center">Tabela 5 - Cronograma executado da etapa 5.2</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 25/06</br> Fim: 30/06 | [Thiago Freitas](https://github.com/thiagorfreitas) |  Início:30/06</br> Fim: 01/07 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 25/06</br> Fim: 30/06 | [Ester Lino](https://github.com/esteerlino) |  Início:30/06</br> Fim: 01/07 |
+| Verificação: Rich Picture | [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Thiago Freitas](https://github.com/thiagorfreitas) |  Início: 25/06</br> Fim: 01/07 | [Arthur Gabriel](https://github.com/ArthurGabrieel) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Perfil de Usuário | [Ester Lino](https://github.com/esteerlino) e [Henrique Batalha](https://github.com/HeBatalha) | Início: 25/06</br> Fim: 01/07  | [Caio Berg](https://github.com/Caio-bergbjj) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Personas | [Caio Berg](https://github.com/Caio-bergbjj) e [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 25/06</br> Fim: 01/07 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Termo de Consentimento | [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 25/06</br> Fim: 01/07 | [Ester Lino](https://github.com/esteerlino) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Análise de Documentos | [Carlos Gabriel](https://github.com/TheCarlosRamos) e  [Ester Lino](https://github.com/esteerlino) | Início: 25/06</br> Fim: 01/07 | [Henrique Batalha](https://github.com/HeBatalha) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Brainstorm | [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Henrique Batalha](https://github.com/HeBatalha) | Início: 25/06</br> Fim: 01/07 | [Isaque Santos](https://github.com/IsaqueSH) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Storytelling | [Ester Lino](https://github.com/esteerlino) e [Henrique Batalha](https://github.com/HeBatalha) | Início: 25/06</br> Fim: 01/07 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Requisitos Elicitados | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Caio Berg](https://github.com/Caio-bergbjj) |  Início: 25/06</br> Fim: 01/07 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:30/06</br> Fim: 01/07 |
+| Verificação: First Things First | [Caio Berg](https://github.com/Caio-bergbjj) e [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 25/06</br> Fim: 01/07 | [Arthur Gabriel](https://github.com/ArthurGabrieel) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Theree Level Scale | [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 25/06</br> Fim: 01/07 | [Ester Lino](https://github.com/esteerlino) | Início:30/06</br> Fim: 01/07 |
+| Verificação: MoSCoW |   [Ester Lino](https://github.com/esteerlino) e [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 25/06</br> Fim: 01/07 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Cenários | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 25/06</br> Fim: 01/07 | [Henrique Batalha](https://github.com/HeBatalha) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Casos de Uso | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Carlos Gabriel](https://github.com/TheCarlosRamos) |  Início: 25/06</br> Fim: 01/07  | [Caio Berg](https://github.com/Caio-bergbjj) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Especificação Suplementar | [Ester Lino](https://github.com/esteerlino) e [Isaque Santos](https://github.com/IsaqueSH) | Início: 25/06</br> Fim: 01/07 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Léxicos | [Caio Berg](https://github.com/Caio-bergbjj) e [Henrique Batalha](https://github.com/HeBatalha) | Início: 25/06</br> Fim: 01/07 |  [Isaque Santos](https://github.com/IsaqueSH) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Backlog | [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com/IsaqueSH) | Início: 25/06</br> Fim: 01/07 | [Arthur Gabriel](https://github.com/ArthurGabrieel) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Histórias de Usuário | [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Isaque Santos](https://github.com/IsaqueSH) | Início: 25/06</br> Fim: 01/07 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:30/06</br> Fim: 01/07 |
+| Verificação: NFR Framework | [Caio Berg](https://github.com/Caio-bergbjj) e [Henrique Batalha](https://github.com/HeBatalha) | Início: 25/06</br> Fim: 01/07 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Backward-From | [Ester Lino](https://github.com/esteerlino) e [Isaque Santos](https://github.com/IsaqueSH) | Início: 25/06</br> Fim: 01/07 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Forward-From | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Caio Berg](https://github.com/Caio-bergbjj) | Início: 25/06</br> Fim: 01/07 | [Ester Lino](https://github.com/esteerlino) | Início:30/06</br> Fim: 01/07 |
+| Verificação: Matriz de Rastreabilidade | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 25/06</br> Fim: 01/07 | [Henrique Batalha](https://github.com/HeBatalha) | Início:30/06</br> Fim: 01/07 |
+| Validação: Protótipo | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 25/06</br> Fim: 01/07 | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início:30/06</br> Fim: 01/07 |
+| Gravação da apresentação | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início:30/06</br> Fim: 01/07 | [Arthur Gabriel](https://github.com/ArthurGabrieel) | Início:30/06</br> Fim: 01/07 |
+| Correção após feedbacks da entrega 05.2 | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 02/07</br> Fim: 05/07 | [Isaque Santos](https://github.com/IsaqueSH) | Início: 05/07</br> Fim: 06/07 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
+
+</details>
 
 ## Cronograma Executado da Etapa 7 - Entrega Final
 
-A tabela 9 apresenta o cronograma executado para a entrega da etapa 7.
+A tabela 8 apresenta o cronograma executado para a entrega da etapa 7.
 
 ***EM BREVE...***
 
@@ -191,4 +226,5 @@ A tabela 9 apresenta o cronograma executado para a entrega da etapa 7.
 |  1.2   | 18/05/2024 | Inclusão do cronograma executado da etapa 03 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
 |  1.3   | 27/05/2024 | Inclusão do cronograma executado da etapa 04 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
 |  1.4   | 10/06/2024 | Inclusão do cronograma executado da etapa 05.1 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
-|  1.4   | 24/06/2024 | Inclusão do cronograma executado da etapa 06 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+|  1.5   | 24/06/2024 | Inclusão do cronograma executado da etapa 06 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+|  1.6   | 01/07/2024 | Inclusão do cronograma executado da etapa 05.2 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
