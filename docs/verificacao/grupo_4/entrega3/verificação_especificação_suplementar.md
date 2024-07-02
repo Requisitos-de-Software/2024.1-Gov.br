@@ -15,15 +15,14 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |                  |
-| 2   | O artefato inclui referências bibliográficas?                                                                        |                  |
-| 3   | O artefato possui uma introdução?                                                                                   |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?                                                                           |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |        Sim          |
+| 2   | O artefato inclui referências bibliográficas?                                                                        |            Sim      |
+| 3   | O artefato possui uma introdução?                                                                                   |         Sim         |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |        Sim          |
+| 5  | A linguagem e a ortografia estão corretas?                                                                           |               Sim   |
+| 6  | O artefato contém links para outros artefatos relacionados?                                                           |      Sim            |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
-
 
 ## Checklist Específica
 
@@ -31,14 +30,12 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 | Número  | Ponto                                                                         | Avaliação |
 |-----|-----------------------------------------------------------------------------------|-----------|
-| 1   | A especificação suplementar segue o modelo FURPS+?                                |        |
-| 2   | Os requisitos facilitam as tarefas realizadas pelos usuários?                     |        |
-| 3   | Os requisitos aumentam a confiabilidade do sistema?                               |        |
-| 4   | O artefato especifica o Tempo Médio entre Falhas (MTBF)?                          |         |
-| 5   | O artefato especifica o Tempo Médio para Reparos (MTTR)?                          |         |
-| 6  | O artefato especifica tempo de resposta de transação (médio, máximo)?             |        |
-
-
+| 1   | A especificação suplementar segue o modelo FURPS+?                                |   Sim     |
+| 2   | Os requisitos facilitam as tarefas realizadas pelos usuários?                     |    Sim    |
+| 3   | Os requisitos aumentam a confiabilidade do sistema?                               |     Sim   |
+| 4   | O artefato especifica o Tempo Médio entre Falhas (MTBF)?                          |   Não      |
+| 5   | O artefato especifica o Tempo Médio para Reparos (MTTR)?                          |     Não    |
+| 6  | O artefato especifica tempo de resposta de transação (médio, máximo)?             |   Incompleto     |
 
 <div align="center">Autor(a): <a href="https://github.com/IsaqueSH">Isaque Santos</a></div>
 
@@ -68,12 +65,15 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 
 ## Problemas Encontrados
 
-### Checklist Geral
+**Perguntas 4, 5 e 6 da checklist específica:** O artefato não apresenta métricas sobre o tempo de respostas, de reparo e nem o tempo de transação. É importante apresentar esses dados para garantir que os requisitos sejam testáveis.
 
-### Checklist Específico
+## Gravação da Verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MECyGqVIezA?si=JcDZqR-UdDU7_xDy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 30/06/2024 | Versão Inicial | [Isaque Santos](https://github.com/IsaqueSH) | [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha)  |
+|  1.1   | 01/07/2024 | Adiciona vídeo de verificaçaõ | [Ester Lino](https://github.com/esteerlino) | [Henrique Batalha](https://github.com/HeBatalha) |

@@ -54,7 +54,7 @@ Os artefatos a serem verificados e os resultados das verificações estão apres
 - [Verificação - Brainstorm](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/elicitacao/verficacao_brainstorm)
 - [Verificação - Storytelling](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/elicitacao/storytelling)
 - [Verificação - Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/requisitos_elicitados)
-- [Verificação - First Things First]()
+- [Verificação - First Things First](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/priorizacao/first_things_first)
 - [Verificação - Three Level Scale](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/priorizacao/three_levels_scale_verificacao)
 - [Verificação - MoSCoW](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega2/priorizacao/moscow)
 
