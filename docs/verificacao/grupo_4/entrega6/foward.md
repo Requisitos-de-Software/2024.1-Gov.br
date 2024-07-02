@@ -15,12 +15,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                        |                  |
-| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                         |                  |
-| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                     |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                              |                  |
-| 5   | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |                  |
-| 6   | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?[²](#ref2)                        |           Sim       |
+| 2   | O artefato inclui referências bibliográficas?[²](#ref2)                                                                         |             Sim     |
+| 3   | O artefato possui uma introdução?[²](#ref2)                                                                                     |         Sim         |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?[²](#ref2)                                                              |               Sim   |
+| 5   | A linguagem e a ortografia estão corretas?[²](#ref2)                                                                            |           Sim       |
+| 6   | O artefato contém links para outros artefatos relacionados?[²](#ref2)                                                           |                 Sim |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -30,11 +30,11 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1      | Todos os requisitos identificados estão devidamente ligados aos artefatos de desenho e implementação??[¹](#ref1)                                  |   |
-| 2      | Existem requisitos que não possuem artefatos correspondentes?[¹](#ref1)                              |           |
-| 3      | A documentação dos requisitos é facilmente acessível e compreensível para todos os membros da equipe?[¹](#ref1)  |      |
-| 4      | O sistema permite fácil identificação de todos os componentes afetados por uma alteração em um requisito?[¹](#ref1)                      |           |
-| 5      | A documentação dos requisitos inclui o rationale e os artefatos de desenho e implementação relacionados?[¹](#ref1)         |    |
+| 1      | Todos os requisitos identificados estão devidamente ligados aos artefatos de desenho e implementação?[¹](#ref1)                                  |  Sim |
+| 2      | Existem requisitos que não possuem artefatos correspondentes?[¹](#ref1)                              |      Sim     |
+| 3      | A documentação dos requisitos é facilmente acessível e compreensível para todos os membros da equipe?[¹](#ref1)  |    Sim  |
+| 4      | O sistema permite fácil identificação de todos os componentes afetados por uma alteração em um requisito?[¹](#ref1)                      |     Sim      |
+| 5      | A documentação dos requisitos inclui o rationale e os artefatos de desenho e implementação relacionados?[¹](#ref1)         |  Sim  |
 
 <div align="center">Autor(a): <a href="https://github.com/Caio-bergbjj">Caio Berg</a></div>
 
@@ -62,6 +62,7 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 
 ## Problemas Encontrados
+- Não foi encontrado nenhum problema no artefato.
 
 ## Referências Bibliográficas
 
@@ -79,3 +80,4 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
 |  1.0   | 30/06/2024 | Criação da Página | [Caio Berg](https://github.com/Caio-bergbjj) |   [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  2.0   | 01/07/2024 | Verificação da Checklist | [Thiago Freitas](https://github.com/thiagorfreitas) | [Caio Berg](https://github.com/Caio-bergbjj)  |
