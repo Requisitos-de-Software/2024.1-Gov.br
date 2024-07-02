@@ -66,15 +66,15 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 <img src="assets/verificacao/perfil5.png" alt="ref" width="700"/>
 </details>
 
+## Problemas Encontrados
+
+**Pergunta 4 da checklist geral:** É importante identificar as imagens, assim como as fontes de cada uma.
+
 ## Gravação da Verificação
 
 A verificação foi realizada no dia 01/07/2024 pela integrante [Ester Lino](https://github.com/esteerlino). A gravação está apresentada a seguir.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GQ94boQxqH4?si=x2TQ4xMcf0QrfN9W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Problemas Encontrados
-
-**Pergunta 4 da checklist geral:** É importante identificar as imagens, assim como as fontes de cada uma.
 
 ## Referências Bibliográficas
 
