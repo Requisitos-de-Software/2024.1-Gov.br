@@ -40,9 +40,9 @@ A verificação desta entrega 6 foi realizada por todos os integrantes do grupo.
 
 Os artefatos a serem verificados e os resultados das verificações estão apresentados em páginas separadas e que podem ser acessadas pelos links abaixo:
 
-- [Verificação - Backward-From]()
-- [Verificação - Forward-From]()
-- [Verificação - Matriz de Rastreabilidade]()
+- [Verificação - Backward-From](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega6/backward)
+- [Verificação - Forward-From](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega6/foward)
+- [Verificação - Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega6/matriz_verificacao)
 
 ## Bibliográfia
 

@@ -40,9 +40,9 @@ A verificação desta entrega 4 foi realizada por todos os integrantes do grupo.
 
 Os artefatos a serem verificados e os resultados das verificações estão apresentados em páginas separadas e que podem ser acessadas pelos links abaixo:
 
-- [Verificação - Backlog]()
-- [Verificação - Histórias de Usuário]()
-- [Verificação - NFR Framework]()
+- [Verificação - Backlog](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega4/verifcacao_backlog)
+- [Verificação - Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega4/historias_de_usuario)
+- [Verificação - NFR Framework](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega4/verificacao_nfr_framework)
 
 ## Bibliográfia
 

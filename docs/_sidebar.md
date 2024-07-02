@@ -113,11 +113,11 @@
     - [Léxicos](verificacao/grupo_4/entrega3/lexicos.md)
   - [Entrega 4](verificacao/grupo_4/entrega4/planejamento_entrega04.md)
     - [Backlog](verificacao/grupo_4/entrega4/verifcacao_backlog.md)
-    - [NFR FRAMEWORK](verificacao/grupo_4/entrega4/verificacao_nfr_framework.md)
     - [Histórias de Usuário](verificacao/grupo_4/entrega4/historias_de_usuario.md)
+    - [NFR FRAMEWORK](verificacao/grupo_4/entrega4/verificacao_nfr_framework.md)
   - [Entrega 6](verificacao/grupo_4/entrega6/planejamento_entrega6.md)
-    - [Forward-From](verificacao/grupo_4/entrega6/foward.md)
     - [Backward-From](verificacao/grupo_4/entrega6/backward.md)
+    - [Forward-From](verificacao/grupo_4/entrega6/foward.md)
     - [Matriz de rastreabilidade](verificacao/grupo_4/entrega6/matriz_verificacao.md)
    
 **Pós-rastreabilidade**
