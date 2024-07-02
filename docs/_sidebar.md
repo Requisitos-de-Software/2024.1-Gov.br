@@ -105,6 +105,7 @@
       - [Storytelling](verificacao/grupo_4/entrega2/elicitacao/storytelling.md)
       - [Requisitos Elicitados](verificacao/grupo_4/entrega2/requisitos_elicitados.md)
     - [Priorização](verificacao/grupo_4/entrega2/priorizacao/priorizacao.md)
+      - [First Things First](verificacao/grupo_4/entrega2/priorizacao/three_levels_scale_verificacao.md)
       - [Three Levels Scale](verificacao/grupo_4/entrega2/priorizacao/three_levels_scale_verificacao.md)
       - [MoSCoW](verificacao/grupo_4/entrega2/priorizacao/moscow.md)
   - [Entrega 3](verificacao/grupo_4/entrega3/planejamento_entrega03.md)
