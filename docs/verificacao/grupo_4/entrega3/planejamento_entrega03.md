@@ -43,8 +43,8 @@ Os artefatos a serem verificados e os resultados das verificações estão apres
 
 - [Verificação - Cenários]()
 - [Verificação - Casos de Uso]()
-- [Verificação - Especificação Suplementar]()
-- [Verificação - Léxicos]()
+- [Verificação - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega3/verifica%C3%A7%C3%A3o_especifica%C3%A7%C3%A3o_suplementar)
+- [Verificação - Léxicos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega3/lexicos)
 
 ## Bibliográfia
 
