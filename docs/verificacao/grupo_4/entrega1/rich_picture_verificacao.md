@@ -14,12 +14,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |                  |
-| 2   | O artefato inclui referências bibliográficas?                                                                        |                  |
-| 3   | O artefato possui uma introdução?                                                                                   |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?                                                                           |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |     Sim             |
+| 2   | O artefato inclui referências bibliográficas?                                                                        |              Sim    | 
+| 3   | O artefato possui uma introdução?                                                                                   |      Sim            |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |              Sim    |
+| 5  | A linguagem e a ortografia estão corretas?                                                                           |          Sim        |
+| 6  | O artefato contém links para outros artefatos relacionados?                                                           |             Não     |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -30,11 +30,11 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto | Avaliação |
 | ------------- | ------------- | ------------- |
-| 1 | O Rich Picture está indicando quem está processando quais dados e para que propósito, quais dados estão entrando no sistema, quais informações estão saindo e assim por diante?[¹](#ref1) |  |
-| 2 | Todos os elementos que compõem um Rich Picture(atores, operações, fluxo de dados, armazenamento de dados e fronteira) estão presentes no artefato?[¹](#ref1) |  |
-| 3 | O Rich Picture é facilmente entendido?[¹](#ref1) |  |
-| 4 | O Rich Picture contém todas as palavras-chave relevantes?[¹](#ref1) |  |
-| 5 | O Rich Picture conta uma história?[¹](#ref1) |  |
+| 1 | O Rich Picture está indicando quem está processando quais dados e para que propósito, quais dados estão entrando no sistema, quais informações estão saindo e assim por diante?[¹](#ref1) | Sim |
+| 2 | Todos os elementos que compõem um Rich Picture(atores, operações, fluxo de dados, armazenamento de dados e fronteira) estão presentes no artefato?[¹](#ref1) | Sim |
+| 3 | O Rich Picture é facilmente entendido?[¹](#ref1) | Sim |
+| 4 | O Rich Picture contém todas as palavras-chave relevantes?[¹](#ref1) | Sim |
+| 5 | O Rich Picture conta uma história?[¹](#ref1) | Sim |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div> 
 
@@ -68,7 +68,7 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 ## Problemas Encontrados
 
-
+Checklist Geral - Pergunta 6 - Não foram encontradas referências a outros artefatos.
 
 ## Referências Bibliográficas
 
@@ -81,3 +81,4 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão | Data       | Descrição                                   | Responsáveis                                                                               | Revisor                                      |
 | :----: | :--------: | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------: |
 |  1.0	|30/06/2024|	Versão inicial de documento de descrição do projeto	|[Carlos Gabriel](https://github.com/TheCarlosRamos) |[Thiago Freitas](https://github.com/thiagorfreitas) |
+|  2.0	|01/07/2024|	Verificação do Documento	|[Thiago Freitas](https://github.com/thiagorfreitas) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
