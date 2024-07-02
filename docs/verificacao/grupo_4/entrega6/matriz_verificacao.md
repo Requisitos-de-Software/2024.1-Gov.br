@@ -28,7 +28,7 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 | 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |       Sim           |
 | 5  | A linguagem e a ortografia estão corretas?                                                                           |        Sim          |
 | 6  | O artefato contém links para outros artefatos relacionados?                                                           |       Sim           |
-Sim
+
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
 ### Checklist Específica
