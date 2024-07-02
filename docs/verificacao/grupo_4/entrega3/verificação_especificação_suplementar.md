@@ -49,6 +49,23 @@ A verificação foi realizada por meio de uma inspeção detalhada, utilizando d
 <img src="assets/verificacao/suplementar1.png" alt="ref" width="700"/>
 </details>
 
+</details>
+<details><summary></summary>
+<img src="assets/verificacao/suplementar2.png" alt="ref" width="700"/>
+</details>
+
+</details>
+<details><summary></summary>
+<img src="assets/verificacao/suplementar3.png" alt="ref" width="700"/>
+</details>
+
+
+</details>
+<details><summary></summary>
+<img src="assets/verificacao/suplementar4.png" alt="ref" width="700"/>
+</details>
+
+
 ## Problemas Encontrados
 
 ### Checklist Geral
