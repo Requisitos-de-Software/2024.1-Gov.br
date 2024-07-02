@@ -14,12 +14,12 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |                  |
-| 2   | O artefato inclui referências bibliográficas?                                                                        |                  |
-| 3   | O artefato possui uma introdução?                                                                                   |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?                                                                           |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |         Sim         |
+| 2   | O artefato inclui referências bibliográficas?                                                                        |         Sim         |
+| 3   | O artefato possui uma introdução?                                                                                   |          Sim        |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |         Sim         |
+| 5  | A linguagem e a ortografia estão corretas?                                                                           |          Sim        |
+| 6  | O artefato contém links para outros artefatos relacionados?                                                           |         Sim         |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
@@ -30,10 +30,10 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número | Ponto                                                                                                  | Avaliação         |
 |--------|--------------------------------------------------------------------------------------------------------|------------------|
-| 1      | As personas foram baseadas em dados reais de pesquisas com usuários, como entrevistas ou questionários?[¹](#ref1) |                  |
-| 2      | O documento de personas inclui dados demográficos como idade, gênero, educação?[¹](#ref1)                 |                  |
-| 3      | As necessidades e objetivos das personas estão claramente definidos e descritos?[¹](#ref1)                       |                  |
-| 4      | Há cenários específicos que descrevem como as personas interagem com o produto em diferentes contextos?[¹](#ref1) |                  |
+| 1      | As personas foram baseadas em dados reais de pesquisas com usuários, como entrevistas ou questionários?[¹](#ref1) |   Sim            |
+| 2      | O documento de personas inclui dados demográficos como idade, gênero, educação?[¹](#ref1)                 |           Sim    |
+| 3      | As necessidades e objetivos das personas estão claramente definidos e descritos?[¹](#ref1)                       |    Sim           |
+| 4      | Há cenários específicos que descrevem como as personas interagem com o produto em diferentes contextos?[¹](#ref1) |   Sim            |
 
 <div align="center">Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div> 
 
@@ -62,7 +62,11 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 ## Problemas Encontrados
 
+Não foram encontrados problemas no artefato de Personas.
 
+## Gravação da Verificação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6jZTsXcF0LY?si=BfmCNrNl6fV5ISg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
@@ -76,9 +80,8 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 > [2] [Checklist Geral](verificacao/grupo_4/verificacao_grupo4.md#metodologia)
 
 
-
-
 ## Histórico de Versão
 | Versão | Data       | Descrição                                   | Responsáveis                                                                               | Revisor                                      |
 | :----: | :--------: | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------: |
 |  1.0	|01/07/2024|	Versão inicial de documento	|[Thiago Freitas](https://github.com/thiagorfreitas) |[Arthur Gabriel](https://github.com/Caio-bergbjj) |
+|  1.0	|01/07/2024|	Adicionando verificação do artefato |[Arthur Gabriel](https://github.com/Caio-bergbjj) | [Thiago Freitas](https://github.com/thiagorfreitas) |
