@@ -93,7 +93,7 @@
     - [Histórias de Usuário](verificacao/grupo+1/entrega4/historias_usuario.md)
     - [NFR FRAMEWORK](verificacao/grupo+1/entrega4/nfr_verificacao.md)
 - [Grupo 04](verificacao/grupo_4/panorama_geral.md)
-  - [Entrega 1]()
+  - [Entrega 1](verificacao/grupo_4/entrega1/planejamento_entrega1.md)
     - [Rich Picture](verificacao/grupo_4/entrega1/rich_picture_verificacao.md)
   - [Entrega 2]()
     - [Perfil do Usuário](verificacao/grupo_4/entrega2/verificacao_perfil_do_usuario.md)
