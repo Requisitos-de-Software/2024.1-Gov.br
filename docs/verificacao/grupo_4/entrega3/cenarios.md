@@ -71,8 +71,11 @@ Aqui estão cinco perguntas baseadas na referência fornecida, adaptadas para um
 - O artefato não contém links para outros artefatos relacionados.
 - O artefato não possui rastreabilidade clara para os cenários descritos.
 
-## Referências Bibliográficas
+## Gravação da Verificação
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5lNEE_ImETk?si=7V95sRDEiiSxcIAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Referências Bibliográficas
 
 <a id="ref1"></a>
 
