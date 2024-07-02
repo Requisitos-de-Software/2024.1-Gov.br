@@ -1,12 +1,23 @@
-# Planejamento da Verificação - Entrega 1 (Grupo 04)
+# Planejamento da Verificação - Entrega 2 (Grupo 04)
 
 ## Introdução
 
-A verificação desempenha um papel crucial para garantir a qualidade, confiabilidade e robustez no processo de desenvolvimento de software. Através da verificação, é possível identificar e corrigir falhas, erros e inconsistências desde as etapas iniciais do desenvolvimento, prevenindo problemas mais sérios que podem surgir posteriormente e gerar custos adicionais. Dessa forma, este documento apresenta o planejamento da verificação do seguinte artefato produzido na entrega 1 pelo [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/): Rich Picture.
+A verificação desempenha um papel crucial para garantir a qualidade, confiabilidade e robustez no processo de desenvolvimento de software. Através da verificação, é possível identificar e corrigir falhas, erros e inconsistências desde as etapas iniciais do desenvolvimento, prevenindo problemas mais sérios que podem surgir posteriormente e gerar custos adicionais. Dessa forma, este documento apresenta o planejamento da verificação dos seguintes artefatos produzidos na entrega 1 pelo [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/):
+
+- Perfil de Usuário
+- Personas
+- Termo de Consentimento
+- Análise de Documentos
+- Brainstorm
+- Storytelling
+- Requisitos Elicitados
+- First Things First
+- Three Level Scale
+- MoSCoW
 
 ## Objetivo
 
-O objetivo deste documento é realizar a verificação dos artefatos desenvolvidos na Entrega 1 do [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/), buscando contribuir com feedbacks para melhorias nos documentos produzidos.
+O objetivo deste documento é realizar a verificação dos artefatos desenvolvidos na Entrega 2 do [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/), buscando contribuir com feedbacks para melhorias nos documentos produzidos.
 
 ## Metodologia
 
@@ -30,16 +41,22 @@ Vantagens da Inspeção de Fagan:
 
 ## Participantes
 
-Os responsável pela verificação da entrega 1 foram os integrantes: [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Thiago Freitas](https://github.com/thiagorfreitas).
+A verificação desta entrega 2 foi realizada por todos os integrantes do grupo.
 
 ## Objetos de Verificação
 
-O artefato a ser verificado é:
-- [Rich Picture](https://requisitos-de-software.github.io/2024.1-Gov.br/#/pre-rastreabilidade/rich_picture) - versão 1.1 de data 07/04/2024 produzida por [Isaque Santos](https://github.com/IsaqueSH) e revisada por [Henrique Batalha](https://github.com/HeBatalha).
+Os artefatos a serem verificados e os resultados das verificações estão apresentados em páginas separadas e que podem ser acessadas pelos links abaixo:
 
-O resultado da verificação está apresentado em uma página separada e que pode ser acessada pelo link abaixo:
-
-- [Verificação - Rich Picture](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega1/rich_picture_verificacao)
+- [Verificação - Perfil de Usuário]()
+- [Verificação - Personas]()
+- [Verificação - Termo de Consentimento]()
+- [Verificação - Análise de Documentos]()
+- [Verificação - Brainstorm]()
+- [Verificação - Storytelling]()
+- [Verificação - Requisitos Elicitados]()
+- [Verificação - First Things First]()
+- [Verificação - Three Level Scale]()
+- [Verificação - MoSCoW]()
 
 ## Bibliográfia
 
@@ -49,4 +66,4 @@ O resultado da verificação está apresentado em uma página separada e que pod
 
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 01/07/2024 | Criação da página  | [Ester Lino](https://github.com/esteerlino) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.0   | 01/07/2024 | Criação da página  | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
