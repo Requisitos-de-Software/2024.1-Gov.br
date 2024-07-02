@@ -14,17 +14,16 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 
 | Número  | Ponto                                                                                                           | Avaliação         |
 |-----|----------------------------------------------------------------------------------------------------------------------|------------------|
-| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |                  |
-| 2   | O artefato inclui referências bibliográficas?                                                                        |                  |
-| 3   | O artefato possui uma introdução?                                                                                   |                  |
-| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |                  |
-| 5  | A linguagem e a ortografia estão corretas?                                                                           |                  |
-| 6  | O artefato contém links para outros artefatos relacionados?                                                           |                  |
+| 1   | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores?                       |        Sim          |
+| 2   | O artefato inclui referências bibliográficas?                                                                        |        Sim          |
+| 3   | O artefato possui uma introdução?                                                                                   |         Sim         |
+| 4   | Todas as tabelas possuem legendas e fontes padronizadas?                                                             |        Sim          |
+| 5  | A linguagem e a ortografia estão corretas?                                                                           |         Sim         |
+| 6  | O artefato contém links para outros artefatos relacionados?                                                           |        Não          |
 
 <div align="center">Autor(a): <a href="https://github.com/TheCarlosRamos">Carlos Gabriel</a></div>
 
 ### Checklist Específica
-
 
 <font><p style="text-align: center">**Tabela 1:** Checklist de Avaliação.</p></font>
 
@@ -32,11 +31,11 @@ Aqui estão cinco perguntas baseadas na referência fornecida, adaptadas para um
 
 | Número | Ponto                                                                                                           | Avaliação         |
 |--------|-----------------------------------------------------------------------------------------------------------------|------------------|
-| 1      | Os cenários descrevem situações de uso do sistema pelos usuários?[¹](#ref1)                           |                  |
-| 2      | Cada cenário inclui uma breve descrição do contexto e dos atores envolvidos?[¹](#ref1)           |                  |
-| 3      | Existe uma rastreabilidade clara para os cenários descritos?[¹](#ref1)              |                  |
-| 4      | Os objetivos e as metas de cada cenário são explicitamente delineados?[¹](#ref1)         |                  |
-| 5      | Existem descrições detalhadas das ações realizadas pelos atores dentro de cada cenário?[¹](#ref1)                                  |                  |
+| 1      | Os cenários descrevem situações de uso do sistema pelos usuários?[¹](#ref1)                           |         Sim         |
+| 2      | Cada cenário inclui uma breve descrição do contexto e dos atores envolvidos?[¹](#ref1)           |                Sim  |
+| 3      | Existe uma rastreabilidade clara para os cenários descritos?[¹](#ref1)              |                Não  |
+| 4      | Os objetivos e as metas de cada cenário são explicitamente delineados?[¹](#ref1)         |             Sim     |
+| 5      | Existem descrições detalhadas das ações realizadas pelos atores dentro de cada cenário?[¹](#ref1)                                  |               Sim   |
 
 
 <div align="center">Autor(a): <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div> 
@@ -69,7 +68,8 @@ Aqui estão cinco perguntas baseadas na referência fornecida, adaptadas para um
 
 ## Problemas Encontrados
 
-
+- O artefato não contém links para outros artefatos relacionados.
+- O artefato não possui rastreabilidade clara para os cenários descritos.
 
 ## Referências Bibliográficas
 
@@ -89,3 +89,4 @@ Aqui estão cinco perguntas baseadas na referência fornecida, adaptadas para um
 | Versão | Data       | Descrição                                   | Responsáveis                                                                               | Revisor                                      |
 | :----: | :--------: | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------: |
 |  1.0	|01/07/2024|	Versão inicial de documento	|[Thiago Freitas](https://github.com/thiagorfreitas) |[Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.0	|01/07/2024|	Versão inicial de documento	|[Arthur Gabriel](https://github.com/ArthurGabrieel) | [Thiago Freitas](https://github.com/thiagorfreitas) |
