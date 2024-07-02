@@ -20,12 +20,12 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 
 | ID  | Pergunta | Avaliação |
 |-----|----------|-----------|
-|  1  | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores? |   |
-|  2  | O artefato inclui referências bibliográficas?  |  |
-|  3  | O artefato possui uma introdução? |  |
-|  4  | Todas as tabelas possuem legendas e fontes padronizadas? |  |
-|  5  | A linguagem e a ortografia estão corretas? |                  |
-|  6  | O artefato contém links para outros artefatos relacionados? |                  |
+|  1  | O artefato possui um histórico de versão padronizado com data, descrição, autores e revisores? | Sim  |
+|  2  | O artefato inclui referências bibliográficas?  | Sim |
+|  3  | O artefato possui uma introdução? | Sim |
+|  4  | Todas as tabelas possuem legendas e fontes padronizadas? | Sim |
+|  5  | A linguagem e a ortografia estão corretas? |           Sim       |
+|  6  | O artefato contém links para outros artefatos relacionados? |         Não         |
 
 <div align="center">Fonte: <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div>
 
@@ -35,10 +35,10 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 
 | ID  | Descrição | Avaliação | Referência |
 |-----|-----------|-----------|------------|
-|  1  | Os stakeholders entenderam claramente as implicações das classificações "Should", "Could" e "Won't"? |  | [1](#ref1) |
-|  2  | Existe uma justificativa clara para cada classificação? |  | [1](#ref1) |
-|  3  | Os requisitos estão divididos nas classes da metodologia MoSCoW? (must have, could have, should have, won’t have). |  | [1](#ref1) |
-|  4  | Houve a participação do usuário ou persona para a realização da técnica? |  | [1](#ref1) |
+|  1  | Os stakeholders entenderam claramente as implicações das classificações "Should", "Could" e "Won't"? | Sim | [1](#ref1) |
+|  2  | Existe uma justificativa clara para cada classificação? | Sim | [1](#ref1) |
+|  3  | Os requisitos estão divididos nas classes da metodologia MoSCoW? (must have, could have, should have, won’t have). | Sim | [1](#ref1) |
+|  4  | Houve a participação do usuário ou persona para a realização da técnica? | Sim | [1](#ref1) |
 
 <div align="center"><b>Fonte: </b><a href="https://github.com/esteerlino">Ester Lino</a> e <a href="https://github.com/thiagorfreitas">Thiago Freitas</a></div>
 
@@ -66,6 +66,8 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 
 ## Problemas Encontrados
 
+- Checklist Geral - Pergunta 6 - Não existem links para outros artefatos relacionados.
+
 ## Referências Bibliográficas
 
 <a id="ref1"></a>
@@ -77,3 +79,4 @@ Para a coluna da avaliação, pode-se ter as seguintes respostas:
 | Versão | Data | Descrição | Responsáveis | Revisor(es) |
 | :----: |:----:|:---------:|:------------:|:-----------:|
 |  1.0   | 01/07/2024 | Criação da página | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH) |
+|  2.0   | 01/07/2024 | Verificação da Checklist | [Thiago Freitas](https://github.com/thiagorfreitas) | [Isaque Santos](https://github.com/IsaqueSH) |
