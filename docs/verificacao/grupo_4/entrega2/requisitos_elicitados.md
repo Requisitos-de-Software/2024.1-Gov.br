@@ -86,3 +86,4 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 30/06/2024 | Criação da página  | [Caio Berg](https://github.com/Caio-bergbjj) |  [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.1   | 01/07/2024 | Adicionando verificação  | [Arthur Gabriel](https://github.com/ArthurGabrieel) | [Caio Berg](https://github.com/Caio-bergbjj) |

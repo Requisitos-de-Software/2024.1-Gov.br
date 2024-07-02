@@ -100,5 +100,6 @@ Sim
 | Versão | Data       | Descrição                                   | Responsáveis                                                                               | Revisor                                      |
 | :----: | :--------: | :-----------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------: |
 |  1.0   | 01/07/2024 | Versão inicial de documento de descrição do projeto | [Carlos Gabriel](https://github.com/TheCarlosRamos)                                         | [Arthur Gabriel](https://github.com/ArthurGabrieel)  |
+|  1.1   | 01/07/2024 | Adicionando verificação do artefato | [Arthur Gabriel](https://github.com/ArthurGabrieel)  | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
 
 
