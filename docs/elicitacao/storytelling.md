@@ -33,9 +33,9 @@ A partir da criação das personas e com base nos seus respectivos perfis e seus
 ## João Silva
 
 
-[João Silva](../Elicitação/Personas.md), um engenheiro civil e dono de uma pequena empresa de construção em Brasília, começa seu dia revisando planos de construção. Seu filho, Pedro, sugeriu que ele usasse o aplicativo gov.br para agendar um serviço na Receita Federal, algo que João não estava acostumado a fazer pelo smartphone.
+[João Silva](../Elicitação/Personas.md), um engenheiro civil e dono de uma pequena empresa de construção em Brasília, começa seu dia revisando planos de construção. Seu filho, Pedro, sugeriu que ele usasse o aplicativo gov.br para agendar um serviço na Receita Federal, algo que João não estava acostumado a fazer e estava receoso pois faria pelo seu pelo smartphone.
 
-Naquela manhã, após uma reunião com sua equipe, João lembra do agendamento. Com um pouco de hesitação, pega seu smartphone e abre o aplicativo gov.br. Para sua surpresa, a interface é simples e amigável. Ele encontra facilmente o serviço de agendamento, seleciona a data desejada e confirma.
+Naquela manhã de abril de 2024 em Brasília, após uma reunião com sua equipe, João lembra do agendamento. Com um pouco de hesitação, pega seu smartphone e abre o aplicativo gov.br. Para sua surpresa, a interface é simples e amigável. Ele encontra facilmente o serviço de agendamento, seleciona a data desejada e confirma.
 
 Em questão de minutos, a tarefa está concluída. João fecha o aplicativo, satisfeito por ter resolvido a pendência rapidamente. Ele reflete sobre como a tecnologia pode simplificar até mesmo tarefas para alguém não tão familiarizado com smartphones.
 
@@ -48,7 +48,7 @@ Com o agendamento feito, João volta sua atenção para os planos de construçã
 
 Como membro ativo da comunidade jurídica, Maria Fernanda está sempre em busca de maneiras de simplificar seu trabalho. Por isso, decidiu instalar o aplicativo gov.br em seu smartphone para acessar serviços relacionados à assinatura digital. Ela precisa assinar documentos constantemente em relação aos processos de seus clientes e deseja diminuir sua carga de trabalho.
 
-Um dia, entre uma consulta e outra, Maria Fernanda precisa assinar um contrato importante para um cliente. Ela pega seu smartphone, abre o aplicativo gov.br e, para sua satisfação, encontra uma interface intuitiva e de fácil navegação.
+Uma terça feira de Abril de 2024 em Brasília, entre uma consulta e outra, Maria Fernanda precisa assinar um contrato importante para um cliente. Ela pega seu smartphone, abre o aplicativo gov.br e, para sua satisfação, encontra uma interface intuitiva e de fácil navegação.
 
 Na tela inicial do aplicativo, ela encontra rapidamente a opção de "Assinatura Digital". Com apenas alguns toques, ela seleciona o documento que precisa assinar, verifica os detalhes e adiciona sua assinatura digital de forma rápida e segura. Maria Fernanda se sente aliviada ao ver como o processo foi simplificado.
 
@@ -69,7 +69,7 @@ Com o contrato assinado e o trabalho concluído em tempo recorde, Maria Fernanda
 
 Recentemente, Rafael instalou o aplicativo gov.br em seu smartphone com o objetivo de utilizar os serviços online do governo. Ele deseja agendar atendimentos em órgãos públicos, consultar informações sobre benefícios sociais e acompanhar processos relacionados à sua carreira de professor.
 
-Em uma tarde tranquila, Rafael decide explorar o aplicativo gov.br para ver como ele pode simplificar suas tarefas burocráticas. Ao abrir o aplicativo, ele é recebido por uma interface amigável e organizada, o que o deixa satisfeito.
+Em uma tarde tranquila de abril em Brasília, Rafael decide explorar o aplicativo gov.br para ver como ele pode simplificar suas tarefas burocráticas. Ao abrir o aplicativo, ele é recebido por uma interface amigável e organizada, o que o deixa satisfeito.
 
 Na tela inicial, Rafael encontra facilmente a seção de "Agendamento de Atendimentos". Ele seleciona o órgão público desejado, escolhe o tipo de serviço e, em poucos passos, consegue agendar um horário para renovar sua documentação profissional. Rafael fica impressionado com a eficiência do processo e a rapidez com que conseguiu marcar o atendimento.
 
@@ -83,7 +83,7 @@ Ao finalizar suas tarefas no aplicativo gov.br, Rafael sente-se satisfeito. Ele 
 ## Lucas Oliveira
 
 
-[Lucas Oliveira](../Elicitação/Personas.md), em um intervalo entre sessões de programação, decide explorar o aplicativo gov.br para verificar como a carteira digital pode ajudá-lo em seu dia a dia. Ao abrir o aplicativo, ele é recebido por uma interface limpa e intuitiva, o que o deixa animado.
+[Lucas Oliveira](../Elicitação/Personas.md), em um intervalo entre sessões de programação daquela tranquila tarde de março de 2024 agora em São Paulo, decide explorar o aplicativo gov.br para verificar como a carteira digital pode ajudá-lo em seu dia a dia. Ao abrir o aplicativo, ele é recebido por uma interface limpa e intuitiva, o que o deixa animado.
 
 Na tela inicial, Lucas encontra a seção de "Carteira Digital". Ele começa a adicionar seus documentos, como RG, CPF e carteira de motorista, digitalizando-os diretamente pelo aplicativo. Em poucos minutos, seus documentos estão seguramente armazenados em sua carteira digital.
 
@@ -101,7 +101,7 @@ Ao finalizar o processo de digitalização de seus documentos, Lucas sente-se sa
 
 [Olimar Gonçalves](../Elicitação/Personas.md), agora aposentado, recebeu a orientação de sua família para instalar o aplicativo gov.br em seu smartphone. O objetivo é acessar recursos relacionados à sua aposentadoria, em particular, utilizar a função de prova de vida para garantir a continuidade do recebimento de sua aposentadoria.
 
-Em uma tarde tranquila, Olimar decide explorar o aplicativo gov.br para entender como pode simplificar o processo de prova de vida. Ao abrir o aplicativo, ele é recebido por uma interface simples e direta, o que o agrada.
+Em uma tarde tranquila de março de suas férias no Rio Grande do Sul, Olimar decide explorar o aplicativo gov.br para entender como pode simplificar o processo de prova de vida. Ao abrir o aplicativo, ele é recebido por uma interface simples e direta, o que o agrada.
 
 Na tela inicial, Olimar encontra facilmente a seção de "Prova de Vida". Ele segue as instruções, fornecendo as informações necessárias e tirando uma foto de seu rosto. Em questão de minutos, a prova de vida é concluída e confirmada pelo aplicativo.
 
@@ -164,3 +164,4 @@ Ao finalizar as tarefas no aplicativo, Olimar sente um alívio. Ele percebe que 
 |  1.0   | 13/04/2024 | Versão Inicial | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.1   | 16/04/2024 | Ajuste nas histórias das personas | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
 |  1.2   | 11/05/2024 | Adição das histórias em áudios | [Carlos Gabriel](https://github.com/TheCarlosRamos), [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+|  1.3   | 06/07/2024 | Correção do artefato | [Carlos Gabriel](https://github.com/TheCarlosRamos) | [Isaque Santos](https://github.com/IsaqueSH) |
