@@ -44,7 +44,7 @@ Aqui estão cinco perguntas baseadas na referência fornecida, adaptadas para um
 
 </details>
 <details><summary>Pergunta 1</summary>
-<img src="assets/verificacao/cenarios_pergunta1_ref.png" alt="ref" width="700"/>
+<img src="docs\assets\verificacao\cenarios_ref_pergunta1.png" alt="ref" width="700"/>
 </details>
 
 </details>

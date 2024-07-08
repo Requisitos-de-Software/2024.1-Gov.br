@@ -40,23 +40,13 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 ## Fontes das perguntas - Checklist Específica
 
 </details>
-<details><summary>Pergunta 1</summary>
+<details><summary>Pergunta 1, 2 e 4</summary>
 <img src="assets/verificacao/personas_pergunta1_ref.png" alt="ref" width="700"/>
-</details>
-
-</details>
-<details><summary>Pergunta 2</summary>
-<img src="assets/verificacao/personas_pergunta2_ref.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 3</summary>
 <img src="assets/verificacao/personas_pergunta3_ref.png" alt="ref" width="700"/>
-</details>
-
-</details>
-<details><summary>Pergunta 4</summary>
-<img src="assets/verificacao/personas_pergunta4_ref.png" alt="ref" width="700"/>
 </details>
 
 
