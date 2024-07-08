@@ -209,6 +209,8 @@ A tabela 7 apresenta o cronograma executado para a entrega da etapa 5.2.
 
 ## Cronograma Executado da Etapa 7 - Entrega Final
 
+<details><summary><b>Etapa 07</b></summary>
+
 A tabela 8 apresenta o cronograma executado para a entrega da etapa 7.
 
 <figcaption align="center">Tabela 8 - Cronograma executado da etapa 7</figcaption>
