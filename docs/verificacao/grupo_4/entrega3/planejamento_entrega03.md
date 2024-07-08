@@ -42,11 +42,7 @@ A verificação desta entrega 3 foi realizada por todos os integrantes do grupo.
 Os artefatos a serem verificados e os resultados das verificações estão apresentados em páginas separadas e que podem ser acessadas pelos links abaixo:
 
 - [Verificação - Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega3/cenarios)
-<<<<<<< Updated upstream
 - [Verificação - Casos de Uso](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega3/casos_de_uso)
-=======
-- [Verificação - Casos de Uso]()
->>>>>>> Stashed changes
 - [Verificação - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega3/verifica%C3%A7%C3%A3o_especifica%C3%A7%C3%A3o_suplementar)
 - [Verificação - Léxicos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/verificacao/grupo_4/entrega3/lexicos)
 
