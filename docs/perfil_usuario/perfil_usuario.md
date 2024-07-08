@@ -148,9 +148,9 @@ Para mais detalhes, visite [Gov.br - Trabalhador](https://www.gov.br/pt-br/perfi
 O perfil de usuário Turista no portal Gov.br oferece diversos serviços e informações destinados a turistas. Esses serviços incluem informações sobre destinos turísticos, guias de viagem, informações sobre hospedagem e transporte, acesso a eventos e atrações turísticas, entre outros. O objetivo é fornecer suporte e facilitar a experiência de viagem dos turistas, promovendo o turismo nacional e contribuindo para o desenvolvimento econômico do setor.
 
 Para mais detalhes, visite [Gov.br - Turista](https://www.gov.br/pt-br/perfil_usuario/turista).
-## Definição do Perfil de Usuário
+## Definição do Perfil de Usuário - Questionário
 
-Após uma análise das respostas obtidas pelo questionário juntamente com a análise documental, foi traçado um Perfil de Usuário para o aplicativo do Gov.br com as seguintes descrições:
+Além da análise documental e dos perfis de usuário definidos acima, foi realizada uma análise dos dados obtidos no questionário para traçar um perfil de usuário específico para as respostas obtidas.
 
 - **Gênero:** Em sua maioria Masculino.
 - **Idade:** acima de 18 anos.
@@ -172,3 +172,4 @@ Disponível em: [https://www.gov.br/pt-br/perfil_usuario/todos_os_perfis](https:
 | 1.0  | 09/04/2024 | Criação do Perfil de Usuário             | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) |    [Caio Berg](https://github.com/Caio-bergbjj)     |
 | 1.1  | 22/04/2024 | Adição dos dados obtidos no Questionário | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Thiago Ribeiro](https://github.com/thiagorfreitas) |    [Caio Berg](https://github.com/Caio-bergbjj)     |
 | 2.0  | 20/05/2024 | Correção Pós-Feedback                    |                            [Thiago Ribeiro](https://github.com/thiagorfreitas)                            | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+| 2.1  | 08/07/2024 | Revisão e correção da definição de perfil de usuário                   |                            [Thiago Ribeiro](https://github.com/thiagorfreitas)                            | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
