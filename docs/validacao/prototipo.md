@@ -34,6 +34,9 @@ Para conferir o protótipo, <a href="https://www.figma.com/design/eiZZPneC0whdS8
 ## RF14 - O usuário deve conseguir agendar serviços específicos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQ0k4Fui9qU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## RF19 - O usuário deve conseguir se inscrever em concursos públicos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzmT8-YXaEQ?si=fMt_BAsgQSgiTIoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## Referências Bibliográficas
