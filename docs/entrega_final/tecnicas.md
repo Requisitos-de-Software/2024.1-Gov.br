@@ -34,4 +34,4 @@ O objetivo deste documento é apresentar de forma detalhada todas as técnicas d
 
 | Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
 | :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
-|  1.0   | 08/07/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH) |  [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Thiago Freitas](https://github.com/thiagorfreitas) |
+|  1.0   | 08/07/2024 | Versão Inicial | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH) | [Thiago Freitas](https://github.com/thiagorfreitas) |

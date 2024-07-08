@@ -211,7 +211,27 @@ A tabela 7 apresenta o cronograma executado para a entrega da etapa 5.2.
 
 A tabela 8 apresenta o cronograma executado para a entrega da etapa 7.
 
-***EM BREVE...***
+<figcaption align="center">Tabela 8 - Cronograma executado da etapa 7</figcaption>
+
+| Tarefa | Responsáveis | Período de desenvolvimento | Revisor | Período de revisão |
+|:------:|:------------:| :------------------------: | :-----: |:------------------:|
+| Atualização das atas | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 02/07</br> Fim: 07/07 | [Thiago Freitas](https://github.com/thiagorfreitas) |  Início:07/07</br> Fim: 08/07 |
+| Atualização do Notion | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 02/07</br> Fim: 07/07 | [Ester Lino](https://github.com/esteerlino) |  Início:07/07</br> Fim: 08/07 |
+| Aplicativo Selecionado| [Caio Berg](https://github.com/Caio-bergbjj) |  Início: 02/07</br> Fim: 08/07 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:07/07</br> Fim: 08/07 |
+| Planejamento do Recursos e das Entregas | [Ester Lino](https://github.com/esteerlino) | Início: 02/07</br> Fim: 08/07  | [Caio Berg](https://github.com/Caio-bergbjj) | Início:07/07</br> Fim: 08/07 |
+| Execução do Projeto | [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 02/07</br> Fim: 08/07 | [Arthur Gabriel](https://github.com/ArthurGabrieel) | Início:07/07</br> Fim: 08/07 |
+| Resultados Alcançados | [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com/IsaqueSH) | Início: 02/07</br> Fim: 08/07 | [Ester Lino](https://github.com/esteerlino) | Início:07/07</br> Fim: 08/07 |
+| Técnicas| [Henrique Batalha](https://github.com/HeBatalha) e [Isaque Santos](https://github.com/IsaqueSH) | Início: 02/07</br> Fim: 08/07 | [Thiago Freitas](https://github.com/thiagorfreitas) | Início:07/07</br> Fim: 08/07 |
+| Artefatos | [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 02/07</br> Fim: 08/07 | [Caio Berg](https://github.com/Caio-bergbjj) |  Início:07/07</br> Fim: 08/07 |
+| Método de Verificação e de Validação| [Carlos Gabriel](https://github.com/TheCarlosRamos) | Início: 02/07</br> Fim: 08/07 | [Isaque Santos](https://github.com/IsaqueSH) | Início:07/07</br> Fim: 08/07 |
+| Ferramentas | [Arthur Gabriel](https://github.com/ArthurGabrieel) |  Início: 02/07</br> Fim: 08/07  | [Henrique Batalha](https://github.com/HeBatalha) | Início:07/07</br> Fim: 08/07 |
+| Apresentações | [Ester Lino](https://github.com/esteerlino) |  Início: 02/07</br> Fim: 08/07 | [Caio Berg](https://github.com/Caio-bergbjj) | Início:07/07</br> Fim: 08/07 |
+| Gravação da apresentação | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início:30/06</br> Fim: 01/07 | [Arthur Gabriel](https://github.com/ArthurGabrieel) | Início:30/06</br> Fim: 01/07 |
+| Correção após feedbacks da entrega 05.2 | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Caio Berg](https://github.com/Caio-bergbjj), [Carlos Gabriel](https://github.com/TheCarlosRamos), [Ester Lino](https://github.com/esteerlino), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Thiago Freitas](https://github.com/thiagorfreitas) | Início: 02/07</br> Fim: 05/07 | [Isaque Santos](https://github.com/IsaqueSH) | Início: 05/07</br> Fim: 06/07 |
+
+<figcaption align="center">Fonte: <a href="https://github.com/esteerlino">Ester Lino</a></figcaption>
+
+</details>
 
 ## Bibliografia
 
@@ -228,3 +248,4 @@ A tabela 8 apresenta o cronograma executado para a entrega da etapa 7.
 |  1.4   | 10/06/2024 | Inclusão do cronograma executado da etapa 05.1 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
 |  1.5   | 24/06/2024 | Inclusão do cronograma executado da etapa 06 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
 |  1.6   | 01/07/2024 | Inclusão do cronograma executado da etapa 05.2 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+|  1.7   | 08/07/2024 | Inclusão do cronograma executado da etapa 07 | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
