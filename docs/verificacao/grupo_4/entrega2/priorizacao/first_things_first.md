@@ -40,23 +40,18 @@ Para a realização da verificação, será utilizada a metodologia de inspeçã
 ## Fontes das perguntas - Checklist Específica
 
 </details>
-<details><summary>Pergunta 1</summary>
-<img src="assets/verificacao/ftf_pergunta1_ref.png" alt="ref" width="700"/>
-</details>
-
-</details>
-<details><summary>Pergunta 2</summary>
-<img src="assets/verificacao/ftf_pergunta1_ref.png" alt="ref" width="700"/>
+<details><summary>Pergunta 1 e 2</summary>
+<img src="assets/verificacao/ftf_ref_pergunta1.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 3</summary>
-<img src="assets/verificacao/ftf_pergunta2_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/ftf_ref_pergunta2.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 4</summary>
-<img src="assets/verificacao/ftf_pergunta3_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/ftf_ref_pergunta3.png" alt="ref" width="700"/>
 </details>
 
 

@@ -48,21 +48,13 @@ Aqui estão cinco perguntas baseadas na referência fornecida, adaptadas para um
 </details>
 
 </details>
-<details><summary>Pergunta 2</summary>
+<details><summary>Pergunta 2, 4 e 5</summary>
 <img src="assets/verificacao/cenarios_ref_pergunta2.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 3</summary>
 <img src="assets/verificacao/cenarios_ref_pergunta3.png" alt="ref" width="700"/>
-</details>
-
-</details>
-<details><summary>Pergunta 4</summary>
-<img src="assets/verificacao/cenarios_ref_pergunta2.png" alt="ref" width="700"/>
-</details>
-<details><summary>Pergunta 5</summary>
-<img src="assets/verificacao/cenarios_ref_pergunta2.png" alt="ref" width="700"/>
 </details>
 
 
