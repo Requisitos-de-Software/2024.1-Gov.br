@@ -43,6 +43,37 @@ Para conferir o protótipo, <a href="https://www.figma.com/design/eiZZPneC0whdS8
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4lh2-4o2Oyg?si=PPi4W341gnYOOqZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Tentativa de Contato com a Equipe Gov.br
+
+> Prezados,
+> 
+> Sou aluno de Graduação em Engenharia de Software na Universidade de Brasília e, atualmente, faço parte de um grupo que está desenvolvendo um projeto para a disciplina de Requisitos de Software focado no aplicativo GOVBR.
+> 
+> Ao longo do semestre letivo, nossa equipe trabalhou na elicitação, priorização, verificação e validação de alguns requisitos para o aplicativo GOVBR. Gostaríamos de compartilhar com vocês o trabalho que desenvolvemos, incluindo protótipos de alta fidelidade com sugestões de novas funcionalidades.
+> 
+> Nós gostaríamos de apresentar o nosso trabalho e ouvir o feedback da equipe do aplicativo, caso tenham disponibilidade para nos atender. Acreditamos que a opinião de vocês é fundamental para o aprimoramento do nosso projeto e esperamos também poder agregar valor ao aplicativo.
+> 
+> Links para o nosso projeto:
+> 
+> - Projeto da Disciplina - [https://requisitos-de-software.github.io/2024.1-Gov.br/#/README](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README)
+> - Repositório no GitHub - [https://github.com/Requisitos-de-Software/2024.1-Gov.br](https://github.com/Requisitos-de-Software/2024.1-Gov.br)
+> - Prototipação no Figma - [https://www.figma.com/design/eiZZPneC0whdS8JKTnkszO/Requisitos---Equipe-04---Gov-Br?node-id=284-5400&t=o7O9N0RN4vM2CZKq-1](https://www.figma.com/design/eiZZPneC0whdS8JKTnkszO/Requisitos---Equipe-04---Gov-Br?node-id=284-5400&t=o7O9N0RN4vM2CZKq-1)
+> 
+> Integrantes do Grupo:
+> - Arthur Gabriel
+> - Caio Berg
+> - Carlos Gabriel
+> - Ester Lino
+> - Henrique Batalha
+> - Isaque Santos
+> - Thiago Freitas
+> 
+> Agradeço desde já pela atenção e estamos à disposição para fornecer mais detalhes sobre o nosso trabalho ou até para agendar uma reunião com a nossa equipe.
+> 
+> Atenciosamente,
+> 
+> Thiago Freitas
+
 ## Referências Bibliográficas
 
 1. https://edisciplinas.usp.br/pluginfile.php/7461818/mod_resource/content/2/A06-prototipacao.pdf
