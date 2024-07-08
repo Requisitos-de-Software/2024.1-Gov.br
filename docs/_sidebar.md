@@ -130,4 +130,17 @@
 - [Matriz de Rastreabilidade](pos-rastreabilidade/matriz.md)
 
 **Validação**
+
 - [Protótipo](validacao/prototipo.md)
+
+**Entrega Final**
+
+- [Aplicativo Selecionado](entrega_final/aplicativo_selecionado.md)
+- [Planejamento dos recursos e das entregas](entrega_final/planejamento.md)
+- [Execução do Projeto](entrega_final/execucao.md)
+- [Resultados Alcançados](entrega_final/resultados.md)
+- [Técnicas](entrega_final/tecnicas.md)
+- [Artefatos](entrega_final/artefatos.md)
+- [Método de Verificação e Validação](entrega_final/verificacao_validacacao.md)
+- [Ferramentas](entrega_final/ferramentas.md)
+- [Apresentações](entrega_final/apresentacoes.md)
