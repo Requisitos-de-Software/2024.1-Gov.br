@@ -27,4 +27,4 @@ A tabela 1 apresenta as etapas, os vídeos e os participantes de cada gravação
 
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 07/07/2024 | Criação da página | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+|  1.0   | 07/07/2024 | Criação da página | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
