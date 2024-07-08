@@ -44,25 +44,25 @@ Aqui estão cinco perguntas baseadas na referência fornecida, adaptadas para um
 
 </details>
 <details><summary>Pergunta 1</summary>
-<img src="docs\assets\verificacao\cenarios_ref_pergunta1.png" alt="ref" width="700"/>
+<img src="assets/verificacao/cenarios_ref_pergunta1.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 2</summary>
-<img src="assets/verificacao/cenarios_pergunta2_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/cenarios_ref_pergunta2.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 3</summary>
-<img src="assets/verificacao/cenarios_pergunta3_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/cenarios_ref_pergunta3.png" alt="ref" width="700"/>
 </details>
 
 </details>
 <details><summary>Pergunta 4</summary>
-<img src="assets/verificacao/cenarios_pergunta2_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/cenarios_ref_pergunta2.png" alt="ref" width="700"/>
 </details>
 <details><summary>Pergunta 5</summary>
-<img src="assets/verificacao/cenarios_pergunta2_ref.png" alt="ref" width="700"/>
+<img src="assets/verificacao/cenarios_ref_pergunta2.png" alt="ref" width="700"/>
 </details>
 
 
