@@ -38,7 +38,7 @@ A visualização das interconexões entre as etapas se tornou a chave para uma g
 
 ## Bibliografia
 
-Gov.br. Disponível em: https://requisitos-de-software.github.io/2024.1-Gov.br/#/. Acesso em 08 de julio de 2024.
+Gov.br. Disponível em: https://requisitos-de-software.github.io/2024.1-Gov.br/#/. Acesso em 08 de julho de 2024.
 
 ## Histórico de Versão
 
