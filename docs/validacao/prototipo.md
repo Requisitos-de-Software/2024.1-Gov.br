@@ -92,10 +92,10 @@ Para conferir o protótipo, <a href="https://www.figma.com/design/eiZZPneC0whdS8
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
-1.0 | 21/06/2023 | Criação do artefato  | [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Thiago Freitas](https://github.com/thiagorfreitas)|
-1.1 | 06/07/2023 | Adição da gravação de RF14|[Carlos Gabriel](https://github.com/TheCarlosRamos) | [Isaque Santos](https://github.com/IsaqueSH)|
-1.2 | 06/07/2023 | Adição da gravação de RF19|[Thiago Freitas](https://github.com/thiagorfreitas) | [Henrique Batalha](https://github.com/HeBatalha)|
-1.3 | 06/07/2023 | Adição da gravação de RF30|[Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH)|
-1.4 | 06/07/2023 | Adição da gravação de RF21 e RF24|[Isaque Santos](https://github.com/IsaqueSH) | [Henrique Batalha](https://github.com/HeBatalha) |
+1.0 | 21/06/2024 | Criação do artefato  | [Carlos Gabriel](https://github.com/TheCarlosRamos) e [Isaque Santos](https://github.com/IsaqueSH) | [Arthur Gabriel](https://github.com/ArthurGabrieel), [Thiago Freitas](https://github.com/thiagorfreitas)|
+1.1 | 06/07/2024 | Adição da gravação de RF14|[Carlos Gabriel](https://github.com/TheCarlosRamos) | [Isaque Santos](https://github.com/IsaqueSH)|
+1.2 | 06/07/2024 | Adição da gravação de RF19|[Thiago Freitas](https://github.com/thiagorfreitas) | [Henrique Batalha](https://github.com/HeBatalha)|
+1.3 | 06/07/2024 | Adição da gravação de RF30|[Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH)|
+1.4 | 06/07/2024 | Adição da gravação de RF21 e RF24|[Isaque Santos](https://github.com/IsaqueSH) | [Henrique Batalha](https://github.com/HeBatalha) |
 
 
