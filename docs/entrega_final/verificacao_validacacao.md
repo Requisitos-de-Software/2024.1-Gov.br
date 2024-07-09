@@ -108,7 +108,7 @@ A tabela 2 apresenta a organização do [Grupo 5](https://github.com/Requisitos-
 
 ### Validação Informal
 
-Na fase de validação por meio de comprovação informal, o grupo escreveu em um email pedindo a análise e validação dos artefatos criados durante todo o projeto. A mensagem enviada pode ser visualizada na [página do artefato]().
+Na fase de validação por meio de comprovação informal, o grupo escreveu em um email pedindo a análise e validação dos artefatos criados durante todo o projeto. A mensagem enviada pode ser visualizada na [página do artefato](https://github.com/Requisitos-de-Software/2024.1-Gov.br/blob/main/docs/validacao/comunicacao.md#corpo-do-e-mail).
 
 
 ## Histórico de Versão
