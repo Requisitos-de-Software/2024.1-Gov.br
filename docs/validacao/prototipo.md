@@ -47,6 +47,10 @@ Para conferir o protótipo, <a href="https://www.figma.com/design/eiZZPneC0whdS8
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2tJjFIBsArw?si=rY6EJ4KdaMH-o30T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## RF26 - O aplicativo deve possuir ferramentas de acessibilidade (Alto contraste, aumentar a fonte, audiodescrição).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bs4iGsPSMog?si=bZxnb1RbYViHZNM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## RF30 - Como usuário, desejo agendar atendimento em órgãos públicos através do aplicativo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4lh2-4o2Oyg?si=PPi4W341gnYOOqZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
