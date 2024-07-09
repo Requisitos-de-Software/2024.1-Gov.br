@@ -4,16 +4,16 @@
 
 A verificação desempenha um papel crucial para garantir a qualidade, confiabilidade e robustez no processo de desenvolvimento de software. Através da verificação, é possível identificar e corrigir falhas, erros e inconsistências desde as etapas iniciais do desenvolvimento, prevenindo problemas mais sérios que podem surgir posteriormente e gerar custos adicionais. Dessa forma, este documento apresenta o planejamento da verificação dos seguintes artefatos produzidos na entrega 2 pelo [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/):
 
-- Perfil de Usuário
-- Personas
-- Termo de Consentimento
-- Análise de Documentos
-- Brainstorm
-- Storytelling
-- Requisitos Elicitados
-- First Things First
-- Three Level Scale
-- MoSCoW
+- Perfil de Usuário: versão 2.0
+- Personas: versão 1.3
+- Termo de Consentimento: versão 2.0
+- Análise de Documentos: versão 1.1
+- Brainstorm: versão 1.3
+- Storytelling: versão 1.2
+- Requisitos Elicitados: versão 1.2
+- First Things First: versão 1.4
+- Three Level Scale: versão 1.1
+- MoSCoW: versão 1.1
 
 ## Objetivo
 
@@ -67,3 +67,4 @@ Os artefatos a serem verificados e os resultados das verificações estão apres
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 01/07/2024 | Criação da página  | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |
+|  1.1   | 08/07/2024 | Inclui versões dos artefatos verificados | [Ester Lino](https://github.com/esteerlino) | [Caio Berg](https://github.com/Caio-bergbjj) |

@@ -4,10 +4,10 @@
 
 A verificação desempenha um papel crucial para garantir a qualidade, confiabilidade e robustez no processo de desenvolvimento de software. Através da verificação, é possível identificar e corrigir falhas, erros e inconsistências desde as etapas iniciais do desenvolvimento, prevenindo problemas mais sérios que podem surgir posteriormente e gerar custos adicionais. Dessa forma, este documento apresenta o planejamento da verificação dos seguintes artefatos produzidos na entrega 3 pelo [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/):
 
-- Cenários
-- Casos de Uso
-- Especificação Suplementar
-- Léxicos
+- Cenários: versão 1.5
+- Casos de Uso: versão 1.5
+- Especificação Suplementar: 1.2 
+- Léxicos: 1.2
 
 ## Objetivo
 
@@ -55,3 +55,4 @@ Os artefatos a serem verificados e os resultados das verificações estão apres
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 01/07/2024 | Criação da página  | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
+|  1.1   | 08/07/2024 | Inclui versões dos artefatos verificados  | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |

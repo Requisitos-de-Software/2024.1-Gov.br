@@ -4,9 +4,9 @@
 
 A verificação desempenha um papel crucial para garantir a qualidade, confiabilidade e robustez no processo de desenvolvimento de software. Através da verificação, é possível identificar e corrigir falhas, erros e inconsistências desde as etapas iniciais do desenvolvimento, prevenindo problemas mais sérios que podem surgir posteriormente e gerar custos adicionais. Dessa forma, este documento apresenta o planejamento da verificação dos seguintes artefatos produzidos na entrega 4 pelo [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/):
 
-- Backlog
-- Histórias de Usuário
-- NFR Framework
+- Backlog: versão 1.1
+- Histórias de Usuário: versão 1.3
+- NFR Framework: versão 1.2
 
 ## Objetivo
 
@@ -53,3 +53,4 @@ Os artefatos a serem verificados e os resultados das verificações estão apres
 | Versão | Data | Descrição | Responsáveis | Revisor |
 | :----: | :--: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 01/07/2024 | Criação da página  | [Ester Lino](https://github.com/esteerlino) | [Isaque Santos](https://github.com/IsaqueSH) |
+|  1.1   | 08/07/2024 | Inclui versões dos artefatos verificados  | [Ester Lino](https://github.com/esteerlino) | [Carlos Gabriel](https://github.com/TheCarlosRamos) |
