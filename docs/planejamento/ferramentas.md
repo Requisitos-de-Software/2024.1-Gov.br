@@ -41,6 +41,7 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 10. This Person Does Not Exist. Disponível em: [https://this-person-does-not-exist.com/en](). Acesso em: 6 de abr. de 2024
 11. Draw.io. Disponível em: [https://app.diagrams.net/](). Acesso em: 19 de maio de 2024.
 12. Google Docs. Disponível em: [https://docs.google.com/](). Acesso em: 20 de maio de 2024
+13. Figma. Disponível em: [https://www.figma.com/](). Acessado em: 08 de julho de 2024.
 
 ## Histórico de Versão
 
@@ -52,3 +53,4 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 |  1.3   | 07/04/2024 | Adição da ferramenta This Person Does Not Exist| [Henrique Batalha](https://github.com/HeBatalha) | [Isaque Santos](https://github.com/IsaqueSH)  |
 |  1.4   | 19/04/2024 | Adição da ferramenta Draw.io| [Isaque Santos](https://github.com/IsaqueSH) | [Henrique Batalha](https://github.com/HeBatalha)  |
 |  1.5   | 20/05/2024 | Adição da ferramenta Google Docs| [Ester Lino](https://github.com/esteerlino) | [Arthur Gabriel](https://github.com/ArthurGabrieel)  |
+|  1.6   | 08/07/2024 | Adição da ferramenta Figma| [Arthur Gabriel](https://github.com/ArthurGabrieel) |[Ester Lino](https://github.com/esteerlino) |

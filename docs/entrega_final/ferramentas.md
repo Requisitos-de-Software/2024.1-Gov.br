@@ -41,6 +41,7 @@ Durante a realização do projeto, foram utilizadas diversas ferramentas para au
 10. This Person Does Not Exist. Disponível em: [https://this-person-does-not-exist.com/en](). Acesso em: 08 de julho de 2024
 11. Draw.io. Disponível em: [https://app.diagrams.net/](). Acesso em: 08 de julho de 2024.
 12. Google Docs. Disponível em: [https://docs.google.com/](). Acesso em: 08 de julho de 2024
+13. Figma. Disponível em: [https://www.figma.com/](). Acessado em: 08 de julho de 2024.
 
 ## Histórico de Versão
 
