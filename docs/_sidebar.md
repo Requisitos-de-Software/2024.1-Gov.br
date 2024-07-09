@@ -10,6 +10,7 @@
 - [Apresentação 05.1](apresentacoes/apresentacao_05.md)
 - [Apresentação 06](apresentacoes/apresentacao_06.md)
 - [Apresentação 05.2](apresentacoes/apresentacao_07.md)
+- [Apresentação 07](apresentacoes/apresentacao_08.md)
 
 **Atas**
 
@@ -132,6 +133,7 @@
 **Validação**
 
 - [Protótipo](validacao/prototipo.md)
+- [Comunicação Informal](validacao/comunicacao.md)
 
 **Entrega Final**
 
@@ -139,8 +141,8 @@
 - [Planejamento dos recursos e das entregas](entrega_final/planejamento.md)
 - [Execução do Projeto](entrega_final/execucao.md)
 - [Resultados Alcançados](entrega_final/resultados.md)
-- [Técnicas](entrega_final/tecnicas.md)
-- [Artefatos](entrega_final/artefatos.md)
+- [Técnicas Usadas](entrega_final/tecnicas.md)
+- [Artefatos Criados](entrega_final/artefatos.md)
 - [Método de Verificação e Validação](entrega_final/verificacao_validacacao.md)
 - [Ferramentas](entrega_final/ferramentas.md)
 - [Apresentações](entrega_final/apresentacoes.md)
