@@ -23,6 +23,7 @@ Durante a realização do projeto, foram utilizadas diversas ferramentas para au
 |         <img src="assets/Draw.io.png" alt="Logo do Draw.io " width="200"/>         |          Draw.io           |                                     Para criação de diagramas.                                     |             1 e 4            |
 |         <img src="assets/google_docs.png" alt="Logo do Docs" width="200"/>         |        Google Docs         |                              Para controle das entregas e correções.                               |             Todas            |
 |            <img src="assets/figma.png" alt="Logo do Docs" width="200"/>            |           Figma            |                               Para prototipação de alta fidelidade.                                |             5.2              |
+|            <img src="assets/forms.png" alt="Logo do Docs" width="200"/>            |           Google Forms     |                               Para criação de questionários                                        |             2                |
 
 
 <figcaption align="center">Autor: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></figcaption>
@@ -42,6 +43,7 @@ Durante a realização do projeto, foram utilizadas diversas ferramentas para au
 11. Draw.io. Disponível em: [https://app.diagrams.net/](). Acesso em: 08 de julho de 2024.
 12. Google Docs. Disponível em: [https://docs.google.com/](). Acesso em: 08 de julho de 2024
 13. Figma. Disponível em: [https://www.figma.com/](). Acessado em: 08 de julho de 2024.
+14. Google Forms. Disponível em: [https://www.google.com/forms/about/](). Acessado em: 08 de julho de 2024.
 
 ## Histórico de Versão
 
