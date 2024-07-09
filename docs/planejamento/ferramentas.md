@@ -19,10 +19,10 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 | <img src="assets/vscode.png" alt="Logo do VsCode" width="200"/>                    | VsCode          | Para edição eficiente e desenvolvimento de código.                                                                                      |
 | <img src="assets/canva.svg" alt="Logo do Canva" width="200"/>                      | Canva           | Para criação e edição de imagens personalizadas.                                                                                        |
 | <img src="assets/docsify.png" alt="Logo do Docsify" width="200"/>                  | Docsify         | Para geração de documentação estática a partir de arquivos Markdown.                                                                    |
-| <img src="assets/ThisPersonDoesNotExist.png" alt="Logo do T.P.D.N.E" width="200"/>  | This Person Does Not Exist  | Para geração de imagens das Personas.                                                                             |
-| <img src="assets/Draw.io.png" alt="Logo do Draw.io " width="200"/>  | Draw.io  | Para criação de diagramas.                                                                             |
-| <img src="assets/google_docs.png" alt="Logo do Docs" width="200"/>  | Google Docs  | Para controle das entregas e correções.     |
-| <img src="assets/figma.png" alt="Logo do Docs" width="200"/>  | Figma  | Para prototipação de alta fidelidade.     |
+| <img src="assets/ThisPersonDoesNotExist.png" alt="Logo do T.P.D.N.E" width="200"/> | This Person Does Not Exist  | Para geração de imagens das Personas.                                                                                       |
+| <img src="assets/Draw.io.png" alt="Logo do Draw.io " width="200"/>                 | Draw.io  | Para criação de diagramas.                                                                             |
+| <img src="assets/google_docs.png" alt="Logo do Docs" width="200"/>  | Google Docs  | Para controle das entregas e correções.                                                      |
+| <img src="assets/figma.png" alt="Logo do Docs" width="200"/>      | Figma  | Para prototipação de alta fidelidade.     |
 
 
 <figcaption align="center">Autor: <a href="https://github.com/ArthurGabrieel">Arthur Gabriel</a></figcaption>
